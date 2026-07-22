@@ -1,0 +1,146 @@
+[
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            110,
+            123
+        ]
+    },
+    {
+        "text": "yếu đột ngột 1/2 người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            135,
+            166
+        ]
+    },
+    {
+        "text": "nói ngọng",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            171,
+            180
+        ]
+    },
+    {
+        "text": "giảm tỷ trọng nhẹ thuộc vùng cấp máu của động mạch não giữa bên phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            223,
+            291
+        ]
+    },
+    {
+        "text": "mất ranh giới chất xám - chất trắng nhẹ vùng vỏ - dưới vỏ thái dương phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            293,
+            366
+        ]
+    },
+    {
+        "text": "nhồi máu nào",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I63"
+        ],
+        "assertions": [],
+        "position": [
+            383,
+            395
+        ]
+    },
+    {
+        "text": "xuất huyết nội sọ",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I62.9"
+        ],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            420,
+            437
+        ]
+    },
+    {
+        "text": "khối tụ máu ngoài màng cứng",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I62.1"
+        ],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            450,
+            477
+        ]
+    },
+    {
+        "text": "dưới màng cứng",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I62.0"
+        ],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            481,
+            495
+        ]
+    },
+    {
+        "text": "Nhồi máu bán cầu nào phải",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I63.9"
+        ],
+        "assertions": [],
+        "position": [
+            627,
+            652
+        ]
+    },
+    {
+        "text": "xuất huyết nội sọ",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I62.9"
+        ],
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            683,
+            700
+        ]
+    },
+    {
+        "text": "CT",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            710,
+            712
+        ]
+    },
+    {
+        "text": "MRI nào",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            768,
+            775
+        ]
+    }
+]

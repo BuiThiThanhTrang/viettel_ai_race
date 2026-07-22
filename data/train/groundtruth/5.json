@@ -1,0 +1,328 @@
+[
+    {
+        "text": "mệt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            23,
+            26
+        ]
+    },
+    {
+        "text": "khó thở NYHA III",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            28,
+            44
+        ]
+    },
+    {
+        "text": "THA",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            56,
+            59
+        ]
+    },
+    {
+        "text": "ĐTĐ2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E11"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            61,
+            65
+        ]
+    },
+    {
+        "text": "CKD3b",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "N18.32"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            67,
+            72
+        ]
+    },
+    {
+        "text": "COPD",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "J44.9"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            74,
+            78
+        ]
+    },
+    {
+        "text": "Rần ẩm 2 đáy phổi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            181,
+            198
+        ]
+    },
+    {
+        "text": "ngáy",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            200,
+            204
+        ]
+    },
+    {
+        "text": "Phù 2 chân",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            214,
+            224
+        ]
+    },
+    {
+        "text": "NT-proBNP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            254,
+            263
+        ]
+    },
+    {
+        "text": "4200 pg/mL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            264,
+            274
+        ]
+    },
+    {
+        "text": "Trop I",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            276,
+            282
+        ]
+    },
+    {
+        "text": "0.08 ng/mL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            283,
+            293
+        ]
+    },
+    {
+        "text": "Cr",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            295,
+            297
+        ]
+    },
+    {
+        "text": "2.1 mg/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            298,
+            307
+        ]
+    },
+    {
+        "text": "K+",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            309,
+            311
+        ]
+    },
+    {
+        "text": "5.1 mEq/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            312,
+            321
+        ]
+    },
+    {
+        "text": "CXR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            325,
+            328
+        ]
+    },
+    {
+        "text": "Phì đại bóng tim",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            330,
+            346
+        ]
+    },
+    {
+        "text": "ứ huyết rốn phổi 2 bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            348,
+            370
+        ]
+    },
+    {
+        "text": "thâm nhiễm kẽ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            372,
+            385
+        ]
+    },
+    {
+        "text": "ECG",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            389,
+            392
+        ]
+    },
+    {
+        "text": "Nhịp nhanh xoang",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            394,
+            410
+        ]
+    },
+    {
+        "text": "ST chênh xuống nhẹ V4-V6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            412,
+            436
+        ]
+    },
+    {
+        "text": "Đợt cấp suy tim sung huyết",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I50.9"
+        ],
+        "assertions": [],
+        "position": [
+            443,
+            469
+        ]
+    },
+    {
+        "text": "COPD đợt cấp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "J44.1"
+        ],
+        "assertions": [],
+        "position": [
+            472,
+            484
+        ]
+    },
+    {
+        "text": "THA",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [],
+        "position": [
+            487,
+            490
+        ]
+    },
+    {
+        "text": "CKD3b",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "N18.32"
+        ],
+        "assertions": [],
+        "position": [
+            493,
+            498
+        ]
+    },
+    {
+        "text": "Furosemide 40mg 1 amp IV stat",
+        "type": "THUỐC",
+        "candidates": [
+            "200331"
+        ],
+        "assertions": [],
+        "position": [
+            505,
+            534
+        ]
+    },
+    {
+        "text": "Nitroglycerin IV infusion liều khởi đầu 10 mcg/min",
+        "type": "THUỐC",
+        "candidates": [
+            "312017"
+        ],
+        "assertions": [],
+        "position": [
+            538,
+            588
+        ]
+    },
+    {
+        "text": "Ventolin",
+        "type": "THUỐC",
+        "candidates": [
+            "211116"
+        ],
+        "assertions": [],
+        "position": [
+            608,
+            616
+        ]
+    },
+    {
+        "text": "Pulmicort",
+        "type": "THUỐC",
+        "candidates": [
+            "208034"
+        ],
+        "assertions": [],
+        "position": [
+            619,
+            628
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            682,
+            689
+        ]
+    }
+]

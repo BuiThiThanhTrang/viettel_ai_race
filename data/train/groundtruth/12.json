@@ -1,0 +1,142 @@
+[
+    {
+        "text": "Đau bụng cấp vùng hố chậu phải",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            140,
+            170
+        ]
+    },
+    {
+        "text": "Đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            198,
+            201
+        ]
+    },
+    {
+        "text": "Sốt nhẹ 38.1°C",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            319,
+            333
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            335,
+            342
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            344,
+            352
+        ]
+    },
+    {
+        "text": "ấn đau chói vùng điểm McBurney (+)",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            412,
+            446
+        ]
+    },
+    {
+        "text": "phản ứng ứng thành bụng (+)",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            448,
+            475
+        ]
+    },
+    {
+        "text": "dấu hiệu Rovsing (+)",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            477,
+            497
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            523,
+            531
+        ]
+    },
+    {
+        "text": "WBC",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            533,
+            536
+        ]
+    },
+    {
+        "text": "tăng 14.8 x10^9/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            538,
+            555
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            557,
+            567
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            568,
+            571
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            588,
+            602
+        ]
+    },
+    {
+        "text": "Hình ảnh ruột thừa ấn không xẹp, đường kính 9mm, vách dày, có phản ứng mỡ xung quanh và ít dịch tự do hố chậu phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            604,
+            719
+        ]
+    },
+    {
+        "text": "Viêm ruột thừa cấp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K35.80"
+        ],
+        "assertions": [],
+        "position": [
+            734,
+            752
+        ]
+    }
+]

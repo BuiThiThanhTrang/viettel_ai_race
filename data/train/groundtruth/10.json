@@ -1,0 +1,178 @@
+[
+    {
+        "text": "omeprazole 20mg po daily",
+        "type": "THUỐC",
+        "candidates": [
+            "312130"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            56,
+            80
+        ]
+    },
+    {
+        "text": "ibuprofen 400mg po tid",
+        "type": "THUỐC",
+        "candidates": [
+            "197806"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            88,
+            110
+        ]
+    },
+    {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            122,
+            130
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K92.2"
+        ],
+        "assertions": [],
+        "position": [
+            192,
+            216
+        ]
+    },
+    {
+        "text": "phân đen như bã cà phê",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            254,
+            276
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            312,
+            319
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            321,
+            330
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            360,
+            370
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            423,
+            439
+        ]
+    },
+    {
+        "text": "tụt áp tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            481,
+            494
+        ]
+    },
+    {
+        "text": "đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            510,
+            532
+        ]
+    },
+    {
+        "text": "phản ứng ứng phúc mạc",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            548,
+            569
+        ]
+    },
+    {
+        "text": "Phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            588,
+            596
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày - tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            622,
+            647
+        ]
+    },
+    {
+        "text": "01 ổ loét bờ cong nhỏ dạ dày kích thước 1.2cm, đáy có điểm mạch trống (Forrest IIa)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            667,
+            750
+        ]
+    },
+    {
+        "text": "Adrenaline 1/10.000",
+        "type": "THUỐC",
+        "candidates": [
+            "307770"
+        ],
+        "assertions": [],
+        "position": [
+            820,
+            839
+        ]
+    },
+    {
+        "text": "Esomeprazole 80mg",
+        "type": "THUỐC",
+        "candidates": [
+            "756263"
+        ],
+        "assertions": [],
+        "position": [
+            943,
+            960
+        ]
+    }
+]

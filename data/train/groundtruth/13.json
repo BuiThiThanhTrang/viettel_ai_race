@@ -1,0 +1,162 @@
+[
+    {
+        "text": "Viêm phổi thùy đợt cấp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "J18.1"
+        ],
+        "assertions": [],
+        "position": [
+            51,
+            73
+        ]
+    },
+    {
+        "text": "Viêm phổi thùy",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "J18.1"
+        ],
+        "assertions": [],
+        "position": [
+            103,
+            117
+        ]
+    },
+    {
+        "text": "Đái tháo đường týp 2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E11"
+        ],
+        "assertions": [],
+        "position": [
+            122,
+            142
+        ]
+    },
+    {
+        "text": "Ceftriaxone",
+        "type": "THUỐC",
+        "candidates": [
+            "2193"
+        ],
+        "assertions": [],
+        "position": [
+            218,
+            229
+        ]
+    },
+    {
+        "text": "Azithromycin",
+        "type": "THUỐC",
+        "candidates": [
+            "18631"
+        ],
+        "assertions": [],
+        "position": [
+            232,
+            244
+        ]
+    },
+    {
+        "text": "berodual",
+        "type": "THUỐC",
+        "candidates": [
+            "216260"
+        ],
+        "assertions": [],
+        "position": [
+            310,
+            318
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            378,
+            381
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            398,
+            405
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            407,
+            409
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            421,
+            423
+        ]
+    },
+    {
+        "text": "khạc đờm trong",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            424,
+            438
+        ]
+    },
+    {
+        "text": "rần nổ",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            546,
+            552
+        ]
+    },
+    {
+        "text": "Cefpodoxime 200mg po bid",
+        "type": "THUỐC",
+        "candidates": [
+            "309088"
+        ],
+        "assertions": [],
+        "position": [
+            632,
+            656
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            750,
+            753
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            763,
+            770
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+S: BN nam 67t, nhap vien vi mệt, khó thở NYHA III. Tiền sử: THA, ĐTĐ2, CKD3b, COPD.
+O: 
+- Sinh hiệu: BP 160/90, HR 102 bpm, SpO2 88% (RA) -> kẹt oxy mask 5L -> SpO2 95%. T 37.2.
+- Tim: T1 T2 mờ, T3 gallop (+). Phổi: Rần ẩm 2 đáy phổi, ngáy rải rác. Phù 2 chân 2++ mềm ấn lõm.
+- Lab: NT-proBNP 4200 pg/mL, Trop I 0.08 ng/mL, Cr 2.1 mg/dL, K+ 5.1 mEq/L.
+- CXR: Phì đại bóng tim, ứ huyết rốn phổi 2 bên, thâm nhiễm kẽ.
+- ECG: Nhịp nhanh xoang, ST chênh xuống nhẹ V4-V6.
+A: Đợt cấp suy tim sung huyết / COPD đợt cấp - THA - CKD3b.
+P:
+- Furosemide 40mg 1 amp IV stat.
+- Nitroglycerin IV infusion liều khởi đầu 10 mcg/min.
+- Phun khí dung Ventolin + Pulmicort q6h.
+- Theo dõi nước tiểu h/h, Target: SpO2 > 92%, bớt khó thở.

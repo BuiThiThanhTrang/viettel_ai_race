@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+model_assertion_output/
+data/clean/*.pt
+data/db/
+output/
+output.zip
+input_0/
+.DS_Store

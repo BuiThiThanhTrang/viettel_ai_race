@@ -1,0 +1,11 @@
+transformers
+torch
+scikit-learn
+numpy
+pandas
+openpyxl
+underthesea
+requests
+sentence-transformers
+datasets
+evaluate

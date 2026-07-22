@@ -1,0 +1,81 @@
+[
+    {
+        "text": "xơ gan do rượu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K70.3"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            57,
+            71
+        ]
+    },
+    {
+        "text": "hội chứng não gan",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K72.9"
+        ],
+        "assertions": [],
+        "position": [
+            161,
+            178
+        ]
+    },
+    {
+        "text": "hội chứng não gan",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K72.9"
+        ],
+        "assertions": [],
+        "position": [
+            232,
+            249
+        ]
+    },
+    {
+        "text": "hội chứng não gan tiến triển",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K72.9"
+        ],
+        "assertions": [],
+        "position": [
+            287,
+            315
+        ]
+    },
+    {
+        "text": "ý thức suy giảm",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            317,
+            332
+        ]
+    },
+    {
+        "text": "tiến triển hội chứng não gan",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "K72.9"
+        ],
+        "assertions": [],
+        "position": [
+            366,
+            394
+        ]
+    },
+    {
+        "text": "đặt shunt dẫn lưu tĩnh mạch cửa qua da",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            486,
+            524
+        ]
+    }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "text": "Đái tháo đường týp 2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E11"
+        ],
+        "assertions": [],
+        "position": [
+            42,
+            62
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [],
+        "position": [
+            65,
+            78
+        ]
+    },
+    {
+        "text": "Tăng triglyceride máu",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E78.1"
+        ],
+        "assertions": [],
+        "position": [
+            81,
+            102
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            152,
+            157
+        ]
+    },
+    {
+        "text": "8.4%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            159,
+            163
+        ]
+    },
+    {
+        "text": "Glucose máu lúc đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            198,
+            217
+        ]
+    },
+    {
+        "text": "9.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            219,
+            229
+        ]
+    },
+    {
+        "text": "Triglyceride",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            235,
+            247
+        ]
+    },
+    {
+        "text": "4.1 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            249,
+            259
+        ]
+    },
+    {
+        "text": "Cholesterol toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            275,
+            296
+        ]
+    },
+    {
+        "text": "5.6 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            298,
+            308
+        ]
+    },
+    {
+        "text": "eGFR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            314,
+            318
+        ]
+    },
+    {
+        "text": "68 mL/min/1.73m2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            320,
+            336
+        ]
+    },
+    {
+        "text": "tê bì nhẹ 2 bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            392,
+            412
+        ]
+    },
+    {
+        "text": "giảm cảm giác nhẹ ở ngón 1 và 3 hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            484,
+            523
+        ]
+    },
+    {
+        "text": "loét chân",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            539,
+            548
+        ]
+    },
+    {
+        "text": "metformin 1000 mg po bid",
+        "type": "THUỐC",
+        "candidates": [
+            "861001"
+        ],
+        "assertions": [],
+        "position": [
+            587,
+            611
+        ]
+    },
+    {
+        "text": "gliclazide MR 60 mg po daily",
+        "type": "THUỐC",
+        "candidates": [
+            "1538910"
+        ],
+        "assertions": [],
+        "position": [
+            628,
+            656
+        ]
+    },
+    {
+        "text": "telmisartan 40 mg po daily",
+        "type": "THUỐC",
+        "candidates": [
+            "313264"
+        ],
+        "assertions": [],
+        "position": [
+            682,
+            708
+        ]
+    },
+    {
+        "text": "fenofibrate 145 mg po daily",
+        "type": "THUỐC",
+        "candidates": [
+            "602543"
+        ],
+        "assertions": [],
+        "position": [
+            723,
+            750
+        ]
+    },
+    {
+        "text": "atorvastatin 10 mg po qhs",
+        "type": "THUỐC",
+        "candidates": [
+            "617314"
+        ],
+        "assertions": [],
+        "position": [
+            795,
+            820
+        ]
+    }
+]

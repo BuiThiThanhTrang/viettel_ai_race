@@ -1,0 +1,94 @@
+[
+    {
+        "text": "bắc cầu động mạch vành",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "Z95.1"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            79,
+            101
+        ]
+    },
+    {
+        "text": "mê",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            145,
+            147
+        ]
+    },
+    {
+        "text": "Norepinephrine 0.05 mcg/kg/min",
+        "type": "THUỐC",
+        "candidates": [
+            "1114190"
+        ],
+        "assertions": [],
+        "position": [
+            497,
+            527
+        ]
+    },
+    {
+        "text": "đờm trắng đục",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            627,
+            640
+        ]
+    },
+    {
+        "text": "Khí máu động mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            716,
+            733
+        ]
+    },
+    {
+        "text": "ABG",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            735,
+            738
+        ]
+    },
+    {
+        "text": "pH 7.38",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            741,
+            748
+        ]
+    },
+    {
+        "text": "PaCO2 38",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            750,
+            758
+        ]
+    },
+    {
+        "text": "PaO2 95",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            760,
+            767
+        ]
+    },
+    {
+        "text": "HCO3- 23",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            769,
+            777
+        ]
+    }
+]

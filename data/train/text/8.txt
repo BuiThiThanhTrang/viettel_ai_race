@@ -1,0 +1,15 @@
+Mẫu bệnh phẩm: Sinh thiết lõi kim (Core biopsy) hạch cổ bên trái.
+Thông tin lâm sàng: BN nam 40t, sốt về chiều kéo dài 3 tuần, sụt 4kg, hạch cổ T kích thước 3cm, mật độ chắc, kém di động.
+
+1. Mô tả vi thể:
+   - Lát cắt qua mô hạch ghi nhận sự mất cấu trúc xoang hạch hoại tử bã đấm diện rộng ở trung tâm.
+   - Xung quanh vùng hoại tử là phản ứng viêm hạt gồm các tế bào bán liên (epithelioid cells), tế bào khổng lồ Langhans và nhiều lympho bào, tương bào bao quanh.
+   - Không thấy tế bào ác tính trên các lát cắt kiểm tra.
+
+2. Kết quả xét nghiệm vi sinh kèm theo:
+   - Soi tươi nhuộm ZN (AFB): Dương tính (2+).
+   - Real-time PCR (GeneXpert MTB/RIF): Phát hiện DNA của vi khuẩn Mycobacterium tuberculosis. Không phát hiện đột biến kháng Rifampicin.
+
+3. Kết luận:
+   Hình ảnh mô bệnh học và vi sinh phù hợp với Viêm hạch lao (Tuberculosis lymphadenitis).
+   Đề nghị: Chuyển chuyên khoa Lao & Bệnh phổi để lập phác đồ điều trị lao chuẩn (2RHZE/4RH).

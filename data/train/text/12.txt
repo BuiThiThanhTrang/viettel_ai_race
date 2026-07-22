@@ -1,0 +1,14 @@
+1. Tiền sử bệnh
+   Bệnh nhân nam 45 tuổi, không ghi nhận tiền sử bệnh lý nội khoa mãn tính trước đây.
+
+2. Tiền sử bệnh hiện tại
+   Lý do nhập viện: Đau bụng cấp vùng hố chậu phải.
+   Thời điểm khởi phát: Đau khởi phát cách 18 giờ vùng quanh rốn, sau đó lan và khu trú xuống hố chậu phải. Đau âm ỉ liên tục, tăng lên khi ho hoặc di chuyển.
+   Triệu chứng kèm theo: Sốt nhẹ 38.1°C, chán ăn, buồn nôn 1 lần.
+
+3. Đánh giá tại khoa Cấp cứu
+   - Khám lâm sàng: Bụng mềm, ấn đau chói vùng điểm McBurney (+), phản ứng ứng thành bụng (+), dấu hiệu Rovsing (+).
+   - Kết quả Xét nghiệm: Bạch cầu (WBC) tăng 14.8 x10^9/L, Neutrophil 82%.
+   - Kết quả Siêu âm ổ bụng: Hình ảnh ruột thừa ấn không xẹp, đường kính 9mm, vách dày, có phản ứng mỡ xung quanh và ít dịch tự do hố chậu phải.
+   - Đánh giá: Viêm ruột thừa cấp giờ thứ 18.
+   - Xử trí: Chuyển phẫu thuật ngoại khoa hội chẩn mổ nội soi cắt ruột thừa cấp cứu.

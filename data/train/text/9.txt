@@ -1,0 +1,27 @@
+Pt va vien vi ngat (syncope). 
+Onset: sang nay khi dang dung day di thap huong, thay xay xam, ngat khoang 1-2 phut, nguoi nha lay tinh lai. Khong co giat, khong cắn lưỡi, khong tieu tieu khong tu chu.
+
+Hx:
+- LBBB tren ECG cu (2 nam)
+- DM2, CAD stented 2021
+- Meds: Metformin 850, Clopidogrel 75, Bisoprolol 5mg, Atorvastatin 40.
+
+PE at ER:
+- Alert, E4V5M6.
+- BP: 90/60 mmHg (dung), 110/70 mmHg (nam) -> Tụt HA tư thế (Orthostatic hypotension) (+)?
+- HR: 45-50 bpm, nhip khong deu.
+- Heart: T1, T2 ro, khong am thoi.
+- Lung: clear.
+
+Workup:
+- ECG: Block nhánh trái hoàn toàn (LBBB), Block AV độ 2 Mobitz II, nhịp chậm 48 l/p.
+- Labs: Troponin T hs 14 pg/mL (normal), K+ 4.2, Hb 12.5.
+- CXR: normal.
+
+Impression:
+Ngất nghi do Block AV độ cao / Bệnh cơ tim thiếu máu cục bộ.
+
+Plan:
+- Dừng Bisoprolol.
+- Phối hợp CK Tim mạch đánh giá chỉ định đặt máy tạo nhịp tạm thời / vĩnh viễn (Pacemaker).
+- Monitor ECG liên tục tại phòng cấp cứu.

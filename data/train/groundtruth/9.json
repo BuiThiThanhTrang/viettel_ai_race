@@ -1,0 +1,378 @@
+[
+    {
+        "text": "ngat",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            17,
+            21
+        ]
+    },
+    {
+        "text": "syncope",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            23,
+            30
+        ]
+    },
+    {
+        "text": "xay xam",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            76,
+            83
+        ]
+    },
+    {
+        "text": "ngat",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            85,
+            89
+        ]
+    },
+    {
+        "text": "co giat",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            140,
+            147
+        ]
+    },
+    {
+        "text": "cắn lưỡi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            154,
+            162
+        ]
+    },
+    {
+        "text": "tieu tieu khong tu chu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            169,
+            191
+        ]
+    },
+    {
+        "text": "LBBB",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I44.7"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            201,
+            205
+        ]
+    },
+    {
+        "text": "ECG",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            211,
+            214
+        ]
+    },
+    {
+        "text": "DM2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E11"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            229,
+            232
+        ]
+    },
+    {
+        "text": "CAD",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I25.10"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            234,
+            237
+        ]
+    },
+    {
+        "text": "Metformin 850",
+        "type": "THUỐC",
+        "candidates": [
+            "861004"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            259,
+            272
+        ]
+    },
+    {
+        "text": "Clopidogrel 75",
+        "type": "THUỐC",
+        "candidates": [
+            "309362"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            274,
+            288
+        ]
+    },
+    {
+        "text": "Bisoprolol 5mg",
+        "type": "THUỐC",
+        "candidates": [
+            "308620"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            290,
+            304
+        ]
+    },
+    {
+        "text": "Atorvastatin 40",
+        "type": "THUỐC",
+        "candidates": [
+            "259255"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            306,
+            321
+        ]
+    },
+    {
+        "text": "Tụt HA tư thế",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I95.1"
+        ],
+        "assertions": [],
+        "position": [
+            396,
+            409
+        ]
+    },
+    {
+        "text": "Orthostatic hypotension",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I95.1"
+        ],
+        "assertions": [],
+        "position": [
+            411,
+            434
+        ]
+    },
+    {
+        "text": "nhip khong deu",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            456,
+            470
+        ]
+    },
+    {
+        "text": "am thoi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            499,
+            506
+        ]
+    },
+    {
+        "text": "ECG",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            530,
+            533
+        ]
+    },
+    {
+        "text": "Block nhánh trái hoàn toàn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            535,
+            561
+        ]
+    },
+    {
+        "text": "LBBB",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            563,
+            567
+        ]
+    },
+    {
+        "text": "Block AV độ 2 Mobitz II",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            570,
+            593
+        ]
+    },
+    {
+        "text": "nhịp chậm 48 l/p",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            595,
+            611
+        ]
+    },
+    {
+        "text": "Troponin T hs",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            627,
+            640
+        ]
+    },
+    {
+        "text": "14 pg/mL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            641,
+            649
+        ]
+    },
+    {
+        "text": "K+",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            660,
+            662
+        ]
+    },
+    {
+        "text": "4.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            663,
+            666
+        ]
+    },
+    {
+        "text": "Hb",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            668,
+            670
+        ]
+    },
+    {
+        "text": "12.5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            671,
+            675
+        ]
+    },
+    {
+        "text": "CXR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            679,
+            682
+        ]
+    },
+    {
+        "text": "normal",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            684,
+            690
+        ]
+    },
+    {
+        "text": "Ngất",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            706,
+            710
+        ]
+    },
+    {
+        "text": "Block AV độ cao",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I44.2"
+        ],
+        "assertions": [],
+        "position": [
+            718,
+            733
+        ]
+    },
+    {
+        "text": "Bệnh cơ tim thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I25.5"
+        ],
+        "assertions": [],
+        "position": [
+            736,
+            764
+        ]
+    },
+    {
+        "text": "Bisoprolol",
+        "type": "THUỐC",
+        "candidates": [
+            "1602"
+        ],
+        "assertions": [],
+        "position": [
+            782,
+            792
+        ]
+    },
+    {
+        "text": "ECG",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            889,
+            892
+        ]
+    }
+]

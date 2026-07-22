@@ -1,0 +1,11 @@
+13/7/2026
+preproccess và sử dụng db icd-10 và rxnorm thật
+bỏ mock db
+mở rộng code thành sử dụng model fine-tune, gọi api, self-host model
+
+
+
+điều cần cải tiến tiếp theo 
+output hiện tại thiếu assertion -> thêm assertion cho chẩn đoán, thuốc, triệu chứng
+candidate đang thấp, cần cải tiến -> rag, truy xuất có ngữ nghĩa
+thử chạy llm xem có cao hơn không

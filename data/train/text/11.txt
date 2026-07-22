@@ -1,0 +1,19 @@
+Bệnh nhân: Trần Thị B | Tuổi: 64
+Chẩn đoán: Đái tháo đường týp 2 - Tăng huyết áp - Tăng triglyceride máu.
+
+1. Tổng hợp kết quả xét nghiệm định kỳ:
+   - HbA1c: 8.4% (Chưa đạt mục tiêu < 7.0%)
+   - Glucose máu lúc đói: 9.2 mmol/L
+   - Triglyceride: 4.1 mmol/L (Tăng cao)
+   - Cholesterol toàn phần: 5.6 mmol/L
+   - eGFR: 68 mL/min/1.73m2
+
+2. Đánh giá lâm sàng:
+   Bệnh nhân khai dạo này thỉnh thoảng tê bì nhẹ 2 bàn chân về đêm. Kiểm tra cảm giác giác ngọn chi bằng cước đơn độc (monofilament) ghi nhận giảm cảm giác nhẹ ở ngón 1 và 3 hai bên. Không có vết loét chân.
+
+3. Điều chỉnh danh sách thuốc:
+   1. metformin 1000 mg po bid (tiếp tục)
+   2. gliclazide MR 60 mg po daily (tăng từ 30mg)
+   3. telmisartan 40 mg po daily (tiếp tục)
+   4. fenofibrate 145 mg po daily (bổ sung mới điều trị tăng triglyceride)
+   5. atorvastatin 10 mg po qhs (tiếp tục)

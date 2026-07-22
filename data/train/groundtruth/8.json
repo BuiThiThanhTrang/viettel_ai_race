@@ -1,0 +1,136 @@
+[
+    {
+        "text": "sốt về chiều",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            97,
+            109
+        ]
+    },
+    {
+        "text": "sụt 4kg",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            124,
+            131
+        ]
+    },
+    {
+        "text": "hạch cổ T kích thước 3cm, mật độ chắc, kém di động",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            133,
+            183
+        ]
+    },
+    {
+        "text": "mất cấu trúc xoang hạch hoại tử bã đấm diện rộng ở trung tâm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            236,
+            296
+        ]
+    },
+    {
+        "text": "phản ứng viêm hạt gồm các tế bào bán liên (epithelioid cells), tế bào khổng lồ Langhans và nhiều lympho bào, tương bào bao quanh",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            329,
+            457
+        ]
+    },
+    {
+        "text": "tế bào ác tính",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            471,
+            485
+        ]
+    },
+    {
+        "text": "Soi tươi nhuộm ZN",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            556,
+            573
+        ]
+    },
+    {
+        "text": "AFB",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            575,
+            578
+        ]
+    },
+    {
+        "text": "Dương tính (2+)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            581,
+            596
+        ]
+    },
+    {
+        "text": "Real-time PCR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            603,
+            616
+        ]
+    },
+    {
+        "text": "GeneXpert MTB/RIF",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            618,
+            635
+        ]
+    },
+    {
+        "text": "Phát hiện DNA của vi khuẩn Mycobacterium tuberculosis",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            638,
+            691
+        ]
+    },
+    {
+        "text": "Không phát hiện đột biến kháng Rifampicin",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            693,
+            734
+        ]
+    },
+    {
+        "text": "Viêm hạch lao",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "A18.2"
+        ],
+        "assertions": [],
+        "position": [
+            803,
+            816
+        ]
+    },
+    {
+        "text": "Tuberculosis lymphadenitis",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "A18.2"
+        ],
+        "assertions": [],
+        "position": [
+            818,
+            844
+        ]
+    }
+]

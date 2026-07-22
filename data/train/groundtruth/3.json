@@ -1,0 +1,173 @@
+[
+    {
+        "text": "lisinopril 10mg po daily",
+        "type": "THUỐC",
+        "candidates": [
+            "314076"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            56,
+            80
+        ]
+    },
+    {
+        "text": "metformin 500mg po bid",
+        "type": "THUỐC",
+        "candidates": [
+            "861007"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            88,
+            110
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            144,
+            157
+        ]
+    },
+    {
+        "text": "đái tháo đường týp 2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E11"
+        ],
+        "assertions": [
+            "isHistorical"
+        ],
+        "position": [
+            165,
+            185
+        ]
+    },
+    {
+        "text": "Đau ngực đè nặng vùng sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            281,
+            316
+        ]
+    },
+    {
+        "text": "Đau vắt nghẹt ngực lan lên hàm dưới và tay trái",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            423,
+            471
+        ]
+    },
+    {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            497,
+            506
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [],
+        "position": [
+            508,
+            516
+        ]
+    },
+    {
+        "text": "rần",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": [
+            "isNegated"
+        ],
+        "position": [
+            683,
+            686
+        ]
+    },
+    {
+        "text": "Hội chứng mạch vành cấp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I24.9"
+        ],
+        "assertions": [],
+        "position": [
+            718,
+            741
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "I10"
+        ],
+        "assertions": [],
+        "position": [
+            744,
+            757
+        ]
+    },
+    {
+        "text": "ĐTĐ týp 2",
+        "type": "CHẨN_ĐOÁN",
+        "candidates": [
+            "E11"
+        ],
+        "assertions": [],
+        "position": [
+            760,
+            769
+        ]
+    },
+    {
+        "text": "Aspirin 300mg",
+        "type": "THUỐC",
+        "candidates": [
+            "215568"
+        ],
+        "assertions": [],
+        "position": [
+            795,
+            808
+        ]
+    },
+    {
+        "text": "Nitroglycerin",
+        "type": "THUỐC",
+        "candidates": [
+            "7509"
+        ],
+        "assertions": [],
+        "position": [
+            816,
+            829
+        ]
+    },
+    {
+        "text": "ECG",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            863,
+            866
+        ]
+    }
+]
