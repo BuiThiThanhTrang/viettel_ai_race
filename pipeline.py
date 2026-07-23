@@ -113,10 +113,11 @@ class MedicalNEREncoder(MedicalNERBase):
         return entities
 
 class MedicalNERLLM(MedicalNERBase):
-    def __init__(self, use_api=True, api_url="http://localhost:8000/v1/chat/completions", model_name="II-Vietnam/II-Medical-8B-SFT"):
+    def __init__(self, use_api=True, api_url="http://localhost:8000/v1/chat/completions", model_name="Intelligent-Internet/II-Medical-8B", api_key=None):
         self.use_api = use_api
         self.api_url = api_url
         self.model_name = model_name
+        self.api_key = api_key
         
         if not self.use_api:
             print(f"Đang tải LLM {model_name} vào GPU qua transformers...")
@@ -129,55 +130,139 @@ class MedicalNERLLM(MedicalNERBase):
             print(f"Đã cấu hình gọi LLM qua API: {api_url}")
 
     def extract(self, text):
-        prompt = f"""Bạn là một trợ lý y khoa AI. Hãy đọc đoạn văn bản sau và trích xuất tất cả các thực thể y khoa (Entities) thuộc 5 loại sau: CHẨN_ĐOÁN, THUỐC, TRIỆU_CHỨNG, TÊN_XÉT_NGHIỆM, KẾT_QUẢ_XÉT_NGHIỆM.
-Chỉ trả về danh sách các JSON object với định dạng: [{{"text": "chuỗi nguyên văn", "type": "LOẠI"}}]. Không giải thích gì thêm.
-Văn bản: "{text}"
+        # 1. Áp dụng Chunking: Chia nhỏ đoạn văn bản thành các chunks để tránh bị cắt JSON
+        max_len = 400
+        words = text.split(' ')
+        chunks = []
+        chunk_starts = []
+        
+        curr_chunk = []
+        curr_len = 0
+        curr_start = 0
+        
+        for w in words:
+            if curr_len + len(w) > max_len and curr_chunk:
+                chunk_text = ' '.join(curr_chunk)
+                chunks.append(chunk_text)
+                chunk_starts.append(curr_start)
+                
+                curr_start += len(chunk_text) + 1
+                curr_chunk = [w]
+                curr_len = len(w) + 1
+            else:
+                curr_chunk.append(w)
+                curr_len += len(w) + 1
+        if curr_chunk:
+            chunks.append(' '.join(curr_chunk))
+            chunk_starts.append(curr_start)
+            
+        all_entities = []
+        
+        for chunk, start_in_text in zip(chunks, chunk_starts):
+            # 2. Few-shot Prompting: Ép LLM trích xuất chính xác 100% nguyên văn
+            system_prompt = "Bạn là một API Server y khoa. Nhiệm vụ của bạn là trích xuất dữ liệu. BẠN CHỈ ĐƯỢC PHÉP TRẢ VỀ JSON ARRAY. Tuyệt đối không được giải thích, không được chào hỏi, không được dùng markdown (```json). Chỉ xuất ra đúng một mảng chứa ngoặc vuông."
+            prompt = f"""Trích xuất chính xác 100% nguyên văn các thực thể y khoa từ đoạn văn bản sau và phân thành 5 loại: CHẨN_ĐOÁN, THUỐC, TRIỆU_CHỨNG, TÊN_XÉT_NGHIỆM, KẾT_QUẢ_XÉT_NGHIỆM.
+
+Ví dụ:
+Văn bản: "Bệnh nhân ho nhiều, sốt cao. Bác sĩ chỉ định chụp X-quang phổi kết quả bình thường. Kê đơn paracetamol 500mg."
+Kết quả JSON:
+[
+  {{"text": "ho nhiều", "type": "TRIỆU_CHỨNG"}},
+  {{"text": "sốt cao", "type": "TRIỆU_CHỨNG"}},
+  {{"text": "chụp X-quang phổi", "type": "TÊN_XÉT_NGHIỆM"}},
+  {{"text": "bình thường", "type": "KẾT_QUẢ_XÉT_NGHIỆM"}},
+  {{"text": "paracetamol 500mg", "type": "THUỐC"}}
+]
+
+Văn bản: "{chunk}"
 Kết quả JSON:"""
 
-        entities = []
-        try:
-            if self.use_api:
-                payload = {
-                    "model": self.model_name,
-                    "messages": [{"role": "user", "content": prompt}],
-                    "temperature": 0.1
-                }
-                response = requests.post(self.api_url, json=payload, headers={"Content-Type": "application/json"})
-                if response.status_code == 200:
-                    content = response.json().get('choices', [{}])[0].get('message', {}).get('content', '')
-                    entities = self._parse_json(content, text)
-            else:
-                inputs = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
-                outputs = self.model.generate(**inputs, max_new_tokens=512, temperature=0.1)
-                content = self.tokenizer.decode(outputs[0][inputs.input_ids.shape[1]:], skip_special_tokens=True)
-                entities = self._parse_json(content, text)
-        except Exception as e:
-            print(f"Lỗi khi gọi LLM: {e}")
-            
-        return entities
+                    payload = {
+                        "model": self.model_name,
+                        "messages": [
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": prompt}
+                        ],
+                        "temperature": 0.0, # Bắt buộc dùng 0.0 để loại bỏ hoàn toàn tính ngẫu nhiên/ảo giác
+                        "max_tokens": 2048 # Tăng giới hạn token vì các mô hình reasoning rất tốn token để "suy nghĩ"
+                    }
+                    headers = {"Content-Type": "application/json"}
+                    if self.api_key:
+                        headers["Authorization"] = f"Bearer {self.api_key}"
+                        
+                    response = requests.post(self.api_url, json=payload, headers=headers)
+                    if response.status_code == 200:
+                        content = response.json().get('choices', [{}])[0].get('message', {}).get('content', '')
+                        
+                        # Tiền xử lý: Cắt bỏ hoàn toàn quá trình "suy nghĩ" của các mô hình Reasoning (DeepSeek-R1, Qwen...)
+                        import re
+                        content = re.sub(r'<think>.*?</think>', '', content, flags=re.DOTALL).strip()
+                        # Nếu output bị ngắt giữa chừng và chưa có thẻ đóng </think>
+                        if '<think>' in content:
+                            content = content.split('</think>')[-1]
+                            
+                        chunk_entities = self._parse_json(content, chunk, start_in_text)
+                        all_entities.extend(chunk_entities)
+                else:
+                    inputs = self.tokenizer(prompt, return_tensors="pt").to(self.model.device)
+                    outputs = self.model.generate(**inputs, max_new_tokens=512, temperature=0.0)
+                    content = self.tokenizer.decode(outputs[0][inputs.input_ids.shape[1]:], skip_special_tokens=True)
+                    chunk_entities = self._parse_json(content, chunk, start_in_text)
+                    all_entities.extend(chunk_entities)
+            except Exception as e:
+                print(f"Lỗi khi gọi LLM cho chunk: {e}")
+                
+        # Sắp xếp lại theo vị trí xuất hiện
+        all_entities = sorted(all_entities, key=lambda x: x["position"][0] if x["position"] else 0)
+        return all_entities
         
-    def _parse_json(self, content, original_text):
+    def _parse_json(self, content, chunk_text, start_in_text):
         entities = []
+        import re
         try:
-            start_idx = content.find('[')
-            end_idx = content.rfind(']') + 1
-            if start_idx != -1 and end_idx != -1:
-                json_str = content[start_idx:end_idx]
+            # 3. Trích xuất JSON bằng Regex để bỏ bọc Markdown (Dirty JSON Parsing)
+            match = re.search(r'\[.*\]', content, re.DOTALL)
+            if not match:
+                # 4. Thuật toán cứu hộ JSON (Rescue truncated JSON)
+                content = content.strip()
+                if content.startswith('['):
+                    if not content.endswith(']'):
+                        if content.endswith('}'):
+                            content += ']'
+                        elif content.endswith('"'):
+                            content += '}]'
+                        else:
+                            content += '"}]'
+                    match = re.search(r'\[.*\]', content, re.DOTALL)
+
+            if match:
+                json_str = match.group(0)
                 parsed = json.loads(json_str)
                 
                 search_index = 0
                 for item in parsed:
-                    word = item.get("text", "")
+                    word = item.get("text", "").strip()
                     ent_type = item.get("type", "")
                     
-                    exact_word, pos = utils.find_exact_position(original_text, word, search_index)
-                    if pos:
+                    # Bộ lọc Type (Chặn LLM ảo giác chế ra Type mới)
+                    if not word or ent_type not in ["CHẨN_ĐOÁN", "THUỐC", "TRIỆU_CHỨNG", "TÊN_XÉT_NGHIỆM", "KẾT_QUẢ_XÉT_NGHIỆM"]:
+                        continue
+                        
+                    # Tìm tọa độ nội bộ trong phạm vi chunk
+                    exact_word, local_pos = utils.find_exact_position(chunk_text, word, search_index)
+                    if not local_pos:
+                        # Fallback: dò lại từ đầu chunk đề phòng LLM bỏ sót từ trước đó
+                        exact_word, local_pos = utils.find_exact_position(chunk_text, word, 0)
+                        
+                    if local_pos:
+                        # Quy đổi ra tọa độ tuyệt đối của toàn bộ file text
+                        pos = [start_in_text + local_pos[0], start_in_text + local_pos[1]]
                         entities.append({
                             "text": exact_word,
                             "type": ent_type,
                             "position": pos
                         })
-                        search_index = pos[1]
+                        search_index = local_pos[1]
         except Exception as e:
             print(f"Lỗi parse JSON từ LLM: {e}")
         return entities

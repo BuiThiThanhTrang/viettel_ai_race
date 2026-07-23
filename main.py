@@ -15,6 +15,7 @@ def main():
     parser.add_argument("--use_llm", action="store_true", default=False, help="Sử dụng LLM 7B thay vì Encoder model cho NER")
     parser.add_argument("--use_llm_api", action="store_true", default=True, help="Sử dụng LLM qua API thay vì tải local GPU")
     parser.add_argument("--llm_api_url", type=str, default="http://localhost:8000/v1/chat/completions", help="URL của LLM API")
+    parser.add_argument("--api_key", type=str, default=None, help="API Key (Bearer Token) nếu API Server yêu cầu xác thực")
     parser.add_argument("--assertion_mode", type=str, choices=["rule_based", "llm", "encoder"], default="rule_based", help="Chế độ phân loại ngữ cảnh")
     args = parser.parse_args()
 
@@ -30,7 +31,7 @@ def main():
     print("Khởi tạo Pipeline...")
     if args.use_llm:
         from pipeline import MedicalNERLLM
-        ner_model = MedicalNERLLM(use_api=args.use_llm_api, api_url=args.llm_api_url)
+        ner_model = MedicalNERLLM(use_api=args.use_llm_api, api_url=args.llm_api_url, api_key=args.api_key)
     else:
         from pipeline import MedicalNEREncoder
         ner_model = MedicalNEREncoder()
