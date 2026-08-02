@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            153
+        ]
+    },
+    {
+        "text": "gliclazide 30mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            155,
+            181
+        ]
+    },
+    {
+        "text": "amlodipine 5mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            183,
+            208
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            283
+        ]
+    },
+    {
+        "text": "đau tăng dần về đêm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            331,
+            350
+        ]
+    },
+    {
+        "text": "vết loét nông ở ngón cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            369,
+            393
+        ]
+    },
+    {
+        "text": "dịch tiết ít",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            395,
+            407
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            415,
+            418
+        ]
+    },
+    {
+        "text": "chỉ số ABI (chỉ số cổ chân - cánh tay)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            492,
+            530
+        ]
+    },
+    {
+        "text": "0.55",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            543,
+            547
+        ]
+    },
+    {
+        "text": "0.62",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            558,
+            562
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            576,
+            581
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            582,
+            586
+        ]
+    },
+    {
+        "text": "lipid máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            588,
+            597
+        ]
+    },
+    {
+        "text": "tăng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            598,
+            602
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            624,
+            657
+        ]
+    },
+    {
+        "text": "hình ảnh xơ vữa gây hẹp nặng động mạch chày trước và động mạch khoeo hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            667,
+            743
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn III theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            765,
+            827
+        ]
+    },
+    {
+        "text": "loét bàn chân",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            840,
+            853
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            863,
+            877
+        ]
+    }
+]

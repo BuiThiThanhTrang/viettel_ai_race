@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            60,
+            74
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            125,
+            132
+        ]
+    },
+    {
+        "text": "đau lan lên đỉnh đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            170
+        ]
+    },
+    {
+        "text": "mất ngủ liên tục mấy đêm liền",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            175,
+            204
+        ]
+    },
+    {
+        "text": "thuốc giảm đau thông thường",
+        "type": "THUỐC",
+        "position": [
+            272,
+            299
+        ]
+    },
+    {
+        "text": "Đau đầu vùng thái dương bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            443,
+            475
+        ]
+    },
+    {
+        "text": "thị lực giảm đột ngột trong 2 ngày qua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            477,
+            515
+        ]
+    },
+    {
+        "text": "Nhịp mạch thái dương nông yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            532,
+            561
+        ]
+    },
+    {
+        "text": "cứng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            563,
+            571
+        ]
+    },
+    {
+        "text": "Độ giãn mạch giảm rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            573,
+            597
+        ]
+    },
+    {
+        "text": "Tốc độ máu lắng ESR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            624,
+            643
+        ]
+    },
+    {
+        "text": "85 mm/giờ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            645,
+            654
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            656,
+            659
+        ]
+    },
+    {
+        "text": "tăng cao 42 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            660,
+            676
+        ]
+    },
+    {
+        "text": "Viêm động mạch tế bào khổng lồ (Temporal arteritis)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            698,
+            749
+        ]
+    },
+    {
+        "text": "Prednisolon liều cao 60mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            761,
+            791
+        ]
+    },
+    {
+        "text": "tiêm tĩnh mạch Methylprednisolon liều xung",
+        "type": "THUỐC",
+        "position": [
+            793,
+            835
+        ]
+    },
+    {
+        "text": "thị lực chưa cải thiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            878,
+            900
+        ]
+    },
+    {
+        "text": "biến chứng võng mạc",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            920,
+            939
+        ]
+    },
+    {
+        "text": "đau đầu vùng thái dương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            989,
+            1012
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1017,
+            1024
+        ]
+    },
+    {
+        "text": "tổn thương vĩnh viễn dây thần kinh thị giác",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1270,
+            1313
+        ]
+    },
+    {
+        "text": "xét nghiệm máu chuyên sâu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1404,
+            1429
+        ]
+    },
+    {
+        "text": "đo tốc độ máu lắng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1434,
+            1452
+        ]
+    },
+    {
+        "text": "chụp mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1458,
+            1467
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "text": "chụp ct",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1302,
+      1309
+    ]
+  },
+  {
+    "text": "chưa phát hiện bất thường trên phim chụp",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1309,
+      1349
+    ]
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1382,
+      1396
+    ]
+  }
+]

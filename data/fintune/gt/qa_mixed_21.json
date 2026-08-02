@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            115,
+            120
+        ]
+    },
+    {
+        "text": "nóng rát chạy từ bụng lên đến cổ họng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            122,
+            159
+        ]
+    },
+    {
+        "text": "đau dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            214,
+            224
+        ]
+    },
+    {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            339,
+            354
+        ]
+    },
+    {
+        "text": "đau thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            534,
+            547
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            552,
+            558
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            603,
+            630
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            636,
+            652
+        ]
+    },
+    {
+        "text": "Đau ngực dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            832,
+            847
+        ]
+    },
+    {
+        "text": "vã mồ hôi lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            849,
+            863
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            865,
+            873
+        ]
+    },
+    {
+        "text": "Huyết áp 160/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            889,
+            909
+        ]
+    },
+    {
+        "text": "nhịp tim 110 nhịp/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            911,
+            933
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1033,
+            1046
+        ]
+    },
+    {
+        "text": "Nhồi máu cơ tim cấp thành trước",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1095,
+            1126
+        ]
+    },
+    {
+        "text": "chụp mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1144,
+            1158
+        ]
+    },
+    {
+        "text": "thuốc chống đông Aspirin 325mg",
+        "type": "THUỐC",
+        "position": [
+            1173,
+            1203
+        ]
+    },
+    {
+        "text": "Clopidogrel 300mg",
+        "type": "THUỐC",
+        "position": [
+            1207,
+            1224
+        ]
+    },
+    {
+        "text": "Troponin T tăng cao gấp 10 lần ngưỡng bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1260,
+            1309
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1311,
+            1322
+        ]
+    },
+    {
+        "text": "ST chênh lên ở các chuyển đạo V1-V4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1323,
+            1358
+        ]
+    },
+    {
+        "text": "cảm giác như có vật nặng đè lên ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1591,
+            1627
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1716,
+            1724
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1729,
+            1736
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1784,
+            1795
+        ]
+    }
+]

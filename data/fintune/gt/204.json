@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức và tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            275
+        ]
+    },
+    {
+        "text": "vết loét nông ở ngón cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            287,
+            311
+        ]
+    },
+    {
+        "text": "chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            313,
+            326
+        ]
+    },
+    {
+        "text": "Vết loét kích thước 2x3cm, đáy phủ giả mạc, xung quanh tấy đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            396,
+            457
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương giảm hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            459,
+            489
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            516,
+            536
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            552,
+            563
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            565,
+            570
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            572,
+            576
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            578,
+            591
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            593,
+            601
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            602,
+            610
+        ]
+    },
+    {
+        "text": "neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            612,
+            622
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            629,
+            632
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            634,
+            667
+        ]
+    },
+    {
+        "text": "xơ vữa động mạch chày trước trái, hẹp lòng mạch 60%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            669,
+            720
+        ]
+    },
+    {
+        "text": "Nhiễm trùng bàn chân đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            733,
+            768
+        ]
+    },
+    {
+        "text": "biến chứng thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            770,
+            801
+        ]
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "text": "run rẩy ở tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            43,
+            56
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            343,
+            352
+        ]
+    },
+    {
+        "text": "rối loạn thần kinh thực vật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            364,
+            391
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            503,
+            510
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            593,
+            600
+        ]
+    },
+    {
+        "text": "khó thở khi gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            602,
+            622
+        ]
+    },
+    {
+        "text": "hồi hộp trống ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            624,
+            642
+        ]
+    },
+    {
+        "text": "cơ tim giãn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            679,
+            690
+        ]
+    },
+    {
+        "text": "Nhịp tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            707,
+            715
+        ]
+    },
+    {
+        "text": "115 chu kỳ/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            716,
+            731
+        ]
+    },
+    {
+        "text": "huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            733,
+            741
+        ]
+    },
+    {
+        "text": "145/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            742,
+            753
+        ]
+    },
+    {
+        "text": "tiếng thổi tâm thu cường độ 2/6 ở mỏm tim",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            758,
+            799
+        ]
+    },
+    {
+        "text": "Phù nhẹ hai chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            801,
+            821
+        ]
+    },
+    {
+        "text": "Điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            845,
+            856
+        ]
+    },
+    {
+        "text": "nhịp xoang nhanh",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            866,
+            882
+        ]
+    },
+    {
+        "text": "sóng T đảo ngược ở V4-V6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            884,
+            908
+        ]
+    },
+    {
+        "text": "Siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            910,
+            921
+        ]
+    },
+    {
+        "text": "Giãn buồng tim trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            923,
+            942
+        ]
+    },
+    {
+        "text": "phân suất tống máu (EF) 38%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            944,
+            971
+        ]
+    },
+    {
+        "text": "Suy tim tâm thu giai đoạn C",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            984,
+            1011
+        ]
+    },
+    {
+        "text": "Enalapril 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1068,
+            1086
+        ]
+    },
+    {
+        "text": "Bisoprolol 2.5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1104,
+            1125
+        ]
+    },
+    {
+        "text": "Furosemide 20mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1138,
+            1158
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1252,
+            1259
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1345,
+            1355
+        ]
+    },
+    {
+        "text": "rối loạn thần kinh cơ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1402,
+            1423
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1430,
+            1439
+        ]
+    },
+    {
+        "text": "cứng đờ cơ bắp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1483,
+            1497
+        ]
+    },
+    {
+        "text": "đi đứng chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1501,
+            1518
+        ]
+    },
+    {
+        "text": "đo điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1662,
+            1672
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ não bộ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1678,
+            1703
+        ]
+    }
+]

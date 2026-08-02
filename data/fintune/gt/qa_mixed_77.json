@@ -1,0 +1,162 @@
+[
+    {
+        "text": "tê rần các đầu ngón tay ở bàn tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            95
+        ]
+    },
+    {
+        "text": "cảm giác như bị kiến bò",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            148,
+            171
+        ]
+    },
+    {
+        "text": "đau nhói",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            197,
+            205
+        ]
+    },
+    {
+        "text": "thiếu canxi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            342,
+            353
+        ]
+    },
+    {
+        "text": "viêm khớp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            361,
+            370
+        ]
+    },
+    {
+        "text": "Tê bàn tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            473,
+            488
+        ]
+    },
+    {
+        "text": "đau nhức khuỷu tay trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            492,
+            515
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            559
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            596,
+            606
+        ]
+    },
+    {
+        "text": "Giảm cảm giác nhẹ ở vùng phân bố dây thần kinh giữa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            622,
+            673
+        ]
+    },
+    {
+        "text": "2+",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            711,
+            713
+        ]
+    },
+    {
+        "text": "Hội chứng ống cổ tay giai đoạn trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            753,
+            794
+        ]
+    },
+    {
+        "text": "viêm mỏm trên lồi cầu ngoài khuỷu tay trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            800,
+            842
+        ]
+    },
+    {
+        "text": "Celecoxib 200mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            893,
+            913
+        ]
+    },
+    {
+        "text": "Vitamin B1, B6, B12 liều cao",
+        "type": "THUỐC",
+        "position": [
+            915,
+            943
+        ]
+    },
+    {
+        "text": "đo điện cơ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1006,
+            1022
+        ]
+    },
+    {
+        "text": "tê bì chân tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1067,
+            1081
+        ]
+    },
+    {
+        "text": "xét nghiệm chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1390,
+            1419
+        ]
+    },
+    {
+        "text": "điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1425,
+            1435
+        ]
+    },
+    {
+        "text": "teo cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1557,
+            1563
+        ]
+    }
+]

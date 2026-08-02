@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            55,
+            76
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            92,
+            105
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            178
+        ]
+    },
+    {
+        "text": "đau tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            233,
+            245
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            273,
+            301
+        ]
+    },
+    {
+        "text": "Chi lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            387,
+            395
+        ]
+    },
+    {
+        "text": "da bàn chân trái nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            397,
+            418
+        ]
+    },
+    {
+        "text": "vết loét nông ở ngón cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            423,
+            447
+        ]
+    },
+    {
+        "text": "huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            481,
+            514
+        ]
+    },
+    {
+        "text": "0.52",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            527,
+            531
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            550,
+            583
+        ]
+    },
+    {
+        "text": "Hình ảnh xơ vữa gây hẹp khít động mạch chày trước và động mạch chày sau trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            585,
+            661
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            674,
+            679
+        ]
+    },
+    {
+        "text": "8.9%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            681,
+            685
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn III theo phân loại Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            701,
+            773
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu clopidogrel 75mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            834,
+            884
+        ]
+    },
+    {
+        "text": "statin liều cao",
+        "type": "THUỐC",
+        "position": [
+            886,
+            901
+        ]
+    },
+    {
+        "text": "chụp mạch số hóa xóa nền (DSA)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            914,
+            944
+        ]
+    }
+]

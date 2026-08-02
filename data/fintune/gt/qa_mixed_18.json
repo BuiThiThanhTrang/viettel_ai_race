@@ -1,0 +1,210 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            42
+        ]
+    },
+    {
+        "text": "nóng rát ở vùng ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            66
+        ]
+    },
+    {
+        "text": "thuốc dạ dày dạng sữa",
+        "type": "THUỐC",
+        "position": [
+            126,
+            147
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            228,
+            255
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            356,
+            362
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            364,
+            370
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản (GERD)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            412,
+            446
+        ]
+    },
+    {
+        "text": "vi viêm thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            556,
+            573
+        ]
+    },
+    {
+        "text": "Đau thượng vị lan lên ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            802,
+            828
+        ]
+    },
+    {
+        "text": "khó nuốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            834,
+            842
+        ]
+    },
+    {
+        "text": "Nôn ra máu tươi lượng ít",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            861,
+            885
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            887,
+            896
+        ]
+    },
+    {
+        "text": "vã mồ hôi lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            898,
+            912
+        ]
+    },
+    {
+        "text": "Niêm mạc nhợt",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            929,
+            942
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            944,
+            965
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            967,
+            994
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1007,
+            1026
+        ]
+    },
+    {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1035,
+            1055
+        ]
+    },
+    {
+        "text": "Biến chứng trào ngược độ C",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1056,
+            1082
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg tiêm tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1159,
+            1191
+        ]
+    },
+    {
+        "text": "nội soi dạ dày cấp cứu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1203,
+            1225
+        ]
+    },
+    {
+        "text": "nóng rát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1356,
+            1364
+        ]
+    },
+    {
+        "text": "đau ngực dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1374,
+            1389
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1395,
+            1412
+        ]
+    },
+    {
+        "text": "Nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1452,
+            1459
+        ]
+    },
+    {
+        "text": "vi khuẩn HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1656,
+            1667
+        ]
+    }
+]

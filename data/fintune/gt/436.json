@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            225,
+            243
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            248,
+            269
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            321,
+            339
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            396,
+            403
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            407,
+            416
+        ]
+    },
+    {
+        "text": "Chóng mặt nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            592,
+            606
+        ]
+    },
+    {
+        "text": "tê yếu nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            608,
+            633
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            648,
+            661
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            686,
+            700
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            771,
+            774
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            782,
+            789
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            817,
+            825
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            830,
+            837
+        ]
+    },
+    {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            871,
+            886
+        ]
+    },
+    {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            891,
+            898
+        ]
+    },
+    {
+        "text": "Cảm giác yếu sức nửa người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            911,
+            937
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            964,
+            981
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1029,
+            1043
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1047,
+            1060
+        ]
+    },
+    {
+        "text": "Thiếu máu não cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1140,
+            1171
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống cổ nặng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1174,
+            1200
+        ]
+    },
+    {
+        "text": "Chụp MRI sọ não và cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1224,
+            1254
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1256,
+            1280
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1282,
+            1293
+        ]
+    }
+]

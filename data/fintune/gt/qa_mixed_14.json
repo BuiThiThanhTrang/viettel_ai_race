@@ -1,0 +1,250 @@
+[
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            54,
+            63
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            65,
+            72
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            210,
+            223
+        ]
+    },
+    {
+        "text": "tụt huyết áp tư thế",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            229,
+            248
+        ]
+    },
+    {
+        "text": "chóng mặt tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            417,
+            433
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            506,
+            524
+        ]
+    },
+    {
+        "text": "thiếu máu thiếu sắt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            526,
+            545
+        ]
+    },
+    {
+        "text": "cột sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            568,
+            579
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            665,
+            679
+        ]
+    },
+    {
+        "text": "tê yếu tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            696
+        ]
+    },
+    {
+        "text": "khó nói",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            702,
+            709
+        ]
+    },
+    {
+        "text": "Tăng huyết áp kịch phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            781,
+            804
+        ]
+    },
+    {
+        "text": "cơn đau thắt ngực ổn định",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            809,
+            834
+        ]
+    },
+    {
+        "text": "Huyết áp 170/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            851,
+            872
+        ]
+    },
+    {
+        "text": "nhịp tim 92 nhịp/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            874,
+            895
+        ]
+    },
+    {
+        "text": "tiếng thổi tâm thu ở mỏm tim",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            900,
+            928
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            941,
+            959
+        ]
+    },
+    {
+        "text": "suy tim trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            970,
+            982
+        ]
+    },
+    {
+        "text": "Cholesterol toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1004,
+            1025
+        ]
+    },
+    {
+        "text": "6.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1026,
+            1036
+        ]
+    },
+    {
+        "text": "LDL-C",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1038,
+            1043
+        ]
+    },
+    {
+        "text": "4.1 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1044,
+            1054
+        ]
+    },
+    {
+        "text": "Điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1056,
+            1067
+        ]
+    },
+    {
+        "text": "dấu hiệu dày thất trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1077,
+            1099
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1126,
+            1145
+        ]
+    },
+    {
+        "text": "Atorvastatin 20mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1147,
+            1169
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            1171,
+            1183
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1490,
+            1513
+        ]
+    },
+    {
+        "text": "nghiệm pháp Dix-Hallpike",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1581,
+            1605
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1620,
+            1649
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1656,
+            1680
+        ]
+    }
+]

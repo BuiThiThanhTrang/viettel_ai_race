@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            356,
+            363
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            367,
+            376
+        ]
+    },
+    {
+        "text": "hội chứng tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            458,
+            477
+        ]
+    },
+    {
+        "text": "huyết áp dao động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            483,
+            500
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            547,
+            566
+        ]
+    },
+    {
+        "text": "choáng váng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            585,
+            596
+        ]
+    },
+    {
+        "text": "mất thăng bằng trầm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            598,
+            623
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            650,
+            667
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            678,
+            698
+        ]
+    },
+    {
+        "text": "rối loạn cảm giác nông sâu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            803,
+            829
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            856,
+            864
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            889,
+            896
+        ]
+    },
+    {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            901,
+            909
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            950,
+            953
+        ]
+    },
+    {
+        "text": "Thiếu máu não cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            995,
+            1026
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình trung ương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1029,
+            1058
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1083,
+            1108
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1110,
+            1121
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1123,
+            1147
+        ]
+    },
+    {
+        "text": "thuốc giãn mạch",
+        "type": "THUỐC",
+        "position": [
+            1206,
+            1221
+        ]
+    }
+]

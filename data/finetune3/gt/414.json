@@ -1,0 +1,121 @@
+[
+  {
+    "text": "Đột ngột mất ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      60,
+      79
+    ]
+  },
+  {
+    "text": "liệt nửa người bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      81,
+      104
+    ]
+  },
+  {
+    "text": "nói ngọng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      114,
+      123
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      138,
+      151
+    ]
+  },
+  {
+    "text": "Huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      199,
+      207
+    ]
+  },
+  {
+    "text": "170/95 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      208,
+      219
+    ]
+  },
+  {
+    "text": "nhịp tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      221,
+      229
+    ]
+  },
+  {
+    "text": "88 chu kỳ/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      230,
+      244
+    ]
+  },
+  {
+    "text": "Nhồi máu não bán cầu trái cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      283,
+      317
+    ]
+  },
+  {
+    "text": "Chụp cộng hưởng từ MRI sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      343,
+      372
+    ]
+  },
+  {
+    "text": "ổ nhồi máu tại vùng nhân đậu bên trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      382,
+      419
+    ]
+  },
+  {
+    "text": "Alteplase",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      478,
+      487
+    ]
+  },
+  {
+    "text": "Nicardipine liều 5mg/giờ",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      542,
+      566
+    ]
+  }
+]

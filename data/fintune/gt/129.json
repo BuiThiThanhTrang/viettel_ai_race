@@ -1,0 +1,242 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            252
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            259
+        ]
+    },
+    {
+        "text": "loét ngón cái bàn chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            263,
+            290
+        ]
+    },
+    {
+        "text": "Vết loét chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            319,
+            341
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            349,
+            352
+        ]
+    },
+    {
+        "text": "Vết loét kích thước 2x3cm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            392,
+            417
+        ]
+    },
+    {
+        "text": "đáy hoại tử đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            419,
+            434
+        ]
+    },
+    {
+        "text": "xung quanh sưng đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            436,
+            454
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            456,
+            487
+        ]
+    },
+    {
+        "text": "Mạch mu chân phải bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            489,
+            514
+        ]
+    },
+    {
+        "text": "Glucose máu mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            528,
+            548
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            560
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            562,
+            567
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            568,
+            572
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            574,
+            587
+        ]
+    },
+    {
+        "text": "bạch cầu tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            597,
+            610
+        ]
+    },
+    {
+        "text": "14.2 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            611,
+            619
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            621,
+            631
+        ]
+    },
+    {
+        "text": "chiếm 82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            632,
+            641
+        ]
+    },
+    {
+        "text": "X-quang bàn chân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            663,
+            679
+        ]
+    },
+    {
+        "text": "viêm xương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            699,
+            709
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            757,
+            764
+        ]
+    },
+    {
+        "text": "Kháng sinh phổ rộng",
+        "type": "THUỐC",
+        "position": [
+            783,
+            802
+        ]
+    },
+    {
+        "text": "ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            812,
+            823
+        ]
+    },
+    {
+        "text": "metronidazole",
+        "type": "THUỐC",
+        "position": [
+            827,
+            840
+        ]
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "text": "tê rần ở các đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            82
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            341,
+            354
+        ]
+    },
+    {
+        "text": "Khó thở khi nằm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            380,
+            395
+        ]
+    },
+    {
+        "text": "phù hai chi dưới tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            399,
+            424
+        ]
+    },
+    {
+        "text": "Nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            441,
+            455
+        ]
+    },
+    {
+        "text": "tiếng thổi tâm thu ở mỏm tim 3/6",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            481,
+            513
+        ]
+    },
+    {
+        "text": "Gan to dưới bờ sườn 2cm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            515,
+            538
+        ]
+    },
+    {
+        "text": "ấn đau tức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            540,
+            550
+        ]
+    },
+    {
+        "text": "BNP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            564,
+            567
+        ]
+    },
+    {
+        "text": "1500 pg/ml",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            568,
+            578
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            580,
+            591
+        ]
+    },
+    {
+        "text": "hình ảnh rung nhĩ với đáp ứng thất không đều",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            592,
+            636
+        ]
+    },
+    {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            638,
+            649
+        ]
+    },
+    {
+        "text": "phân suất tống máu EF 35%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            659,
+            684
+        ]
+    },
+    {
+        "text": "Suy tim sung huyết giai đoạn C",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            706,
+            736
+        ]
+    },
+    {
+        "text": "rung nhĩ mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            738,
+            755
+        ]
+    },
+    {
+        "text": "tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            757,
+            775
+        ]
+    },
+    {
+        "text": "Furosemide 40mg (2 viên/ngày)",
+        "type": "THUỐC",
+        "position": [
+            808,
+            837
+        ]
+    },
+    {
+        "text": "Digoxin 0.25mg (1 viên/ngày)",
+        "type": "THUỐC",
+        "position": [
+            839,
+            867
+        ]
+    },
+    {
+        "text": "Bisoprolol 2.5mg (1 viên/ngày)",
+        "type": "THUỐC",
+        "position": [
+            869,
+            899
+        ]
+    },
+    {
+        "text": "Acenocoumarol",
+        "type": "THUỐC",
+        "position": [
+            920,
+            933
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            985,
+            992
+        ]
+    },
+    {
+        "text": "phù ngoại vi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            994,
+            1006
+        ]
+    },
+    {
+        "text": "chảy máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1059,
+            1067
+        ]
+    },
+    {
+        "text": "tê bì ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1115,
+            1129
+        ]
+    },
+    {
+        "text": "hội chứng ống cổ tay",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1179,
+            1199
+        ]
+    },
+    {
+        "text": "đo dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1340,
+            1363
+        ]
+    },
+    {
+        "text": "thuốc hỗ trợ thần kinh",
+        "type": "THUỐC",
+        "position": [
+            1523,
+            1545
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "text": "ợ chua",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      36,
+      42
+    ]
+  },
+  {
+    "text": "nóng rát ở vùng thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      55,
+      80
+    ]
+  },
+  {
+    "text": "đầy hơi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      155,
+      162
+    ]
+  },
+  {
+    "text": "khó chịu ở ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      175,
+      190
+    ]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản hay không",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      236,
+      273
+    ]
+  },
+  {
+    "text": "nội soi dạ dày",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      296,
+      310
+    ]
+  },
+  {
+    "text": "Đau tức vùng thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      412,
+      434
+    ]
+  },
+  {
+    "text": "khó thở từng cơn về đêm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      439,
+      462
+    ]
+  },
+  {
+    "text": "ấn điểm thượng vị đau nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      489,
+      514
+    ]
+  },
+  {
+    "text": "phổi có ran rít nhẹ ở hai đáy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      530,
+      559
+    ]
+  },
+  {
+    "text": "Nội soi dạ dày thực quản",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      581,
+      605
+    ]
+  },
+  {
+    "text": "viêm trợt hang vị",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      615,
+      632
+    ]
+  },
+  {
+    "text": "test HP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      634,
+      641
+    ]
+  },
+  {
+    "text": "dương tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      642,
+      652
+    ]
+  },
+  {
+    "text": "Viêm loét dạ dày - tá tràng do HP",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      665,
+      698
+    ]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản độ A",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      700,
+      732
+    ]
+  },
+  {
+    "text": "Amoxicillin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      772,
+      783
+    ]
+  },
+  {
+    "text": "Clarithromycin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      785,
+      799
+    ]
+  },
+  {
+    "text": "Esomeprazole",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      801,
+      813
+    ]
+  },
+  {
+    "text": "nóng rát",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1092,
+      1100
+    ]
+  },
+  {
+    "text": "sụt cân không rõ nguyên nhân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1143,
+      1171
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1173,
+      1181
+    ]
+  }
+]

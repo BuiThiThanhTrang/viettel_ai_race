@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau thắt ở vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            67,
+            92
+        ]
+    },
+    {
+        "text": "thuốc dạ dày",
+        "type": "THUỐC",
+        "position": [
+            164,
+            176
+        ]
+    },
+    {
+        "text": "đau âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            220,
+            228
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            309,
+            319
+        ]
+    },
+    {
+        "text": "triệu chứng đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            378,
+            408
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            499,
+            513
+        ]
+    },
+    {
+        "text": "đau bụng vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            646,
+            685
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            687,
+            695
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen 1 lần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            697,
+            720
+        ]
+    },
+    {
+        "text": "nhịp tim nhanh 95 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            767,
+            793
+        ]
+    },
+    {
+        "text": "huyết áp 110/70 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            795,
+            815
+        ]
+    },
+    {
+        "text": "Hemoglobin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            837,
+            847
+        ]
+    },
+    {
+        "text": "9.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            848,
+            856
+        ]
+    },
+    {
+        "text": "ure máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            858,
+            865
+        ]
+    },
+    {
+        "text": "tăng nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            866,
+            874
+        ]
+    },
+    {
+        "text": "xét nghiệm tìm máu ẩn trong phân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            876,
+            908
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            909,
+            919
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            932,
+            975
+        ]
+    },
+    {
+        "text": "Esomeprazole liều cao",
+        "type": "THUỐC",
+        "position": [
+            1018,
+            1039
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1059,
+            1066
+        ]
+    },
+    {
+        "text": "xét nghiệm chuyên sâu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1103,
+            1124
+        ]
+    },
+    {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC",
+        "position": [
+            1303,
+            1317
+        ]
+    },
+    {
+        "text": "thuốc kháng viêm",
+        "type": "THUỐC",
+        "position": [
+            1332,
+            1348
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1374,
+            1390
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1447,
+            1457
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen như bã cà phê",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1463,
+            1494
+        ]
+    }
+]

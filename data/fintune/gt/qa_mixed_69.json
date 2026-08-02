@@ -1,0 +1,250 @@
+[
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            68,
+            75
+        ]
+    },
+    {
+        "text": "cảm giác cứng đờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            123,
+            139
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            223,
+            232
+        ]
+    },
+    {
+        "text": "bệnh lý thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            361,
+            378
+        ]
+    },
+    {
+        "text": "Yếu nửa người trái khởi phát đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            473,
+            510
+        ]
+    },
+    {
+        "text": "nói khó",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            520,
+            527
+        ]
+    },
+    {
+        "text": "88 nhịp/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            552,
+            564
+        ]
+    },
+    {
+        "text": "160/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            576,
+            587
+        ]
+    },
+    {
+        "text": "Glasgow 15 điểm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            611,
+            626
+        ]
+    },
+    {
+        "text": "liệt VII trung ương trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            641,
+            665
+        ]
+    },
+    {
+        "text": "liệt nửa người trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            667,
+            686
+        ]
+    },
+    {
+        "text": "cơ lực tay 3/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            699,
+            713
+        ]
+    },
+    {
+        "text": "chân 3/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            715,
+            723
+        ]
+    },
+    {
+        "text": "tăng bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            747,
+            760
+        ]
+    },
+    {
+        "text": "(+)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            771,
+            774
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu phải vùng động mạch não giữa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            787,
+            836
+        ]
+    },
+    {
+        "text": "Alteplase liều 0.9mg/kg",
+        "type": "THUỐC",
+        "position": [
+            885,
+            908
+        ]
+    },
+    {
+        "text": "Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            934,
+            945
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            978,
+            990
+        ]
+    },
+    {
+        "text": "Atorvastatin 20mg",
+        "type": "THUỐC",
+        "position": [
+            1017,
+            1034
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1071,
+            1078
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1082,
+            1089
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1180,
+            1192
+        ]
+    },
+    {
+        "text": "đơ cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1194,
+            1204
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1210,
+            1223
+        ]
+    },
+    {
+        "text": "MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1438,
+            1448
+        ]
+    },
+    {
+        "text": "SPECT tưới máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1454,
+            1472
+        ]
+    },
+    {
+        "text": "run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1522,
+            1525
+        ]
+    },
+    {
+        "text": "Levodopa",
+        "type": "THUỐC",
+        "position": [
+            1570,
+            1578
+        ]
+    },
+    {
+        "text": "Dopamine",
+        "type": "THUỐC",
+        "position": [
+            1602,
+            1610
+        ]
+    },
+    {
+        "text": "rối loạn chuyển hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1679,
+            1698
+        ]
+    }
+]

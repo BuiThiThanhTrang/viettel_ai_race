@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            88,
+            116
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            163,
+            181
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            186,
+            194
+        ]
+    },
+    {
+        "text": "đại tiện phân đen sệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            243
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            279,
+            292
+        ]
+    },
+    {
+        "text": "mạch 95 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            294,
+            310
+        ]
+    },
+    {
+        "text": "huyết áp 110/70 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            312,
+            332
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            344,
+            365
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            446,
+            459
+        ]
+    },
+    {
+        "text": "8.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            464,
+            472
+        ]
+    },
+    {
+        "text": "25%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            478,
+            481
+        ]
+    },
+    {
+        "text": "Xét nghiệm sinh hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            484,
+            503
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            505,
+            516
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            517,
+            528
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            530,
+            535
+        ]
+    },
+    {
+        "text": "8.9%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            536,
+            540
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            543,
+            566
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn ở mặt sau hành tá tràng, kích thước 1.5 cm, đáy có giả mạc, đang rỉ máu (Forrest IIb)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            568,
+            673
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét hành tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            716,
+            757
+        ]
+    },
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            759,
+            780
+        ]
+    },
+    {
+        "text": "omeprazole 80mg",
+        "type": "THUỐC",
+        "position": [
+            831,
+            846
+        ]
+    }
+]

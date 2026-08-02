@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng lan xuống chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            87
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            189,
+            196
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            234,
+            250
+        ]
+    },
+    {
+        "text": "Đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            385,
+            413
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            542,
+            579
+        ]
+    },
+    {
+        "text": "chụp X-quang quy ước",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            581,
+            601
+        ]
+    },
+    {
+        "text": "đo điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            607,
+            617
+        ]
+    },
+    {
+        "text": "Tê yếu chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            861,
+            877
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            879,
+            921
+        ]
+    },
+    {
+        "text": "liên tục khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            923,
+            952
+        ]
+    },
+    {
+        "text": "bước đi mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            954,
+            976
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống thắt lưng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            992,
+            1020
+        ]
+    },
+    {
+        "text": "hạn chế vận động các biên độ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1064,
+            1092
+        ]
+    },
+    {
+        "text": "ấn đau gai sau L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1094,
+            1114
+        ]
+    },
+    {
+        "text": "dương tính bên phải ở góc 45 độ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1137,
+            1168
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1254,
+            1262
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1267,
+            1274
+        ]
+    },
+    {
+        "text": "teo cơ cấp tính ở hai chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1302,
+            1332
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm cột sống thắt lưng chèn ép rễ thần kinh L5-S1",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1351,
+            1413
+        ]
+    },
+    {
+        "text": "Meloxicam 15mg uống 1 viên/ngày sau ăn no",
+        "type": "THUỐC",
+        "position": [
+            1509,
+            1550
+        ]
+    },
+    {
+        "text": "Pregabalin 75mg uống 2 viên/ngày chia sáng tối",
+        "type": "THUỐC",
+        "position": [
+            1552,
+            1598
+        ]
+    },
+    {
+        "text": "Methylprednisolon theo phác đồ giảm dần",
+        "type": "THUỐC",
+        "position": [
+            1600,
+            1639
+        ]
+    },
+    {
+        "text": "yếu liệt cơ chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1801,
+            1817
+        ]
+    }
+]

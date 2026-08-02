@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng, lan dần xuống đùi phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            50,
+            99
+        ]
+    },
+    {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            286,
+            293
+        ]
+    },
+    {
+        "text": "đau thắt lưng lan xuống đùi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            515,
+            542
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            591,
+            607
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống thắt lưng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            613,
+            641
+        ]
+    },
+    {
+        "text": "đau lưng dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            766,
+            781
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            808,
+            825
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            858,
+            872
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người dưới bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            891,
+            931
+        ]
+    },
+    {
+        "text": "không ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            985,
+            993
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            995,
+            1004
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1031,
+            1039
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1064,
+            1071
+        ]
+    },
+    {
+        "text": "Hội chứng chùm đuôi ngựa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1093,
+            1117
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm L4-L5 chèn ép cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1130,
+            1169
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1180,
+            1221
+        ]
+    },
+    {
+        "text": "thuốc giảm đau kháng viêm",
+        "type": "THUỐC",
+        "position": [
+            1237,
+            1262
+        ]
+    },
+    {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC",
+        "position": [
+            1440,
+            1454
+        ]
+    }
+]

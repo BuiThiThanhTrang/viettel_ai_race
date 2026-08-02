@@ -1,0 +1,226 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            235,
+            243
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            245,
+            250
+        ]
+    },
+    {
+        "text": "loét ngón cái bàn chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            281
+        ]
+    },
+    {
+        "text": "không lành",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            298,
+            308
+        ]
+    },
+    {
+        "text": "bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            346,
+            353
+        ]
+    },
+    {
+        "text": "nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            367,
+            371
+        ]
+    },
+    {
+        "text": "lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            373,
+            377
+        ]
+    },
+    {
+        "text": "kích thước 2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            388,
+            404
+        ]
+    },
+    {
+        "text": "có giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            429,
+            439
+        ]
+    },
+    {
+        "text": "không chảy mủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            441,
+            454
+        ]
+    },
+    {
+        "text": "có mùi hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            461,
+            471
+        ]
+    },
+    {
+        "text": "giảm hai chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            491,
+            508
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            527,
+            547
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            560
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            562,
+            567
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            569,
+            573
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            575,
+            608
+        ]
+    },
+    {
+        "text": "Xơ vữa động mạch chày sau gây hẹp lòng mạch 60%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            610,
+            657
+        ]
+    },
+    {
+        "text": "X-quang bàn chân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            659,
+            675
+        ]
+    },
+    {
+        "text": "Chưa thấy hình ảnh tổn thương xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            677,
+            712
+        ]
+    },
+    {
+        "text": "Loét bàn chân do đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            728,
+            759
+        ]
+    },
+    {
+        "text": "thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            772,
+            792
+        ]
+    },
+    {
+        "text": "bệnh động mạch ngoại biên chi dưới",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            796,
+            830
+        ]
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            168
+        ]
+    },
+    {
+        "text": "đau nhức dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            195,
+            210
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            276,
+            304
+        ]
+    },
+    {
+        "text": "Mạch mu chân trái bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            324,
+            349
+        ]
+    },
+    {
+        "text": "chi trái lạnh hơn chi phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            351,
+            377
+        ]
+    },
+    {
+        "text": "huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            413,
+            446
+        ]
+    },
+    {
+        "text": "0.6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            459,
+            462
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            481,
+            514
+        ]
+    },
+    {
+        "text": "Hình ảnh xơ vữa gây hẹp khít động mạch chậu ngoài trái và động mạch đùi nông đoạn 1",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            516,
+            599
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính mạch máu (CTA)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            627,
+            662
+        ]
+    },
+    {
+        "text": "aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            711,
+            723
+        ]
+    },
+    {
+        "text": "atorvastatin 40mg",
+        "type": "THUỐC",
+        "position": [
+            725,
+            742
+        ]
+    },
+    {
+        "text": "cilostazol 100mg mỗi ngày",
+        "type": "THUỐC",
+        "position": [
+            744,
+            769
+        ]
+    },
+    {
+        "text": "insulin nền",
+        "type": "THUỐC",
+        "position": [
+            798,
+            809
+        ]
+    }
+]

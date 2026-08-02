@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            270
+        ]
+    },
+    {
+        "text": "đau nhức bắp chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            297,
+            314
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            375,
+            403
+        ]
+    },
+    {
+        "text": "Da bàn chân trái lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            485,
+            506
+        ]
+    },
+    {
+        "text": "nhợt màu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            508,
+            516
+        ]
+    },
+    {
+        "text": "lông chân thưa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            518,
+            532
+        ]
+    },
+    {
+        "text": "Chỉ số huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            534,
+            574
+        ]
+    },
+    {
+        "text": "0.6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            587,
+            590
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            617,
+            650
+        ]
+    },
+    {
+        "text": "Hình ảnh mảng xơ vữa gây hẹp 70% động mạch đùi nông trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            652,
+            708
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            722,
+            727
+        ]
+    },
+    {
+        "text": "8.5%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            728,
+            732
+        ]
+    },
+    {
+        "text": "LDL-cholesterol",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            734,
+            749
+        ]
+    },
+    {
+        "text": "3.8 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            750,
+            760
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới mạn tính giai đoạn IIa theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            776,
+            847
+        ]
+    }
+]

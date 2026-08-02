@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            176
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            190
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            209
+        ]
+    },
+    {
+        "text": "đau âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            230
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            323,
+            333
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            335,
+            380
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            382,
+            405
+        ]
+    },
+    {
+        "text": "Nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            407,
+            425
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            452,
+            465
+        ]
+    },
+    {
+        "text": "bạch cầu tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            467,
+            480
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            481,
+            489
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            501,
+            512
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            513,
+            521
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            523,
+            533
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            534,
+            541
+        ]
+    },
+    {
+        "text": "Siêu âm và CT scan ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            563,
+            588
+        ]
+    },
+    {
+        "text": "tụy phù nề, thâm nhiễm mỡ quanh tụy, không có sỏi đường mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            598,
+            657
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            682,
+            712
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            725,
+            739
+        ]
+    },
+    {
+        "text": "imipenem 500mg tiêm tĩnh mạch mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            830,
+            869
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            88,
+            116
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            191,
+            209
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            214,
+            222
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            245,
+            248
+        ]
+    },
+    {
+        "text": "đi ngoài phân vàng lỏng 2 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            250,
+            284
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            334,
+            355
+        ]
+    },
+    {
+        "text": "Glucose máu mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            425,
+            445
+        ]
+    },
+    {
+        "text": "18.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            447,
+            458
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            462,
+            467
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            469,
+            473
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            477,
+            488
+        ]
+    },
+    {
+        "text": "145 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            490,
+            497
+        ]
+    },
+    {
+        "text": "tăng nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            499,
+            507
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            512,
+            526
+        ]
+    },
+    {
+        "text": "Hình ảnh gan nhiễm mỡ độ II",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            528,
+            555
+        ]
+    },
+    {
+        "text": "tụy không to",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            557,
+            569
+        ]
+    },
+    {
+        "text": "không thấy sỏi túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            571,
+            593
+        ]
+    },
+    {
+        "text": "Đợt cấp đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            636,
+            665
+        ]
+    },
+    {
+        "text": "rối loạn tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            667,
+            684
+        ]
+    },
+    {
+        "text": "Lantus 12 đơn vị tiêm dưới da buổi tối",
+        "type": "THUỐC",
+        "position": [
+            737,
+            775
+        ]
+    },
+    {
+        "text": "Novorapid 4 đơn vị trước ăn",
+        "type": "THUỐC",
+        "position": [
+            777,
+            804
+        ]
+    },
+    {
+        "text": "đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            835,
+            855
+        ]
+    }
+]

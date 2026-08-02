@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            176
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            261
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            272,
+            280
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            284,
+            313
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            338,
+            341
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            349,
+            356
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            376,
+            391
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            393,
+            414
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            443
+        ]
+    },
+    {
+        "text": "Nhu động ruột 8 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            445,
+            469
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            496,
+            507
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            509,
+            516
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            518,
+            528
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            530,
+            538
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            540,
+            554
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, giảm âm không đồng nhất",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            556,
+            600
+        ]
+    },
+    {
+        "text": "không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            602,
+            628
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            650,
+            673
+        ]
+    },
+    {
+        "text": "Paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            759,
+            787
+        ]
+    }
+]

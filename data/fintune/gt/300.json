@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            154
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg x 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            156,
+            185
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            187,
+            206
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            243,
+            282
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            288,
+            296
+        ]
+    },
+    {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            300,
+            311
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            330,
+            333
+        ]
+    },
+    {
+        "text": "đại tiện phân lỏng 2 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            335,
+            364
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            384,
+            399
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            401,
+            438
+        ]
+    },
+    {
+        "text": "Phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            440,
+            467
+        ]
+    },
+    {
+        "text": "Nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            469,
+            487
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            514,
+            527
+        ]
+    },
+    {
+        "text": "12.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            538,
+            546
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            559,
+            562
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            574,
+            585
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            586,
+            593
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            595,
+            605
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            606,
+            614
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            616,
+            627
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            628,
+            639
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            641,
+            653
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, giảm âm không đồng nhất, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            655,
+            727
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ trên nền đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            740,
+            794
+        ]
+    },
+    {
+        "text": "Insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            882,
+            902
+        ]
+    }
+]

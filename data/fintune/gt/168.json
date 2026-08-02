@@ -1,0 +1,170 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            96,
+            124
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            190,
+            208
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            219,
+            225
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            229,
+            237
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            318,
+            339
+        ]
+    },
+    {
+        "text": "nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            459,
+            482
+        ]
+    },
+    {
+        "text": "Viêm loét hang vị",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            484,
+            501
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            503,
+            514
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            515,
+            525
+        ]
+    },
+    {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            535,
+            549
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            551,
+            556
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            557,
+            561
+        ]
+    },
+    {
+        "text": "chỉ số men gan",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            563,
+            577
+        ]
+    },
+    {
+        "text": "trong giới hạn bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            578,
+            604
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            617,
+            655
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            665,
+            686
+        ]
+    },
+    {
+        "text": "esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            732,
+            749
+        ]
+    },
+    {
+        "text": "amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            751,
+            765
+        ]
+    },
+    {
+        "text": "clarithromycin 500mg",
+        "type": "THUỐC",
+        "position": [
+            767,
+            787
+        ]
+    },
+    {
+        "text": "bismuth 262mg chia 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            789,
+            818
+        ]
+    }
+]

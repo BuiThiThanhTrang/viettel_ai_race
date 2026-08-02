@@ -1,0 +1,322 @@
+[
+    {
+        "text": "Bệnh phổi kẽ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            44,
+            56
+        ]
+    },
+    {
+        "text": "corticoid liều cao kéo dài",
+        "type": "THUỐC",
+        "position": [
+            68,
+            94
+        ]
+    },
+    {
+        "text": "Hội chứng kháng enzym tổng hợp protein",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            124,
+            162
+        ]
+    },
+    {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            170,
+            177
+        ]
+    },
+    {
+        "text": "Tăng huyết áp nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            184,
+            209
+        ]
+    },
+    {
+        "text": "Sinh thiết nội mạc tử cung",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            247,
+            273
+        ]
+    },
+    {
+        "text": "Corticoid liều cao kéo dài",
+        "type": "THUỐC",
+        "position": [
+            317,
+            343
+        ]
+    },
+    {
+        "text": "bactrim",
+        "type": "THUỐC",
+        "position": [
+            382,
+            389
+        ]
+    },
+    {
+        "text": "doxycycline",
+        "type": "THUỐC",
+        "position": [
+            430,
+            441
+        ]
+    },
+    {
+        "text": "Suy giảm miễn dịch",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            478,
+            496
+        ]
+    },
+    {
+        "text": "corticoid kéo dài",
+        "type": "THUỐC",
+        "position": [
+            508,
+            525
+        ]
+    },
+    {
+        "text": "tổn thương vùng âm hộ và mông bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            584,
+            622
+        ]
+    },
+    {
+        "text": "tổn thương vùng âm hộ phải lan rộng sang mông phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            682,
+            732
+        ]
+    },
+    {
+        "text": "tổn thương đơn độc vùng âm hộ phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            839,
+            873
+        ]
+    },
+    {
+        "text": "cotrimoxazol",
+        "type": "THUỐC",
+        "position": [
+            921,
+            933
+        ]
+    },
+    {
+        "text": "doxycyclin",
+        "type": "THUỐC",
+        "position": [
+            953,
+            963
+        ]
+    },
+    {
+        "text": "viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            976,
+            990
+        ]
+    },
+    {
+        "text": "ban đỏ quanh tổn thương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1007,
+            1030
+        ]
+    },
+    {
+        "text": "tổn thương tiếp tục tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1065,
+            1095
+        ]
+    },
+    {
+        "text": "bọng nước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1113,
+            1122
+        ]
+    },
+    {
+        "text": "đau nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1149,
+            1158
+        ]
+    },
+    {
+        "text": "rỉ dịch vàng đục giống mủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1174,
+            1199
+        ]
+    },
+    {
+        "text": "tổn thương vùng âm hộ và mông bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1343,
+            1381
+        ]
+    },
+    {
+        "text": "Tổn thương cực kỳ đau đớn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1388,
+            1413
+        ]
+    },
+    {
+        "text": "tổn thương dạng bóng nước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1431,
+            1456
+        ]
+    },
+    {
+        "text": "Lan đến mông bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1478,
+            1499
+        ]
+    },
+    {
+        "text": "dịch giống mủ có màu vàng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1509,
+            1534
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1761,
+            1767
+        ]
+    },
+    {
+        "text": "chảy mủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1769,
+            1776
+        ]
+    },
+    {
+        "text": "bactrim",
+        "type": "THUỐC",
+        "position": [
+            1885,
+            1892
+        ]
+    },
+    {
+        "text": "doxycycline",
+        "type": "THUỐC",
+        "position": [
+            1896,
+            1907
+        ]
+    },
+    {
+        "text": "Viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1930,
+            1944
+        ]
+    },
+    {
+        "text": "ban đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1984,
+            1990
+        ]
+    },
+    {
+        "text": "dịch tiết có vẻ như mủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1997,
+            2019
+        ]
+    },
+    {
+        "text": "doxycycline",
+        "type": "THUỐC",
+        "position": [
+            2233,
+            2244
+        ]
+    },
+    {
+        "text": "bactrim",
+        "type": "THUỐC",
+        "position": [
+            2244,
+            2251
+        ]
+    },
+    {
+        "text": "Viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2265,
+            2279
+        ]
+    },
+    {
+        "text": "Nhiễm virus Herpes simplex (HSV)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2486,
+            2518
+        ]
+    },
+    {
+        "text": "Bệnh thủy đậu/Zona",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2524,
+            2542
+        ]
+    },
+    {
+        "text": "Varicella Zoster Virus",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2547,
+            2569
+        ]
+    }
+]

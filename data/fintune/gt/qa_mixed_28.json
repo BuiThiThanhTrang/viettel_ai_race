@@ -1,0 +1,226 @@
+[
+    {
+        "text": "đau đầu âm ỉ vùng trán",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            45,
+            67
+        ]
+    },
+    {
+        "text": "cảm giác nặng đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            69,
+            86
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            115,
+            122
+        ]
+    },
+    {
+        "text": "khó tập trung",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            126,
+            139
+        ]
+    },
+    {
+        "text": "thuốc giảm đau paracetamol",
+        "type": "THUỐC",
+        "position": [
+            167,
+            193
+        ]
+    },
+    {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            255,
+            265
+        ]
+    },
+    {
+        "text": "đau đầu kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            421,
+            436
+        ]
+    },
+    {
+        "text": "cảm giác nặng vùng trán",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            446,
+            469
+        ]
+    },
+    {
+        "text": "căng thẳng thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            502,
+            522
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            553,
+            566
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            715,
+            723
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            725,
+            734
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            836,
+            850
+        ]
+    },
+    {
+        "text": "yếu liệt nhẹ nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            860,
+            891
+        ]
+    },
+    {
+        "text": "Cơn tăng huyết áp kịch phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            910,
+            937
+        ]
+    },
+    {
+        "text": "huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            939,
+            947
+        ]
+    },
+    {
+        "text": "210/120 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            968,
+            980
+        ]
+    },
+    {
+        "text": "liệt mặt trung ương bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1048,
+            1076
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1089,
+            1114
+        ]
+    },
+    {
+        "text": "tăng huyết áp độ 3",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1116,
+            1134
+        ]
+    },
+    {
+        "text": "thuốc hạ áp tĩnh mạch Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            1154,
+            1187
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            1222,
+            1234
+        ]
+    },
+    {
+        "text": "Insulin nhanh",
+        "type": "THUỐC",
+        "position": [
+            1263,
+            1276
+        ]
+    },
+    {
+        "text": "đau đầu thông thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1437,
+            1457
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1644,
+            1651
+        ]
+    },
+    {
+        "text": "tê bì tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1653,
+            1667
+        ]
+    },
+    {
+        "text": "đo điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1737,
+            1751
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1757,
+            1781
+        ]
+    }
+]

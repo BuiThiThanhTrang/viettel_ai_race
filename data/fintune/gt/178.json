@@ -1,0 +1,178 @@
+[
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            34,
+            55
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            71,
+            84
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            112,
+            140
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            142,
+            162
+        ]
+    },
+    {
+        "text": "Lisinopril 10mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            164,
+            184
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            230,
+            253
+        ]
+    },
+    {
+        "text": "cảm giác đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            263,
+            280
+        ]
+    },
+    {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            282,
+            290
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            371,
+            396
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            532,
+            546
+        ]
+    },
+    {
+        "text": "Viêm loét hang vị",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            548,
+            565
+        ]
+    },
+    {
+        "text": "test HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            585,
+            592
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            593,
+            603
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            605,
+            619
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            621,
+            626
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            627,
+            631
+        ]
+    },
+    {
+        "text": "glucose máu lúc đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            633,
+            652
+        ]
+    },
+    {
+        "text": "9.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            653,
+            663
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày do HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            676,
+            698
+        ]
+    },
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            708,
+            729
+        ]
+    },
+    {
+        "text": "Phác đồ diệt HP 14 ngày",
+        "type": "THUỐC",
+        "position": [
+            747,
+            770
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            788,
+            795
+        ]
+    }
+]

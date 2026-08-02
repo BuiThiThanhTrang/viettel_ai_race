@@ -1,0 +1,162 @@
+[
+    {
+        "text": "nhức đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            60
+        ]
+    },
+    {
+        "text": "nặng đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            62,
+            70
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            125,
+            138
+        ]
+    },
+    {
+        "text": "căng thẳng thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            144,
+            164
+        ]
+    },
+    {
+        "text": "chụp CT não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            238,
+            249
+        ]
+    },
+    {
+        "text": "đo lưu huyết não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            322,
+            338
+        ]
+    },
+    {
+        "text": "Yếu nửa người trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            419,
+            437
+        ]
+    },
+    {
+        "text": "nói đớ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            441,
+            447
+        ]
+    },
+    {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            563,
+            568
+        ]
+    },
+    {
+        "text": "180/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            594,
+            606
+        ]
+    },
+    {
+        "text": "90 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            613,
+            624
+        ]
+    },
+    {
+        "text": "liệt mặt trung ương phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            659,
+            683
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            694,
+            704
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính (CT) sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            743,
+            775
+        ]
+    },
+    {
+        "text": "ổ xuất huyết lớn ở vùng nhân bèo bên phải kích thước 3x4cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            785,
+            843
+        ]
+    },
+    {
+        "text": "Đột quỵ não xuất huyết giai đoạn cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            856,
+            892
+        ]
+    },
+    {
+        "text": "Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            928,
+            939
+        ]
+    },
+    {
+        "text": "Mannitol",
+        "type": "THUỐC",
+        "position": [
+            976,
+            984
+        ]
+    },
+    {
+        "text": "Piracetam",
+        "type": "THUỐC",
+        "position": [
+            1017,
+            1026
+        ]
+    },
+    {
+        "text": "tê rần ở các đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1254,
+            1279
+        ]
+    }
+]

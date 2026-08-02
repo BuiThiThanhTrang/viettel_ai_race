@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau bụng âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            72,
+            100
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            256,
+            263
+        ]
+    },
+    {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            638,
+            657
+        ]
+    },
+    {
+        "text": "Nôn ra máu đỏ tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            726,
+            744
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            746,
+            763
+        ]
+    },
+    {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            790,
+            795
+        ]
+    },
+    {
+        "text": "da xanh xao",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            797,
+            808
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            823
+        ]
+    },
+    {
+        "text": "tụt 80/50 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            834,
+            848
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            875,
+            888
+        ]
+    },
+    {
+        "text": "2.5 T/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            918,
+            925
+        ]
+    },
+    {
+        "text": "7.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            939,
+            947
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét hành tá tràng biến chứng thủng ổ loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            960,
+            1025
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1080,
+            1087
+        ]
+    },
+    {
+        "text": "đau nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1232,
+            1239
+        ]
+    },
+    {
+        "text": "đau kéo dài trên 2 tuần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1463,
+            1486
+        ]
+    },
+    {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1505,
+            1512
+        ]
+    },
+    {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1514,
+            1523
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1567,
+            1574
+        ]
+    }
+]

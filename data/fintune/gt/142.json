@@ -1,0 +1,170 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            140,
+            174
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            180,
+            188
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            192,
+            207
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            257,
+            272
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            311
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            313,
+            339
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            389,
+            402
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            404,
+            412
+        ]
+    },
+    {
+        "text": "15.2 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            413,
+            421
+        ]
+    },
+    {
+        "text": "neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            423,
+            433
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            434,
+            437
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            439,
+            451
+        ]
+    },
+    {
+        "text": "túi mật căng to",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            453,
+            468
+        ]
+    },
+    {
+        "text": "thành dày 6mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            470,
+            483
+        ]
+    },
+    {
+        "text": "có sỏi kích thước 15mm kẹt tại cổ túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            485,
+            526
+        ]
+    },
+    {
+        "text": "đường mật trong gan không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            528,
+            558
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            580,
+            603
+        ]
+    },
+    {
+        "text": "Ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            674,
+            685
+        ]
+    },
+    {
+        "text": "Metronidazole",
+        "type": "THUỐC",
+        "position": [
+            689,
+            702
+        ]
+    }
+]

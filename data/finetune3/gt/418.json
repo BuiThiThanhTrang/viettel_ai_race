@@ -1,0 +1,173 @@
+[
+  {
+    "text": "Đường huyết mao mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      508,
+      528
+    ]
+  },
+  {
+    "text": "22 mmol/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      546,
+      555
+    ]
+  },
+  {
+    "text": "hơi lờ đờ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      582,
+      591
+    ]
+  },
+  {
+    "text": "mất nước nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      602,
+      614
+    ]
+  },
+  {
+    "text": "niêm mạc khô",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      616,
+      628
+    ]
+  },
+  {
+    "text": "nhịp tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      630,
+      638
+    ]
+  },
+  {
+    "text": "105 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      639,
+      651
+    ]
+  },
+  {
+    "text": "pH máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1363,
+      1369
+    ]
+  },
+  {
+    "text": "7.28",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1370,
+      1374
+    ]
+  },
+  {
+    "text": "HCO3-",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1376,
+      1381
+    ]
+  },
+  {
+    "text": "14 mmol/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1382,
+      1391
+    ]
+  },
+  {
+    "text": "nồng độ ceton niệu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1393,
+      1411
+    ]
+  },
+  {
+    "text": "dương tính mạnh (+++)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1412,
+      1433
+    ]
+  },
+  {
+    "text": "Đái tháo đường typ 1 khởi phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1446,
+      1476
+    ]
+  },
+  {
+    "text": "toan ceton",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1481,
+      1491
+    ]
+  },
+  {
+    "text": "natri clorid 0.9%",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1525,
+      1542
+    ]
+  },
+  {
+    "text": "insulin truyền tĩnh mạch liên tục với liều 0.1 đơn vị/kg/giờ",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1553,
+      1613
+    ]
+  },
+  {
+    "text": "điện giải đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1628,
+      1640
+    ]
+  },
+  {
+    "text": "glucose máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1644,
+      1655
+    ]
+  }
+]

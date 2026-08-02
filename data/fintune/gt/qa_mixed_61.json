@@ -1,0 +1,226 @@
+[
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            75,
+            82
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            84,
+            93
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội vùng thái dương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            103,
+            133
+        ]
+    },
+    {
+        "text": "tầm nhìn bị tối sầm lại trong vài giây",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            187,
+            225
+        ]
+    },
+    {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            299,
+            312
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            327,
+            340
+        ]
+    },
+    {
+        "text": "chóng mặt tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            382,
+            398
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            403,
+            410
+        ]
+    },
+    {
+        "text": "đo huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            453,
+            464
+        ]
+    },
+    {
+        "text": "công thức máu toàn bộ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            577,
+            598
+        ]
+    },
+    {
+        "text": "thiếu sắt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            640,
+            649
+        ]
+    },
+    {
+        "text": "vitamin B12",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            661,
+            672
+        ]
+    },
+    {
+        "text": "Yếu nửa người trái khởi phát đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            739,
+            776
+        ]
+    },
+    {
+        "text": "méo miệng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            781,
+            790
+        ]
+    },
+    {
+        "text": "Huyết áp 180/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            807,
+            828
+        ]
+    },
+    {
+        "text": "nhịp tim 92 chu kỳ/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            830,
+            853
+        ]
+    },
+    {
+        "text": "phản xạ gân xương chi trái tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            855,
+            886
+        ]
+    },
+    {
+        "text": "Babinski dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            888,
+            907
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu phải diện rộng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            929,
+            964
+        ]
+    },
+    {
+        "text": "tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            966,
+            985
+        ]
+    },
+    {
+        "text": "Alaceplase",
+        "type": "THUỐC",
+        "position": [
+            1025,
+            1035
+        ]
+    },
+    {
+        "text": "Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            1084,
+            1095
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            1136,
+            1148
+        ]
+    },
+    {
+        "text": "Statin",
+        "type": "THUỐC",
+        "position": [
+            1152,
+            1158
+        ]
+    },
+    {
+        "text": "6-8 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1218,
+            1228
+        ]
+    },
+    {
+        "text": "chức năng của tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1463,
+            1487
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1494,
+            1505
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1625,
+            1634
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "text": "bụng đầy hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            51,
+            63
+        ]
+    },
+    {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            65,
+            73
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            84,
+            90
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            211,
+            218
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            322,
+            329
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            513,
+            531
+        ]
+    },
+    {
+        "text": "cảm giác nóng rát lan dọc theo xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            533,
+            572
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            599,
+            624
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng giai đoạn tiến triển",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            676,
+            722
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            739,
+            749
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            786,
+            816
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            818,
+            845
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            847,
+            880
+        ]
+    },
+    {
+        "text": "Bismuth subcitrate 120mg x 4 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            884,
+            921
+        ]
+    },
+    {
+        "text": "ợ chua kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1135,
+            1149
+        ]
+    },
+    {
+        "text": "cảm giác nóng rát ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1159,
+            1181
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1240,
+            1254
+        ]
+    },
+    {
+        "text": "nội soi gây mê",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1282,
+            1296
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1356,
+            1364
+        ]
+    },
+    {
+        "text": "xét nghiệm hơi thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1589,
+            1607
+        ]
+    }
+]

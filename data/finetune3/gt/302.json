@@ -1,0 +1,195 @@
+[
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      36,
+      59
+    ]
+  },
+  {
+    "text": "cồn cào",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      121,
+      128
+    ]
+  },
+  {
+    "text": "viêm loét dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      184,
+      200
+    ]
+  },
+  {
+    "text": "viêm loét dạ dày tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      327,
+      352
+    ]
+  },
+  {
+    "text": "Nôn ra máu đỏ tươi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      677,
+      695
+    ]
+  },
+  {
+    "text": "hoa mắt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      697,
+      704
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      705,
+      714
+    ]
+  },
+  {
+    "text": "Viêm loét dạ dày mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      725,
+      750
+    ]
+  },
+  {
+    "text": "thuốc chống đông máu",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      765,
+      785
+    ]
+  },
+  {
+    "text": "Niêm mạc nhợt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      802,
+      815
+    ]
+  },
+  {
+    "text": "mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      817,
+      821
+    ]
+  },
+  {
+    "text": "110 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      822,
+      834
+    ]
+  },
+  {
+    "text": "huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      836,
+      844
+    ]
+  },
+  {
+    "text": "90/60 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      845,
+      855
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      865,
+      872
+    ]
+  },
+  {
+    "text": "Ổ loét mặt sau hành tá tràng kích thước 1.5cm, có lộ mạch máu, dấu hiệu Forrest Ib.",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      874,
+      957
+    ]
+  },
+  {
+    "text": "Xuất huyết tiêu hóa trên do loét tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      978,
+      1019
+    ]
+  },
+  {
+    "text": "đau âm ỉ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1181,
+      1189
+    ]
+  },
+  {
+    "text": "xét nghiệm hơi thở tìm vi khuẩn HP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1228,
+      1262
+    ]
+  },
+  {
+    "text": "Aspirin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1383,
+      1390
+    ]
+  },
+  {
+    "text": "Ibuprofen",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1395,
+      1404
+    ]
+  }
+]

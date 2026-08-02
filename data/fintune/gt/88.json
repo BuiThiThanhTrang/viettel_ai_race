@@ -1,0 +1,146 @@
+[
+    {
+        "text": "Đái tháo đường típ 1 có biến chứng viêm thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            108
+        ]
+    },
+    {
+        "text": "Viêm gan virus C và B",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            115,
+            136
+        ]
+    },
+    {
+        "text": "Tăng áp động mạch phổi mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            143,
+            183
+        ]
+    },
+    {
+        "text": "U lympho không hodgkin tế bàoB lớn lan toả",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            189,
+            231
+        ]
+    },
+    {
+        "text": "methadone",
+        "type": "THUỐC",
+        "position": [
+            360,
+            369
+        ]
+    },
+    {
+        "text": "lasix",
+        "type": "THUỐC",
+        "position": [
+            383,
+            388
+        ]
+    },
+    {
+        "text": "Phù chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            453,
+            466
+        ]
+    },
+    {
+        "text": "hoại tử ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            470,
+            492
+        ]
+    },
+    {
+        "text": "Lasix",
+        "type": "THUỐC",
+        "position": [
+            604,
+            609
+        ]
+    },
+    {
+        "text": "lasix",
+        "type": "THUỐC",
+        "position": [
+            664,
+            669
+        ]
+    },
+    {
+        "text": "phù chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            699,
+            707
+        ]
+    },
+    {
+        "text": "phù chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            718,
+            726
+        ]
+    },
+    {
+        "text": "hoại tử nặng lên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            730,
+            746
+        ]
+    },
+    {
+        "text": "Phù 2 chân nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            834,
+            849
+        ]
+    },
+    {
+        "text": "Loét 2 bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            851,
+            866
+        ]
+    },
+    {
+        "text": "chảy dịch vàng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            868,
+            882
+        ]
+    },
+    {
+        "text": "hoại tử đen kích thước 2*4 cm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            889,
+            918
+        ]
+    },
+    {
+        "text": "Loét bàn chân nhiễm trùng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            938,
+            963
+        ]
+    }
+]

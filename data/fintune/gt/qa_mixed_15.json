@@ -1,0 +1,194 @@
+[
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            51,
+            58
+        ]
+    },
+    {
+        "text": "đi tiểu nhiều lần vào ban đêm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            60,
+            89
+        ]
+    },
+    {
+        "text": "khát nước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            100,
+            109
+        ]
+    },
+    {
+        "text": "tiểu đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            137,
+            147
+        ]
+    },
+    {
+        "text": "Đau bụng vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            459,
+            498
+        ]
+    },
+    {
+        "text": "sụt cân 5kg trong 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            519,
+            544
+        ]
+    },
+    {
+        "text": "da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            591,
+            607
+        ]
+    },
+    {
+        "text": "đau nhiều vùng thượng vị khi ấn sâu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            609,
+            644
+        ]
+    },
+    {
+        "text": "Chỉ số đường huyết đo tại giường",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            646,
+            678
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            682,
+            693
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            695,
+            709
+        ]
+    },
+    {
+        "text": "chỉ số HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            719,
+            731
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            735,
+            739
+        ]
+    },
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            761,
+            782
+        ]
+    },
+    {
+        "text": "viêm tụy mạn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            815,
+            827
+        ]
+    },
+    {
+        "text": "Tiêm Insulin Humalog 8 đơn vị trước ăn sáng",
+        "type": "THUỐC",
+        "position": [
+            848,
+            891
+        ]
+    },
+    {
+        "text": "Metformin 500mg uống 2 lần mỗi ngày",
+        "type": "THUỐC",
+        "position": [
+            893,
+            928
+        ]
+    },
+    {
+        "text": "khát nước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1035,
+            1044
+        ]
+    },
+    {
+        "text": "đi tiểu nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1046,
+            1059
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1063,
+            1070
+        ]
+    },
+    {
+        "text": "rối loạn chuyển hóa đường huyết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1111,
+            1142
+        ]
+    },
+    {
+        "text": "các xét nghiệm chỉ số đường huyết đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1452,
+            1489
+        ]
+    },
+    {
+        "text": "nghiệm pháp dung nạp glucose",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1493,
+            1521
+        ]
+    },
+    {
+        "text": "các cơn đau bụng bất thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1598,
+            1625
+        ]
+    }
+]

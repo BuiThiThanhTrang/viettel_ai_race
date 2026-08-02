@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            82
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            227,
+            243
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            248,
+            266
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            350,
+            368
+        ]
+    },
+    {
+        "text": "Đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            430,
+            458
+        ]
+    },
+    {
+        "text": "chèn ép dây thần kinh tọa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            598,
+            623
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm cột sống thắt lưng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            625,
+            660
+        ]
+    },
+    {
+        "text": "hội chứng cơ hình lê",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            666,
+            686
+        ]
+    },
+    {
+        "text": "Đau thắt lưng cấp kèm theo tê bì chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            769,
+            811
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            901,
+            904
+        ]
+    },
+    {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            912,
+            919
+        ]
+    },
+    {
+        "text": "yếu liệt cơ tứ đầu đùi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            927,
+            949
+        ]
+    },
+    {
+        "text": "đau nhói đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1002,
+            1019
+        ]
+    },
+    {
+        "text": "yếu sức nửa người dưới bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1100,
+            1131
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1158,
+            1175
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1177,
+            1191
+        ]
+    },
+    {
+        "text": "ấn đau gai sau L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1257,
+            1277
+        ]
+    },
+    {
+        "text": "Lasegue",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1291,
+            1298
+        ]
+    },
+    {
+        "text": "dương tính ở góc 45 độ bên phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1299,
+            1330
+        ]
+    },
+    {
+        "text": "rối loạn cơ tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1355,
+            1371
+        ]
+    },
+    {
+        "text": "bí tiểu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1379,
+            1386
+        ]
+    },
+    {
+        "text": "tiểu không tự chủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1394,
+            1411
+        ]
+    },
+    {
+        "text": "Chụp X-quang cột sống thắt lưng thẳng nghiêng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1478,
+            1523
+        ]
+    },
+    {
+        "text": "MRI cột sống thắt lưng có cản từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1525,
+            1557
+        ]
+    },
+    {
+        "text": "tê yếu chân rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1820,
+            1838
+        ]
+    },
+    {
+        "text": "mất kiểm soát tiểu tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1844,
+            1867
+        ]
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "text": "U Sacoit tổn thương chủ yếu tại tim",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            83
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            133,
+            135
+        ]
+    },
+    {
+        "text": "ho ra máu cỡ đồng xu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            156,
+            176
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            230,
+            232
+        ]
+    },
+    {
+        "text": "ho ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            247,
+            256
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            321,
+            323
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            327,
+            334
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            372,
+            374
+        ]
+    },
+    {
+        "text": "đờm có màu hồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            415,
+            430
+        ]
+    },
+    {
+        "text": "sốt đến 38.8°C (101.8°F)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            461,
+            485
+        ]
+    },
+    {
+        "text": "ho ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            506,
+            515
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            562,
+            564
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            571,
+            578
+        ]
+    },
+    {
+        "text": "ho ra máu cỡ đồng xu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            585,
+            605
+        ]
+    },
+    {
+        "text": "Đờm pha màu hồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            623,
+            639
+        ]
+    },
+    {
+        "text": "sốt đến 38.8°C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            646,
+            660
+        ]
+    },
+    {
+        "text": "Đau bụng âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            667,
+            680
+        ]
+    },
+    {
+        "text": "levofloxacin",
+        "type": "THUỐC",
+        "position": [
+            856,
+            868
+        ]
+    },
+    {
+        "text": "viêm phế quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            881,
+            894
+        ]
+    },
+    {
+        "text": "viêm phổi mắc phải cộng đồng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            898,
+            926
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "position": [
+            955,
+            962
+        ]
+    },
+    {
+        "text": "công thức máu (cbc)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1015,
+            1034
+        ]
+    },
+    {
+        "text": "nâng cao lên 11.3",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1035,
+            1052
+        ]
+    },
+    {
+        "text": "chụp x-quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1085,
+            1102
+        ]
+    },
+    {
+        "text": "không phát hiện viêm phổi hoặc phù phổi",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1103,
+            1142
+        ]
+    },
+    {
+        "text": "Lấy mẫu cấy máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1175,
+            1190
+        ]
+    }
+]

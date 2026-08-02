@@ -1,0 +1,170 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            350,
+            359
+        ]
+    },
+    {
+        "text": "Run tay phải tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            543,
+            566
+        ]
+    },
+    {
+        "text": "cứng cơ chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            570,
+            587
+        ]
+    },
+    {
+        "text": "rung nhịp nhàng 4-6 chu kỳ/giây ở bàn tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            656,
+            702
+        ]
+    },
+    {
+        "text": "bánh răng dương tính rõ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            760,
+            783
+        ]
+    },
+    {
+        "text": "Bước đi ngắn, chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            824,
+            842
+        ]
+    },
+    {
+        "text": "mất cử động cánh tay khi di chuyển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            844,
+            878
+        ]
+    },
+    {
+        "text": "đổ người về phía trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            892,
+            914
+        ]
+    },
+    {
+        "text": "bệnh Parkinson giai đoạn sớm (Hoehn và Yahr độ 2)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            945,
+            994
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa liều 100/25mg, uống 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1028,
+            1077
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1116,
+            1124
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1130,
+            1139
+        ]
+    },
+    {
+        "text": "run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1216,
+            1219
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1247,
+            1260
+        ]
+    },
+    {
+        "text": "giảm cử động linh hoạt khi đi lại",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1262,
+            1295
+        ]
+    },
+    {
+        "text": "nét mặt đờ đẫn ít biểu cảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1301,
+            1327
+        ]
+    },
+    {
+        "text": "Run tay ở người trung niên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1363,
+            1389
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1432,
+            1442
+        ]
+    },
+    {
+        "text": "rối loạn chuyển hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1484,
+            1503
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1791,
+            1809
+        ]
+    }
+]

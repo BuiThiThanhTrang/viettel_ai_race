@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            124,
+            152
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            154,
+            174
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            176,
+            195
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            232,
+            240
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            242,
+            247
+        ]
+    },
+    {
+        "text": "loét vùng gót chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            251,
+            274
+        ]
+    },
+    {
+        "text": "chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            296,
+            309
+        ]
+    },
+    {
+        "text": "kích thước 3x4cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            413,
+            429
+        ]
+    },
+    {
+        "text": "nhiều giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            435,
+            448
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            468,
+            504
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            550,
+            563
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            574,
+            582
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            595,
+            598
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            600,
+            620
+        ]
+    },
+    {
+        "text": "18.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            622,
+            633
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            635,
+            640
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            642,
+            646
+        ]
+    },
+    {
+        "text": "X-quang bàn chân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            648,
+            664
+        ]
+    },
+    {
+        "text": "Chưa thấy tổn thương hủy xương rõ rệt",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            666,
+            703
+        ]
+    },
+    {
+        "text": "Loét bàn chân do đái tháo đường (Wagner độ 2)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            716,
+            761
+        ]
+    },
+    {
+        "text": "nhiễm trùng vết loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            763,
+            783
+        ]
+    }
+]

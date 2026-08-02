@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau đầu âm ỉ kéo dài ở vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            78
+        ]
+    },
+    {
+        "text": "hoa mắt chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            89,
+            106
+        ]
+    },
+    {
+        "text": "Triệu chứng đau đầu vùng chẩm kèm chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            380,
+            423
+        ]
+    },
+    {
+        "text": "hội chứng thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            477,
+            511
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            513,
+            531
+        ]
+    },
+    {
+        "text": "căng cơ vùng cổ gáy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            537,
+            556
+        ]
+    },
+    {
+        "text": "Chóng mặt dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            701,
+            717
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            719,
+            733
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            782,
+            795
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            974,
+            981
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            986,
+            994
+        ]
+    },
+    {
+        "text": "cảm giác mất phương hướng nghiêm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1029,
+            1067
+        ]
+    },
+    {
+        "text": "yếu sức chân phải tạm thời",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1094,
+            1120
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1158,
+            1187
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1199,
+            1212
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1236,
+            1262
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1264,
+            1295
+        ]
+    },
+    {
+        "text": "Betahistin 24mg",
+        "type": "THUỐC",
+        "position": [
+            1307,
+            1322
+        ]
+    },
+    {
+        "text": "Ginkgo biloba",
+        "type": "THUỐC",
+        "position": [
+            1324,
+            1337
+        ]
+    }
+]

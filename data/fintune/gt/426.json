@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đau đầu âm ỉ kéo dài ở vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            78
+        ]
+    },
+    {
+        "text": "tê bì ngón tay cái và ngón trỏ của bàn tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            89,
+            136
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            270,
+            291
+        ]
+    },
+    {
+        "text": "Đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            418,
+            435
+        ]
+    },
+    {
+        "text": "tê bì tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            444,
+            453
+        ]
+    },
+    {
+        "text": "Cơn chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            610,
+            634
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            644,
+            667
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            761,
+            774
+        ]
+    },
+    {
+        "text": "yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            851,
+            863
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            918,
+            920
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            928,
+            931
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            956,
+            963
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            968,
+            976
+        ]
+    },
+    {
+        "text": "yếu sức chân phải đột ngột xuất hiện vào sáng nay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1026,
+            1075
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người bên phải rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1077,
+            1119
+        ]
+    },
+    {
+        "text": "thiếu máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1166,
+            1190
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình trung ương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1193,
+            1222
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1247,
+            1274
+        ]
+    },
+    {
+        "text": "cộng hưởng từ cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1276,
+            1301
+        ]
+    },
+    {
+        "text": "đo điện cơ chi trên",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1305,
+            1324
+        ]
+    }
+]

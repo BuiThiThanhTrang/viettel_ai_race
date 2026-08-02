@@ -1,0 +1,122 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            167
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            172,
+            180
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            199
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            237,
+            253
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            255,
+            276
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            287,
+            306
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            373,
+            386
+        ]
+    },
+    {
+        "text": "8.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            399,
+            407
+        ]
+    },
+    {
+        "text": "25%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            420,
+            423
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            426,
+            449
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn ở mặt sau hành tá tràng, kích thước 1.5 cm, đáy có mạch máu lộ, đang rỉ máu (Forrest IIb)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            451,
+            560
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét hành tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            599,
+            645
+        ]
+    },
+    {
+        "text": "Omeprazole 80mg",
+        "type": "THUỐC",
+        "position": [
+            709,
+            724
+        ]
+    }
+]

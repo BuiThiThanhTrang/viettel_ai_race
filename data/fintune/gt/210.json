@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            207
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            209,
+            216
+        ]
+    },
+    {
+        "text": "sụt 4kg trong vòng 2 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            220,
+            246
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            257
+        ]
+    },
+    {
+        "text": "phân vàng lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            268,
+            282
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            301,
+            316
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            318,
+            339
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            350,
+            369
+        ]
+    },
+    {
+        "text": "Gan lách không sờ thấy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            371,
+            393
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            404,
+            411
+        ]
+    },
+    {
+        "text": "vàng mắt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            413,
+            425
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            451,
+            464
+        ]
+    },
+    {
+        "text": "bạch cầu tăng nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            466,
+            483
+        ]
+    },
+    {
+        "text": "Bilirubin toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            495,
+            514
+        ]
+    },
+    {
+        "text": "45 mcmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            515,
+            525
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            527,
+            538
+        ]
+    },
+    {
+        "text": "120 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            539,
+            546
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            568,
+            582
+        ]
+    },
+    {
+        "text": "khối giảm âm vùng đầu tụy kích thước 35x40mm, giãn ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            592,
+            654
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính ổ bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            679,
+            730
+        ]
+    },
+    {
+        "text": "xét nghiệm chỉ số CA 19-9",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            738,
+            763
+        ]
+    }
+]

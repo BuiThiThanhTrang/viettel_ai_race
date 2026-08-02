@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            235,
+            243
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            245,
+            250
+        ]
+    },
+    {
+        "text": "loét ngón cái bàn chân phải kéo dài 3 tuần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            296
+        ]
+    },
+    {
+        "text": "vết loét có dịch mủ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            298,
+            321
+        ]
+    },
+    {
+        "text": "Vết loét kích thước 2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            398,
+            423
+        ]
+    },
+    {
+        "text": "đáy phủ giả mạc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            425,
+            440
+        ]
+    },
+    {
+        "text": "xung quanh viêm đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            442,
+            460
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            462,
+            493
+        ]
+    },
+    {
+        "text": "Mạch mu chân phải bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            520
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            555,
+            566
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            568,
+            573
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            574,
+            578
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            580,
+            593
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            604,
+            612
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            625,
+            628
+        ]
+    },
+    {
+        "text": "Nhiễm trùng bàn chân đái tháo đường độ 3 theo phân loại Wagner",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            641,
+            703
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            782,
+            789
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau đầu vùng thái dương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            69
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            80,
+            87
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            263,
+            276
+        ]
+    },
+    {
+        "text": "suy nhược thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            322,
+            341
+        ]
+    },
+    {
+        "text": "chụp MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            358,
+            366
+        ]
+    },
+    {
+        "text": "chóng mặt khi thay đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            516,
+            545
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            549,
+            556
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            789,
+            807
+        ]
+    },
+    {
+        "text": "rối loạn mỡ máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            809,
+            824
+        ]
+    },
+    {
+        "text": "Cơn đau thắt ngực ổn định",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            843,
+            868
+        ]
+    },
+    {
+        "text": "khó thở gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            878,
+            894
+        ]
+    },
+    {
+        "text": "Huyết áp 150/95 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            911,
+            931
+        ]
+    },
+    {
+        "text": "nhịp tim 92 nhịp/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            933,
+            954
+        ]
+    },
+    {
+        "text": "tiếng thổi tâm thu nhẹ ở mỏm tim",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            959,
+            991
+        ]
+    },
+    {
+        "text": "Cholesterol toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1015,
+            1036
+        ]
+    },
+    {
+        "text": "6.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1037,
+            1047
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1049,
+            1060
+        ]
+    },
+    {
+        "text": "cho thấy thiếu máu cơ tim cục bộ vùng dưới",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1061,
+            1103
+        ]
+    },
+    {
+        "text": "Bệnh tim thiếu máu cục bộ mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1116,
+            1150
+        ]
+    },
+    {
+        "text": "hẹp động mạch vành",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1161,
+            1179
+        ]
+    },
+    {
+        "text": "aspirin 81mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1199,
+            1216
+        ]
+    },
+    {
+        "text": "atorvastatin 20mg buổi tối",
+        "type": "THUỐC",
+        "position": [
+            1218,
+            1244
+        ]
+    },
+    {
+        "text": "metoprolol 25mg chia hai lần",
+        "type": "THUỐC",
+        "position": [
+            1246,
+            1274
+        ]
+    }
+]

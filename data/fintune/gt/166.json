@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            167
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            172,
+            179
+        ]
+    },
+    {
+        "text": "đại tiện phân lỏng màu đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            220
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            278
+        ]
+    },
+    {
+        "text": "98 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            285,
+            296
+        ]
+    },
+    {
+        "text": "110/70 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            307,
+            318
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            320,
+            335
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            337,
+            358
+        ]
+    },
+    {
+        "text": "6 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            404,
+            414
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            441,
+            454
+        ]
+    },
+    {
+        "text": "85 g/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            459,
+            465
+        ]
+    },
+    {
+        "text": "26%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            471,
+            474
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            476,
+            490
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn bờ cứng, đường kính 2cm tại hang vị, có dấu hiệu chảy máu đang hoạt động (Forrest Ib)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            492,
+            597
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét dạ dày tá tràng biến chứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            619,
+            678
+        ]
+    },
+    {
+        "text": "pantoprazole 80mg",
+        "type": "THUỐC",
+        "position": [
+            744,
+            761
+        ]
+    }
+]

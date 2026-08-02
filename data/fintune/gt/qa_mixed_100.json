@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đau mỏi ở vùng cột sống thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            65,
+            98
+        ]
+    },
+    {
+        "text": "tê bì lan xuống hai chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            102,
+            126
+        ]
+    },
+    {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            138,
+            150
+        ]
+    },
+    {
+        "text": "đau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            230
+        ]
+    },
+    {
+        "text": "đi lại rất khó khăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            240,
+            259
+        ]
+    },
+    {
+        "text": "thoái hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            346,
+            355
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            360,
+            376
+        ]
+    },
+    {
+        "text": "chụp MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            402,
+            410
+        ]
+    },
+    {
+        "text": "Đau cột sống thắt lưng cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            524,
+            555
+        ]
+    },
+    {
+        "text": "lan dọc xuống mặt sau đùi hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            557,
+            590
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            671,
+            674
+        ]
+    },
+    {
+        "text": "paracetamol 500mg",
+        "type": "THUỐC",
+        "position": [
+            729,
+            746
+        ]
+    },
+    {
+        "text": "Hạn chế vận động cột sống thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            772,
+            807
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            830,
+            840
+        ]
+    },
+    {
+        "text": "giảm phản xạ gân xương bánh chè hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            861,
+            900
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            940,
+            943
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            945,
+            956
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            973,
+            984
+        ]
+    },
+    {
+        "text": "Hội chứng chèn ép rễ thần kinh do thoát vị đĩa đệm tầng L4-L5 và L5-S1",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            998,
+            1068
+        ]
+    },
+    {
+        "text": "Meloxicam 15mg",
+        "type": "THUỐC",
+        "position": [
+            1117,
+            1131
+        ]
+    },
+    {
+        "text": "Tolperisone 50mg",
+        "type": "THUỐC",
+        "position": [
+            1151,
+            1167
+        ]
+    },
+    {
+        "text": "Gabapentin 300mg",
+        "type": "THUỐC",
+        "position": [
+            1192,
+            1208
+        ]
+    },
+    {
+        "text": "tê bì chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1316,
+            1326
+        ]
+    },
+    {
+        "text": "teo cơ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1385,
+            1391
+        ]
+    },
+    {
+        "text": "chụp MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1427,
+            1454
+        ]
+    },
+    {
+        "text": "đau dai dẳng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1483,
+            1495
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1580,
+            1586
+        ]
+    },
+    {
+        "text": "mất cảm giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1588,
+            1600
+        ]
+    },
+    {
+        "text": "rối loạn đại tiểu tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1606,
+            1628
+        ]
+    }
+]

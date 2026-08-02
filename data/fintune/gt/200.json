@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            153
+        ]
+    },
+    {
+        "text": "gliclazide 30mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            155,
+            181
+        ]
+    },
+    {
+        "text": "lisinopril 10mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            183,
+            209
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            255,
+            263
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            270
+        ]
+    },
+    {
+        "text": "loét vùng gót chân trái kéo dài 3 tuần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            312
+        ]
+    },
+    {
+        "text": "không lành",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            324
+        ]
+    },
+    {
+        "text": "dịch tiết hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            326,
+            339
+        ]
+    },
+    {
+        "text": "kích thước 3x4cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            388,
+            404
+        ]
+    },
+    {
+        "text": "nhiều giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            410,
+            423
+        ]
+    },
+    {
+        "text": "lộ gân gót",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            425,
+            435
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            437,
+            473
+        ]
+    },
+    {
+        "text": "Mạch mu chân trái bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            475,
+            500
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            514,
+            519
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            520,
+            524
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            526,
+            534
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            535,
+            543
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            545,
+            548
+        ]
+    },
+    {
+        "text": "85 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            556
+        ]
+    },
+    {
+        "text": "X-quang bàn chân trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            578,
+            599
+        ]
+    },
+    {
+        "text": "chưa thấy tổn thương xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            600,
+            626
+        ]
+    },
+    {
+        "text": "Nhiễm trùng bàn chân đái tháo đường (Wagner độ 2)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            639,
+            688
+        ]
+    },
+    {
+        "text": "ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            754,
+            765
+        ]
+    },
+    {
+        "text": "metronidazole",
+        "type": "THUỐC",
+        "position": [
+            769,
+            782
+        ]
+    },
+    {
+        "text": "insulin phác đồ nền - bữa ăn",
+        "type": "THUỐC",
+        "position": [
+            811,
+            839
+        ]
+    }
+]

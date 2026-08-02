@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            176
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            261
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            271,
+            279
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            281,
+            288
+        ]
+    },
+    {
+        "text": "phân lỏng, màu vàng nhạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            338
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            404,
+            414
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            437
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            513,
+            524
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            525,
+            532
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            534,
+            544
+        ]
+    },
+    {
+        "text": "820 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            545,
+            552
+        ]
+    },
+    {
+        "text": "Đường huyết đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            554,
+            569
+        ]
+    },
+    {
+        "text": "12.4 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            570,
+            581
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            603,
+            617
+        ]
+    },
+    {
+        "text": "tụy phù nề, kích thước tăng nhẹ, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            627,
+            686
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            708,
+            720
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            741,
+            755
+        ]
+    },
+    {
+        "text": "Omeprazole",
+        "type": "THUỐC",
+        "position": [
+            818,
+            828
+        ]
+    },
+    {
+        "text": "Insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            859,
+            879
+        ]
+    }
+]

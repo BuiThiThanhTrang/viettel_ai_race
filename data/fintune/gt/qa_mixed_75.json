@@ -1,0 +1,98 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "Run tay trái mức độ nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            553,
+            577
+        ]
+    },
+    {
+        "text": "dáng đi chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            604,
+            621
+        ]
+    },
+    {
+        "text": "run khi nghỉ ở bàn tay trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            713,
+            740
+        ]
+    },
+    {
+        "text": "tay phải run nhẹ khi cử động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            742,
+            770
+        ]
+    },
+    {
+        "text": "Trương lực cơ tăng nhẹ ở các chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            772,
+            804
+        ]
+    },
+    {
+        "text": "Dáng đi cứng nhắc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            806,
+            823
+        ]
+    },
+    {
+        "text": "bước chân ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            825,
+            839
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            868,
+            897
+        ]
+    },
+    {
+        "text": "đo nồng độ dopamin huyết thanh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            899,
+            929
+        ]
+    },
+    {
+        "text": "Hội chứng Parkinson giai đoạn sớm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            948,
+            981
+        ]
+    },
+    {
+        "text": "Levodopa 250mg 1/2 viên x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            998,
+            1034
+        ]
+    }
+]

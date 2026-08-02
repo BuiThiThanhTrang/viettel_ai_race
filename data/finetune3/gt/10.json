@@ -1,0 +1,166 @@
+[
+  {
+    "text": "Đờm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      107,
+      110
+    ]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      113,
+      115
+    ]
+  },
+  {
+    "text": "đôi khi đau bụng quặn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      118,
+      139
+    ]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      142,
+      151
+    ]
+  },
+  {
+    "text": "đôi khi đi ngoài ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      154,
+      177
+    ]
+  },
+  {
+    "text": "tăng cân nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      186,
+      200
+    ]
+  },
+  {
+    "text": "cea (kháng nguyên ung thư phôi)",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      247,
+      278
+    ]
+  },
+  {
+    "text": "tăng nhẹ lên 4.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      279,
+      295
+    ]
+  },
+  {
+    "text": "mri vùng chậu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      325,
+      338
+    ]
+  },
+  {
+    "text": "không chẩn đoán được do không có mỡ nào trong cơ thể",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      347,
+      399
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      402,
+      409
+    ]
+  },
+  {
+    "text": "có thể có một tổn thương t2 tốt nhất",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      452,
+      488
+    ]
+  },
+  {
+    "text": "một số vùng không thể đánh giá tốt",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      496,
+      530
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      553,
+      563
+    ]
+  },
+  {
+    "text": "siêu âm ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      578,
+      586
+    ]
+  },
+  {
+    "text": "khối u trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      625,
+      642
+    ]
+  },
+  {
+    "text": "u ác trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      664,
+      679
+    ]
+  },
+  {
+    "text": "u tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      718,
+      725
+    ]
+  }
+]

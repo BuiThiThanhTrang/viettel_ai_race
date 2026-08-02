@@ -1,0 +1,234 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            42
+        ]
+    },
+    {
+        "text": "cảm giác nóng rát ở vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            80
+        ]
+    },
+    {
+        "text": "thuốc dạ dày dạng sữa",
+        "type": "THUỐC",
+        "position": [
+            149,
+            170
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            207,
+            210
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            325,
+            341
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            365,
+            372
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            447,
+            474
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            480,
+            496
+        ]
+    },
+    {
+        "text": "Đau bụng thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            628,
+            653
+        ]
+    },
+    {
+        "text": "nôn ra dịch lẫn máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            658,
+            682
+        ]
+    },
+    {
+        "text": "thuốc giảm đau NSAIDs",
+        "type": "THUỐC",
+        "position": [
+            775,
+            796
+        ]
+    },
+    {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            809,
+            817
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            834,
+            849
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            851,
+            872
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            874,
+            901
+        ]
+    },
+    {
+        "text": "Hemoglobin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            923,
+            933
+        ]
+    },
+    {
+        "text": "9.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            934,
+            942
+        ]
+    },
+    {
+        "text": "hồng cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            944,
+            952
+        ]
+    },
+    {
+        "text": "giảm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            953,
+            957
+        ]
+    },
+    {
+        "text": "xét nghiệm máu ẩn trong phân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            959,
+            987
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            988,
+            998
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1017,
+            1065
+        ]
+    },
+    {
+        "text": "nội soi dạ dày cấp cứu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1121,
+            1143
+        ]
+    },
+    {
+        "text": "thuốc ức chế bơm proton liều cao đường tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1178,
+            1226
+        ]
+    },
+    {
+        "text": "vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1471,
+            1482
+        ]
+    },
+    {
+        "text": "nội soi thực quản dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1486,
+            1510
+        ]
+    },
+    {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1588,
+            1607
+        ]
+    },
+    {
+        "text": "phân có màu đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1628,
+            1643
+        ]
+    },
+    {
+        "text": "nôn ra dịch lạ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1649,
+            1663
+        ]
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            43,
+            50
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            51,
+            60
+        ]
+    },
+    {
+        "text": "115/75 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            261,
+            272
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            312,
+            325
+        ]
+    },
+    {
+        "text": "khó thở gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            442,
+            458
+        ]
+    },
+    {
+        "text": "phù chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            462,
+            474
+        ]
+    },
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            486,
+            507
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            522,
+            529
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            531,
+            544
+        ]
+    },
+    {
+        "text": "Mạch 98 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            569,
+            585
+        ]
+    },
+    {
+        "text": "huyết áp 150/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            587,
+            607
+        ]
+    },
+    {
+        "text": "SpO2 92% khí phòng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            609,
+            627
+        ]
+    },
+    {
+        "text": "Nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            635,
+            649
+        ]
+    },
+    {
+        "text": "tiếng T3 ở mỏm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            654,
+            668
+        ]
+    },
+    {
+        "text": "Ran ẩm rải rác hai đáy phổi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            677,
+            704
+        ]
+    },
+    {
+        "text": "Phù mềm ấn lõm hai chi dưới đối xứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            712,
+            748
+        ]
+    },
+    {
+        "text": "NT-proBNP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            765,
+            774
+        ]
+    },
+    {
+        "text": "4500 pg/ml",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            775,
+            785
+        ]
+    },
+    {
+        "text": "X-quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            787,
+            799
+        ]
+    },
+    {
+        "text": "bóng tim to",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            805,
+            816
+        ]
+    },
+    {
+        "text": "chỉ số tim/lồng ngực 0.6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            818,
+            842
+        ]
+    },
+    {
+        "text": "Suy tim phân suất tống máu giảm (HFrEF) đợt cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            865,
+            912
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            914,
+            935
+        ]
+    },
+    {
+        "text": "tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            937,
+            955
+        ]
+    },
+    {
+        "text": "Furosemide 40mg tiêm tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            968,
+            998
+        ]
+    },
+    {
+        "text": "Valsartan/Sacubitril 50mg",
+        "type": "THUỐC",
+        "position": [
+            1000,
+            1025
+        ]
+    },
+    {
+        "text": "Bisoprolol 2.5mg",
+        "type": "THUỐC",
+        "position": [
+            1027,
+            1043
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1085,
+            1092
+        ]
+    },
+    {
+        "text": "hạ huyết áp tư thế đứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1132,
+            1155
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1422,
+            1445
+        ]
+    },
+    {
+        "text": "tiếng ù tai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1454,
+            1465
+        ]
+    },
+    {
+        "text": "lưu huyết não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1515,
+            1528
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "text": "chụp cắt lớp vi tính (ct) đầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            110,
+            139
+        ]
+    },
+    {
+        "text": "tăng đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            160,
+            172
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            263,
+            270
+        ]
+    },
+    {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            353,
+            364
+        ]
+    },
+    {
+        "text": "não úng thuỷ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            388,
+            400
+        ]
+    },
+    {
+        "text": "tăng nhãn áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            504,
+            516
+        ]
+    },
+    {
+        "text": "đau đầu kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            703,
+            718
+        ]
+    },
+    {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            728,
+            734
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            772,
+            779
+        ]
+    },
+    {
+        "text": "não úng tuỷ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            846,
+            857
+        ]
+    },
+    {
+        "text": "não úng thủy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            958,
+            970
+        ]
+    },
+    {
+        "text": "tăng đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            985,
+            997
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1099,
+            1106
+        ]
+    },
+    {
+        "text": "phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1182,
+            1193
+        ]
+    },
+    {
+        "text": "mờ mắt ở cả hai mắt, bên trái nặng hơn bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1227,
+            1274
+        ]
+    },
+    {
+        "text": "tăng tần suất đau đầu gián đoạn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1337,
+            1368
+        ]
+    },
+    {
+        "text": "đau đầu kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1401,
+            1416
+        ]
+    },
+    {
+        "text": "nhìn mờ ở cả hai mắt, bên trái nặng hơn bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1423,
+            1471
+        ]
+    },
+    {
+        "text": "cơn  đau đầu nhiều hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1479,
+            1501
+        ]
+    },
+    {
+        "text": "phù gai thị, bên trái nặng hơn bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1772,
+            1811
+        ]
+    },
+    {
+        "text": "Phù gai thị, bên trái nặng hơn bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1862,
+            1901
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính (ct) đầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1997,
+            2026
+        ]
+    },
+    {
+        "text": "Phù gai thị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2068,
+            2079
+        ]
+    }
+]

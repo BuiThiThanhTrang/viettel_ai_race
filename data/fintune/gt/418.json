@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            67
+        ]
+    },
+    {
+        "text": "cảm thấy chân phải mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            166,
+            199
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ trên mặt phẳng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            227,
+            262
+        ]
+    },
+    {
+        "text": "Đau lưng lan chi dưới kèm rối loạn vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            742,
+            785
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm cột sống thắt lưng L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            801,
+            842
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            962,
+            970
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            995,
+            1002
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1007,
+            1014
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1032,
+            1035
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1043,
+            1052
+        ]
+    },
+    {
+        "text": "cột sống thắt lưng hạn chế vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1088,
+            1123
+        ]
+    },
+    {
+        "text": "ấn đau gai sau L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1125,
+            1145
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1167,
+            1177
+        ]
+    },
+    {
+        "text": "Cảm giác nông vùng đùi và cẳng chân phải giảm nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1202,
+            1251
+        ]
+    },
+    {
+        "text": "yếu liệt cơ hoàn toàn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1259,
+            1280
+        ]
+    },
+    {
+        "text": "lực cơ chân phải đo được 4/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1288,
+            1316
+        ]
+    },
+    {
+        "text": "Kết quả chụp cộng hưởng từ cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1318,
+            1363
+        ]
+    },
+    {
+        "text": "hình ảnh thoát vị đĩa đệm trung tâm chèn ép rễ thần kinh bên phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1365,
+            1430
+        ]
+    },
+    {
+        "text": "Hội chứng rễ thần kinh thắt lưng do thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1452,
+            1504
+        ]
+    },
+    {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC",
+        "position": [
+            1529,
+            1543
+        ]
+    },
+    {
+        "text": "kháng viêm NSAIDs",
+        "type": "THUỐC",
+        "position": [
+            1545,
+            1562
+        ]
+    },
+    {
+        "text": "tê bì lan rộng hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1741,
+            1759
+        ]
+    },
+    {
+        "text": "mất kiểm soát tiểu tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1765,
+            1788
+        ]
+    }
+]

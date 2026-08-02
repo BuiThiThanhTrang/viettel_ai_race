@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            176
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            261
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            271,
+            279
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            281,
+            288
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            311,
+            314
+        ]
+    },
+    {
+        "text": "phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            331,
+            339
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            389,
+            414
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            425,
+            444
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            482,
+            493
+        ]
+    },
+    {
+        "text": "180 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            494,
+            501
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            503,
+            513
+        ]
+    },
+    {
+        "text": "210 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            514,
+            521
+        ]
+    },
+    {
+        "text": "Đường huyết đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            523,
+            538
+        ]
+    },
+    {
+        "text": "11.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            539,
+            550
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            552,
+            557
+        ]
+    },
+    {
+        "text": "8.5%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            558,
+            562
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            584,
+            598
+        ]
+    },
+    {
+        "text": "hình ảnh tụy tăng kích thước, cấu trúc không đồng nhất, ống tụy không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            608,
+            682
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            704,
+            720
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            730,
+            751
+        ]
+    },
+    {
+        "text": "Paracetamol 1g truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            833,
+            864
+        ]
+    },
+    {
+        "text": "Insulin",
+        "type": "THUỐC",
+        "position": [
+            893,
+            900
+        ]
+    }
+]

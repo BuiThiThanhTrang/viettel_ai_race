@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            325,
+            332
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            336,
+            345
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            413,
+            431
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            433,
+            446
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            452,
+            474
+        ]
+    },
+    {
+        "text": "Đau đầu âm ỉ vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            551,
+            573
+        ]
+    },
+    {
+        "text": "tê bì ngón tay cái và ngón trỏ bàn tay trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            583,
+            626
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            642,
+            655
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            785,
+            792
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            797,
+            805
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ một đoạn dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            924,
+            957
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            959,
+            994
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            996,
+            1038
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1040,
+            1054
+        ]
+    },
+    {
+        "text": "ngáng chân sang trái mỗi khi bước xuống bậc thang",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1058,
+            1107
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống cổ kèm chèn ép rễ thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1176,
+            1222
+        ]
+    },
+    {
+        "text": "rối loạn tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1234,
+            1256
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1281,
+            1315
+        ]
+    },
+    {
+        "text": "điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1317,
+            1328
+        ]
+    },
+    {
+        "text": "xét nghiệm sinh hóa máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1330,
+            1363
+        ]
+    },
+    {
+        "text": "thuốc giảm đau thần kinh",
+        "type": "THUỐC",
+        "position": [
+            1383,
+            1407
+        ]
+    },
+    {
+        "text": "giãn cơ",
+        "type": "THUỐC",
+        "position": [
+            1409,
+            1416
+        ]
+    }
+]

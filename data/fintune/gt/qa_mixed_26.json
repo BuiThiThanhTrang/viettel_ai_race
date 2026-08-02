@@ -1,0 +1,274 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            80
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            97,
+            105
+        ]
+    },
+    {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            107,
+            115
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            139,
+            144
+        ]
+    },
+    {
+        "text": "nóng rát ở ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            148,
+            163
+        ]
+    },
+    {
+        "text": "đau dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            239,
+            249
+        ]
+    },
+    {
+        "text": "triệu chứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            341,
+            352
+        ]
+    },
+    {
+        "text": "Cảm giác nóng rát ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            405,
+            427
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            431,
+            436
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            458,
+            485
+        ]
+    },
+    {
+        "text": "đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            497,
+            515
+        ]
+    },
+    {
+        "text": "viêm loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            526,
+            535
+        ]
+    },
+    {
+        "text": "rối loạn chức năng tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            541,
+            568
+        ]
+    },
+    {
+        "text": "Đau bụng vùng thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            744,
+            774
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            776,
+            793
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            825
+        ]
+    },
+    {
+        "text": "ấn điểm thượng vị đau nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            827,
+            854
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            856,
+            883
+        ]
+    },
+    {
+        "text": "Hemoglobin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            905,
+            915
+        ]
+    },
+    {
+        "text": "85g/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            916,
+            921
+        ]
+    },
+    {
+        "text": "MCV",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            930,
+            933
+        ]
+    },
+    {
+        "text": "giảm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            934,
+            938
+        ]
+    },
+    {
+        "text": "test thở urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            940,
+            955
+        ]
+    },
+    {
+        "text": "dương tính với Helicobacter pylori",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            956,
+            990
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét dạ dày tá tràng biến chứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1003,
+            1057
+        ]
+    },
+    {
+        "text": "thuốc ức chế bơm proton liều cao",
+        "type": "THUỐC",
+        "position": [
+            1077,
+            1109
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            1111,
+            1128
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1142,
+            1149
+        ]
+    },
+    {
+        "text": "đau thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1479,
+            1492
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1519,
+            1536
+        ]
+    },
+    {
+        "text": "sụt cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1542,
+            1570
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1622,
+            1636
+        ]
+    },
+    {
+        "text": "loét cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1745,
+            1758
+        ]
+    },
+    {
+        "text": "thuốc",
+        "type": "THUỐC",
+        "position": [
+            1834,
+            1839
+        ]
+    }
+]

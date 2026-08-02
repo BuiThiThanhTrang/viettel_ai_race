@@ -1,0 +1,202 @@
+[
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            34,
+            55
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            57,
+            70
+        ]
+    },
+    {
+        "text": "Metformin 850mg 2 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            95,
+            122
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            124,
+            151
+        ]
+    },
+    {
+        "text": "Lisinopril 10mg 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            153,
+            180
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            217,
+            225
+        ]
+    },
+    {
+        "text": "tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            227,
+            246
+        ]
+    },
+    {
+        "text": "vết loét ở ngón cái không lành",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            248,
+            278
+        ]
+    },
+    {
+        "text": "Vết loét ngón I chân trái kích thước 2x3cm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            329,
+            371
+        ]
+    },
+    {
+        "text": "đáy nhiều giả mạc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            373,
+            390
+        ]
+    },
+    {
+        "text": "chảy dịch mủ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            392,
+            408
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            410,
+            441
+        ]
+    },
+    {
+        "text": "Mạch mu chân trái bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            443,
+            468
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            482,
+            487
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            488,
+            492
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            494,
+            502
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            503,
+            511
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            513,
+            516
+        ]
+    },
+    {
+        "text": "85 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            517,
+            524
+        ]
+    },
+    {
+        "text": "X-quang bàn chân trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            546,
+            567
+        ]
+    },
+    {
+        "text": "chưa thấy tổn thương xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            568,
+            594
+        ]
+    },
+    {
+        "text": "Nhiễm trùng bàn chân đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            619,
+            654
+        ]
+    },
+    {
+        "text": "biến chứng thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            656,
+            687
+        ]
+    },
+    {
+        "text": "Kháng sinh tĩnh mạch (Ceftriaxone phối hợp Metronidazole)",
+        "type": "THUỐC",
+        "position": [
+            708,
+            765
+        ]
+    },
+    {
+        "text": "Insulin phác đồ nền-bolus",
+        "type": "THUỐC",
+        "position": [
+            814,
+            839
+        ]
+    }
+]

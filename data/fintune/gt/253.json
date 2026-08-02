@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg",
+        "type": "THUỐC",
+        "position": [
+            157,
+            172
+        ]
+    },
+    {
+        "text": "amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            174,
+            188
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            273
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            284,
+            292
+        ]
+    },
+    {
+        "text": "sụt 4kg trong vòng 2 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            294,
+            320
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            328,
+            331
+        ]
+    },
+    {
+        "text": "phân vàng lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            342,
+            356
+        ]
+    },
+    {
+        "text": "bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            396,
+            411
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            413,
+            434
+        ]
+    },
+    {
+        "text": "đường huyết đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            489,
+            504
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            505,
+            516
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            518,
+            523
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            524,
+            528
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            550,
+            601
+        ]
+    },
+    {
+        "text": "tổn thương dạng khối vùng đầu tụy kích thước 35x40mm, xâm lấn nhẹ tĩnh mạch mạc treo tràng trên, giãn ống tụy chính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            611,
+            726
+        ]
+    },
+    {
+        "text": "sinh thiết xuyên thành qua nội soi siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            787,
+            829
+        ]
+    }
+]

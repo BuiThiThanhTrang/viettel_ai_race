@@ -1,0 +1,202 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      474,
+      487
+    ]
+  },
+  {
+    "text": "Amlodipine 5mg/ngày",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      514,
+      533
+    ]
+  },
+  {
+    "text": "Đột ngột mất ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      552,
+      571
+    ]
+  },
+  {
+    "text": "liệt nửa người phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      581,
+      600
+    ]
+  },
+  {
+    "text": "khó nói",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      604,
+      611
+    ]
+  },
+  {
+    "text": "gọi hỏi không đáp ứng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      771,
+      792
+    ]
+  },
+  {
+    "text": "Huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      809,
+      817
+    ]
+  },
+  {
+    "text": "180/100 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      818,
+      830
+    ]
+  },
+  {
+    "text": "nhịp tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      832,
+      840
+    ]
+  },
+  {
+    "text": "95 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      841,
+      852
+    ]
+  },
+  {
+    "text": "Glassgow",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      854,
+      862
+    ]
+  },
+  {
+    "text": "10 điểm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      863,
+      870
+    ]
+  },
+  {
+    "text": "Đồng tử hai bên đều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      872,
+      891
+    ]
+  },
+  {
+    "text": "phản xạ ánh sáng dương tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      893,
+      920
+    ]
+  },
+  {
+    "text": "Sức cơ tay phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      922,
+      937
+    ]
+  },
+  {
+    "text": "0/5",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      938,
+      941
+    ]
+  },
+  {
+    "text": "chân phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      943,
+      952
+    ]
+  },
+  {
+    "text": "1/5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      953,
+      956
+    ]
+  },
+  {
+    "text": "CT scan não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      986,
+      997
+    ]
+  },
+  {
+    "text": "xuất huyết nội sọ vùng bao trong bên trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1016,
+      1057
+    ]
+  },
+  {
+    "text": "Xuất huyết não do tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1102,
+      1133
+    ]
+  },
+  {
+    "text": "Nicardipine",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1169,
+      1180
+    ]
+  }
+]

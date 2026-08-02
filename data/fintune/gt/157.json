@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            124,
+            152
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            154,
+            174
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            176,
+            195
+        ]
+    },
+    {
+        "text": "đau nhức âm ỉ bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            241,
+            268
+        ]
+    },
+    {
+        "text": "vết loét ở ngón cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            293
+        ]
+    },
+    {
+        "text": "chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            295,
+            308
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            339,
+            342
+        ]
+    },
+    {
+        "text": "rét run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            350,
+            357
+        ]
+    },
+    {
+        "text": "Vết loét kích thước 2x3cm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            397,
+            422
+        ]
+    },
+    {
+        "text": "đáy nhiều giả mạc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            424,
+            441
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            443,
+            479
+        ]
+    },
+    {
+        "text": "Mạch mu chân trái bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            481,
+            506
+        ]
+    },
+    {
+        "text": "Glucose máu mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            520,
+            540
+        ]
+    },
+    {
+        "text": "18.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            541,
+            552
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            554,
+            559
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            560,
+            564
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            566,
+            574
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            575,
+            583
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            585,
+            588
+        ]
+    },
+    {
+        "text": "85 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            589,
+            596
+        ]
+    },
+    {
+        "text": "X-quang bàn chân trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            618,
+            639
+        ]
+    },
+    {
+        "text": "hình ảnh viêm xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            650,
+            669
+        ]
+    },
+    {
+        "text": "Ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            739,
+            750
+        ]
+    },
+    {
+        "text": "Metronidazole",
+        "type": "THUỐC",
+        "position": [
+            754,
+            767
+        ]
+    },
+    {
+        "text": "insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            788,
+            808
+        ]
+    }
+]

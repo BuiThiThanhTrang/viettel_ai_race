@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau âm ỉ ở vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            66
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            68,
+            76
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            84,
+            89
+        ]
+    },
+    {
+        "text": "triệu chứng khó chịu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            302,
+            322
+        ]
+    },
+    {
+        "text": "triệu chứng đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            384,
+            404
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            408,
+            413
+        ]
+    },
+    {
+        "text": "xét nghiệm hơi thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            546,
+            564
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            570,
+            577
+        ]
+    },
+    {
+        "text": "Đau bụng dữ dội vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            743,
+            789
+        ]
+    },
+    {
+        "text": "nôn mửa dịch xanh vàng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            800,
+            822
+        ]
+    },
+    {
+        "text": "sốt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            824,
+            831
+        ]
+    },
+    {
+        "text": "Bụng chướng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            848,
+            859
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính ở vùng hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            861,
+            911
+        ]
+    },
+    {
+        "text": "gan không to",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            913,
+            925
+        ]
+    },
+    {
+        "text": "lách không sờ thấy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            927,
+            945
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp do sỏi mật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            964,
+            987
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1010,
+            1023
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1025,
+            1036
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1038,
+            1048
+        ]
+    },
+    {
+        "text": "siêu âm ổ bụng tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1050,
+            1074
+        ]
+    },
+    {
+        "text": "Paracetamol",
+        "type": "THUỐC",
+        "position": [
+            1132,
+            1143
+        ]
+    },
+    {
+        "text": "Amylase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1194,
+            1201
+        ]
+    },
+    {
+        "text": "triệu chứng đau thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1250,
+            1275
+        ]
+    },
+    {
+        "text": "thuốc giảm tiết axit",
+        "type": "THUỐC",
+        "position": [
+            1357,
+            1377
+        ]
+    },
+    {
+        "text": "triệu chứng thực thể",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1468,
+            1488
+        ]
+    }
+]

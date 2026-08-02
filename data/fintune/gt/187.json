@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            202
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            204,
+            211
+        ]
+    },
+    {
+        "text": "sụt 3kg trong vòng 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            239
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            247,
+            250
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            258,
+            265
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            294,
+            319
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            411,
+            425
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            427,
+            438
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            439,
+            450
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            452,
+            457
+        ]
+    },
+    {
+        "text": "8.5%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            458,
+            462
+        ]
+    },
+    {
+        "text": "CA 19-9",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            464,
+            471
+        ]
+    },
+    {
+        "text": "tăng cao (120 U/mL)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            472,
+            491
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            513,
+            564
+        ]
+    },
+    {
+        "text": "tổn thương dạng khối kích thước 3x4cm ở vùng đầu tụy, gây giãn ống tụy chính, xâm lấn nhẹ tĩnh mạch mạc treo tràng trên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            574,
+            693
+        ]
+    },
+    {
+        "text": "u đầu tụy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            721,
+            730
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            732,
+            753
+        ]
+    }
+]

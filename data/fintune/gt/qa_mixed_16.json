@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            82,
+            105
+        ]
+    },
+    {
+        "text": "đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            373,
+            391
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            489,
+            496
+        ]
+    },
+    {
+        "text": "Nôn ra máu đỏ tươi lẫn thức ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            633,
+            663
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            665,
+            682
+        ]
+    },
+    {
+        "text": "viêm gan B",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            731,
+            741
+        ]
+    },
+    {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            768,
+            773
+        ]
+    },
+    {
+        "text": "da niêm mạc nhợt nhạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            775,
+            796
+        ]
+    },
+    {
+        "text": "huyết áp 90/60 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            798,
+            817
+        ]
+    },
+    {
+        "text": "mạch 110 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            819,
+            836
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            838,
+            853
+        ]
+    },
+    {
+        "text": "gan lách khó sờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            855,
+            870
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do vỡ giãn tĩnh mạch thực quản biến chứng xơ gan",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            883,
+            951
+        ]
+    },
+    {
+        "text": "Somatostatin 250mcg/giờ",
+        "type": "THUỐC",
+        "position": [
+            1003,
+            1026
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1037,
+            1044
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1076,
+            1083
+        ]
+    },
+    {
+        "text": "đau âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1181,
+            1189
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1227,
+            1237
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1242,
+            1259
+        ]
+    },
+    {
+        "text": "đau kéo dài trên hai tuần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1511,
+            1536
+        ]
+    },
+    {
+        "text": "sụt cân bất thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1557,
+            1575
+        ]
+    },
+    {
+        "text": "vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1632,
+            1643
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1647,
+            1661
+        ]
+    }
+]

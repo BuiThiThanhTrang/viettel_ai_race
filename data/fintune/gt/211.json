@@ -1,0 +1,114 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            270
+        ]
+    },
+    {
+        "text": "đau nhức dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            290,
+            305
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            366,
+            394
+        ]
+    },
+    {
+        "text": "Chỉ số huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            518,
+            558
+        ]
+    },
+    {
+        "text": "0.65",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            569,
+            573
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            583,
+            616
+        ]
+    },
+    {
+        "text": "Hình ảnh mảng xơ vữa gây hẹp 70% động mạch đùi nông bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            618,
+            678
+        ]
+    },
+    {
+        "text": "Bệnh động mạch chi dưới mãn tính giai đoạn 2 theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            691,
+            749
+        ]
+    },
+    {
+        "text": "chụp mạch số hóa xóa nền (DSA)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            774,
+            804
+        ]
+    }
+]

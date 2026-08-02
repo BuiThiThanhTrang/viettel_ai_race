@@ -1,0 +1,258 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            189
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            195,
+            203
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            207,
+            225
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            250,
+            253
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            261,
+            268
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            298,
+            323
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            334,
+            353
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            355,
+            377
+        ]
+    },
+    {
+        "text": "Dấu hiệu Murphy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            379,
+            394
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            395,
+            402
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            429,
+            442
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            444,
+            452
+        ]
+    },
+    {
+        "text": "12.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            453,
+            461
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            463,
+            473
+        ]
+    },
+    {
+        "text": "chiếm 80%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            474,
+            483
+        ]
+    },
+    {
+        "text": "Sinh hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            485,
+            493
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            495,
+            506
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            507,
+            514
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            516,
+            526
+        ]
+    },
+    {
+        "text": "820 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            527,
+            534
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            536,
+            556
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            557,
+            568
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            570,
+            582
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, giảm âm nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            584,
+            616
+        ]
+    },
+    {
+        "text": "không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            618,
+            644
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            660,
+            683
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            693,
+            714
+        ]
+    },
+    {
+        "text": "NaCl 0.9%",
+        "type": "THUỐC",
+        "position": [
+            764,
+            773
+        ]
+    },
+    {
+        "text": "paracetamol 1g tiêm tĩnh mạch chậm",
+        "type": "THUỐC",
+        "position": [
+            789,
+            823
+        ]
+    },
+    {
+        "text": "insulin phác đồ tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            852,
+            880
+        ]
+    }
+]

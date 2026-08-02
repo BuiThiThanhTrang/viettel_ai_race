@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Viêm loét đại tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            57,
+            76
+        ]
+    },
+    {
+        "text": "Bệnh gan do rượu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            114,
+            130
+        ]
+    },
+    {
+        "text": "thuốc giảm đau opioid",
+        "type": "THUỐC",
+        "position": [
+            280,
+            301
+        ]
+    },
+    {
+        "text": "ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            408,
+            419
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            423,
+            431
+        ]
+    },
+    {
+        "text": "đau bụng/khó chịu vùng bụng tăng dần, đặc biệt ở vùng hạ vị bên trái (LLQ)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            438,
+            512
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            519,
+            527
+        ]
+    },
+    {
+        "text": "nôn x 1",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            534,
+            541
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            557,
+            560
+        ]
+    },
+    {
+        "text": "run rẩy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            564,
+            571
+        ]
+    },
+    {
+        "text": "mất cảm giác ngon miệng/chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            578,
+            609
+        ]
+    },
+    {
+        "text": "suy nhược",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            616,
+            625
+        ]
+    },
+    {
+        "text": "suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            644,
+            652
+        ]
+    },
+    {
+        "text": "giảm lượng nước tiểu từ 1800 ml xuống còn 300 ml trong vòng 24 giờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            659,
+            725
+        ]
+    },
+    {
+        "text": "tăng đáng kể lượng dịch từ ống thông hồi tràng từ 350 ml lên 1200 ml",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            732,
+            800
+        ]
+    },
+    {
+        "text": "đau bụng/khó chịu vùng bụng tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            898,
+            934
+        ]
+    },
+    {
+        "text": "nôn x 1",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            979,
+            986
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1025,
+            1028
+        ]
+    },
+    {
+        "text": "run rẩy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1032,
+            1039
+        ]
+    },
+    {
+        "text": "mất cảm giác ngon miệng/chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1041,
+            1072
+        ]
+    },
+    {
+        "text": "suy nhược",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1074,
+            1083
+        ]
+    },
+    {
+        "text": "suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1096,
+            1104
+        ]
+    },
+    {
+        "text": "thiểu niệu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1106,
+            1116
+        ]
+    },
+    {
+        "text": "chảy dịch từ lỗ dò tăng đáng kể",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1118,
+            1149
+        ]
+    },
+    {
+        "text": "ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1188,
+            1199
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1203,
+            1211
+        ]
+    },
+    {
+        "text": "thuốc giảm đau opioid",
+        "type": "THUỐC",
+        "position": [
+            1245,
+            1266
+        ]
+    },
+    {
+        "text": "thuốc giảm đau opioid",
+        "type": "THUỐC",
+        "position": [
+            1279,
+            1300
+        ]
+    }
+]

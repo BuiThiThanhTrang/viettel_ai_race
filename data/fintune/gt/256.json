@@ -1,0 +1,114 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            173
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            178,
+            183
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            185,
+            192
+        ]
+    },
+    {
+        "text": "Sụt 4kg trong 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            209,
+            230
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            259,
+            284
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            347,
+            354
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            380,
+            394
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn bờ cứng, kích thước khoảng 3cm tại hang vị, bề mặt có giả mạc, dễ chảy máu",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            396,
+            490
+        ]
+    },
+    {
+        "text": "Sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            492,
+            502
+        ]
+    },
+    {
+        "text": "ung thư biểu mô tuyến dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            536,
+            564
+        ]
+    },
+    {
+        "text": "Chụp CT ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            566,
+            580
+        ]
+    },
+    {
+        "text": "Dày thành vùng hang vị, chưa thấy hạch di căn xa rõ rệt",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            582,
+            637
+        ]
+    }
+]

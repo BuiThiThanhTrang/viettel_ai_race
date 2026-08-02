@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau thắt ngực trái âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            165
+        ]
+    },
+    {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            188,
+            197
+        ]
+    },
+    {
+        "text": "khó thở khi gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            219
+        ]
+    },
+    {
+        "text": "ran ẩm nhẹ ở đáy phổi hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            287,
+            316
+        ]
+    },
+    {
+        "text": "Điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            393,
+            404
+        ]
+    },
+    {
+        "text": "ST chênh lên ở các chuyển đạo V2-V6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            406,
+            441
+        ]
+    },
+    {
+        "text": "Troponin I",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            459,
+            469
+        ]
+    },
+    {
+        "text": "tăng cao (12.5 ng/mL)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            470,
+            491
+        ]
+    },
+    {
+        "text": "NT-proBNP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            493,
+            502
+        ]
+    },
+    {
+        "text": "3500 pg/mL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            503,
+            513
+        ]
+    },
+    {
+        "text": "Siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            515,
+            526
+        ]
+    },
+    {
+        "text": "Giảm động vách liên thất",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            528,
+            552
+        ]
+    },
+    {
+        "text": "phân suất tống máu (EF)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            554,
+            577
+        ]
+    },
+    {
+        "text": "40%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            578,
+            581
+        ]
+    },
+    {
+        "text": "Nhồi máu cơ tim cấp có ST chênh lên (STEMI) vùng trước rộng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            597,
+            656
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            717,
+            729
+        ]
+    },
+    {
+        "text": "Ticagrelor 90mg",
+        "type": "THUỐC",
+        "position": [
+            731,
+            746
+        ]
+    },
+    {
+        "text": "Enalapril 5mg",
+        "type": "THUỐC",
+        "position": [
+            774,
+            787
+        ]
+    },
+    {
+        "text": "Atorvastatin 80mg",
+        "type": "THUỐC",
+        "position": [
+            810,
+            827
+        ]
+    },
+    {
+        "text": "chụp và can thiệp mạch vành qua da (PCI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            839,
+            879
+        ]
+    }
+]

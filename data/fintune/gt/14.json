@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đau ngực trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            67,
+            80
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            90,
+            97
+        ]
+    },
+    {
+        "text": "đau ngực trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            121,
+            134
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            137,
+            144
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            147,
+            156
+        ]
+    },
+    {
+        "text": "đau ngực trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            180,
+            193
+        ]
+    },
+    {
+        "text": "gián đoạn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            195,
+            204
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            237,
+            244
+        ]
+    },
+    {
+        "text": "dị ứng theo mùa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            291,
+            306
+        ]
+    },
+    {
+        "text": "dị ứng phấn hoa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            310,
+            325
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            328,
+            337
+        ]
+    },
+    {
+        "text": "nghiệm pháp gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            414,
+            434
+        ]
+    },
+    {
+        "text": "kết quả bất thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            449,
+            467
+        ]
+    },
+    {
+        "text": "Xạ hình tưới máu cơ tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            470,
+            493
+        ]
+    },
+    {
+        "text": "thiếu máu cơ tim vùng dưới và thành bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            511,
+            550
+        ]
+    },
+    {
+        "text": "Chụp động mạch vành",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            551,
+            570
+        ]
+    },
+    {
+        "text": "hẹp 60% đoạn gần động mạch liên thất trước trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            572,
+            619
+        ]
+    },
+    {
+        "text": "Chẩn đoán sơ bộ : Bệnh động mạch vành mạn tính có thiếu máu cơ tim, hẹp 60% đoạn gần động mạch liên thất trước trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            679,
+            794
+        ]
+    }
+]

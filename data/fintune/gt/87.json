@@ -1,0 +1,98 @@
+[
+    {
+        "text": "trầm cảm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            108,
+            116
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            121,
+            135
+        ]
+    },
+    {
+        "text": "tổn thương chi dưới",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "buồn chán",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            323
+        ]
+    },
+    {
+        "text": "tổn thương chi dưới",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            441,
+            460
+        ]
+    },
+    {
+        "text": "tổn thương tổn thương chi dưới nghiêm trọng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            622,
+            665
+        ]
+    },
+    {
+        "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            678,
+            719
+        ]
+    },
+    {
+        "text": "cắt cụt chân phải bên dưới gối",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            724,
+            754
+        ]
+    },
+    {
+        "text": "biến chứng thuyên tắc phổi hai bên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            757,
+            791
+        ]
+    },
+    {
+        "text": "nhiễm trùng chi dưới bên phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            795,
+            824
+        ]
+    },
+    {
+        "text": "Enterococcus kháng vancomycin",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            828,
+            857
+        ]
+    },
+    {
+        "text": "kháng sinh tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            943,
+            963
+        ]
+    }
+]

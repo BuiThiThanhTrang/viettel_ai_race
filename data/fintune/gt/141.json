@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            202
+        ]
+    },
+    {
+        "text": "tiêu phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            204,
+            229
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            257
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            272
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            291,
+            306
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            308,
+            329
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            331,
+            358
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            360,
+            382
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            408,
+            421
+        ]
+    },
+    {
+        "text": "bạch cầu 12.5 G/L",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            423,
+            440
+        ]
+    },
+    {
+        "text": "neutrophil 82%",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            442,
+            456
+        ]
+    },
+    {
+        "text": "Sinh hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            458,
+            466
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            468,
+            479
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            480,
+            487
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            489,
+            499
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            500,
+            508
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            510,
+            521
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            522,
+            533
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            535,
+            547
+        ]
+    },
+    {
+        "text": "Tụy phù nề, kích thước lớn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            575
+        ]
+    },
+    {
+        "text": "không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            577,
+            603
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            605,
+            635
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            645,
+            659
+        ]
+    },
+    {
+        "text": "insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            744,
+            764
+        ]
+    }
+]

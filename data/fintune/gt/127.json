@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            189
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            206
+        ]
+    },
+    {
+        "text": "phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            208,
+            228
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            285,
+            300
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            302,
+            323
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            325,
+            352
+        ]
+    },
+    {
+        "text": "nhu động ruột tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            354,
+            372
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            390,
+            401
+        ]
+    },
+    {
+        "text": "tăng gấp 5 lần giới hạn bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            402,
+            437
+        ]
+    },
+    {
+        "text": "đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            439,
+            459
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            460,
+            471
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            493,
+            507
+        ]
+    },
+    {
+        "text": "tụy phù nề, kích thước tăng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            517,
+            544
+        ]
+    },
+    {
+        "text": "không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            546,
+            572
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            611,
+            641
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            651,
+            665
+        ]
+    },
+    {
+        "text": "paracetamol 1g truyền tĩnh mạch mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            723,
+            764
+        ]
+    },
+    {
+        "text": "insulin phác đồ tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            793,
+            821
+        ]
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "text": "run tay khi cầm nắm đồ vật hoặc khi ngồi nghỉ, nhất là bàn tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            60,
+            127
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            141,
+            144
+        ]
+    },
+    {
+        "text": "đau đớn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            156
+        ]
+    },
+    {
+        "text": "run lên bần bật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            187,
+            202
+        ]
+    },
+    {
+        "text": "run tĩnh trạng tay phải kéo dài 6 tháng nay, cường độ tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            515,
+            577
+        ]
+    },
+    {
+        "text": "Run khi nghỉ (resting tremor) ở bàn tay phải rõ rệt, run kiểu đếm tiền",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            630,
+            700
+        ]
+    },
+    {
+        "text": "hội chứng Parkinson nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            870,
+            901
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg, ngày 2 lần",
+        "type": "THUỐC",
+        "position": [
+            931,
+            967
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            991,
+            1022
+        ]
+    },
+    {
+        "text": "định lượng ceruloplasmin máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1024,
+            1052
+        ]
+    },
+    {
+        "text": "chức năng tuyến giáp TSH, FT4",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1063,
+            1092
+        ]
+    },
+    {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1126,
+            1133
+        ]
+    },
+    {
+        "text": "huyết áp tư thế đứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1137,
+            1157
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1330,
+            1342
+        ]
+    },
+    {
+        "text": "vận động chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1344,
+            1362
+        ]
+    },
+    {
+        "text": "cứng đờ cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1366,
+            1376
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1649,
+            1656
+        ]
+    },
+    {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1662,
+            1668
+        ]
+    }
+]

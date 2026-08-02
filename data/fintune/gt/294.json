@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            126,
+            154
+        ]
+    },
+    {
+        "text": "gliclazide 30mg",
+        "type": "THUỐC",
+        "position": [
+            156,
+            171
+        ]
+    },
+    {
+        "text": "amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            173,
+            187
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            233,
+            272
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            278,
+            286
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            288,
+            317
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            342,
+            345
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            353,
+            360
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            410,
+            447
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            449,
+            476
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            494,
+            505
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            506,
+            513
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            515,
+            525
+        ]
+    },
+    {
+        "text": "620 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            526,
+            533
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            535,
+            555
+        ]
+    },
+    {
+        "text": "14.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            556,
+            567
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            589,
+            603
+        ]
+    },
+    {
+        "text": "tụy kích thước to, bờ không đều, thâm nhiễm mỡ quanh tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            613,
+            669
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            691,
+            703
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            724,
+            738
+        ]
+    },
+    {
+        "text": "NaCl 0.9%",
+        "type": "THUỐC",
+        "position": [
+            790,
+            799
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            815,
+            843
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            872,
+            879
+        ]
+    }
+]

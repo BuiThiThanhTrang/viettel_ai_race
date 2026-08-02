@@ -1,0 +1,110 @@
+[
+  {
+    "text": "Run tay khi nghỉ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      547,
+      563
+    ]
+  },
+  {
+    "text": "giảm vận động toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      567,
+      590
+    ]
+  },
+  {
+    "text": "run tay phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      632,
+      644
+    ]
+  },
+  {
+    "text": "cứng cơ khớp gối và vai",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      745,
+      768
+    ]
+  },
+  {
+    "text": "bước đi ngắn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      770,
+      782
+    ]
+  },
+  {
+    "text": "khó khăn khi bắt đầu khởi động đi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      784,
+      817
+    ]
+  },
+  {
+    "text": "Dấu hiệu bánh xe răng cưa (+)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      836,
+      865
+    ]
+  },
+  {
+    "text": "cứng đờ các cơ ngoại vi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      867,
+      890
+    ]
+  },
+  {
+    "text": "Run tĩnh trạng biên độ nhỏ tần số 4-6 Hz",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      894,
+      934
+    ]
+  },
+  {
+    "text": "Bệnh Parkinson nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      955,
+      981
+    ]
+  },
+  {
+    "text": "Levodopa 250mg 2 viên/ngày",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1637,
+      1663
+    ]
+  },
+  {
+    "text": "Trihexyphenidyl 2mg uống 2 lần/ngày",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1665,
+      1700
+    ]
+  }
+]

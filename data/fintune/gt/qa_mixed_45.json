@@ -1,0 +1,178 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            42
+        ]
+    },
+    {
+        "text": "nóng rát vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            44,
+            67
+        ]
+    },
+    {
+        "text": "cảm giác như có lửa đốt sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            69,
+            105
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            174,
+            201
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            239,
+            246
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản (GERD)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            381,
+            415
+        ]
+    },
+    {
+        "text": "Đau bụng vùng thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            661,
+            691
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            693,
+            710
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            727,
+            742
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            744,
+            764
+        ]
+    },
+    {
+        "text": "dấu hiệu thiếu máu nhẹ (niêm mạc nhợt)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            766,
+            804
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            828,
+            851
+        ]
+    },
+    {
+        "text": "ổ loét lớn ở bờ cong nhỏ dạ dày kích thước 1.5cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            861,
+            909
+        ]
+    },
+    {
+        "text": "có dấu hiệu giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            911,
+            930
+        ]
+    },
+    {
+        "text": "dương tính với Helicobacter pylori qua test nhanh",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            932,
+            981
+        ]
+    },
+    {
+        "text": "Loét dạ dày tá tràng biến chứng xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            994,
+            1045
+        ]
+    },
+    {
+        "text": "Omeprazole 40mg mỗi 12 giờ",
+        "type": "THUỐC",
+        "position": [
+            1097,
+            1123
+        ]
+    },
+    {
+        "text": "Amoxicillin",
+        "type": "THUỐC",
+        "position": [
+            1154,
+            1165
+        ]
+    },
+    {
+        "text": "Clarithromycin",
+        "type": "THUỐC",
+        "position": [
+            1169,
+            1183
+        ]
+    },
+    {
+        "text": "sụt cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1347,
+            1375
+        ]
+    },
+    {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1377,
+            1387
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1392,
+            1409
+        ]
+    }
+]

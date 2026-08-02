@@ -1,0 +1,250 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            45,
+            59
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            98,
+            118
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            153,
+            170
+        ]
+    },
+    {
+        "text": "thiếu máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            303,
+            312
+        ]
+    },
+    {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            317,
+            329
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            389,
+            396
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            400,
+            409
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            469,
+            487
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            489,
+            513
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            696,
+            710
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            721,
+            741
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            743,
+            757
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            761,
+            774
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            785,
+            798
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            864,
+            872
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            897,
+            904
+        ]
+    },
+    {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            909,
+            917
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            925,
+            927
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            935,
+            938
+        ]
+    },
+    {
+        "text": "yếu liệt nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            946,
+            973
+        ]
+    },
+    {
+        "text": "Huyết áp lúc vào viện 160/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1024,
+            1058
+        ]
+    },
+    {
+        "text": "Tai biến mạch máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1150,
+            1182
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1185,
+            1203
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1228,
+            1255
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1257,
+            1268
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1270,
+            1294
+        ]
+    },
+    {
+        "text": "Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            1318,
+            1329
+        ]
+    },
+    {
+        "text": "Aspirin",
+        "type": "THUỐC",
+        "position": [
+            1362,
+            1369
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1454,
+            1463
+        ]
+    },
+    {
+        "text": "yếu chân khi bước xuống giường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1486,
+            1516
+        ]
+    },
+    {
+        "text": "chụp MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1600,
+            1612
+        ]
+    }
+]

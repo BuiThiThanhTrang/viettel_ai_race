@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Yếu chi dưới phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      589,
+      606
+    ]
+  },
+  {
+    "text": "mất cảm giác nông vùng mông",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      608,
+      635
+    ]
+  },
+  {
+    "text": "Sức cơ chi dưới bên phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      712,
+      736
+    ]
+  },
+  {
+    "text": "2/5",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      737,
+      740
+    ]
+  },
+  {
+    "text": "Phản xạ gân xương bánh chè giảm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      742,
+      773
+    ]
+  },
+  {
+    "text": "thoái hóa đĩa đệm L4-L5 chèn ép rễ thần kinh nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      812,
+      869
+    ]
+  },
+  {
+    "text": "CRP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      920,
+      923
+    ]
+  },
+  {
+    "text": "tăng nhẹ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      924,
+      932
+    ]
+  },
+  {
+    "text": "tốc độ máu lắng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      934,
+      949
+    ]
+  },
+  {
+    "text": "25mm/h",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      950,
+      956
+    ]
+  }
+]

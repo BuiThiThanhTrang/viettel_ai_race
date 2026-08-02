@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            202
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            206,
+            224
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            260,
+            263
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            271,
+            278
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            297,
+            312
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            335
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            337,
+            364
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            366,
+            388
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            414,
+            425
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            427,
+            434
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            436,
+            446
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            448,
+            456
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            458,
+            470
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, giảm âm, thâm nhiễm mỡ quanh tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            472,
+            525
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            538,
+            561
+        ]
+    },
+    {
+        "text": "NaCl 0.9%",
+        "type": "THUỐC",
+        "position": [
+            615,
+            624
+        ]
+    },
+    {
+        "text": "Paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            640,
+            668
+        ]
+    },
+    {
+        "text": "Ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            690,
+            709
+        ]
+    },
+    {
+        "text": "dấu hiệu sinh tồn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            724,
+            741
+        ]
+    }
+]

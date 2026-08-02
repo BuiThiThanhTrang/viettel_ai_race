@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            124,
+            152
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            154,
+            174
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            176,
+            195
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            241,
+            249
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            251,
+            256
+        ]
+    },
+    {
+        "text": "loét vùng gót chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            260,
+            283
+        ]
+    },
+    {
+        "text": "dịch mủ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            312,
+            323
+        ]
+    },
+    {
+        "text": "kích thước 3x4cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            420,
+            436
+        ]
+    },
+    {
+        "text": "nhiều giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            442,
+            455
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            457,
+            493
+        ]
+    },
+    {
+        "text": "bắt yếu",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            513,
+            520
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            534,
+            539
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            540,
+            544
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            546,
+            554
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            555,
+            563
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            565,
+            568
+        ]
+    },
+    {
+        "text": "85 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            569,
+            576
+        ]
+    },
+    {
+        "text": "X-quang bàn chân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            598,
+            614
+        ]
+    },
+    {
+        "text": "chưa thấy hình ảnh viêm xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            615,
+            644
+        ]
+    },
+    {
+        "text": "Loét bàn chân do biến chứng thần kinh và mạch máu ngoại biên trên nền đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            657,
+            741
+        ]
+    },
+    {
+        "text": "Ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            804,
+            823
+        ]
+    },
+    {
+        "text": "Metronidazole 500mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            832,
+            856
+        ]
+    }
+]

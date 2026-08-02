@@ -1,0 +1,226 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            325,
+            334
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            338,
+            345
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            398,
+            416
+        ]
+    },
+    {
+        "text": "thiếu máu cục bộ não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            418,
+            438
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            444,
+            466
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            549,
+            569
+        ]
+    },
+    {
+        "text": "đau đầu âm ỉ vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            571,
+            593
+        ]
+    },
+    {
+        "text": "liên tục khuỵu chân khi đi bộ do mất thăng bằng trầm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            595,
+            653
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            669,
+            682
+        ]
+    },
+    {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            690,
+            708
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            765,
+            768
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            776,
+            778
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            803,
+            810
+        ]
+    },
+    {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            815,
+            827
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            854,
+            862
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            910,
+            927
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            929,
+            962
+        ]
+    },
+    {
+        "text": "liệt mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            970,
+            978
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            997,
+            1022
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1025,
+            1038
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1063,
+            1090
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1092,
+            1103
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1105,
+            1129
+        ]
+    },
+    {
+        "text": "Thuốc hạ áp",
+        "type": "THUỐC",
+        "position": [
+            1141,
+            1152
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1154,
+            1182
+        ]
+    },
+    {
+        "text": "thuốc",
+        "type": "THUỐC",
+        "position": [
+            1467,
+            1472
+        ]
+    }
+]

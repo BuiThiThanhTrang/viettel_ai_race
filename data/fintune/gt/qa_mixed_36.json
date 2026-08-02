@@ -1,0 +1,130 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            42
+        ]
+    },
+    {
+        "text": "nóng rát ở vùng ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            66
+        ]
+    },
+    {
+        "text": "đau dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            271,
+            281
+        ]
+    },
+    {
+        "text": "trào ngược thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            286,
+            306
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản (GERD)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            494,
+            528
+        ]
+    },
+    {
+        "text": "đau thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            695,
+            708
+        ]
+    },
+    {
+        "text": "nôn ra dịch máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            713,
+            733
+        ]
+    },
+    {
+        "text": "khoảng 200ml",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            734,
+            746
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            763,
+            778
+        ]
+    },
+    {
+        "text": "ấn điểm thượng vị đau nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            780,
+            807
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do viêm loét dạ dày - tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            839,
+            889
+        ]
+    },
+    {
+        "text": "Pantoprazole 40mg mỗi 12 giờ",
+        "type": "THUỐC",
+        "position": [
+            921,
+            949
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            954,
+            968
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1075,
+            1081
+        ]
+    },
+    {
+        "text": "nóng rát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1085,
+            1093
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1460,
+            1474
+        ]
+    }
+]

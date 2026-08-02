@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau nhói ở vùng ngực phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            50,
+            75
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            86,
+            93
+        ]
+    },
+    {
+        "text": "đau ngực trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            261,
+            274
+        ]
+    },
+    {
+        "text": "khó thở khi leo cầu thang",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            299,
+            324
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            332,
+            334
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            342,
+            345
+        ]
+    },
+    {
+        "text": "Đau tức ngực phải lan nhẹ ra sau bả vai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            388,
+            427
+        ]
+    },
+    {
+        "text": "chẹn ép ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            429,
+            441
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống cổ C5-C6",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            492,
+            519
+        ]
+    },
+    {
+        "text": "hạn chế biên độ vận động khi xoay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            550,
+            588
+        ]
+    },
+    {
+        "text": "Yếu sức nửa người phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            590,
+            612
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            676,
+            690
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            694,
+            707
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            734,
+            751
+        ]
+    },
+    {
+        "text": "Hội chứng rễ cổ phải do thoái hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            836,
+            869
+        ]
+    },
+    {
+        "text": "Rối loạn vận động chi dưới tạm thời",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            872,
+            907
+        ]
+    },
+    {
+        "text": "Chụp MRI cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            934,
+            954
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            956,
+            967
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            969,
+            997
+        ]
+    },
+    {
+        "text": "Pregabalin 75mg",
+        "type": "THUỐC",
+        "position": [
+            1015,
+            1030
+        ]
+    },
+    {
+        "text": "Mecobalamin 500mcg",
+        "type": "THUỐC",
+        "position": [
+            1032,
+            1050
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1095,
+            1103
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1112,
+            1119
+        ]
+    },
+    {
+        "text": "điện tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1337,
+            1345
+        ]
+    }
+]

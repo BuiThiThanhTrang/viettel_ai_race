@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "insulin nền",
+        "type": "THUỐC",
+        "position": [
+            88,
+            99
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            101,
+            114
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            158,
+            197
+        ]
+    },
+    {
+        "text": "nôn mửa nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            202,
+            215
+        ]
+    },
+    {
+        "text": "đại tiện phân lỏng màu vàng nhạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            217,
+            249
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            284,
+            287
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            307,
+            322
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            324,
+            361
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            363,
+            390
+        ]
+    },
+    {
+        "text": "Dấu hiệu Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            392,
+            415
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            434,
+            447
+        ]
+    },
+    {
+        "text": "bạch cầu 12.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            449,
+            466
+        ]
+    },
+    {
+        "text": "neutrophil 82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            468,
+            482
+        ]
+    },
+    {
+        "text": "Sinh hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            484,
+            492
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            494,
+            505
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            506,
+            513
+        ]
+    },
+    {
+        "text": "Lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            515,
+            521
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            522,
+            530
+        ]
+    },
+    {
+        "text": "đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            532,
+            543
+        ]
+    },
+    {
+        "text": "18.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            544,
+            555
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            557,
+            569
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, cấu trúc không đồng nhất, dịch quanh tụy mức độ ít",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            571,
+            642
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            658,
+            688
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            698,
+            719
+        ]
+    },
+    {
+        "text": "giảm tiết somatostatin",
+        "type": "THUỐC",
+        "position": [
+            808,
+            830
+        ]
+    },
+    {
+        "text": "insulin truyền tĩnh mạch liên tục",
+        "type": "THUỐC",
+        "position": [
+            859,
+            892
+        ]
+    }
+]

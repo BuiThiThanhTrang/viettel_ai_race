@@ -1,0 +1,162 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            42
+        ]
+    },
+    {
+        "text": "nóng rát ở vùng ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            66
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            189,
+            205
+        ]
+    },
+    {
+        "text": "hội chứng trào ngược dạ dày thực quản (GERD)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            346,
+            390
+        ]
+    },
+    {
+        "text": "Đau thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            540,
+            560
+        ]
+    },
+    {
+        "text": "nôn ra dịch lẫn máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            565,
+            589
+        ]
+    },
+    {
+        "text": "thuốc giảm đau NSAIDs",
+        "type": "THUỐC",
+        "position": [
+            682,
+            703
+        ]
+    },
+    {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            708,
+            716
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            733,
+            748
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            750,
+            771
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            773,
+            800
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng có biến chứng xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            813,
+            872
+        ]
+    },
+    {
+        "text": "nội soi dạ dày cấp cứu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            916,
+            938
+        ]
+    },
+    {
+        "text": "Omeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            955,
+            970
+        ]
+    },
+    {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            990,
+            1003
+        ]
+    },
+    {
+        "text": "đông máu toàn bộ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1007,
+            1023
+        ]
+    },
+    {
+        "text": "triệu chứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1305,
+            1316
+        ]
+    },
+    {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1358,
+            1365
+        ]
+    },
+    {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1367,
+            1377
+        ]
+    },
+    {
+        "text": "nội soi tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1390,
+            1406
+        ]
+    }
+]

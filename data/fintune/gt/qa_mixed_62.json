@@ -1,0 +1,194 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "cơ thể cứng nhắc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            338,
+            354
+        ]
+    },
+    {
+        "text": "di chuyển khó khăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            356,
+            374
+        ]
+    },
+    {
+        "text": "run tay khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            595,
+            611
+        ]
+    },
+    {
+        "text": "cứng khớp chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            615,
+            633
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            652,
+            660
+        ]
+    },
+    {
+        "text": "140/85 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            662,
+            673
+        ]
+    },
+    {
+        "text": "Nhịp tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            677,
+            685
+        ]
+    },
+    {
+        "text": "78 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            687,
+            698
+        ]
+    },
+    {
+        "text": "Run tay biên độ thấp, tần số 4-6 Hz khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            713,
+            757
+        ]
+    },
+    {
+        "text": "dấu hiệu bánh xe răng cưa dương tính ở khớp khuỷu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            759,
+            808
+        ]
+    },
+    {
+        "text": "Chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            821,
+            830
+        ]
+    },
+    {
+        "text": "bước ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            832,
+            841
+        ]
+    },
+    {
+        "text": "đông cứng tạm thời",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            857,
+            875
+        ]
+    },
+    {
+        "text": "Hội chứng Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            894,
+            913
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa liều 100/25mg",
+        "type": "THUỐC",
+        "position": [
+            990,
+            1022
+        ]
+    },
+    {
+        "text": "MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1102,
+            1112
+        ]
+    },
+    {
+        "text": "loại trừ các tổn thương khu trú hoặc thiếu máu cục bộ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1114,
+            1167
+        ]
+    },
+    {
+        "text": "run sinh lý",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1324,
+            1335
+        ]
+    },
+    {
+        "text": "run bệnh lý",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1339,
+            1350
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1415,
+            1422
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1426,
+            1438
+        ]
+    },
+    {
+        "text": "run lan rộng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1709,
+            1721
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1825,
+            1843
+        ]
+    }
+]

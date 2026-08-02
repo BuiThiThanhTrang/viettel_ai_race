@@ -1,0 +1,170 @@
+[
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            44,
+            51
+        ]
+    },
+    {
+        "text": "cứng đờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            132,
+            139
+        ]
+    },
+    {
+        "text": "bệnh lý thần kinh vận động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            277,
+            303
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            451,
+            464
+        ]
+    },
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            472,
+            493
+        ]
+    },
+    {
+        "text": "Run tĩnh trạng tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            547,
+            570
+        ]
+    },
+    {
+        "text": "giảm khả năng biểu cảm khuôn mặt (mặt đờ đẫn)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            595,
+            640
+        ]
+    },
+    {
+        "text": "bước ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            650,
+            659
+        ]
+    },
+    {
+        "text": "mất đối vận tay khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            661,
+            686
+        ]
+    },
+    {
+        "text": "Trương lực cơ tay phải tăng kiểu bánh xe răng cưa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            706,
+            755
+        ]
+    },
+    {
+        "text": "sai tầm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            787,
+            794
+        ]
+    },
+    {
+        "text": "Hội chứng Parkinson nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            815,
+            846
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg mỗi ngày",
+        "type": "THUỐC",
+        "position": [
+            877,
+            910
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            988,
+            1017
+        ]
+    },
+    {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1030,
+            1035
+        ]
+    },
+    {
+        "text": "nhồi máu não cũ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1041,
+            1056
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1117,
+            1124
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1215,
+            1222
+        ]
+    },
+    {
+        "text": "rối loạn dáng đi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1226,
+            1242
+        ]
+    },
+    {
+        "text": "run sinh lý",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1412,
+            1423
+        ]
+    },
+    {
+        "text": "hội chứng ngoại tháp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1427,
+            1447
+        ]
+    }
+]

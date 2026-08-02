@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            93
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            102,
+            107
+        ]
+    },
+    {
+        "text": "nóng rát sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            111,
+            132
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            318,
+            334
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            368,
+            375
+        ]
+    },
+    {
+        "text": "đau bụng dữ dội vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            502,
+            548
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            559,
+            572
+        ]
+    },
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            580,
+            601
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            632,
+            647
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            649,
+            679
+        ]
+    },
+    {
+        "text": "nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            699
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            713,
+            724
+        ]
+    },
+    {
+        "text": "tăng gấp 5 lần giới hạn bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            725,
+            760
+        ]
+    },
+    {
+        "text": "lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            762,
+            768
+        ]
+    },
+    {
+        "text": "tăng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            769,
+            773
+        ]
+    },
+    {
+        "text": "đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            782,
+            793
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            794,
+            805
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp do tăng triglyceride máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            818,
+            855
+        ]
+    },
+    {
+        "text": "thuốc giảm đau nhóm opioid",
+        "type": "THUỐC",
+        "position": [
+            975,
+            1001
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1053,
+            1058
+        ]
+    },
+    {
+        "text": "nóng rát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1062,
+            1070
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1116,
+            1143
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1149,
+            1165
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1359,
+            1373
+        ]
+    },
+    {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1539,
+            1558
+        ]
+    },
+    {
+        "text": "hẹp môn vị",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1564,
+            1574
+        ]
+    }
+]

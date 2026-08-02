@@ -1,0 +1,154 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "rung lắc nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            171,
+            183
+        ]
+    },
+    {
+        "text": "Cứng đờ cơ xương khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            477,
+            498
+        ]
+    },
+    {
+        "text": "run tay khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            502,
+            518
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            573,
+            586
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            693,
+            703
+        ]
+    },
+    {
+        "text": "Mất biểu cảm khuôn mặt tự nhiên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            720,
+            751
+        ]
+    },
+    {
+        "text": "mặt nạ Parkinson",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            753,
+            769
+        ]
+    },
+    {
+        "text": "Đi dáng tập tễnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            774,
+            790
+        ]
+    },
+    {
+        "text": "bước nhỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            792,
+            800
+        ]
+    },
+    {
+        "text": "mất thăng bằng khi quay đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            802,
+            829
+        ]
+    },
+    {
+        "text": "Bệnh Parkinson giai đoạn sớm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            848,
+            876
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg",
+        "type": "THUỐC",
+        "position": [
+            916,
+            940
+        ]
+    },
+    {
+        "text": "Pramipexole 0.25mg",
+        "type": "THUỐC",
+        "position": [
+            952,
+            970
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1072,
+            1079
+        ]
+    },
+    {
+        "text": "Run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1150,
+            1160
+        ]
+    },
+    {
+        "text": "run khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1225,
+            1242
+        ]
+    },
+    {
+        "text": "Run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1294,
+            1301
+        ]
+    },
+    {
+        "text": "đo điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1608,
+            1618
+        ]
+    }
+]

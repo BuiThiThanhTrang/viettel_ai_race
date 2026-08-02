@@ -1,0 +1,186 @@
+[
+    {
+        "text": "nhiễm trùng tụ cầu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            94,
+            112
+        ]
+    },
+    {
+        "text": "cảm giác như vòi nước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            219,
+            240
+        ]
+    },
+    {
+        "text": "cảm giác như bị xịt nước bắt đầu ở ngực trái lan sang ngực phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            267,
+            330
+        ]
+    },
+    {
+        "text": "nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            391,
+            406
+        ]
+    },
+    {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            426,
+            437
+        ]
+    },
+    {
+        "text": "hẹp van động mạch chủ nghiêm trọng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            447,
+            481
+        ]
+    },
+    {
+        "text": "siêu âm tim gắng sức dobutamine",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            628,
+            659
+        ]
+    },
+    {
+        "text": "hẹp van động mạch chủ nghiêm trọng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            669,
+            703
+        ]
+    },
+    {
+        "text": "thông tim trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            777,
+            791
+        ]
+    },
+    {
+        "text": "hẹp gây hạn chế dòng chảy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            807,
+            832
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            977,
+            984
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            986,
+            994
+        ]
+    },
+    {
+        "text": "khó thở khi nằm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            996,
+            1011
+        ]
+    },
+    {
+        "text": "khó thở khi ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1013,
+            1028
+        ]
+    },
+    {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1034,
+            1042
+        ]
+    },
+    {
+        "text": "cảm giác tương tự ở ngực xảy ra mà không có yếu tố khởi phát rõ ràng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1057,
+            1125
+        ]
+    },
+    {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1191,
+            1202
+        ]
+    },
+    {
+        "text": "hẹp van động mạch chủ nghiêm trọng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1212,
+            1246
+        ]
+    },
+    {
+        "text": "siêu âm tim gắng sức dobutamine",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1253,
+            1284
+        ]
+    },
+    {
+        "text": "hẹp van động mạch chủ nghiêm trọng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1294,
+            1328
+        ]
+    },
+    {
+        "text": "hẹp van động mạch chủ nghiêm trọng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1423,
+            1457
+        ]
+    },
+    {
+        "text": "LHC",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1464,
+            1467
+        ]
+    },
+    {
+        "text": "hẹp gây hạn chế dòng chảy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1483,
+            1508
+        ]
+    }
+]

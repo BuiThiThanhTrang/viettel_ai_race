@@ -1,0 +1,113 @@
+[
+  {
+    "text": "run tay tăng dần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      497,
+      513
+    ]
+  },
+  {
+    "text": "cứng khớp vận động",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      515,
+      533
+    ]
+  },
+  {
+    "text": "sang chấn thần kinh",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "position": [
+      553,
+      572
+    ]
+  },
+  {
+    "text": "run tĩnh trạng (pill-rolling tremor) ở bàn tay phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      616,
+      667
+    ]
+  },
+  {
+    "text": "cử động tay chậm chạp (bradykinesia)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      669,
+      705
+    ]
+  },
+  {
+    "text": "dáng đi khom người",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      707,
+      725
+    ]
+  },
+  {
+    "text": "Hội chứng Parkinson giai đoạn đầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      744,
+      777
+    ]
+  },
+  {
+    "text": "chụp MRI sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      800,
+      815
+    ]
+  },
+  {
+    "text": "đo tốc độ dẫn truyền thần kinh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      817,
+      847
+    ]
+  },
+  {
+    "text": "Levodopa/Carbidopa 25mg/100mg, chia 3 lần/ngày sau ăn",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      881,
+      934
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      959,
+      968
+    ]
+  },
+  {
+    "text": "hạ huyết áp tư thế đứng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      970,
+      993
+    ]
+  }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            94,
+            101
+        ]
+    },
+    {
+        "text": "metformin",
+        "type": "THUỐC",
+        "position": [
+            111,
+            120
+        ]
+    },
+    {
+        "text": "đau bụng vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            195,
+            234
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            239,
+            251
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38.2 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            253,
+            270
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            283,
+            286
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            365,
+            399
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            401,
+            424
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            442,
+            450
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            451,
+            459
+        ]
+    },
+    {
+        "text": "amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            461,
+            472
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            473,
+            481
+        ]
+    },
+    {
+        "text": "lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            483,
+            489
+        ]
+    },
+    {
+        "text": "950 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            490,
+            497
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            519,
+            531
+        ]
+    },
+    {
+        "text": "tụy phù nề, kích thước tăng nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            541,
+            572
+        ]
+    },
+    {
+        "text": "không thấy sỏi túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            574,
+            596
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            618,
+            641
+        ]
+    },
+    {
+        "text": "tăng triglyceride máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            655,
+            676
+        ]
+    },
+    {
+        "text": "NaCl 0.9%",
+        "type": "THUỐC",
+        "position": [
+            726,
+            735
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            751,
+            779
+        ]
+    }
+]

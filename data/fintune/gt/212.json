@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            126,
+            154
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            156,
+            176
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            178,
+            197
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            243,
+            266
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            277,
+            285
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            287,
+            295
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            321,
+            324
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            332,
+            349
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            399,
+            424
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            435,
+            454
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            492,
+            505
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            506,
+            517
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            519,
+            542
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm niêm mạc hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            544,
+            574
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            576,
+            587
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            588,
+            598
+        ]
+    },
+    {
+        "text": "Viêm dạ dày cấp do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            611,
+            639
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            659,
+            673
+        ]
+    },
+    {
+        "text": "esomeprazole 40mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            719,
+            749
+        ]
+    },
+    {
+        "text": "amoxicillin 1g x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            751,
+            778
+        ]
+    },
+    {
+        "text": "clarithromycin 500mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            780,
+            813
+        ]
+    },
+    {
+        "text": "bismuth subcitrate 120mg x 4 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            815,
+            852
+        ]
+    }
+]

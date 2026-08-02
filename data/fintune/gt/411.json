@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau đầu âm ỉ kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            66
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            76,
+            85
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            266,
+            287
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            292,
+            316
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            455,
+            462
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            466,
+            475
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            777,
+            797
+        ]
+    },
+    {
+        "text": "mất thăng bằng khi di chuyển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            801,
+            829
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            839,
+            852
+        ]
+    },
+    {
+        "text": "không liệt dây thần kinh sọ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            933,
+            960
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            987,
+            1001
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1023,
+            1031
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1036,
+            1043
+        ]
+    },
+    {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1068,
+            1075
+        ]
+    },
+    {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1080,
+            1095
+        ]
+    },
+    {
+        "text": "mất thăng bằng và ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1205,
+            1236
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1263,
+            1280
+        ]
+    },
+    {
+        "text": "Cảm giác tê bì lan dọc từ vùng thắt lưng xuống cẳng chân hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1282,
+            1346
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình trung ương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1365,
+            1395
+        ]
+    },
+    {
+        "text": "nhồi máu tiểu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1407,
+            1424
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não có tiêm thuốc đối quang từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1449,
+            1505
+        ]
+    },
+    {
+        "text": "siêu âm Doppler động mạch cảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1507,
+            1537
+        ]
+    }
+]

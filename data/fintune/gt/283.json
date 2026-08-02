@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            96,
+            124
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            217
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            228,
+            234
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            238,
+            246
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            296,
+            299
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            307,
+            324
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            354,
+            379
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            390,
+            409
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            483,
+            497
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm niêm mạc hang vị mức độ trung bình",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            499,
+            547
+        ]
+    },
+    {
+        "text": "test vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            549,
+            565
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            566,
+            576
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            594,
+            599
+        ]
+    },
+    {
+        "text": "7.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            600,
+            604
+        ]
+    },
+    {
+        "text": "Viêm dạ dày do HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            696,
+            713
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            723,
+            744
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            784,
+            801
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            803,
+            817
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg mỗi 12 giờ",
+        "type": "THUỐC",
+        "position": [
+            819,
+            850
+        ]
+    }
+]

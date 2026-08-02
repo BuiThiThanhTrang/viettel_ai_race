@@ -1,0 +1,474 @@
+[
+    {
+        "text": "bệnh Graves",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            59
+        ]
+    },
+    {
+        "text": "tăng lipid máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            66,
+            80
+        ]
+    },
+    {
+        "text": "yếu sức nửa người bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            176
+        ]
+    },
+    {
+        "text": "tình trạng tri giác giảm sút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            183,
+            211
+        ]
+    },
+    {
+        "text": "nhìn song thị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            218,
+            231
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            512
+        ]
+    },
+    {
+        "text": "không thể chịu lực ở chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            594,
+            624
+        ]
+    },
+    {
+        "text": "khuỵu chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            635,
+            645
+        ]
+    },
+    {
+        "text": "chụp chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            687,
+            706
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            715,
+            722
+        ]
+    },
+    {
+        "text": "chọc dò dịch não tủy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            753,
+            773
+        ]
+    },
+    {
+        "text": "nhịp tim chậm nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            792,
+            810
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            814,
+            825
+        ]
+    },
+    {
+        "text": "intravenous fluids",
+        "type": "THUỐC",
+        "position": [
+            882,
+            900
+        ]
+    },
+    {
+        "text": "chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            917,
+            931
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            941,
+            948
+        ]
+    },
+    {
+        "text": "tỉnh chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1059,
+            1068
+        ]
+    },
+    {
+        "text": "phản xạ kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1070,
+            1081
+        ]
+    },
+    {
+        "text": "nhiễm trùng nhiễm trùng răng miệng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1217,
+            1251
+        ]
+    },
+    {
+        "text": "kháng sinh",
+        "type": "THUỐC",
+        "position": [
+            1269,
+            1279
+        ]
+    },
+    {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1307,
+            1328
+        ]
+    },
+    {
+        "text": "co giật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1334,
+            1341
+        ]
+    },
+    {
+        "text": "yếu sức nửa người bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1379,
+            1405
+        ]
+    },
+    {
+        "text": "tình trạng tri giác giảm sút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1412,
+            1440
+        ]
+    },
+    {
+        "text": "nhìn song thị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1447,
+            1460
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1467,
+            1474
+        ]
+    },
+    {
+        "text": "yếu chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1514,
+            1527
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1773,
+            1780
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1876,
+            1893
+        ]
+    },
+    {
+        "text": "chụp chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1909,
+            1928
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1937,
+            1944
+        ]
+    },
+    {
+        "text": "chọc dò dịch não tủy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1962,
+            1982
+        ]
+    },
+    {
+        "text": "nhịp tim chậm nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1993,
+            2011
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2015,
+            2026
+        ]
+    },
+    {
+        "text": "intravenous fluids",
+        "type": "THUỐC",
+        "position": [
+            2080,
+            2098
+        ]
+    },
+    {
+        "text": "chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2115,
+            2129
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2139,
+            2146
+        ]
+    },
+    {
+        "text": "kháng sinh",
+        "type": "THUỐC",
+        "position": [
+            2162,
+            2172
+        ]
+    },
+    {
+        "text": "nhiễm trùng nhiễm trùng răng miệng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2177,
+            2211
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2291,
+            2333
+        ]
+    },
+    {
+        "text": "không thể chịu lực ở chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2341,
+            2371
+        ]
+    },
+    {
+        "text": "khuỵu chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2382,
+            2392
+        ]
+    },
+    {
+        "text": "tỉnh chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2400,
+            2409
+        ]
+    },
+    {
+        "text": "phản xạ kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2411,
+            2422
+        ]
+    },
+    {
+        "text": "yếu nửa người bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2480,
+            2502
+        ]
+    },
+    {
+        "text": "suy giảm tri giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2509,
+            2526
+        ]
+    },
+    {
+        "text": "nhìn song thị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2533,
+            2546
+        ]
+    },
+    {
+        "text": "nhịp tim chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2553,
+            2566
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2573,
+            2584
+        ]
+    },
+    {
+        "text": "không nhấc chân phải khỏi mặt giường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2607,
+            2643
+        ]
+    },
+    {
+        "text": "chân phải liên tục khuỵ xuống",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2650,
+            2679
+        ]
+    },
+    {
+        "text": "tỉnh chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2686,
+            2695
+        ]
+    },
+    {
+        "text": "phản xạ kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2697,
+            2708
+        ]
+    },
+    {
+        "text": "chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2763,
+            2777
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2779,
+            2786
+        ]
+    },
+    {
+        "text": "chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2802,
+            2816
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2818,
+            2825
+        ]
+    },
+    {
+        "text": "chụp ct sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2863,
+            2877
+        ]
+    },
+    {
+        "text": "chọc dò dịch não tủy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2884,
+            2904
+        ]
+    }
+]

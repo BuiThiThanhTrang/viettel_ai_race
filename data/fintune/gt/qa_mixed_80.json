@@ -1,0 +1,210 @@
+[
+    {
+        "text": "quên tên người quen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            79,
+            98
+        ]
+    },
+    {
+        "text": "hỏi đi hỏi lại một vấn đề trong thời gian ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            148,
+            194
+        ]
+    },
+    {
+        "text": "cáu gắt vô cớ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            278
+        ]
+    },
+    {
+        "text": "đi lạc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            286,
+            292
+        ]
+    },
+    {
+        "text": "mất trí nhớ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            374,
+            385
+        ]
+    },
+    {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            400,
+            414
+        ]
+    },
+    {
+        "text": "Yếu liệt nửa người trái đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            575,
+            607
+        ]
+    },
+    {
+        "text": "Huyết áp 170/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            624,
+            644
+        ]
+    },
+    {
+        "text": "nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            646,
+            664
+        ]
+    },
+    {
+        "text": "mất cảm giác nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            688,
+            719
+        ]
+    },
+    {
+        "text": "Babinski dương tính bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            721,
+            749
+        ]
+    },
+    {
+        "text": "Chụp CT não bộ không cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            776,
+            806
+        ]
+    },
+    {
+        "text": "vùng giảm tỉ trọng diện rộng tại động mạch não giữa bên phải, có dấu hiệu phù não nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            812,
+            897
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cấp giờ thứ 4",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            910,
+            940
+        ]
+    },
+    {
+        "text": "Alteplase 0.9mg/kg",
+        "type": "THUỐC",
+        "position": [
+            974,
+            992
+        ]
+    },
+    {
+        "text": "Heparin liều thấp",
+        "type": "THUỐC",
+        "position": [
+            1019,
+            1036
+        ]
+    },
+    {
+        "text": "Nicardipine bơm tiêm điện",
+        "type": "THUỐC",
+        "position": [
+            1062,
+            1087
+        ]
+    },
+    {
+        "text": "thay đổi tính cách đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1193,
+            1220
+        ]
+    },
+    {
+        "text": "mạch máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1250,
+            1262
+        ]
+    },
+    {
+        "text": "suy giảm chức năng nhận thức",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1268,
+            1296
+        ]
+    },
+    {
+        "text": "quên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1313,
+            1317
+        ]
+    },
+    {
+        "text": "rối loạn vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1331,
+            1348
+        ]
+    },
+    {
+        "text": "dấu hiệu sinh tồn không ổn định",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1358,
+            1389
+        ]
+    },
+    {
+        "text": "test đánh giá sa sút trí tuệ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1498,
+            1526
+        ]
+    },
+    {
+        "text": "điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1534,
+            1545
+        ]
+    },
+    {
+        "text": "khả năng phản xạ của người bệnh sẽ chậm dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1639,
+            1682
+        ]
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau đầu âm ỉ vùng trán",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            63
+        ]
+    },
+    {
+        "text": "nghẹt mũi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            74,
+            83
+        ]
+    },
+    {
+        "text": "dịch nhầy chảy xuống họng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            87,
+            112
+        ]
+    },
+    {
+        "text": "viêm xoang mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            229,
+            248
+        ]
+    },
+    {
+        "text": "dị ứng thời tiết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            263,
+            279
+        ]
+    },
+    {
+        "text": "viêm xoang",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            477,
+            487
+        ]
+    },
+    {
+        "text": "nặng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            503
+        ]
+    },
+    {
+        "text": "đau nhức vùng xoang",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            505,
+            524
+        ]
+    },
+    {
+        "text": "mất ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            543,
+            550
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội vùng thái dương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            614,
+            644
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            649,
+            656
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            702,
+            715
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            742,
+            756
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            773,
+            781
+        ]
+    },
+    {
+        "text": "180/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            790,
+            802
+        ]
+    },
+    {
+        "text": "nhịp tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            804,
+            812
+        ]
+    },
+    {
+        "text": "95 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            813,
+            824
+        ]
+    },
+    {
+        "text": "liệt nửa người bên trái thoáng qua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            838,
+            872
+        ]
+    },
+    {
+        "text": "CT Scan sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            886,
+            900
+        ]
+    },
+    {
+        "text": "hình ảnh xuất huyết não vùng nhân bèo",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            910,
+            947
+        ]
+    },
+    {
+        "text": "Tai biến mạch máu não giai đoạn cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            960,
+            995
+        ]
+    },
+    {
+        "text": "Mannitol 20% 100ml",
+        "type": "THUỐC",
+        "position": [
+            1033,
+            1051
+        ]
+    },
+    {
+        "text": "thuốc hạ áp",
+        "type": "THUỐC",
+        "position": [
+            1068,
+            1079
+        ]
+    },
+    {
+        "text": "nội soi mũi họng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1253,
+            1269
+        ]
+    },
+    {
+        "text": "thuốc xịt mũi chứa corticosteroid",
+        "type": "THUỐC",
+        "position": [
+            1574,
+            1607
+        ]
+    }
+]

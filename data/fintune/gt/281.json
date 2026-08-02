@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            151,
+            174
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            185,
+            190
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            192,
+            198
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            202,
+            210
+        ]
+    },
+    {
+        "text": "Ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            340,
+            365
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            376,
+            395
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            397,
+            411
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm niêm mạc hang vị mức độ trung bình",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            413,
+            461
+        ]
+    },
+    {
+        "text": "test vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            463,
+            479
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            480,
+            490
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            508,
+            513
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            514,
+            518
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            611,
+            641
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            643,
+            670
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            672,
+            705
+        ]
+    },
+    {
+        "text": "Bismuth 262mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            707,
+            733
+        ]
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đau âm ỉ ở vùng hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            45,
+            73
+        ]
+    },
+    {
+        "text": "đầy bụng khó tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            75,
+            92
+        ]
+    },
+    {
+        "text": "bệnh gan",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            170,
+            178
+        ]
+    },
+    {
+        "text": "túi mật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            183,
+            190
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            253,
+            263
+        ]
+    },
+    {
+        "text": "đau vùng hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            352,
+            373
+        ]
+    },
+    {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            378,
+            386
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            561,
+            564
+        ]
+    },
+    {
+        "text": "sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            572,
+            575
+        ]
+    },
+    {
+        "text": "viêm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            581,
+            585
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            643,
+            656
+        ]
+    },
+    {
+        "text": "Đau quặn bụng vùng thượng vị lan hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            726
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38.5 độ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            731,
+            746
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            763,
+            778
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            780,
+            806
+        ]
+    },
+    {
+        "text": "gan lách không to",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            808,
+            825
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            841,
+            849
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            850,
+            858
+        ]
+    },
+    {
+        "text": "siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            860,
+            872
+        ]
+    },
+    {
+        "text": "túi mật có kích thước 85x30mm, thành dày 6mm, lòng túi mật có nhiều viên sỏi đường kính từ 5mm đến 12mm, ống mật chủ không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            878,
+            1005
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1018,
+            1041
+        ]
+    },
+    {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC",
+        "position": [
+            1274,
+            1288
+        ]
+    },
+    {
+        "text": "cơn đau kéo dài quá 6 tiếng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1375,
+            1402
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1415,
+            1422
+        ]
+    },
+    {
+        "text": "vàng mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1424,
+            1432
+        ]
+    },
+    {
+        "text": "xét nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1488,
+            1512
+        ]
+    },
+    {
+        "text": "men tụy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1516,
+            1523
+        ]
+    }
+]

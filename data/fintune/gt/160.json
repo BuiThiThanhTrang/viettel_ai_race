@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            167
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            172,
+            180
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            199
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            224,
+            227
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            235,
+            242
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            272,
+            293
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            323
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            325,
+            347
+        ]
+    },
+    {
+        "text": "110/70 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            358,
+            369
+        ]
+    },
+    {
+        "text": "88 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            376,
+            387
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            414,
+            427
+        ]
+    },
+    {
+        "text": "8.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            432,
+            440
+        ]
+    },
+    {
+        "text": "26%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            446,
+            449
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            451,
+            465
+        ]
+    },
+    {
+        "text": "ổ loét hành tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            477,
+            497
+        ]
+    },
+    {
+        "text": "kích thước 1.5 cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            498,
+            515
+        ]
+    },
+    {
+        "text": "bờ cứng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            517,
+            524
+        ]
+    },
+    {
+        "text": "đáy có giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            526,
+            540
+        ]
+    },
+    {
+        "text": "đang rỉ máu (Forrest Ib)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            542,
+            566
+        ]
+    },
+    {
+        "text": "Test vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            568,
+            584
+        ]
+    },
+    {
+        "text": "Dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            586,
+            596
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét hành tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            635,
+            681
+        ]
+    },
+    {
+        "text": "omeprazole 80mg",
+        "type": "THUỐC",
+        "position": [
+            737,
+            752
+        ]
+    },
+    {
+        "text": "8mg/giờ",
+        "type": "THUỐC",
+        "position": [
+            784,
+            791
+        ]
+    }
+]

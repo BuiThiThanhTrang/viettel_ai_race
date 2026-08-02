@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức và tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            275
+        ]
+    },
+    {
+        "text": "vết loét nông ở gót chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            302,
+            326
+        ]
+    },
+    {
+        "text": "dịch tiết ít",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            328,
+            340
+        ]
+    },
+    {
+        "text": "không mùi hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            342,
+            355
+        ]
+    },
+    {
+        "text": "kích thước 2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            418,
+            434
+        ]
+    },
+    {
+        "text": "đáy hồng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            436,
+            444
+        ]
+    },
+    {
+        "text": "da đỏ nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            457,
+            466
+        ]
+    },
+    {
+        "text": "bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            486,
+            493
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            507,
+            512
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            513,
+            517
+        ]
+    },
+    {
+        "text": "chỉ số ABI (chỉ số huyết áp cổ chân - cánh tay) bên trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            519,
+            575
+        ]
+    },
+    {
+        "text": "0.7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            579,
+            582
+        ]
+    },
+    {
+        "text": "Loét bàn chân do đái tháo đường biến chứng bệnh động mạch ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            595,
+            663
+        ]
+    },
+    {
+        "text": "insulin phác đồ nền - nhanh",
+        "type": "THUỐC",
+        "position": [
+            711,
+            738
+        ]
+    },
+    {
+        "text": "chụp MRI mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            833,
+            859
+        ]
+    }
+]

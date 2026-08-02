@@ -1,0 +1,282 @@
+[
+    {
+        "text": "viêm tủy xương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            52,
+            66
+        ]
+    },
+    {
+        "text": "bàng quang thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "liệt hai chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            105,
+            122
+        ]
+    },
+    {
+        "text": "biến đổi ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            166,
+            181
+        ]
+    },
+    {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            191,
+            204
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            208,
+            219
+        ]
+    },
+    {
+        "text": "biến đổi ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            378,
+            393
+        ]
+    },
+    {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            395,
+            408
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            410,
+            421
+        ]
+    },
+    {
+        "text": "90",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            446,
+            448
+        ]
+    },
+    {
+        "text": "biến đổi ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            484,
+            499
+        ]
+    },
+    {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            506,
+            519
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            526,
+            537
+        ]
+    },
+    {
+        "text": "đau toàn thân ít",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            544,
+            560
+        ]
+    },
+    {
+        "text": "đau ngực ít",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            567,
+            578
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            586,
+            594
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            646,
+            657
+        ]
+    },
+    {
+        "text": "hạ thân nhiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            664,
+            677
+        ]
+    },
+    {
+        "text": "lắc đầu có/không",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            684,
+            700
+        ]
+    },
+    {
+        "text": "kali",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            730,
+            734
+        ]
+    },
+    {
+        "text": "6.6 mmol/l",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            738,
+            748
+        ]
+    },
+    {
+        "text": "creatinin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            755,
+            764
+        ]
+    },
+    {
+        "text": "1.9 mmol/l",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            768,
+            778
+        ]
+    },
+    {
+        "text": "tiểu cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            785,
+            793
+        ]
+    },
+    {
+        "text": "81 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            797,
+            803
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            810,
+            818
+        ]
+    },
+    {
+        "text": "10.9 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            822,
+            830
+        ]
+    },
+    {
+        "text": "tổng phân tích nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            837,
+            861
+        ]
+    },
+    {
+        "text": "nhiễm trùng đường tiết niệu",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            862,
+            889
+        ]
+    },
+    {
+        "text": "chụp x-quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            947,
+            964
+        ]
+    },
+    {
+        "text": "không có hình ảnh tổn thương viêm cấp tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            974,
+            1016
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1179,
+            1190
+        ]
+    },
+    {
+        "text": "nhịp chậm xoang",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1200,
+            1215
+        ]
+    },
+    {
+        "text": "đường huyết lúc đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1219,
+            1238
+        ]
+    },
+    {
+        "text": "đường huyết thấp",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1238,
+            1254
+        ]
+    }
+]

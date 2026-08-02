@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            58
+        ]
+    },
+    {
+        "text": "chóng mặt kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            68,
+            85
+        ]
+    },
+    {
+        "text": "tối sầm mặt mũi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            190,
+            205
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            394,
+            403
+        ]
+    },
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            407,
+            419
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            488,
+            512
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            514,
+            532
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            538,
+            560
+        ]
+    },
+    {
+        "text": "Chóng mặt tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            624,
+            640
+        ]
+    },
+    {
+        "text": "đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            642,
+            659
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            669,
+            692
+        ]
+    },
+    {
+        "text": "ngã sang trái khi di chuyển trong phòng tối",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            696,
+            739
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            750,
+            763
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            845,
+            848
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            856,
+            858
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            878,
+            885
+        ]
+    },
+    {
+        "text": "yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            912,
+            924
+        ]
+    },
+    {
+        "text": "rối loạn ngôn ngữ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            929,
+            946
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            979,
+            999
+        ]
+    },
+    {
+        "text": "cảm giác lâng lâng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1003,
+            1021
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy vững vàng sau khi ngồi lâu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1023,
+            1071
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1114,
+            1144
+        ]
+    },
+    {
+        "text": "thiếu máu não cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1156,
+            1176
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1201,
+            1226
+        ]
+    },
+    {
+        "text": "đo điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1228,
+            1242
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1244,
+            1268
+        ]
+    },
+    {
+        "text": "Betahistin 24mg",
+        "type": "THUỐC",
+        "position": [
+            1284,
+            1299
+        ]
+    },
+    {
+        "text": "Cinnarizin 25mg",
+        "type": "THUỐC",
+        "position": [
+            1303,
+            1318
+        ]
+    },
+    {
+        "text": "đo lưu huyết não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1517,
+            1533
+        ]
+    }
+]

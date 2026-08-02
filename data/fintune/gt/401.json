@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            206,
+            213
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            421,
+            430
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            434,
+            441
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            481,
+            499
+        ]
+    },
+    {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            501,
+            514
+        ]
+    },
+    {
+        "text": "Chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            625,
+            644
+        ]
+    },
+    {
+        "text": "đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            649,
+            666
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            677,
+            690
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            993,
+            1007
+        ]
+    },
+    {
+        "text": "chóng mặt nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1061,
+            1075
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1094,
+            1124
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1127,
+            1146
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1171,
+            1202
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1204,
+            1232
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1234,
+            1245
+        ]
+    },
+    {
+        "text": "Betahistin 24mg",
+        "type": "THUỐC",
+        "position": [
+            1261,
+            1276
+        ]
+    },
+    {
+        "text": "Cinnarizin 25mg",
+        "type": "THUỐC",
+        "position": [
+            1278,
+            1293
+        ]
+    }
+]

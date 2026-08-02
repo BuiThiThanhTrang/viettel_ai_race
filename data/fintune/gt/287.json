@@ -1,0 +1,138 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            97,
+            125
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            200,
+            218
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            223,
+            229
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            231,
+            237
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            340,
+            361
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            417,
+            431
+        ]
+    },
+    {
+        "text": "viêm trợt hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            442,
+            459
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            461,
+            472
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            473,
+            483
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            501,
+            506
+        ]
+    },
+    {
+        "text": "7.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            507,
+            511
+        ]
+    },
+    {
+        "text": "Viêm dạ dày do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            597,
+            621
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            631,
+            652
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            698,
+            715
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            717,
+            731
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg",
+        "type": "THUỐC",
+        "position": [
+            733,
+            753
+        ]
+    }
+]

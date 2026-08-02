@@ -1,0 +1,186 @@
+[
+    {
+        "text": "vàng da không đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            118,
+            135
+        ]
+    },
+    {
+        "text": "ngứa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            138,
+            142
+        ]
+    },
+    {
+        "text": "xet nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            186,
+            210
+        ]
+    },
+    {
+        "text": "bilirubin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            214,
+            223
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            235,
+            242
+        ]
+    },
+    {
+        "text": "xét nghiệm huyết thanh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            255,
+            277
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            290,
+            297
+        ]
+    },
+    {
+        "text": "giãn đường dẫn mật trong gan ở ống mật chủ 15 mm tại mức tuyến tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            307,
+            373
+        ]
+    },
+    {
+        "text": "ercp (nội soi mật tụy ngược dòng)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            376,
+            409
+        ]
+    },
+    {
+        "text": "một khối phình to 2 cm ở nhúm tá tràng lớn với gợi ý về một khối khối u lân cận",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            430,
+            509
+        ]
+    },
+    {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            629,
+            639
+        ]
+    },
+    {
+        "text": "ung thư biểu mô tuyến, biệt hóa vừa phải đến kém",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            649,
+            697
+        ]
+    },
+    {
+        "text": "xét nghiệm chức năng gan",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            831,
+            855
+        ]
+    },
+    {
+        "text": "bilirubin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            858,
+            867
+        ]
+    },
+    {
+        "text": "sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            911,
+            921
+        ]
+    },
+    {
+        "text": "ung thư biểu mô tuyến, biệt hóa vừa phải đến kém",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            931,
+            979
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1009,
+            1016
+        ]
+    },
+    {
+        "text": "giãn đường dẫn mật trong gan ở ống mật chủ 15 mm tại mức tuyến tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1026,
+            1092
+        ]
+    },
+    {
+        "text": "ercp (nội soi mật tụy ngược dòng)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1095,
+            1128
+        ]
+    },
+    {
+        "text": "một khối phình to 2 cm ở nhúm tá tràng lớn với gợi ý về một khối khối u lân cận",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1138,
+            1217
+        ]
+    },
+    {
+        "text": "ERCP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1323,
+            1327
+        ]
+    },
+    {
+        "text": "Sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1341,
+            1351
+        ]
+    },
+    {
+        "text": "u ác của đầu tuỵ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1383,
+            1399
+        ]
+    }
+]

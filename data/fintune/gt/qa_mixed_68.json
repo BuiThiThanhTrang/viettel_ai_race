@@ -1,0 +1,242 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            71
+        ]
+    },
+    {
+        "text": "nhìn mờ từng cơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            198
+        ]
+    },
+    {
+        "text": "hồi hộp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            221,
+            228
+        ]
+    },
+    {
+        "text": "nhịp tim có lúc đập rất nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            230,
+            259
+        ]
+    },
+    {
+        "text": "Tăng huyết áp kịch phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            464,
+            487
+        ]
+    },
+    {
+        "text": "cơn đau thắt ngực",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            492,
+            509
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            526,
+            534
+        ]
+    },
+    {
+        "text": "190/110 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            543,
+            555
+        ]
+    },
+    {
+        "text": "nhịp tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            557,
+            565
+        ]
+    },
+    {
+        "text": "115 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            566,
+            578
+        ]
+    },
+    {
+        "text": "âm thổi tâm thu 2/6 ở mỏm tim",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            580,
+            609
+        ]
+    },
+    {
+        "text": "đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            630,
+            641
+        ]
+    },
+    {
+        "text": "5.8 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            642,
+            652
+        ]
+    },
+    {
+        "text": "kali máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            662,
+            670
+        ]
+    },
+    {
+        "text": "3.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            671,
+            681
+        ]
+    },
+    {
+        "text": "Điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            683,
+            694
+        ]
+    },
+    {
+        "text": "hình ảnh dày thất trái và sóng T đảo ngược ở V5, V6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            704,
+            755
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 3",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            777,
+            795
+        ]
+    },
+    {
+        "text": "bệnh cơ tim do tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            806,
+            834
+        ]
+    },
+    {
+        "text": "Amlodipine 10mg uống 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            851,
+            883
+        ]
+    },
+    {
+        "text": "Bisoprolol 5mg uống 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            885,
+            916
+        ]
+    },
+    {
+        "text": "Losartan 50mg uống 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            918,
+            948
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            964,
+            972
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1103,
+            1110
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1114,
+            1121
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1169,
+            1182
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1372,
+            1379
+        ]
+    },
+    {
+        "text": "nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1400,
+            1414
+        ]
+    },
+    {
+        "text": "đo huyết áp liên tục trong 24 giờ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1632,
+            1665
+        ]
+    },
+    {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1678,
+            1689
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            55
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            62,
+            76
+        ]
+    },
+    {
+        "text": "ngừng thở khi ngủ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            113,
+            130
+        ]
+    },
+    {
+        "text": "suy tim",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            154,
+            161
+        ]
+    },
+    {
+        "text": "furosemide",
+        "type": "THUỐC",
+        "position": [
+            197,
+            207
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            256,
+            263
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            362,
+            369
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            441,
+            448
+        ]
+    },
+    {
+        "text": "khó nằm vào ban đêm để ngủ vì thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            455,
+            488
+        ]
+    },
+    {
+        "text": "căng cứng vai trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            513
+        ]
+    },
+    {
+        "text": "ho có đờm trắng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            582,
+            597
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            604,
+            607
+        ]
+    },
+    {
+        "text": "phù chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            614,
+            626
+        ]
+    },
+    {
+        "text": "căng cứng vai trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            676,
+            694
+        ]
+    },
+    {
+        "text": "căng cứng vai trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            728,
+            746
+        ]
+    },
+    {
+        "text": "căng cứng vai trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            789,
+            807
+        ]
+    },
+    {
+        "text": "khó nằm vào ban đêm để ngủ vì khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            838,
+            875
+        ]
+    },
+    {
+        "text": "ho có đờm trắng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            877,
+            892
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            894,
+            897
+        ]
+    },
+    {
+        "text": "phù chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            899,
+            911
+        ]
+    },
+    {
+        "text": "thiếu oxy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1065,
+            1074
+        ]
+    },
+    {
+        "text": "độ bão hòa oxy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1079,
+            1093
+        ]
+    },
+    {
+        "text": "86",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1097,
+            1099
+        ]
+    },
+    {
+        "text": "thiếu oxy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1261,
+            1270
+        ]
+    },
+    {
+        "text": "độ bão hòa oxy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1275,
+            1289
+        ]
+    },
+    {
+        "text": "86",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1293,
+            1295
+        ]
+    },
+    {
+        "text": "bumetanide 2mg iv",
+        "type": "THUỐC",
+        "position": [
+            1383,
+            1400
+        ]
+    },
+    {
+        "text": "vancomycin 1 gram",
+        "type": "THUỐC",
+        "position": [
+            1416,
+            1433
+        ]
+    },
+    {
+        "text": "levofloxacin 750mg iv",
+        "type": "THUỐC",
+        "position": [
+            1449,
+            1470
+        ]
+    },
+    {
+        "text": "aspirin 325mg",
+        "type": "THUỐC",
+        "position": [
+            1486,
+            1499
+        ]
+    },
+    {
+        "text": "albuterolipratropium nebulizer",
+        "type": "THUỐC",
+        "position": [
+            1515,
+            1545
+        ]
+    },
+    {
+        "text": "methylprednisolone 125mg iv",
+        "type": "THUỐC",
+        "position": [
+            1561,
+            1588
+        ]
+    },
+    {
+        "text": "600cc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1604,
+            1609
+        ]
+    }
+]

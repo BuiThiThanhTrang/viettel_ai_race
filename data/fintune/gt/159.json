@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            55,
+            76
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            92,
+            105
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            178
+        ]
+    },
+    {
+        "text": "đau nhức bắp chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            205,
+            222
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            288,
+            311
+        ]
+    },
+    {
+        "text": "Mạch mu chân hai bên bắt rất yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            331,
+            363
+        ]
+    },
+    {
+        "text": "Da chi dưới mỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            365,
+            381
+        ]
+    },
+    {
+        "text": "bóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            383,
+            387
+        ]
+    },
+    {
+        "text": "mất lông",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            389,
+            397
+        ]
+    },
+    {
+        "text": "Vết loét nông ở ngón cái bàn chân phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            399,
+            437
+        ]
+    },
+    {
+        "text": "kích thước 1x2 cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            439,
+            456
+        ]
+    },
+    {
+        "text": "đáy sạch",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            458,
+            466
+        ]
+    },
+    {
+        "text": "không chảy mủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            468,
+            481
+        ]
+    },
+    {
+        "text": "Chỉ số ABI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            500,
+            510
+        ]
+    },
+    {
+        "text": "0.62 bên phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            562
+        ]
+    },
+    {
+        "text": "0.65 bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            564,
+            577
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            579,
+            612
+        ]
+    },
+    {
+        "text": "Hình ảnh mảng xơ vữa gây hẹp lòng động mạch chày trước và động mạch khoeo hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            614,
+            695
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn Fontaine IIb",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            711,
+            768
+        ]
+    },
+    {
+        "text": "biến chứng loét bàn chân do đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            770,
+            812
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            860,
+            867
+        ]
+    },
+    {
+        "text": "clopidogrel 75mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            877,
+            898
+        ]
+    },
+    {
+        "text": "statin liều cao",
+        "type": "THUỐC",
+        "position": [
+            900,
+            915
+        ]
+    }
+]

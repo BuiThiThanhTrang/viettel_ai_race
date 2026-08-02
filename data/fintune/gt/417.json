@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "cảm giác chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            99
+        ]
+    },
+    {
+        "text": "chóng mặt khi thay đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            340,
+            369
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            422,
+            440
+        ]
+    },
+    {
+        "text": "thiếu máu cục bộ não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            442,
+            462
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            468,
+            490
+        ]
+    },
+    {
+        "text": "Chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            660,
+            679
+        ]
+    },
+    {
+        "text": "hoa mắt kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            696
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            711,
+            724
+        ]
+    },
+    {
+        "text": "Không yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            829,
+            847
+        ]
+    },
+    {
+        "text": "5/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            856,
+            859
+        ]
+    },
+    {
+        "text": "cứng cổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            902,
+            909
+        ]
+    },
+    {
+        "text": "không có tổn thương dây thần kinh sọ não",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            911,
+            951
+        ]
+    },
+    {
+        "text": "không thể giữ thăng bằng khi đi theo đường thẳng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1050,
+            1098
+        ]
+    },
+    {
+        "text": "liên tục lạng lách và ngã khuỵu chân sang bên phải do cảm giác yếu sức nửa người tạm thời kết hợp mất phương hướng không gian",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1100,
+            1225
+        ]
+    },
+    {
+        "text": "không ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1243,
+            1251
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1253,
+            1262
+        ]
+    },
+    {
+        "text": "không khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1264,
+            1277
+        ]
+    },
+    {
+        "text": "không đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1279,
+            1293
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1347,
+            1376
+        ]
+    },
+    {
+        "text": "thiếu máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1388,
+            1412
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1441,
+            1467
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1469,
+            1497
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1499,
+            1510
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1634,
+            1643
+        ]
+    }
+]

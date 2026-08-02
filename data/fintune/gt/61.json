@@ -1,0 +1,74 @@
+[
+    {
+        "text": "đau vùng xương bánh chè – đùi phải dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            73,
+            114
+        ]
+    },
+    {
+        "text": "đau đầu gối phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            202,
+            218
+        ]
+    },
+    {
+        "text": "Đau bánh chè đùi phải dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            434,
+            462
+        ]
+    },
+    {
+        "text": "đau đau dữ dội khi thực hiện hầu hết các hoạt động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            545
+        ]
+    },
+    {
+        "text": "đau đầu gối phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            609,
+            625
+        ]
+    },
+    {
+        "text": "x-quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1043,
+            1050
+        ]
+    },
+    {
+        "text": "những thay đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1077,
+            1141
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1148,
+            1168
+        ]
+    },
+    {
+        "text": "góc tăng lên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1203,
+            1215
+        ]
+    }
+]

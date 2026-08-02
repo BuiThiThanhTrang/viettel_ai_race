@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            126,
+            154
+        ]
+    },
+    {
+        "text": "gliclazide 30mg x 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            156,
+            184
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            186,
+            205
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            242,
+            265
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            271,
+            279
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            281,
+            310
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            335,
+            338
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            346,
+            356
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            386,
+            411
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            422,
+            441
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            443,
+            465
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            529,
+            540
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            541,
+            552
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            554,
+            559
+        ]
+    },
+    {
+        "text": "8.9%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            560,
+            564
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            566,
+            578
+        ]
+    },
+    {
+        "text": "Hình ảnh gan nhiễm mỡ độ II",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            580,
+            607
+        ]
+    },
+    {
+        "text": "túi mật không sỏi",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            609,
+            626
+        ]
+    },
+    {
+        "text": "thành dạ dày dày nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            628,
+            648
+        ]
+    },
+    {
+        "text": "Đợt cấp viêm dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            667,
+            686
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            706,
+            727
+        ]
+    },
+    {
+        "text": "thuốc ức chế bơm proton (PPI)",
+        "type": "THUỐC",
+        "position": [
+            791,
+            820
+        ]
+    }
+]

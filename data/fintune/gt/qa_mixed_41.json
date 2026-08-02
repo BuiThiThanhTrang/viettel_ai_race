@@ -1,0 +1,170 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            63,
+            69
+        ]
+    },
+    {
+        "text": "nóng rát vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            73,
+            96
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            251,
+            267
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            340,
+            347
+        ]
+    },
+    {
+        "text": "nóng rát thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            392,
+            410
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            432,
+            459
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            465,
+            490
+        ]
+    },
+    {
+        "text": "Đau thượng vị kéo dài 3 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            646,
+            675
+        ]
+    },
+    {
+        "text": "sụt cân 4kg trong 1 tháng gần đây",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            714
+        ]
+    },
+    {
+        "text": "phân đen nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            725,
+            737
+        ]
+    },
+    {
+        "text": "ấn điểm thượng vị đau chói",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            764,
+            790
+        ]
+    },
+    {
+        "text": "Phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            792,
+            819
+        ]
+    },
+    {
+        "text": "loét hành tá tràng biến chứng chảy máu rỉ rả",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            841,
+            885
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng có gây mê",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            910,
+            943
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tìm HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            945,
+            966
+        ]
+    },
+    {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            968,
+            981
+        ]
+    },
+    {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1002,
+            1011
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            1048,
+            1065
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            1067,
+            1081
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg",
+        "type": "THUỐC",
+        "position": [
+            1083,
+            1103
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1330,
+            1344
+        ]
+    }
+]

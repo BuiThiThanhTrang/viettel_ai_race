@@ -1,0 +1,234 @@
+[
+    {
+        "text": "tê rần ở các đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            82
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            265,
+            286
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            399,
+            413
+        ]
+    },
+    {
+        "text": "thị lực suy giảm đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            417,
+            442
+        ]
+    },
+    {
+        "text": "đau đầu vùng thái dương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            487,
+            510
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            537,
+            552
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            608,
+            616
+        ]
+    },
+    {
+        "text": "160/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            617,
+            628
+        ]
+    },
+    {
+        "text": "nhịp tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            630,
+            638
+        ]
+    },
+    {
+        "text": "88 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            639,
+            650
+        ]
+    },
+    {
+        "text": "Cứng cổ dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            652,
+            670
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            727,
+            740
+        ]
+    },
+    {
+        "text": "bạch cầu tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            750,
+            763
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            764,
+            772
+        ]
+    },
+    {
+        "text": "MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            774,
+            784
+        ]
+    },
+    {
+        "text": "hình ảnh tổn thương chất trắng vùng dưới vỏ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            794,
+            837
+        ]
+    },
+    {
+        "text": "Viêm não tiềm tàng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            850,
+            868
+        ]
+    },
+    {
+        "text": "Tăng huyết áp vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            869,
+            889
+        ]
+    },
+    {
+        "text": "Acyclovir 500mg mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            918,
+            943
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg hàng ngày",
+        "type": "THUỐC",
+        "position": [
+            950,
+            974
+        ]
+    },
+    {
+        "text": "tê tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1031,
+            1037
+        ]
+    },
+    {
+        "text": "hội chứng ống cổ tay",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1143,
+            1163
+        ]
+    },
+    {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1226,
+            1228
+        ]
+    },
+    {
+        "text": "teo cơ mô cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1247,
+            1260
+        ]
+    },
+    {
+        "text": "lan lên cẳng tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1266,
+            1282
+        ]
+    },
+    {
+        "text": "đo điện cơ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1300,
+            1316
+        ]
+    },
+    {
+        "text": "vitamin nhóm B",
+        "type": "THUỐC",
+        "position": [
+            1485,
+            1499
+        ]
+    },
+    {
+        "text": "triệu chứng bất thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1653,
+            1675
+        ]
+    },
+    {
+        "text": "tổn thương thần kinh vĩnh viễn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1773,
+            1803
+        ]
+    }
+]

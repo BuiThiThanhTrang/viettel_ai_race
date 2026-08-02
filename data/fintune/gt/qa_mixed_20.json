@@ -1,0 +1,282 @@
+[
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            32,
+            41
+        ]
+    },
+    {
+        "text": "cảm giác kiến bò",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            73
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            157,
+            166
+        ]
+    },
+    {
+        "text": "chao đảo",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            190
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            249,
+            258
+        ]
+    },
+    {
+        "text": "chao đảo",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            282
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            337,
+            344
+        ]
+    },
+    {
+        "text": "buồn nôn nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            363,
+            375
+        ]
+    },
+    {
+        "text": "bệnh tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            410,
+            424
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            429,
+            442
+        ]
+    },
+    {
+        "text": "hoạt huyết dưỡng não",
+        "type": "THUỐC",
+        "position": [
+            476,
+            496
+        ]
+    },
+    {
+        "text": "chóng mặt khi thay đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            594,
+            623
+        ]
+    },
+    {
+        "text": "chóng mặt kịch phát tư thế lành tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            704,
+            740
+        ]
+    },
+    {
+        "text": "bệnh lý tim mạch hoặc thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            803,
+            834
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            884,
+            897
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            924,
+            943
+        ]
+    },
+    {
+        "text": "Chóng mặt dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            962,
+            978
+        ]
+    },
+    {
+        "text": "yếu liệt nhẹ nửa người trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            988,
+            1015
+        ]
+    },
+    {
+        "text": "Huyết áp 170/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1044,
+            1065
+        ]
+    },
+    {
+        "text": "mạch 92 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1067,
+            1083
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương chi trái giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1085,
+            1116
+        ]
+    },
+    {
+        "text": "hình ảnh cộng hưởng từ (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1145,
+            1173
+        ]
+    },
+    {
+        "text": "vùng thiếu máu cục bộ tại cầu não phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1183,
+            1221
+        ]
+    },
+    {
+        "text": "Nhồi máu não cấp giai đoạn sớm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1234,
+            1264
+        ]
+    },
+    {
+        "text": "thuốc chống đông máu",
+        "type": "THUỐC",
+        "position": [
+            1284,
+            1304
+        ]
+    },
+    {
+        "text": "SpO2",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1362,
+            1366
+        ]
+    },
+    {
+        "text": "chóng mặt thoáng qua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1428,
+            1448
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1561,
+            1570
+        ]
+    },
+    {
+        "text": "nói khó",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1602,
+            1609
+        ]
+    },
+    {
+        "text": "tê bì tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1611,
+            1625
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1627,
+            1634
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1640,
+            1654
+        ]
+    },
+    {
+        "text": "điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1784,
+            1795
+        ]
+    },
+    {
+        "text": "siêu âm mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1801,
+            1821
+        ]
+    },
+    {
+        "text": "xét nghiệm công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1825,
+            1849
+        ]
+    }
+]

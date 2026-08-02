@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau đầu âm ỉ kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            59,
+            79
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            218,
+            236
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            241,
+            254
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            345,
+            352
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            582,
+            595
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            622,
+            641
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            660,
+            674
+        ]
+    },
+    {
+        "text": "nôn vọt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            684,
+            691
+        ]
+    },
+    {
+        "text": "Huyết áp 180/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            708,
+            729
+        ]
+    },
+    {
+        "text": "mạch 95 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            731,
+            747
+        ]
+    },
+    {
+        "text": "đồng tử bên phải giãn nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            778,
+            803
+        ]
+    },
+    {
+        "text": "phản xạ ánh sáng chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            805,
+            826
+        ]
+    },
+    {
+        "text": "xuất huyết não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            854,
+            868
+        ]
+    },
+    {
+        "text": "cơn tăng huyết áp cấp cứu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            869,
+            894
+        ]
+    },
+    {
+        "text": "Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            923,
+            934
+        ]
+    },
+    {
+        "text": "CT sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            941,
+            950
+        ]
+    },
+    {
+        "text": "Mannitol 20% 100ml",
+        "type": "THUỐC",
+        "position": [
+            980,
+            998
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1038,
+            1045
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1055,
+            1063
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1065,
+            1068
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1074,
+            1081
+        ]
+    },
+    {
+        "text": "cộng hưởng từ (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1172,
+            1191
+        ]
+    },
+    {
+        "text": "điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1197,
+            1208
+        ]
+    },
+    {
+        "text": "đau đầu kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1242,
+            1257
+        ]
+    }
+]

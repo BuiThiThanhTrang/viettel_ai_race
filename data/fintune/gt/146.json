@@ -1,0 +1,130 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            176
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            242
+        ]
+    },
+    {
+        "text": "đau tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            293,
+            305
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            334,
+            362
+        ]
+    },
+    {
+        "text": "Chỉ số huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            458,
+            498
+        ]
+    },
+    {
+        "text": "0.52",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            511,
+            515
+        ]
+    },
+    {
+        "text": "0.58",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            529,
+            533
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            560,
+            593
+        ]
+    },
+    {
+        "text": "Hình ảnh xơ vữa gây hẹp nặng động mạch đùi nông hai bên, tắc đoạn ngắn động mạch chày sau phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            595,
+            689
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn IIb theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            705,
+            767
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính mạch máu (CTA)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            795,
+            830
+        ]
+    },
+    {
+        "text": "Clopidogrel 75mg",
+        "type": "THUỐC",
+        "position": [
+            917,
+            933
+        ]
+    },
+    {
+        "text": "Statin liều cao",
+        "type": "THUỐC",
+        "position": [
+            937,
+            952
+        ]
+    }
+]

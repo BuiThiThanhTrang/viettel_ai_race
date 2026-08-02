@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            124,
+            152
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            154,
+            174
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            176,
+            195
+        ]
+    },
+    {
+        "text": "đau nhói vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            241,
+            264
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            269,
+            275
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            277,
+            283
+        ]
+    },
+    {
+        "text": "đau tăng sau ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            300,
+            315
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            381,
+            402
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            413,
+            432
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày - tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            483,
+            508
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét hành tá tràng kích thước 0.8cm, bờ đều, đáy sạch",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            510,
+            574
+        ]
+    },
+    {
+        "text": "Test vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            576,
+            592
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            593,
+            603
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            621,
+            626
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            627,
+            631
+        ]
+    },
+    {
+        "text": "chỉ số chức năng thận",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            633,
+            654
+        ]
+    },
+    {
+        "text": "trong giới hạn bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            655,
+            681
+        ]
+    },
+    {
+        "text": "Loét hành tá tràng do HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            726,
+            750
+        ]
+    },
+    {
+        "text": "Đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            751,
+            772
+        ]
+    },
+    {
+        "text": "Esomeprazole",
+        "type": "THUỐC",
+        "position": [
+            809,
+            821
+        ]
+    },
+    {
+        "text": "Amoxicillin",
+        "type": "THUỐC",
+        "position": [
+            823,
+            834
+        ]
+    },
+    {
+        "text": "Clarithromycin",
+        "type": "THUỐC",
+        "position": [
+            836,
+            850
+        ]
+    },
+    {
+        "text": "Bismuth",
+        "type": "THUỐC",
+        "position": [
+            852,
+            859
+        ]
+    }
+]

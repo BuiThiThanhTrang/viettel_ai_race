@@ -1,0 +1,410 @@
+[
+    {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            39,
+            47
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            50,
+            63
+        ]
+    },
+    {
+        "text": "suy tim, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            66,
+            89
+        ]
+    },
+    {
+        "text": "béo phì",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            92,
+            99
+        ]
+    },
+    {
+        "text": "Tăng khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            139,
+            151
+        ]
+    },
+    {
+        "text": "phù chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            154,
+            166
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            169,
+            177
+        ]
+    },
+    {
+        "text": "Tăng khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            247,
+            259
+        ]
+    },
+    {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            263,
+            266
+        ]
+    },
+    {
+        "text": "cơn ngất xỉu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            288,
+            300
+        ]
+    },
+    {
+        "text": "đau rát khi đi tiểu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            317,
+            336
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            364,
+            371
+        ]
+    },
+    {
+        "text": "nôn từng đợt sau khi ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            391,
+            414
+        ]
+    },
+    {
+        "text": "Tăng khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            460,
+            472
+        ]
+    },
+    {
+        "text": "phù chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            475,
+            487
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            490,
+            498
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            501,
+            508
+        ]
+    },
+    {
+        "text": "weak",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            512,
+            516
+        ]
+    },
+    {
+        "text": "ngất xỉu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            553,
+            561
+        ]
+    },
+    {
+        "text": "giảm khả năng quan hệ tình dục với bạn tình",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            564,
+            607
+        ]
+    },
+    {
+        "text": "Đau buốt khi đi tiểu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            610,
+            630
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            633,
+            640
+        ]
+    },
+    {
+        "text": "nôn từng đợt sau khi ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            643,
+            666
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            690,
+            698
+        ]
+    },
+    {
+        "text": "nhói",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            761,
+            765
+        ]
+    },
+    {
+        "text": "lan xuống cánh tay trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            779,
+            802
+        ]
+    },
+    {
+        "text": "tê bì ở cánh tay trái trên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            814,
+            840
+        ]
+    },
+    {
+        "text": "đau ở cánh tay trái dưới và bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            844,
+            879
+        ]
+    },
+    {
+        "text": "thuốc",
+        "type": "THUỐC",
+        "position": [
+            953,
+            958
+        ]
+    },
+    {
+        "text": "shortness of breath",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            981,
+            1000
+        ]
+    },
+    {
+        "text": "yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1034,
+            1037
+        ]
+    },
+    {
+        "text": "đau rát khi đi tiểu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1071,
+            1090
+        ]
+    },
+    {
+        "text": "kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1131,
+            1134
+        ]
+    },
+    {
+        "text": "từng đợt sau khi ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1165,
+            1184
+        ]
+    },
+    {
+        "text": "cơn ngất xỉu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1204,
+            1216
+        ]
+    },
+    {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1335,
+            1350
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1352,
+            1361
+        ]
+    },
+    {
+        "text": "80mg po lasix",
+        "type": "THUỐC",
+        "position": [
+            1432,
+            1445
+        ]
+    },
+    {
+        "text": "2 sl ntg",
+        "type": "THUỐC",
+        "position": [
+            1688,
+            1696
+        ]
+    },
+    {
+        "text": "asa",
+        "type": "THUỐC",
+        "position": [
+            1704,
+            1707
+        ]
+    },
+    {
+        "text": "80mg lasix iv",
+        "type": "THUỐC",
+        "position": [
+            1715,
+            1728
+        ]
+    },
+    {
+        "text": "8mg morphine",
+        "type": "THUỐC",
+        "position": [
+            1736,
+            1748
+        ]
+    },
+    {
+        "text": "1mg dilaudid",
+        "type": "THUỐC",
+        "position": [
+            1756,
+            1768
+        ]
+    },
+    {
+        "text": "po metoprolol",
+        "type": "THUỐC",
+        "position": [
+            1780,
+            1793
+        ]
+    },
+    {
+        "text": "10mg iv diltiazem",
+        "type": "THUỐC",
+        "position": [
+            1805,
+            1822
+        ]
+    },
+    {
+        "text": "ntg",
+        "type": "THUỐC",
+        "position": [
+            1858,
+            1861
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1862,
+            1869
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1886,
+            1894
+        ]
+    },
+    {
+        "text": "ntg",
+        "type": "THUỐC",
+        "position": [
+            1909,
+            1912
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1913,
+            1920
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1937,
+            1945
+        ]
+    }
+]

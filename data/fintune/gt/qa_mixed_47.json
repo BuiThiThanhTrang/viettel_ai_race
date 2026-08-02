@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            156,
+            172
+        ]
+    },
+    {
+        "text": "cảm giác đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            261,
+            278
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            282,
+            290
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            486,
+            500
+        ]
+    },
+    {
+        "text": "sút cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            611,
+            639
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            641,
+            658
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            664,
+            674
+        ]
+    },
+    {
+        "text": "Đau thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            728,
+            748
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            753,
+            770
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            781,
+            794
+        ]
+    },
+    {
+        "text": "Amlodipine",
+        "type": "THUỐC",
+        "position": [
+            812,
+            822
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            888,
+            906
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            933,
+            953
+        ]
+    },
+    {
+        "text": "Da xanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            984,
+            991
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            993,
+            1006
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1022,
+            1035
+        ]
+    },
+    {
+        "text": "hồng cầu giảm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1045,
+            1058
+        ]
+    },
+    {
+        "text": "huyết sắc tố 90g/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1060,
+            1078
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1080,
+            1094
+        ]
+    },
+    {
+        "text": "Phát hiện ổ loét kích thước 1.5cm ở hành tá tràng, có dấu hiệu xuất huyết mạch máu đang hoạt động",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1096,
+            1193
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét hành tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1206,
+            1247
+        ]
+    },
+    {
+        "text": "Omeprazole",
+        "type": "THUỐC",
+        "position": [
+            1287,
+            1297
+        ]
+    }
+]

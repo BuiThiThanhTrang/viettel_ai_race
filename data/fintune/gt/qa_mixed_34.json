@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau bụng âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            72,
+            100
+        ]
+    },
+    {
+        "text": "cảm giác nóng rát rất khó chịu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            168,
+            198
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            274,
+            290
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            326,
+            333
+        ]
+    },
+    {
+        "text": "thuốc giảm tiết axit",
+        "type": "THUỐC",
+        "position": [
+            356,
+            376
+        ]
+    },
+    {
+        "text": "Đau thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            660,
+            680
+        ]
+    },
+    {
+        "text": "nôn ra dịch có lẫn máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            682,
+            709
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng mạn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            719,
+            753
+        ]
+    },
+    {
+        "text": "đau khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            786,
+            794
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            825
+        ]
+    },
+    {
+        "text": "ấn điểm thượng vị đau nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            827,
+            854
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            856,
+            886
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét dạ dày tá tràng biến chứng thủng ổ loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            907,
+            979
+        ]
+    },
+    {
+        "text": "thuốc ức chế bơm proton liều cao đường tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1050,
+            1098
+        ]
+    },
+    {
+        "text": "đau nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1205,
+            1212
+        ]
+    },
+    {
+        "text": "cơn đau kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1338,
+            1353
+        ]
+    },
+    {
+        "text": "sụt cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1371,
+            1399
+        ]
+    },
+    {
+        "text": "test hơi thở tìm vi khuẩn HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1489,
+            1517
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1521,
+            1528
+        ]
+    }
+]

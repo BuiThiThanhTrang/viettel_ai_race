@@ -1,0 +1,146 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "Cảm giác này xuất hiện ngày càng rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            129,
+            168
+        ]
+    },
+    {
+        "text": "các vấn đề về hệ thần kinh vận động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            269,
+            304
+        ]
+    },
+    {
+        "text": "run tay tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            497,
+            513
+        ]
+    },
+    {
+        "text": "cứng khớp vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            515,
+            533
+        ]
+    },
+    {
+        "text": "dấu hiệu run tĩnh trạng (pill-rolling tremor) ở bàn tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            607,
+            667
+        ]
+    },
+    {
+        "text": "cử động tay chậm chạp (bradykinesia)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            669,
+            705
+        ]
+    },
+    {
+        "text": "dáng đi khom người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            707,
+            725
+        ]
+    },
+    {
+        "text": "Hội chứng Parkinson giai đoạn đầu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            744,
+            777
+        ]
+    },
+    {
+        "text": "chụp MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            800,
+            815
+        ]
+    },
+    {
+        "text": "đo tốc độ dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            817,
+            847
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 25mg/100mg, chia 3 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            881,
+            927
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            959,
+            968
+        ]
+    },
+    {
+        "text": "hạ huyết áp tư thế đứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            970,
+            993
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1187,
+            1197
+        ]
+    },
+    {
+        "text": "bệnh lý Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1222,
+            1239
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1253,
+            1265
+        ]
+    },
+    {
+        "text": "cứng khớp tiến triển nặng hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1763,
+            1792
+        ]
+    }
+]

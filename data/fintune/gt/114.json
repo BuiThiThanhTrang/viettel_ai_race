@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            94,
+            101
+        ]
+    },
+    {
+        "text": "metformin",
+        "type": "THUỐC",
+        "position": [
+            111,
+            120
+        ]
+    },
+    {
+        "text": "đau bụng vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            195,
+            234
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            239,
+            251
+        ]
+    },
+    {
+        "text": "phân lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            253,
+            262
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            310,
+            325
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            327,
+            348
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            350,
+            377
+        ]
+    },
+    {
+        "text": "Dấu hiệu mất nước rõ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            379,
+            399
+        ]
+    },
+    {
+        "text": "niêm mạc khô",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            401,
+            413
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            440,
+            453
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            455,
+            463
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            464,
+            472
+        ]
+    },
+    {
+        "text": "neutrophil chiếm ưu thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            474,
+            497
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            499,
+            510
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            512,
+            519
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            521,
+            533
+        ]
+    },
+    {
+        "text": "tụy tăng kích thước, giảm âm, nhiều dịch quanh tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            535,
+            585
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            607,
+            637
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            647,
+            661
+        ]
+    },
+    {
+        "text": "truyền dịch tĩnh mạch bù điện giải",
+        "type": "THUỐC",
+        "position": [
+            691,
+            725
+        ]
+    },
+    {
+        "text": "giảm đau bằng paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            727,
+            769
+        ]
+    },
+    {
+        "text": "kháng sinh dự phòng ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            771,
+            810
+        ]
+    }
+]

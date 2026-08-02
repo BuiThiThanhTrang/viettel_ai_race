@@ -1,0 +1,137 @@
+[
+  {
+    "text": "rụng tóc từng mảng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      35,
+      53
+    ]
+  },
+  {
+    "text": "rụng tóc",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      252,
+      260
+    ]
+  },
+  {
+    "text": "rụng tóc từng vùng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      404,
+      422
+    ]
+  },
+  {
+    "text": "Corticosteroid",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      507,
+      521
+    ]
+  },
+  {
+    "text": "corticoid",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      681,
+      690
+    ]
+  },
+  {
+    "text": "rụng tóc toàn bộ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      713,
+      729
+    ]
+  },
+  {
+    "text": "rụng tóc toàn thể",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      735,
+      752
+    ]
+  },
+  {
+    "text": "thiếu máu cơ tim cục bộ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      998,
+      1021
+    ]
+  },
+  {
+    "text": "ST chênh xuống",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1033,
+      1047
+    ]
+  },
+  {
+    "text": "diphenylcyclopropenone (diphencyprone)",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1116,
+      1154
+    ]
+  },
+  {
+    "text": "dinitrochlorobenzene",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1158,
+      1178
+    ]
+  },
+  {
+    "text": "viêm da tiếp xúc dị ứng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1221,
+      1244
+    ]
+  },
+  {
+    "text": "viêm da tiếp xúc",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1349,
+      1365
+    ]
+  },
+  {
+    "text": "mày đay",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1367,
+      1374
+    ]
+  },
+  {
+    "text": "gồm cả bạch biến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1395,
+      1411
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "text": "Đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            34,
+            55
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            71,
+            84
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            112,
+            140
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg x 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            142,
+            170
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg x 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            172,
+            199
+        ]
+    },
+    {
+        "text": "vết loét vùng gót chân phải không lành",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            236,
+            274
+        ]
+    },
+    {
+        "text": "rỉ dịch mủ vàng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            287,
+            302
+        ]
+    },
+    {
+        "text": "đau nhức tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            321
+        ]
+    },
+    {
+        "text": "Vết loét gót chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            341,
+            363
+        ]
+    },
+    {
+        "text": "kích thước 3x4cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            364,
+            380
+        ]
+    },
+    {
+        "text": "đáy nhiều mô hoại tử đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            382,
+            406
+        ]
+    },
+    {
+        "text": "xung quanh tấy đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            408,
+            425
+        ]
+    },
+    {
+        "text": "ấn đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            427,
+            433
+        ]
+    },
+    {
+        "text": "Mạch mu chân phải bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            435,
+            460
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương giảm hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            462,
+            492
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            519,
+            539
+        ]
+    },
+    {
+        "text": "18.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            555,
+            566
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            568,
+            573
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            575,
+            579
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            581,
+            594
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            596,
+            604
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            605,
+            613
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            615,
+            625
+        ]
+    },
+    {
+        "text": "chiếm 82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            626,
+            635
+        ]
+    },
+    {
+        "text": "X-quang bàn chân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            637,
+            653
+        ]
+    },
+    {
+        "text": "Chưa thấy hình ảnh tiêu xương hay viêm xương tủy xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            655,
+            709
+        ]
+    },
+    {
+        "text": "Nhiễm trùng bàn chân đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            711,
+            746
+        ]
+    },
+    {
+        "text": "Wagner độ 2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            748,
+            759
+        ]
+    },
+    {
+        "text": "biến chứng thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            771,
+            802
+        ]
+    }
+]

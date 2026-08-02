@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            302,
+            309
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            313,
+            322
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            375,
+            393
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            395,
+            419
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            425,
+            447
+        ]
+    },
+    {
+        "text": "Đau đầu âm ỉ vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            536,
+            558
+        ]
+    },
+    {
+        "text": "tê bì nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            563,
+            587
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            600,
+            613
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            675,
+            683
+        ]
+    },
+    {
+        "text": "chấn thương sọ não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            702,
+            720
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            805,
+            812
+        ]
+    },
+    {
+        "text": "tím tái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            817,
+            824
+        ]
+    },
+    {
+        "text": "Sức cơ tay chân trái giảm rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            826,
+            858
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            880,
+            900
+        ]
+    },
+    {
+        "text": "mất thăng bằng và ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            904,
+            935
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            937,
+            979
+        ]
+    },
+    {
+        "text": "Nhồi máu não cấp bán cầu phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1068,
+            1097
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1100,
+            1118
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1145,
+            1172
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1174,
+            1185
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1187,
+            1211
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1265,
+            1293
+        ]
+    },
+    {
+        "text": "neurotropin",
+        "type": "THUỐC",
+        "position": [
+            1295,
+            1306
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1479,
+            1510
+        ]
+    },
+    {
+        "text": "triệu chứng bất thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1612,
+            1634
+        ]
+    }
+]

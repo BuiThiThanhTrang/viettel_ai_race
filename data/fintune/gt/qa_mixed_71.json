@@ -1,0 +1,178 @@
+[
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            63,
+            70
+        ]
+    },
+    {
+        "text": "chân tay chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            132,
+            150
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            152,
+            159
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            248,
+            257
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            432,
+            444
+        ]
+    },
+    {
+        "text": "dáng đi khó khăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            448,
+            464
+        ]
+    },
+    {
+        "text": "run ở tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            521,
+            535
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            603,
+            616
+        ]
+    },
+    {
+        "text": "mặt giảm biểu cảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            625,
+            642
+        ]
+    },
+    {
+        "text": "cứng cơ kiểu bánh răng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            644,
+            666
+        ]
+    },
+    {
+        "text": "Bệnh Parkinson giai đoạn 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            697,
+            723
+        ]
+    },
+    {
+        "text": "Nhịp run tĩnh 4-6 Hz",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            767,
+            787
+        ]
+    },
+    {
+        "text": "mất phản xạ tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            789,
+            807
+        ]
+    },
+    {
+        "text": "chữ viết nhỏ dần (micrographia)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            809,
+            840
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg 2 viên/ngày chia 2 lần",
+        "type": "THUỐC",
+        "position": [
+            857,
+            904
+        ]
+    },
+    {
+        "text": "MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            939,
+            949
+        ]
+    },
+    {
+        "text": "Không thấy tổn thương cấu trúc vùng hạch nền hoặc khối u, teo vỏ não mức độ nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            951,
+            1030
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1083,
+            1092
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1187,
+            1194
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1250,
+            1260
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1291,
+            1305
+        ]
+    },
+    {
+        "text": "đo điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1422,
+            1432
+        ]
+    }
+]

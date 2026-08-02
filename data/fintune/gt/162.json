@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            90,
+            103
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            146,
+            180
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            185,
+            197
+        ]
+    },
+    {
+        "text": "sốt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            206
+        ]
+    },
+    {
+        "text": "38 độ C",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            207,
+            214
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            249
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            251,
+            272
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            301
+        ]
+    },
+    {
+        "text": "Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            312,
+            326
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            379,
+            393
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            395,
+            406
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            407,
+            415
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            417,
+            427
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            428,
+            435
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            437,
+            448
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            449,
+            460
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            462,
+            465
+        ]
+    },
+    {
+        "text": "tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            466,
+            474
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            476,
+            488
+        ]
+    },
+    {
+        "text": "Tụy sưng to, không đồng nhất",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            490,
+            518
+        ]
+    },
+    {
+        "text": "không thấy sỏi túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            520,
+            542
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            555,
+            585
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            595,
+            609
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            695,
+            723
+        ]
+    },
+    {
+        "text": "ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            745,
+            764
+        ]
+    },
+    {
+        "text": "insulin phác đồ tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            793,
+            821
+        ]
+    }
+]

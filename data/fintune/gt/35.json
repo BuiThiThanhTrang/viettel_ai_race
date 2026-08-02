@@ -1,0 +1,450 @@
+[
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            57,
+            88
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "position": [
+            99,
+            106
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            113,
+            126
+        ]
+    },
+    {
+        "text": "tăng lipid máu, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            133,
+            163
+        ]
+    },
+    {
+        "text": "Đái tháo đường típ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            170,
+            190
+        ]
+    },
+    {
+        "text": "hẹp ống sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            197,
+            209
+        ]
+    },
+    {
+        "text": "Giả gout",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            216,
+            224
+        ]
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            231,
+            272
+        ]
+    },
+    {
+        "text": "tăng sản tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            279,
+            303
+        ]
+    },
+    {
+        "text": "ngã",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            320,
+            323
+        ]
+    },
+    {
+        "text": "Ngã",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            332,
+            335
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            342,
+            349
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "position": [
+            381,
+            388
+        ]
+    },
+    {
+        "text": "Toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            476,
+            495
+        ]
+    },
+    {
+        "text": "ảo giác dai dẳng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            522,
+            538
+        ]
+    },
+    {
+        "text": "Lú lẫn ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            545,
+            566
+        ]
+    },
+    {
+        "text": "Cực kỳ yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            604,
+            614
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            660,
+            667
+        ]
+    },
+    {
+        "text": "Lú lẫn ngày càng nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            692,
+            713
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            738,
+            744
+        ]
+    },
+    {
+        "text": "ngã",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            753,
+            756
+        ]
+    },
+    {
+        "text": "toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            796,
+            815
+        ]
+    },
+    {
+        "text": "ảo giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            822,
+            829
+        ]
+    },
+    {
+        "text": "Lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            836,
+            842
+        ]
+    },
+    {
+        "text": "Ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            849,
+            860
+        ]
+    },
+    {
+        "text": "ăn vào dễ nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            862,
+            875
+        ]
+    },
+    {
+        "text": "Nôn không ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            883,
+            899
+        ]
+    },
+    {
+        "text": "không ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            901,
+            918
+        ]
+    },
+    {
+        "text": "ảo giác bình thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            999,
+            1018
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "position": [
+            1046,
+            1053
+        ]
+    },
+    {
+        "text": "Toàn trạng suy kiệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1100,
+            1119
+        ]
+    },
+    {
+        "text": "trượt ngã xuống sàn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1126,
+            1145
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1149,
+            1155
+        ]
+    },
+    {
+        "text": "Ăn uống kém",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1162,
+            1173
+        ]
+    },
+    {
+        "text": "ăn vào dễ nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1175,
+            1188
+        ]
+    },
+    {
+        "text": "Nôn không ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1196,
+            1212
+        ]
+    },
+    {
+        "text": "không ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1214,
+            1231
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1289,
+            1297
+        ]
+    },
+    {
+        "text": "tăng là 39.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1298,
+            1310
+        ]
+    },
+    {
+        "text": "creatinin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1317,
+            1326
+        ]
+    },
+    {
+        "text": "3.0",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1330,
+            1333
+        ]
+    },
+    {
+        "text": "troponin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1340,
+            1348
+        ]
+    },
+    {
+        "text": "0.10",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1352,
+            1356
+        ]
+    },
+    {
+        "text": "inr",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1363,
+            1366
+        ]
+    },
+    {
+        "text": "1.4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1370,
+            1373
+        ]
+    },
+    {
+        "text": "men gan",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1385,
+            1392
+        ]
+    },
+    {
+        "text": "alt",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1398,
+            1401
+        ]
+    },
+    {
+        "text": "176",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1405,
+            1408
+        ]
+    },
+    {
+        "text": "ast",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1412,
+            1415
+        ]
+    },
+    {
+        "text": "287",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1419,
+            1422
+        ]
+    },
+    {
+        "text": "tổng phân tích nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1429,
+            1453
+        ]
+    },
+    {
+        "text": "đái tháo đườngđái tháo đường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1457,
+            1485
+        ]
+    },
+    {
+        "text": "chụp x-quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1518,
+            1535
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1539,
+            1550
+        ]
+    },
+    {
+        "text": "cml",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1692,
+            1695
+        ]
+    },
+    {
+        "text": "gleevec",
+        "type": "THUỐC",
+        "position": [
+            1717,
+            1724
+        ]
+    }
+]

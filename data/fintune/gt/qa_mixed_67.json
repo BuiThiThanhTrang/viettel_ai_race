@@ -1,0 +1,170 @@
+[
+    {
+        "text": "chân tay run rẩy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            91,
+            107
+        ]
+    },
+    {
+        "text": "tay phải cử động không kiểm soát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            164,
+            196
+        ]
+    },
+    {
+        "text": "gương mặt bà trở nên ít biểu cảm hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            258
+        ]
+    },
+    {
+        "text": "dáng đi hơi khom về phía trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            260,
+            290
+        ]
+    },
+    {
+        "text": "bước đi ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            294,
+            306
+        ]
+    },
+    {
+        "text": "khó khăn trong việc xoay người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            308,
+            338
+        ]
+    },
+    {
+        "text": "bệnh Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            383,
+            397
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            546,
+            553
+        ]
+    },
+    {
+        "text": "vận động chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            557,
+            575
+        ]
+    },
+    {
+        "text": "Run tĩnh trạng ở tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            594,
+            619
+        ]
+    },
+    {
+        "text": "tần số 4-6 Hz",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            624,
+            637
+        ]
+    },
+    {
+        "text": "Co cứng cơ kiểu bánh xe răng cưa tại các khớp cổ tay và khuỷu tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            641,
+            706
+        ]
+    },
+    {
+        "text": "Mất cử động đồng tác tay khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            710,
+            744
+        ]
+    },
+    {
+        "text": "Bệnh Parkinson giai đoạn II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            765,
+            792
+        ]
+    },
+    {
+        "text": "MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            860,
+            870
+        ]
+    },
+    {
+        "text": "Không thấy tổn thương cấu trúc hoặc tai biến mạch máu não cũ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            872,
+            932
+        ]
+    },
+    {
+        "text": "Đo chức năng thần kinh thực vật",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            936,
+            967
+        ]
+    },
+    {
+        "text": "Viên Levodopa/Carbidopa 250mg: dùng 1/2 viên x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            989,
+            1046
+        ]
+    },
+    {
+        "text": "run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1136,
+            1139
+        ]
+    },
+    {
+        "text": "vận động chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1143,
+            1156
+        ]
+    },
+    {
+        "text": "bệnh lý Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1397,
+            1414
+        ]
+    }
+]

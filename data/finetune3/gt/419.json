@@ -1,0 +1,249 @@
+[
+  {
+    "text": "run tay khi cầm cốc nước",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      57,
+      81
+    ]
+  },
+  {
+    "text": "chữ viết có xu hướng nhỏ dần",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      83,
+      111
+    ]
+  },
+  {
+    "text": "dáng đi hơi khom",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      115,
+      131
+    ]
+  },
+  {
+    "text": "run khi nghỉ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      426,
+      438
+    ]
+  },
+  {
+    "text": "vận động chậm chạp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      440,
+      458
+    ]
+  },
+  {
+    "text": "cứng đờ cơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      464,
+      474
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      599,
+      612
+    ]
+  },
+  {
+    "text": "đái tháo đường type 2",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      621,
+      642
+    ]
+  },
+  {
+    "text": "Yếu nửa người trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      661,
+      679
+    ]
+  },
+  {
+    "text": "rối loạn ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      689,
+      704
+    ]
+  },
+  {
+    "text": "Mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      723,
+      727
+    ]
+  },
+  {
+    "text": "95 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      729,
+      740
+    ]
+  },
+  {
+    "text": "Huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      742,
+      750
+    ]
+  },
+  {
+    "text": "170/90 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      752,
+      763
+    ]
+  },
+  {
+    "text": "Glassgow",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      777,
+      785
+    ]
+  },
+  {
+    "text": "12 điểm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      786,
+      793
+    ]
+  },
+  {
+    "text": "phản xạ gân xương bên trái giảm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      795,
+      826
+    ]
+  },
+  {
+    "text": "Đồng tử bên trái giãn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      841,
+      862
+    ]
+  },
+  {
+    "text": "phản ứng ánh sáng yếu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      868,
+      889
+    ]
+  },
+  {
+    "text": "Nhồi máu não diện rộng vùng động mạch não giữa",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      902,
+      948
+    ]
+  },
+  {
+    "text": "phù não cấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      961,
+      972
+    ]
+  },
+  {
+    "text": "Mannitol 20% mỗi 6 giờ",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1008,
+      1030
+    ]
+  },
+  {
+    "text": "Aspirin 100mg",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1039,
+      1052
+    ]
+  },
+  {
+    "text": "Statin liều cao",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1056,
+      1071
+    ]
+  },
+  {
+    "text": "Insulin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1107,
+      1114
+    ]
+  },
+  {
+    "text": "chụp CT scan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1195,
+      1207
+    ]
+  },
+  {
+    "text": "run tay kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1302,
+      1317
+    ]
+  }
+]

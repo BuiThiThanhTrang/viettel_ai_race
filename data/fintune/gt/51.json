@@ -1,0 +1,226 @@
+[
+    {
+        "text": "Đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            57,
+            78
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "khó chịu chung",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            205,
+            219
+        ]
+    },
+    {
+        "text": "nghẹt mũi nhiều hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            226,
+            245
+        ]
+    },
+    {
+        "text": "đau đầu bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            252,
+            268
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            275,
+            282
+        ]
+    },
+    {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            289,
+            298
+        ]
+    },
+    {
+        "text": "vài tuần tiêu chảy bùng nổ, vài lần mỗi ngày, chủ yếu là phân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            341,
+            402
+        ]
+    },
+    {
+        "text": "phân đen, nhầy, máu đỏ tươi hoặc dịch nhầy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            432,
+            474
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            543,
+            553
+        ]
+    },
+    {
+        "text": "kali là 2.4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            574,
+            585
+        ]
+    },
+    {
+        "text": "kali 80mEq trong 24 giờ",
+        "type": "THUỐC",
+        "position": [
+            605,
+            628
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            689,
+            699
+        ]
+    },
+    {
+        "text": "kali vẫn giảm xuống 2.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            709,
+            732
+        ]
+    },
+    {
+        "text": "azithromycin",
+        "type": "THUỐC",
+        "position": [
+            786,
+            798
+        ]
+    },
+    {
+        "text": "nhiệt độ 97.5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            890,
+            903
+        ]
+    },
+    {
+        "text": "mạch 85",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            905,
+            912
+        ]
+    },
+    {
+        "text": "nhịp thở 18",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            914,
+            925
+        ]
+    },
+    {
+        "text": "huyết áp 14279",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            927,
+            941
+        ]
+    },
+    {
+        "text": "spo2 96",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            943,
+            950
+        ]
+    },
+    {
+        "text": "kali là 2.4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1023,
+            1034
+        ]
+    },
+    {
+        "text": "kali vẫn giảm xuống 2.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1041,
+            1064
+        ]
+    },
+    {
+        "text": "kali dai dẳng 2.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1071,
+            1088
+        ]
+    },
+    {
+        "text": "40meq po k",
+        "type": "THUỐC",
+        "position": [
+            1127,
+            1137
+        ]
+    },
+    {
+        "text": "40meq iv k",
+        "type": "THUỐC",
+        "position": [
+            1149,
+            1159
+        ]
+    },
+    {
+        "text": "hạ kali máu rõ rệt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1194,
+            1212
+        ]
+    },
+    {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1228,
+            1237
+        ]
+    },
+    {
+        "text": "nhiễm trùng đường hô hấp trên cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1253,
+            1286
+        ]
+    }
+]

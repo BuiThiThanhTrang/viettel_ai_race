@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            101,
+            114
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            158,
+            192
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            197,
+            209
+        ]
+    },
+    {
+        "text": "phân lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            211,
+            220
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            273,
+            283
+        ]
+    },
+    {
+        "text": "đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            288,
+            322
+        ]
+    },
+    {
+        "text": "niêm mạc khô",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            372,
+            384
+        ]
+    },
+    {
+        "text": "mạch 105 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            386,
+            403
+        ]
+    },
+    {
+        "text": "huyết áp 100/60 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            405,
+            425
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            444,
+            455
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            457,
+            465
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            467,
+            477
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            479,
+            486
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            488,
+            500
+        ]
+    },
+    {
+        "text": "Tụy sưng to, phù nề, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            502,
+            549
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            571,
+            601
+        ]
+    },
+    {
+        "text": "Omeprazole 40mg tiêm tĩnh mạch 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            720,
+            761
+        ]
+    },
+    {
+        "text": "Paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            777,
+            805
+        ]
+    }
+]

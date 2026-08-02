@@ -25,46 +25,68 @@ Dự án yêu cầu Python 3.8+ và các thư viện:
 - `pandas`, `numpy`, `scikit-learn`
 - `accelerate` (dành cho huấn luyện)
 
-Cài đặt các gói phụ thuộc:
+Cài đặt các gói phụ thuộc (chạy từ thư mục gốc `code/`):
 ```bash
 pip install -r requirements.txt
 ```
 
+## Cấu trúc dự án mới
+
+```
+viettel_ai_race/code/
+│
+├── archives/               # Lưu trữ các file nén (ví dụ zip datasets, outputs)
+├── data/                   # Quản lý tất cả dữ liệu
+│   ├── input/              # Chứa các file văn bản y khoa gốc (.txt) làm đầu vào
+│   ├── output/             # Chứa các file kết quả JSON, mô hình sau train
+│   ├── raw/                # Dữ liệu thô (raw datasets)
+│   └── clean/              # Các từ điển đã qua tiền xử lý (ICD-10, RxNorm)
+├── logs/                   # Chứa các file nhật ký, ghi chú (diary, nb_dump)
+├── notebooks/              # Chứa các file Jupyter Notebook dùng để finetune và EDA
+├── src/                    # Mã nguồn chính của ứng dụng
+│   ├── main.py             # File chạy hệ thống chính
+│   ├── pipeline.py         # Định nghĩa các block xử lý (NER, Assertion, Linker)
+│   ├── train_assertion.py  # Script huấn luyện mô hình Assertion
+│   ├── preprocess_db.py    # Script tiền xử lý từ điển
+│   └── ...                 # Các file xử lý và tiện ích khác
+└── tools/                  # Công cụ hỗ trợ, ví dụ vncorenlp
+```
+
 ## Hướng dẫn sử dụng
 
-### 1. Huấn luyện mô hình Assertion (Tùy chọn)
-Nếu bạn muốn sử dụng mô hình Encoder để phân loại Assertion, bạn cần huấn luyện nó trước tiên:
+**LƯU Ý:** Do cấu trúc dự án đã được sắp xếp lại, tất cả các lệnh chạy code Python cần được thực thi từ bên trong thư mục `src/`.
+
+### 1. Chuẩn bị dữ liệu đầu vào
+Bạn hãy đặt các file văn bản y khoa (đuôi `.txt`) cần phân tích vào thư mục `data/input/input`.
+
+### 2. Tiền xử lý từ điển (Tùy chọn)
+Chạy script để chuẩn bị dữ liệu mã hóa ICD-10 và RxNorm:
 ```bash
+cd src
+python preprocess_db.py
+```
+Dữ liệu chuẩn sẽ được tạo tại `data/clean`.
+
+### 3. Huấn luyện mô hình Assertion (Tùy chọn)
+Nếu bạn muốn sử dụng mô hình Encoder để phân loại Assertion thay vì luật, bạn cần huấn luyện nó:
+```bash
+cd src
 python train_assertion.py
 ```
-Quá trình này sẽ tạo ra thư mục `model_assertion_output` chứa mô hình và tokenizer.
+Mô hình sẽ được lưu tại `data/output/model_assertion_output`.
 
-### 2. Chạy Pipeline trích xuất
-Để chạy toàn bộ hệ thống xử lý các file văn bản (đuôi `.txt`) trong thư mục `input`:
+### 4. Chạy Pipeline trích xuất
+Để chạy toàn bộ hệ thống xử lý các file văn bản trong `data/input/input` và xuất ra `data/output/output`:
 ```bash
+cd src
 python main.py --assertion_mode <chế độ>
 ```
 Các chế độ hỗ trợ: `rule_based` (mặc định), `encoder`, hoặc `llm`.
 
 **Ví dụ chạy với mô hình Encoder:**
 ```bash
+cd src
 python main.py --assertion_mode encoder
 ```
 
-Kết quả (định dạng JSON) sẽ được lưu trong thư mục `output`.
-
-## Cấu trúc thư mục
-
-```
-viettel_ai_race/
-│
-├── data/                   # Chứa dữ liệu từ điển mã hóa (ICD-10, RxNorm)
-├── input/                  # Chứa các file văn bản y khoa gốc (.txt)
-├── output/                 # Chứa các kết quả JSON sau khi trích xuất
-│
-├── pipeline.py             # Mã nguồn chính định nghĩa các Pipeline, NER, Assertion và Linker
-├── main.py                 # File chạy chính để xử lý hàng loạt văn bản
-├── train_assertion.py      # Script huấn luyện mô hình Assertion (Encoder)
-├── utils.py                # Các hàm tiện ích hỗ trợ
-└── requirements.txt        # Danh sách các thư viện yêu cầu
-```
+Kết quả (định dạng JSON) sẽ xuất hiện trong thư mục `data/output/output/`.

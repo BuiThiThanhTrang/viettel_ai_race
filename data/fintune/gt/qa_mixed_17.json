@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            45,
+            57
+        ]
+    },
+    {
+        "text": "chóng mặt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            67,
+            80
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            185,
+            198
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            204,
+            222
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            254,
+            272
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            281,
+            291
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            480,
+            489
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            493,
+            500
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            719,
+            732
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            759,
+            778
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            797,
+            821
+        ]
+    },
+    {
+        "text": "yếu liệt nửa người trái thoáng qua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            827,
+            861
+        ]
+    },
+    {
+        "text": "Huyết áp 170/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            878,
+            899
+        ]
+    },
+    {
+        "text": "mạch 92 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            901,
+            917
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương chi trái giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            919,
+            950
+        ]
+    },
+    {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            978,
+            999
+        ]
+    },
+    {
+        "text": "xuất huyết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1003,
+            1013
+        ]
+    },
+    {
+        "text": "thiếu máu cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1019,
+            1035
+        ]
+    },
+    {
+        "text": "Chụp CT sọ não không tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1060,
+            1101
+        ]
+    },
+    {
+        "text": "xét nghiệm công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1103,
+            1127
+        ]
+    },
+    {
+        "text": "đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1129,
+            1140
+        ]
+    },
+    {
+        "text": "mỡ máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1144,
+            1150
+        ]
+    },
+    {
+        "text": "Nicardipine",
+        "type": "THUỐC",
+        "position": [
+            1188,
+            1199
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            1231,
+            1243
+        ]
+    },
+    {
+        "text": "đau đầu nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1367,
+            1378
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1382,
+            1391
+        ]
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "cảm giác chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            99
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            310,
+            317
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            321,
+            330
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            383,
+            401
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            403,
+            427
+        ]
+    },
+    {
+        "text": "căng thẳng kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            433,
+            451
+        ]
+    },
+    {
+        "text": "Đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            590,
+            607
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            609,
+            618
+        ]
+    },
+    {
+        "text": "tê yếu nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            628,
+            653
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            664,
+            677
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            769,
+            772
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            780,
+            782
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            802,
+            809
+        ]
+    },
+    {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            814,
+            826
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            856,
+            864
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            869,
+            876
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            922,
+            942
+        ]
+    },
+    {
+        "text": "mất thăng bằng và ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            946,
+            977
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            979,
+            1012
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1039,
+            1056
+        ]
+    },
+    {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1081,
+            1088
+        ]
+    },
+    {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1093,
+            1108
+        ]
+    },
+    {
+        "text": "Tai biến mạch máu não cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1127,
+            1157
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1160,
+            1179
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1204,
+            1231
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1233,
+            1244
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1246,
+            1270
+        ]
+    },
+    {
+        "text": "Thuốc hạ áp",
+        "type": "THUỐC",
+        "position": [
+            1282,
+            1293
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1295,
+            1323
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1405,
+            1414
+        ]
+    },
+    {
+        "text": "chóng mặt tư thế kịch phát lành tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1473,
+            1509
+        ]
+    }
+]

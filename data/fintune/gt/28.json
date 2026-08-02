@@ -1,0 +1,370 @@
+[
+    {
+        "text": "viêm tụy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            63,
+            71
+        ]
+    },
+    {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            107,
+            115
+        ]
+    },
+    {
+        "text": "u ác của tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            157,
+            181
+        ]
+    },
+    {
+        "text": "u ác của tuyến tiền liệt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            292,
+            316
+        ]
+    },
+    {
+        "text": "eliquis",
+        "type": "THUỐC",
+        "position": [
+            359,
+            366
+        ]
+    },
+    {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            372,
+            380
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            429,
+            432
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            436,
+            444
+        ]
+    },
+    {
+        "text": "đau bụng trên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            497,
+            510
+        ]
+    },
+    {
+        "text": "sốt nhẹ đến 38.3°C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            561,
+            579
+        ]
+    },
+    {
+        "text": "đau hạ sườn phải tái phát, ngày càng nặng hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            589,
+            634
+        ]
+    },
+    {
+        "text": "đau bụng trên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            679,
+            692
+        ]
+    },
+    {
+        "text": "sốt nhẹ đến 38.3°C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            897,
+            915
+        ]
+    },
+    {
+        "text": "đau hạ sườn phải tái phát, ngày càng nặng hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            925,
+            970
+        ]
+    },
+    {
+        "text": "cấy máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1016,
+            1023
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1024,
+            1034
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1067,
+            1070
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1077,
+            1085
+        ]
+    },
+    {
+        "text": "đau hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1092,
+            1108
+        ]
+    },
+    {
+        "text": "sốt nhẹ đến 38.3°C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1115,
+            1133
+        ]
+    },
+    {
+        "text": "đau hạ sườn phải tái phát, ngày càng nặng hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1140,
+            1185
+        ]
+    },
+    {
+        "text": "đau hạ sườn phải liên tục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1192,
+            1217
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1389,
+            1397
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1399,
+            1402
+        ]
+    },
+    {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1404,
+            1411
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1438,
+            1446
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1448,
+            1455
+        ]
+    },
+    {
+        "text": "siêu âm vùng gan mật",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1602,
+            1622
+        ]
+    },
+    {
+        "text": "túi mật căng to với dịch quanh túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1650,
+            1688
+        ]
+    },
+    {
+        "text": "viêm túi mật cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1695,
+            1711
+        ]
+    },
+    {
+        "text": "lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1769,
+            1775
+        ]
+    },
+    {
+        "text": "tăng lên ở mức 623",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1779,
+            1797
+        ]
+    },
+    {
+        "text": "men gan",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1826,
+            1833
+        ]
+    },
+    {
+        "text": "tăng nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1834,
+            1842
+        ]
+    },
+    {
+        "text": "tbr",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1871,
+            1874
+        ]
+    },
+    {
+        "text": "cao tới 1.0 sau đó cải thiện",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1878,
+            1906
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2000,
+            2010
+        ]
+    },
+    {
+        "text": "cấy máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2011,
+            2018
+        ]
+    },
+    {
+        "text": "siêu âm vùng gan mật",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2078,
+            2098
+        ]
+    },
+    {
+        "text": "sỏi mật nhưng không có viêm túi mật hoặc sỏi ống mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2108,
+            2160
+        ]
+    },
+    {
+        "text": "ct bụng chậu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2194,
+            2206
+        ]
+    },
+    {
+        "text": "chưa phát hiện bất thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2210,
+            2235
+        ]
+    },
+    {
+        "text": "siêu âm vùng gan mật",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2264,
+            2284
+        ]
+    },
+    {
+        "text": "túi mật căng to với dịch quanh túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2303,
+            2341
+        ]
+    },
+    {
+        "text": "viêm túi mật cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2348,
+            2364
+        ]
+    },
+    {
+        "text": "viêm túi mật cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2407,
+            2423
+        ]
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            49
+        ]
+    },
+    {
+        "text": "sụt cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            51,
+            79
+        ]
+    },
+    {
+        "text": "Đau hạ vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            470,
+            486
+        ]
+    },
+    {
+        "text": "tiểu máu cuối bãi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            490,
+            507
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên xương mu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            534,
+            559
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            605,
+            613
+        ]
+    },
+    {
+        "text": "15.0 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            614,
+            622
+        ]
+    },
+    {
+        "text": "hồng cầu niệu dày đặc trên vi trường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            624,
+            660
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            662,
+            669
+        ]
+    },
+    {
+        "text": "phát hiện sỏi niệu quản đoạn 1/3 dưới kích thước 8mm, thận trái ứ nước độ 2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            670,
+            745
+        ]
+    },
+    {
+        "text": "Sỏi niệu quản trái gây tắc nghẽn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            758,
+            790
+        ]
+    },
+    {
+        "text": "viêm đường tiết niệu cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            792,
+            821
+        ]
+    },
+    {
+        "text": "NaCl 0.9%",
+        "type": "THUỐC",
+        "position": [
+            845,
+            854
+        ]
+    },
+    {
+        "text": "Ceftriaxone 1g",
+        "type": "THUỐC",
+        "position": [
+            871,
+            885
+        ]
+    },
+    {
+        "text": "Paracetamol truyền tĩnh mạch 1g",
+        "type": "THUỐC",
+        "position": [
+            912,
+            943
+        ]
+    },
+    {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            980,
+            987
+        ]
+    },
+    {
+        "text": "mệt mỏi kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            992,
+            1007
+        ]
+    },
+    {
+        "text": "tổng phân tích tế bào máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1100,
+            1125
+        ]
+    },
+    {
+        "text": "chỉ số đường huyết lúc đói (Glucose máu)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1127,
+            1167
+        ]
+    },
+    {
+        "text": "chỉ số HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1169,
+            1181
+        ]
+    },
+    {
+        "text": "TSH",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1275,
+            1278
+        ]
+    },
+    {
+        "text": "FT4",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1280,
+            1283
+        ]
+    },
+    {
+        "text": "siêu âm ổ bụng tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1323,
+            1347
+        ]
+    },
+    {
+        "text": "sụt cân diễn ra nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1560,
+            1581
+        ]
+    }
+]

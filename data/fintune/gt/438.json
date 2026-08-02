@@ -1,0 +1,226 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            79
+        ]
+    },
+    {
+        "text": "huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            227,
+            235
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            240,
+            264
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            324,
+            331
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            336,
+            345
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            388,
+            406
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            408,
+            432
+        ]
+    },
+    {
+        "text": "Đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            616,
+            633
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            635,
+            654
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ do mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            684,
+            722
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            749,
+            766
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            782,
+            795
+        ]
+    },
+    {
+        "text": "đột quỵ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            820,
+            827
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            903,
+            911
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            936,
+            943
+        ]
+    },
+    {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            948,
+            956
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            974,
+            976
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            984,
+            987
+        ]
+    },
+    {
+        "text": "Thiếu máu não cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1155,
+            1186
+        ]
+    },
+    {
+        "text": "nhồi máu não vùng vỏ não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1198,
+            1222
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1247,
+            1278
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1280,
+            1291
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1293,
+            1321
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1341,
+            1369
+        ]
+    },
+    {
+        "text": "thuốc điều hòa tuần hoàn não",
+        "type": "THUỐC",
+        "position": [
+            1371,
+            1399
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1503,
+            1512
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1516,
+            1523
+        ]
+    }
+]

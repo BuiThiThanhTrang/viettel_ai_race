@@ -1,0 +1,330 @@
+[
+    {
+        "text": "Đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            62
+        ]
+    },
+    {
+        "text": "tăng lipid máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            69,
+            83
+        ]
+    },
+    {
+        "text": "bệnh động mạch vành",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            91,
+            110
+        ]
+    },
+    {
+        "text": "Nhồi máu cơ tim",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            118,
+            133
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            183,
+            190
+        ]
+    },
+    {
+        "text": "thử nghiệm gắng sức",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            191,
+            210
+        ]
+    },
+    {
+        "text": "Thông tim trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            217,
+            231
+        ]
+    },
+    {
+        "text": "mạch vành không có tổn thương hẹp đáng kể, chỉ ghi nhận mảng xơ vữa nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            241,
+            312
+        ]
+    },
+    {
+        "text": "plavix",
+        "type": "THUỐC",
+        "position": [
+            355,
+            361
+        ]
+    },
+    {
+        "text": "nitrates",
+        "type": "THUỐC",
+        "position": [
+            373,
+            381
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            387,
+            395
+        ]
+    },
+    {
+        "text": "đau ngực sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            464,
+            485
+        ]
+    },
+    {
+        "text": "đau ngữc dữ dội sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            550,
+            578
+        ]
+    },
+    {
+        "text": "đau kiểu bóp nghẹt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            601,
+            619
+        ]
+    },
+    {
+        "text": "9 nitroglycerin",
+        "type": "THUỐC",
+        "position": [
+            630,
+            645
+        ]
+    },
+    {
+        "text": "cơn đau thứ 2",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            723,
+            736
+        ]
+    },
+    {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            738,
+            747
+        ]
+    },
+    {
+        "text": "Đau ngực dữ dội sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            799,
+            827
+        ]
+    },
+    {
+        "text": "đau kiểu bóp nghẹt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            829,
+            847
+        ]
+    },
+    {
+        "text": "lan lên hàm và cánh tay trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            849,
+            877
+        ]
+    },
+    {
+        "text": "VAS 7/10",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            879,
+            887
+        ]
+    },
+    {
+        "text": "đau trong 1.5h liên lục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            889,
+            912
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            919,
+            926
+        ]
+    },
+    {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            933,
+            942
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            949,
+            957
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            964,
+            967
+        ]
+    },
+    {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            974,
+            983
+        ]
+    },
+    {
+        "text": "heparin",
+        "type": "THUỐC",
+        "position": [
+            1007,
+            1014
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1015,
+            1023
+        ]
+    },
+    {
+        "text": "nitro",
+        "type": "THUỐC",
+        "position": [
+            1042,
+            1047
+        ]
+    },
+    {
+        "text": "dilaudid 3mg",
+        "type": "THUỐC",
+        "position": [
+            1051,
+            1063
+        ]
+    },
+    {
+        "text": "troponin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1096,
+            1104
+        ]
+    },
+    {
+        "text": "0.03",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1108,
+            1112
+        ]
+    },
+    {
+        "text": "creatinine",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1119,
+            1129
+        ]
+    },
+    {
+        "text": "2.0 -> 3.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1134,
+            1144
+        ]
+    },
+    {
+        "text": "k (kali)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1151,
+            1159
+        ]
+    },
+    {
+        "text": "5.4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1163,
+            1166
+        ]
+    },
+    {
+        "text": "phosphate",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1173,
+            1182
+        ]
+    },
+    {
+        "text": "5.6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1186,
+            1189
+        ]
+    },
+    {
+        "text": "điện tâm đồ (ekg)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1222,
+            1239
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1243,
+            1254
+        ]
+    }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "text": "bệnh trào ngược dạ dày- thực quản không có viêm thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            40,
+            97
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            135,
+            138
+        ]
+    },
+    {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            148
+        ]
+    },
+    {
+        "text": "không khỏe",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            273,
+            283
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            293,
+            296
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            298,
+            305
+        ]
+    },
+    {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            307,
+            313
+        ]
+    },
+    {
+        "text": "Sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            316,
+            319
+        ]
+    },
+    {
+        "text": "102.9°F",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            332,
+            339
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "position": [
+            358,
+            365
+        ]
+    },
+    {
+        "text": "advil",
+        "type": "THUỐC",
+        "position": [
+            369,
+            374
+        ]
+    },
+    {
+        "text": "đau cổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            385,
+            391
+        ]
+    },
+    {
+        "text": "đau vai phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            395,
+            407
+        ]
+    },
+    {
+        "text": "sưng quanh khớp ức đòn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            417,
+            439
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            580,
+            583
+        ]
+    },
+    {
+        "text": "đau cổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            587,
+            593
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            617,
+            620
+        ]
+    },
+    {
+        "text": "đau cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            623,
+            629
+        ]
+    },
+    {
+        "text": "đau cổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            632,
+            638
+        ]
+    },
+    {
+        "text": "đau vai phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            641,
+            653
+        ]
+    },
+    {
+        "text": "sưng quanh khớp ức đòn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            656,
+            678
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            688
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            691,
+            698
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            701,
+            708
+        ]
+    },
+    {
+        "text": "sợ ánh sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            711,
+            722
+        ]
+    },
+    {
+        "text": "siêu âm vùng cổ phải",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            877,
+            897
+        ]
+    },
+    {
+        "text": "áp xe",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            918,
+            923
+        ]
+    },
+    {
+        "text": "viêm khớp nhiễm trùng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            924,
+            945
+        ]
+    },
+    {
+        "text": "x-quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            963,
+            970
+        ]
+    },
+    {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            979,
+            982
+        ]
+    },
+    {
+        "text": "kháng sinh tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1036,
+            1056
+        ]
+    },
+    {
+        "text": "mri",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1060,
+            1063
+        ]
+    },
+    {
+        "text": "Vết rạch nhỏ trên ngực phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1114,
+            1141
+        ]
+    },
+    {
+        "text": "hơi đau khi sờ nắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1143,
+            1161
+        ]
+    },
+    {
+        "text": "Không đau khi vận động cánh tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1164,
+            1195
+        ]
+    },
+    {
+        "text": "viêm mô tế bào",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1216,
+            1230
+        ]
+    },
+    {
+        "text": "nhiễm trùng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1236,
+            1247
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1372,
+            1380
+        ]
+    },
+    {
+        "text": "13.9",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1381,
+            1385
+        ]
+    },
+    {
+        "text": "80",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1388,
+            1390
+        ]
+    },
+    {
+        "text": "neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1391,
+            1401
+        ]
+    },
+    {
+        "text": "11",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1404,
+            1406
+        ]
+    },
+    {
+        "text": "lymphocyte",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1407,
+            1417
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1420,
+            1431
+        ]
+    },
+    {
+        "text": "chem 7",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1432,
+            1438
+        ]
+    },
+    {
+        "text": "ck",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1441,
+            1443
+        ]
+    },
+    {
+        "text": "58",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1444,
+            1446
+        ]
+    },
+    {
+        "text": "alt",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1449,
+            1452
+        ]
+    },
+    {
+        "text": "92",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1453,
+            1455
+        ]
+    },
+    {
+        "text": "hiv vl",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1458,
+            1464
+        ]
+    },
+    {
+        "text": "đang chờ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1465,
+            1473
+        ]
+    },
+    {
+        "text": "soi tươi ký sinh trùng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1476,
+            1498
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1499,
+            1506
+        ]
+    },
+    {
+        "text": "siêu âm vùng cổ phải (scm)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1536,
+            1562
+        ]
+    },
+    {
+        "text": "ổ tụ dịch chia làm hai thùy, giới hạn và bờ không rõ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1565,
+            1617
+        ]
+    },
+    {
+        "text": "Cấu trúc tổn thương giảm âm, có hồi âm lợn cợn (vẩn đục) bên trong",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1619,
+            1685
+        ]
+    },
+    {
+        "text": "Kích thước đo được khoảng 3.7 x 0.7 cm trên mặt cắt ngang",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1687,
+            1744
+        ]
+    },
+    {
+        "text": "Ổ dịch có xu hướng lan lên trên và ăn sâu xuống phía dưới xương đòn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1746,
+            1813
+        ]
+    },
+    {
+        "text": "sung huyết ngoại vi nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1817,
+            1840
+        ]
+    },
+    {
+        "text": "siêu âm vùng cổ phải (scm)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1904,
+            1930
+        ]
+    },
+    {
+        "text": "0.5cc dịch mủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1937,
+            1950
+        ]
+    }
+]

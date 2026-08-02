@@ -1,0 +1,162 @@
+[
+    {
+        "text": "mỏi cổ vai gáy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            85,
+            99
+        ]
+    },
+    {
+        "text": "miếng dán giảm đau",
+        "type": "THUỐC",
+        "position": [
+            234,
+            252
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            361,
+            382
+        ]
+    },
+    {
+        "text": "chụp X-quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            410,
+            422
+        ]
+    },
+    {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            427,
+            440
+        ]
+    },
+    {
+        "text": "đau mỏi cổ vai gáy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            499,
+            517
+        ]
+    },
+    {
+        "text": "Đau mỏi vùng cổ gáy lan dọc xuống hai bả vai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            882,
+            926
+        ]
+    },
+    {
+        "text": "tê bì ngón tay cái và ngón trỏ bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            936,
+            975
+        ]
+    },
+    {
+        "text": "hạn chế tầm vận động rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1078,
+            1105
+        ]
+    },
+    {
+        "text": "cơ vùng cổ co cứng nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1187,
+            1211
+        ]
+    },
+    {
+        "text": "dấu hiệu yếu liệt chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1227,
+            1253
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1286,
+            1295
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1300,
+            1314
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1326,
+            1335
+        ]
+    },
+    {
+        "text": "không sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1337,
+            1350
+        ]
+    },
+    {
+        "text": "Hội chứng cổ vai gáy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1393,
+            1413
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống cổ C5-C6",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1424,
+            1451
+        ]
+    },
+    {
+        "text": "Chụp X-quang cột sống cổ thẳng nghiêng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1476,
+            1514
+        ]
+    },
+    {
+        "text": "đo điện cơ chi trên hai bên",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1516,
+            1543
+        ]
+    },
+    {
+        "text": "thuốc giãn cơ",
+        "type": "THUỐC",
+        "position": [
+            1569,
+            1582
+        ]
+    }
+]

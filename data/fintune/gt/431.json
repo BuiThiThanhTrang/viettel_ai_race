@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "cảm giác chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            99
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            394,
+            401
+        ]
+    },
+    {
+        "text": "chóng mặt khi đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            405,
+            429
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            482,
+            500
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            502,
+            526
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            532,
+            554
+        ]
+    },
+    {
+        "text": "Chóng mặt tư thế kịch phát lành tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            724,
+            760
+        ]
+    },
+    {
+        "text": "tê bì hai chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            762,
+            780
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            796,
+            809
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1067,
+            1069
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1077,
+            1080
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1102,
+            1110
+        ]
+    },
+    {
+        "text": "khó thở khi gắng sức nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1115,
+            1139
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1251,
+            1268
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1270,
+            1284
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1365,
+            1395
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống thắt lưng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1398,
+            1426
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não và cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1451,
+            1498
+        ]
+    },
+    {
+        "text": "điện cơ đồ hai chân",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1500,
+            1519
+        ]
+    },
+    {
+        "text": "Betahistine 24mg uống sáng chiều",
+        "type": "THUỐC",
+        "position": [
+            1544,
+            1576
+        ]
+    },
+    {
+        "text": "Mecobalamin 500mcg",
+        "type": "THUỐC",
+        "position": [
+            1578,
+            1596
+        ]
+    }
+]

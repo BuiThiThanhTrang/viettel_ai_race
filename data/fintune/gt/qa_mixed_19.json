@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "cồn cào tăng lên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            112,
+            128
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            175,
+            191
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            251,
+            258
+        ]
+    },
+    {
+        "text": "ung thư dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            307,
+            321
+        ]
+    },
+    {
+        "text": "Helicobacter pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            489,
+            508
+        ]
+    },
+    {
+        "text": "Đau thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            605,
+            625
+        ]
+    },
+    {
+        "text": "nôn ra dịch lẫn máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            627,
+            651
+        ]
+    },
+    {
+        "text": "thuốc chống viêm NSAIDs",
+        "type": "THUỐC",
+        "position": [
+            689,
+            712
+        ]
+    },
+    {
+        "text": "Bụng chướng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            743,
+            754
+        ]
+    },
+    {
+        "text": "ấn đau điểm thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            756,
+            777
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            779,
+            809
+        ]
+    },
+    {
+        "text": "Hb",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            831,
+            833
+        ]
+    },
+    {
+        "text": "8.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            834,
+            842
+        ]
+    },
+    {
+        "text": "tiểu cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            844,
+            852
+        ]
+    },
+    {
+        "text": "120 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            853,
+            860
+        ]
+    },
+    {
+        "text": "INR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            881,
+            884
+        ]
+    },
+    {
+        "text": "1.5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            885,
+            888
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét dạ dày tá tràng biến chứng thủng ổ loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            910,
+            977
+        ]
+    },
+    {
+        "text": "2 đơn vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            996,
+            1004
+        ]
+    },
+    {
+        "text": "hồng cầu khối",
+        "type": "THUỐC",
+        "position": [
+            1005,
+            1018
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1071,
+            1078
+        ]
+    },
+    {
+        "text": "đau nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1132,
+            1139
+        ]
+    },
+    {
+        "text": "sụt cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1384,
+            1412
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1414,
+            1431
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1483,
+            1490
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1501,
+            1508
+        ]
+    }
+]

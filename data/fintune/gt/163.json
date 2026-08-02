@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            46,
+            67
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            95,
+            123
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            198,
+            216
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            242,
+            247
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            249,
+            255
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            300,
+            321
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            405,
+            428
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm niêm mạc hang vị mức độ trung bình",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            430,
+            478
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            480,
+            491
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            492,
+            502
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            504,
+            518
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            520,
+            525
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            526,
+            530
+        ]
+    },
+    {
+        "text": "chức năng thận",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            532,
+            546
+        ]
+    },
+    {
+        "text": "trong giới hạn bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            547,
+            573
+        ]
+    },
+    {
+        "text": "Viêm dạ dày do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            618,
+            642
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            652,
+            673
+        ]
+    },
+    {
+        "text": "esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            722,
+            739
+        ]
+    },
+    {
+        "text": "amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            741,
+            755
+        ]
+    },
+    {
+        "text": "clarithromycin 500mg mỗi 12 giờ",
+        "type": "THUỐC",
+        "position": [
+            757,
+            788
+        ]
+    }
+]

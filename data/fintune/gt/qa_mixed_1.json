@@ -1,0 +1,186 @@
+[
+    {
+        "text": "nhức mỏi ở vùng cột sống thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            72,
+            106
+        ]
+    },
+    {
+        "text": "Cảm giác đau âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            173,
+            190
+        ]
+    },
+    {
+        "text": "lan xuống vùng mông và đùi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            225
+        ]
+    },
+    {
+        "text": "đi lại khá khó khăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            237,
+            256
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            542,
+            560
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            566,
+            582
+        ]
+    },
+    {
+        "text": "Yếu chi dưới tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            778,
+            801
+        ]
+    },
+    {
+        "text": "mất cảm giác vận động đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            805,
+            835
+        ]
+    },
+    {
+        "text": "Ấn đau dọc gai sống từ L4 đến S1",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            864,
+            896
+        ]
+    },
+    {
+        "text": "phản xạ gân xương chi dưới giảm rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            898,
+            936
+        ]
+    },
+    {
+        "text": "Sức cơ chi trái 2/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            950,
+            969
+        ]
+    },
+    {
+        "text": "chi phải 3/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            971,
+            983
+        ]
+    },
+    {
+        "text": "Giảm cảm giác nông vùng châm quần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            997,
+            1030
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm cột sống thắt lưng cấp tính chèn ép rễ thần kinh (L4-L5)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1043,
+            1116
+        ]
+    },
+    {
+        "text": "MRI cột sống thắt lưng có thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1144,
+            1185
+        ]
+    },
+    {
+        "text": "Methylprednisolone 40mg tiêm tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1204,
+            1242
+        ]
+    },
+    {
+        "text": "Gabapentin 300mg liều duy trì",
+        "type": "THUỐC",
+        "position": [
+            1244,
+            1273
+        ]
+    },
+    {
+        "text": "Paracetamol 1g mỗi 6 giờ",
+        "type": "THUỐC",
+        "position": [
+            1278,
+            1302
+        ]
+    },
+    {
+        "text": "đau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1464,
+            1472
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1743,
+            1746
+        ]
+    },
+    {
+        "text": "tê bì chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1756,
+            1766
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1772,
+            1778
+        ]
+    },
+    {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1824,
+            1837
+        ]
+    }
+]

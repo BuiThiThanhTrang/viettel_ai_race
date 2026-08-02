@@ -1,0 +1,146 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "cứng đờ ở vùng vai và hông",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            231,
+            257
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            372,
+            379
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            384,
+            391
+        ]
+    },
+    {
+        "text": "Cử động chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            747,
+            764
+        ]
+    },
+    {
+        "text": "run tay phải liên tục khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            766,
+            796
+        ]
+    },
+    {
+        "text": "dáng đi khom người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            798,
+            816
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            832,
+            845
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            871,
+            885
+        ]
+    },
+    {
+        "text": "Nhịp tim 82 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            902,
+            922
+        ]
+    },
+    {
+        "text": "huyết áp 130/80 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            924,
+            944
+        ]
+    },
+    {
+        "text": "rung lắc tăng dần ở cuối tầm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            974,
+            1011
+        ]
+    },
+    {
+        "text": "Trương lực cơ tăng theo kiểu bánh răng ở cả hai chi trên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1013,
+            1069
+        ]
+    },
+    {
+        "text": "Hội chứng Parkinson giai đoạn đầu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1088,
+            1121
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1145,
+            1176
+        ]
+    },
+    {
+        "text": "xét nghiệm định lượng sắt huyết thanh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1178,
+            1215
+        ]
+    },
+    {
+        "text": "kiểm tra chức năng tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1217,
+            1246
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 25/100mg, khởi đầu 1/2 viên mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            1263,
+            1319
+        ]
+    }
+]

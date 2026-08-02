@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            330,
+            339
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            343,
+            350
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            403,
+            421
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            423,
+            447
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            453,
+            475
+        ]
+    },
+    {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            538,
+            543
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            548,
+            556
+        ]
+    },
+    {
+        "text": "Đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            659,
+            676
+        ]
+    },
+    {
+        "text": "chóng mặt khi xoay đầu đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            678,
+            709
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            720,
+            733
+        ]
+    },
+    {
+        "text": "yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            815,
+            827
+        ]
+    },
+    {
+        "text": "rối loạn cảm giác nông sâu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            838,
+            864
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            939,
+            941
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            949,
+            952
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            968,
+            976
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            981,
+            988
+        ]
+    },
+    {
+        "text": "không thể tự giữ thăng bằng khi đứng thẳng, liên tục khuỵu chân và nghiêng ngã sang bên phải mỗi khi nhắm mắt bước đi vài bước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1035,
+            1161
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1180,
+            1210
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1213,
+            1232
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1257,
+            1282
+        ]
+    },
+    {
+        "text": "đo điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1284,
+            1298
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1300,
+            1324
+        ]
+    },
+    {
+        "text": "Betahistin 24mg sáng tối",
+        "type": "THUỐC",
+        "position": [
+            1340,
+            1364
+        ]
+    },
+    {
+        "text": "Acetazolamide",
+        "type": "THUỐC",
+        "position": [
+            1366,
+            1379
+        ]
+    },
+    {
+        "text": "Vitamin nhóm B",
+        "type": "THUỐC",
+        "position": [
+            1383,
+            1397
+        ]
+    }
+]

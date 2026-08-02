@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            124,
+            153
+        ]
+    },
+    {
+        "text": "Gliclazide 30mg x 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            155,
+            184
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            186,
+            205
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            251,
+            259
+        ]
+    },
+    {
+        "text": "tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            261,
+            280
+        ]
+    },
+    {
+        "text": "vết loét không lành ở ngón cái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            285,
+            315
+        ]
+    },
+    {
+        "text": "chảy dịch mủ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            336,
+            352
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            360,
+            363
+        ]
+    },
+    {
+        "text": "Vết loét ngón I chân trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            403,
+            428
+        ]
+    },
+    {
+        "text": "kích thước 2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            429,
+            445
+        ]
+    },
+    {
+        "text": "đáy nhiều mô hoại tử",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            447,
+            467
+        ]
+    },
+    {
+        "text": "xung quanh viêm tấy đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            469,
+            491
+        ]
+    },
+    {
+        "text": "Mạch mu chân trái bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            493,
+            518
+        ]
+    },
+    {
+        "text": "Glucose máu mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            532,
+            552
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            553,
+            564
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            566,
+            571
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            572,
+            576
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            578,
+            586
+        ]
+    },
+    {
+        "text": "14.2 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            587,
+            595
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            597,
+            600
+        ]
+    },
+    {
+        "text": "85 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            601,
+            608
+        ]
+    },
+    {
+        "text": "Loét bàn chân do đái tháo đường (Wagner độ 3)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            621,
+            666
+        ]
+    },
+    {
+        "text": "nhiễm trùng vết thương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            668,
+            690
+        ]
+    },
+    {
+        "text": "Kháng sinh tĩnh mạch (Ceftriaxone + Metronidazole)",
+        "type": "THUỐC",
+        "position": [
+            706,
+            756
+        ]
+    },
+    {
+        "text": "Insulin phác đồ tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            805,
+            833
+        ]
+    }
+]

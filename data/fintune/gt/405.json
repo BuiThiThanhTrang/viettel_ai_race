@@ -1,0 +1,122 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng, lan xuống cẳng chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            67,
+            118
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm cột sống thắt lưng chèn ép rễ thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            631,
+            687
+        ]
+    },
+    {
+        "text": "Đau lưng lan dọc chân trái kèm tê bì ngón chân cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            775,
+            825
+        ]
+    },
+    {
+        "text": "Cột sống thắt lưng hạn chế biên độ vận động cúi ngửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            842,
+            894
+        ]
+    },
+    {
+        "text": "Dấu hiệu Lasegue chân trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            896,
+            922
+        ]
+    },
+    {
+        "text": "dương tính ở góc 45 độ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            923,
+            945
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa phần chi dưới bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1119,
+            1162
+        ]
+    },
+    {
+        "text": "yếu sức chân phải nặng nề vào buổi chiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1254,
+            1294
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm L4-L5 chèn ép rễ thần kinh bên trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1313,
+            1365
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1390,
+            1431
+        ]
+    },
+    {
+        "text": "điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1433,
+            1443
+        ]
+    },
+    {
+        "text": "Viên uống giảm đau kháng viêm Celecoxib",
+        "type": "THUỐC",
+        "position": [
+            1459,
+            1498
+        ]
+    },
+    {
+        "text": "thuốc giãn cơ Mefenamic acid",
+        "type": "THUỐC",
+        "position": [
+            1507,
+            1535
+        ]
+    },
+    {
+        "text": "Vitamin nhóm B",
+        "type": "THUỐC",
+        "position": [
+            1539,
+            1553
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1591,
+            1609
+        ]
+    }
+]

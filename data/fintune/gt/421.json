@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            77
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            79,
+            88
+        ]
+    },
+    {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            268,
+            280
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            285,
+            298
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            359,
+            366
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            370,
+            379
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            466,
+            484
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            486,
+            510
+        ]
+    },
+    {
+        "text": "huyết áp dao động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            516,
+            533
+        ]
+    },
+    {
+        "text": "Đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            621,
+            638
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            640,
+            659
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            672,
+            685
+        ]
+    },
+    {
+        "text": "yếu liệt cơ chi hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            782,
+            805
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            888,
+            896
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            904,
+            911
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            919,
+            926
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            931,
+            934
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            979,
+            1002
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1084,
+            1114
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1117,
+            1136
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1163,
+            1188
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1190,
+            1201
+        ]
+    },
+    {
+        "text": "siêu âm Doppler động mạch cảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1203,
+            1233
+        ]
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            38,
+            55
+        ]
+    },
+    {
+        "text": "cứng lại",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            146,
+            154
+        ]
+    },
+    {
+        "text": "Co giật cục bộ nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            553,
+            586
+        ]
+    },
+    {
+        "text": "rối loạn ngôn ngữ diễn đạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            588,
+            614
+        ]
+    },
+    {
+        "text": "160/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            643,
+            654
+        ]
+    },
+    {
+        "text": "92 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            661,
+            672
+        ]
+    },
+    {
+        "text": "bên phải giãn 3mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            685,
+            702
+        ]
+    },
+    {
+        "text": "phản xạ ánh sáng chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            704,
+            725
+        ]
+    },
+    {
+        "text": "tay trái 2/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            737,
+            749
+        ]
+    },
+    {
+        "text": "chân trái 3/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            751,
+            764
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu phải diện rộng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            786,
+            821
+        ]
+    },
+    {
+        "text": "tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            831,
+            849
+        ]
+    },
+    {
+        "text": "Alteplase 0.9mg/kg",
+        "type": "THUỐC",
+        "position": [
+            885,
+            903
+        ]
+    },
+    {
+        "text": "Aspirin 81mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            907,
+            924
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            952,
+            971
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1116,
+            1128
+        ]
+    },
+    {
+        "text": "cứng khớp buổi sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1141,
+            1160
+        ]
+    },
+    {
+        "text": "hội chứng Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1182,
+            1201
+        ]
+    },
+    {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1207,
+            1226
+        ]
+    },
+    {
+        "text": "đo tốc độ dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1357,
+            1387
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1389,
+            1413
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1454,
+            1457
+        ]
+    },
+    {
+        "text": "RF",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1459,
+            1461
+        ]
+    }
+]

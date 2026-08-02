@@ -1,0 +1,186 @@
+[
+    {
+        "text": "run tay khi cầm nắm đồ vật hoặc khi đặt tay lên bàn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            60,
+            111
+        ]
+    },
+    {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            144,
+            156
+        ]
+    },
+    {
+        "text": "bước đi hơi chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            240,
+            261
+        ]
+    },
+    {
+        "text": "dáng đi hơi khom về phía trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            263,
+            293
+        ]
+    },
+    {
+        "text": "nét mặt có vẻ ít biểu cảm hơn bình thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            297,
+            338
+        ]
+    },
+    {
+        "text": "Run tay khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            547,
+            563
+        ]
+    },
+    {
+        "text": "giảm vận động toàn thân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            567,
+            590
+        ]
+    },
+    {
+        "text": "triệu chứng run tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            620,
+            644
+        ]
+    },
+    {
+        "text": "cứng cơ khớp gối và vai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            745,
+            768
+        ]
+    },
+    {
+        "text": "bước đi ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            770,
+            782
+        ]
+    },
+    {
+        "text": "khó khăn khi bắt đầu khởi động đi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            784,
+            817
+        ]
+    },
+    {
+        "text": "bánh xe răng cưa (+)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            845,
+            865
+        ]
+    },
+    {
+        "text": "cứng đờ các cơ ngoại vi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            867,
+            890
+        ]
+    },
+    {
+        "text": "Run tĩnh trạng biên độ nhỏ tần số 4-6 Hz",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            894,
+            934
+        ]
+    },
+    {
+        "text": "Bệnh Parkinson nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            955,
+            981
+        ]
+    },
+    {
+        "text": "run tay ở người cao tuổi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1026,
+            1050
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1084,
+            1094
+        ]
+    },
+    {
+        "text": "run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1164,
+            1176
+        ]
+    },
+    {
+        "text": "dấu hiệu cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1180,
+            1196
+        ]
+    },
+    {
+        "text": "chụp MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1379,
+            1391
+        ]
+    },
+    {
+        "text": "dáng đi của bà hiện tại đang có sự thay đổi đáng kể về trọng tâm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1544,
+            1608
+        ]
+    },
+    {
+        "text": "Levodopa 250mg 2 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            1637,
+            1663
+        ]
+    },
+    {
+        "text": "Trihexyphenidyl 2mg uống 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1665,
+            1700
+        ]
+    }
+]

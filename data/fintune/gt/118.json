@@ -1,0 +1,106 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            171
+        ]
+    },
+    {
+        "text": "đau nhức bắp chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            198,
+            215
+        ]
+    },
+    {
+        "text": "cảm giác tê bì đầu chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            276,
+            298
+        ]
+    },
+    {
+        "text": "vết loét hoại tử",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            403,
+            419
+        ]
+    },
+    {
+        "text": "Chỉ số huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            421,
+            461
+        ]
+    },
+    {
+        "text": "0.6 bên phải và 0.65 bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            473,
+            502
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            529,
+            562
+        ]
+    },
+    {
+        "text": "Hình ảnh xơ vữa gây hẹp lòng động mạch chậu chung và động mạch đùi nông hai bên, dòng chảy dạng đơn pha",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            564,
+            667
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính mạch máu (CTA) hệ động mạch chủ bụng và chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            695,
+            764
+        ]
+    },
+    {
+        "text": "clopidogrel 75mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            859,
+            880
+        ]
+    },
+    {
+        "text": "atorvastatin 40mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            884,
+            906
+        ]
+    }
+]

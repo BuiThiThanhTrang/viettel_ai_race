@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            202
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            204,
+            211
+        ]
+    },
+    {
+        "text": "sụt 3kg trong 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            234
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            275,
+            288
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            290,
+            311
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            375,
+            388
+        ]
+    },
+    {
+        "text": "9.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            393,
+            401
+        ]
+    },
+    {
+        "text": "78 fL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            407,
+            412
+        ]
+    },
+    {
+        "text": "Đường huyết đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            414,
+            429
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            431,
+            442
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            444,
+            458
+        ]
+    },
+    {
+        "text": "Tụy không đồng nhất, giãn ống tụy chính 6mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            460,
+            503
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính (CT) có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            505,
+            554
+        ]
+    },
+    {
+        "text": "Phát hiện khối tổn thương dạng thâm nhiễm vùng đầu tụy kích thước 32x28mm, xâm lấn tĩnh mạch mạc treo tràng trên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            556,
+            668
+        ]
+    },
+    {
+        "text": "U đầu tụy nghi ngờ ác tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            687,
+            713
+        ]
+    },
+    {
+        "text": "sinh thiết xuyên thành qua nội soi siêu âm (EUS-FNA)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            776,
+            828
+        ]
+    }
+]

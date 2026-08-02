@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            189
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            201
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            203,
+            210
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            275,
+            291
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            293,
+            314
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            316,
+            343
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            361,
+            368
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            395,
+            408
+        ]
+    },
+    {
+        "text": "14.2 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            419,
+            427
+        ]
+    },
+    {
+        "text": "85%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            446,
+            449
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            461,
+            472
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            473,
+            480
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            482,
+            492
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            493,
+            501
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            503,
+            514
+        ]
+    },
+    {
+        "text": "14.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            515,
+            526
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            528,
+            540
+        ]
+    },
+    {
+        "text": "Tụy phù nề, kích thước tăng, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            542,
+            597
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            619,
+            649
+        ]
+    },
+    {
+        "text": "đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            659,
+            673
+        ]
+    },
+    {
+        "text": "paracetamol",
+        "type": "THUỐC",
+        "position": [
+            740,
+            751
+        ]
+    },
+    {
+        "text": "ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            773,
+            784
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            813,
+            820
+        ]
+    }
+]

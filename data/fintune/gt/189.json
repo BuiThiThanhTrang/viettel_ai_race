@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "nôn mửa nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            193,
+            206
+        ]
+    },
+    {
+        "text": "nước tiểu sẫm màu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            208,
+            225
+        ]
+    },
+    {
+        "text": "niêm mạc mắt vàng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            295
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            297,
+            312
+        ]
+    },
+    {
+        "text": "ấn đau vùng hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            338
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            340,
+            366
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            392,
+            405
+        ]
+    },
+    {
+        "text": "bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            407,
+            415
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            416,
+            424
+        ]
+    },
+    {
+        "text": "neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            426,
+            436
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            437,
+            440
+        ]
+    },
+    {
+        "text": "Bilirubin toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            452,
+            471
+        ]
+    },
+    {
+        "text": "45 mcmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            472,
+            482
+        ]
+    },
+    {
+        "text": "AST",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            484,
+            487
+        ]
+    },
+    {
+        "text": "85 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            488,
+            494
+        ]
+    },
+    {
+        "text": "ALT",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            496,
+            499
+        ]
+    },
+    {
+        "text": "92 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            500,
+            506
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            508,
+            519
+        ]
+    },
+    {
+        "text": "120 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            520,
+            527
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            529,
+            541
+        ]
+    },
+    {
+        "text": "Túi mật căng to, thành dày 6mm, có sỏi kích thước 15mm ở cổ túi mật, đường mật trong gan không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            543,
+            642
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            655,
+            678
+        ]
+    },
+    {
+        "text": "ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            737,
+            756
+        ]
+    },
+    {
+        "text": "metronidazole 500mg mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            766,
+            795
+        ]
+    }
+]

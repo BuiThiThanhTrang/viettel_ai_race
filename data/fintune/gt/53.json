@@ -1,0 +1,82 @@
+[
+    {
+        "text": "bệnh tim mạch do xơ vữa động mạch",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            131,
+            164
+        ]
+    },
+    {
+        "text": "blốc nhĩ thất, hoàn toàn sau khi đặt máy tạo nhịp (PPM)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            171,
+            226
+        ]
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            233,
+            262
+        ]
+    },
+    {
+        "text": "Suy giảm nhận thức nhẹ suy giảm nhận thức",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            269,
+            310
+        ]
+    },
+    {
+        "text": "thắt chặt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            451,
+            465
+        ]
+    },
+    {
+        "text": "Cảm giác thắt chặt ngực dưới xương ức nghiêm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            613,
+            663
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            670,
+            677
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            943,
+            950
+        ]
+    },
+    {
+        "text": "Cơn đau thắt ngực không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1039,
+            1070
+        ]
+    },
+    {
+        "text": "Cơn đau thắt ngực không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1165,
+            1196
+        ]
+    }
+]

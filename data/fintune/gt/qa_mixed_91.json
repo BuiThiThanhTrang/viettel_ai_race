@@ -1,0 +1,402 @@
+[
+    {
+        "text": "Sốt cao liên tục 39 độ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            17,
+            39
+        ]
+    },
+    {
+        "text": "chảy máu chân răng khó cầm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            67
+        ]
+    },
+    {
+        "text": "nhiều mảng bầm tím rải rác dưới da vùng ngực, bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            81,
+            131
+        ]
+    },
+    {
+        "text": "lừ đừ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            158,
+            163
+        ]
+    },
+    {
+        "text": "da xanh xao niêm mạc nhợt nhạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            165,
+            195
+        ]
+    },
+    {
+        "text": "nhiều nốt xuất huyết điểm rải rác toàn thân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            200,
+            243
+        ]
+    },
+    {
+        "text": "Tuyến thượng đòn sưng to đau nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            245,
+            277
+        ]
+    },
+    {
+        "text": "Gan to dưới bờ sườn 3cm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            279,
+            302
+        ]
+    },
+    {
+        "text": "lách to độ 2",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            316
+        ]
+    },
+    {
+        "text": "các mảng hồng ban hai bên má kéo dài qua sống mũi nhìn như hình con bướm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            399,
+            471
+        ]
+    },
+    {
+        "text": "Ra nắng là nó đỏ rát lên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            473,
+            497
+        ]
+    },
+    {
+        "text": "rụng tóc từng mảng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            521,
+            539
+        ]
+    },
+    {
+        "text": "đau nhức các khớp cổ tay, đầu gối dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            543,
+            583
+        ]
+    },
+    {
+        "text": "thuốc nam",
+        "type": "THUỐC",
+        "position": [
+            731,
+            740
+        ]
+    },
+    {
+        "text": "hồng ban hình cánh bướm ở mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            826,
+            855
+        ]
+    },
+    {
+        "text": "nhạy cảm với ánh sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            857,
+            878
+        ]
+    },
+    {
+        "text": "rụng tóc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            880,
+            888
+        ]
+    },
+    {
+        "text": "viêm khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            892,
+            901
+        ]
+    },
+    {
+        "text": "Lupus ban đỏ hệ thống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            933,
+            954
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1229,
+            1242
+        ]
+    },
+    {
+        "text": "Bạch cầu tăng vọt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1244,
+            1261
+        ]
+    },
+    {
+        "text": "85 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1262,
+            1268
+        ]
+    },
+    {
+        "text": "tế bào blast chiếm 70%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1279,
+            1301
+        ]
+    },
+    {
+        "text": "Hồng cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1303,
+            1311
+        ]
+    },
+    {
+        "text": "2.1 T/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1312,
+            1319
+        ]
+    },
+    {
+        "text": "Hemoglobin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1321,
+            1331
+        ]
+    },
+    {
+        "text": "65 g/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1332,
+            1338
+        ]
+    },
+    {
+        "text": "Tiểu cầu giảm nặng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1340,
+            1358
+        ]
+    },
+    {
+        "text": "15 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1363,
+            1369
+        ]
+    },
+    {
+        "text": "Tủy đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1371,
+            1377
+        ]
+    },
+    {
+        "text": "Tủy tăng sinh mạnh, dòng hạt quá sản với 80% nguyên tủy bào",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1379,
+            1438
+        ]
+    },
+    {
+        "text": "dương tính mạnh với men MPO",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1440,
+            1467
+        ]
+    },
+    {
+        "text": "Xét nghiệm sinh học phân tử",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1469,
+            1496
+        ]
+    },
+    {
+        "text": "Đột biến gen FLT3-ITD dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1498,
+            1530
+        ]
+    },
+    {
+        "text": "Xét nghiệm chức năng thận",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1532,
+            1557
+        ]
+    },
+    {
+        "text": "BUN",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1558,
+            1561
+        ]
+    },
+    {
+        "text": "25 mg/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1562,
+            1570
+        ]
+    },
+    {
+        "text": "Creatinin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1572,
+            1581
+        ]
+    },
+    {
+        "text": "1.8 mg/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1582,
+            1591
+        ]
+    },
+    {
+        "text": "Bạch cầu cấp dòng tủy (AML)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1613,
+            1640
+        ]
+    },
+    {
+        "text": "Hội chứng xuất huyết giảm tiểu cầu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1659,
+            1693
+        ]
+    },
+    {
+        "text": "Suy thận cấp trước thận",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1696,
+            1719
+        ]
+    },
+    {
+        "text": "Cytarabine 100mg/m2 truyền liên tục 7 ngày",
+        "type": "THUỐC",
+        "position": [
+            1856,
+            1898
+        ]
+    },
+    {
+        "text": "Daunorubicin 60mg/m2 tĩnh mạch chậm trong 3 ngày đầu",
+        "type": "THUỐC",
+        "position": [
+            1902,
+            1954
+        ]
+    },
+    {
+        "text": "Allopurinol 300mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1990,
+            2012
+        ]
+    },
+    {
+        "text": "thuốc nam",
+        "type": "THUỐC",
+        "position": [
+            2060,
+            2069
+        ]
+    },
+    {
+        "text": "kháng thể kháng nhân ANA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2346,
+            2370
+        ]
+    },
+    {
+        "text": "Anti-dsDNA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2372,
+            2382
+        ]
+    },
+    {
+        "text": "Corticoid liều thấp",
+        "type": "THUỐC",
+        "position": [
+            2452,
+            2471
+        ]
+    },
+    {
+        "text": "Hydroxychloroquine",
+        "type": "THUỐC",
+        "position": [
+            2477,
+            2495
+        ]
+    }
+]

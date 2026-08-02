@@ -1,0 +1,218 @@
+[
+    {
+        "text": "nhức đầu âm ỉ kéo dài cả ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            76
+        ]
+    },
+    {
+        "text": "hồi hộp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            131,
+            138
+        ]
+    },
+    {
+        "text": "tim đập nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            148,
+            161
+        ]
+    },
+    {
+        "text": "thiếu máu lên não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            313,
+            330
+        ]
+    },
+    {
+        "text": "đo điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            389,
+            403
+        ]
+    },
+    {
+        "text": "chụp MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            408,
+            416
+        ]
+    },
+    {
+        "text": "tăng huyết áp kịch phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            558,
+            581
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            586,
+            610
+        ]
+    },
+    {
+        "text": "Huyết áp 180/110 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            627,
+            648
+        ]
+    },
+    {
+        "text": "nhịp tim 105 nhịp/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            650,
+            672
+        ]
+    },
+    {
+        "text": "Phù hai chi dưới mức độ nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            729,
+            756
+        ]
+    },
+    {
+        "text": "Creatinine",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            793,
+            803
+        ]
+    },
+    {
+        "text": "1.4 mg/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            805,
+            814
+        ]
+    },
+    {
+        "text": "Kali máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            828,
+            836
+        ]
+    },
+    {
+        "text": "3.2 mmol/L (giảm)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            838,
+            855
+        ]
+    },
+    {
+        "text": "Điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            858,
+            869
+        ]
+    },
+    {
+        "text": "Dày thất trái, có hình ảnh sóng T âm ở V5, V6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            871,
+            916
+        ]
+    },
+    {
+        "text": "Siêu âm doppler mạch thận",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            920,
+            945
+        ]
+    },
+    {
+        "text": "Không thấy hẹp động mạch thận hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            947,
+            984
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 3 theo ESC/ESH",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            997,
+            1028
+        ]
+    },
+    {
+        "text": "tăng huyết áp thứ phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1039,
+            1061
+        ]
+    },
+    {
+        "text": "Amlodipine 10mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1106,
+            1126
+        ]
+    },
+    {
+        "text": "Aldactone 25mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            1137,
+            1156
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1231,
+            1238
+        ]
+    },
+    {
+        "text": "hồi hộp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1242,
+            1249
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1331,
+            1338
+        ]
+    },
+    {
+        "text": "140/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1528,
+            1539
+        ]
+    }
+]

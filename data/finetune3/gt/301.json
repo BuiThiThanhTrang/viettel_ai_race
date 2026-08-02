@@ -1,0 +1,182 @@
+[
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      36,
+      59
+    ]
+  },
+  {
+    "text": "cồn cào",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      121,
+      128
+    ]
+  },
+  {
+    "text": "viêm loét dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      184,
+      200
+    ]
+  },
+  {
+    "text": "đau thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      320,
+      333
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      543,
+      551
+    ]
+  },
+  {
+    "text": "sụt cân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      553,
+      560
+    ]
+  },
+  {
+    "text": "thay đổi màu sắc phân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      565,
+      586
+    ]
+  },
+  {
+    "text": "Đau thượng vị dữ dội đột ngột",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      686,
+      715
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      717,
+      726
+    ]
+  },
+  {
+    "text": "Bụng cứng như gỗ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      743,
+      759
+    ]
+  },
+  {
+    "text": "phản ứng thành bụng dương tính khắp ổ bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      761,
+      803
+    ]
+  },
+  {
+    "text": "mất vùng đục trước gan",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      805,
+      827
+    ]
+  },
+  {
+    "text": "thủng ổ loét dạ dày tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      877,
+      905
+    ]
+  },
+  {
+    "text": "Chụp CT cắt lớp vi tính ổ bụng có cản quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      931,
+      974
+    ]
+  },
+  {
+    "text": "xét nghiệm công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      976,
+      1000
+    ]
+  },
+  {
+    "text": "đông máu cơ bản",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1002,
+      1017
+    ]
+  },
+  {
+    "text": "nhóm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1019,
+      1027
+    ]
+  },
+  {
+    "text": "tiêm tĩnh mạch Omeprazole liều cao",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1115,
+      1149
+    ]
+  },
+  {
+    "text": "xét nghiệm tầm soát vi khuẩn HP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1576,
+      1607
+    ]
+  },
+  {
+    "text": "nội soi dạ dày",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1613,
+      1627
+    ]
+  }
+]

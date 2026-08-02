@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            58
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            76,
+            85
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            381,
+            399
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            525,
+            532
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            537,
+            546
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            619,
+            632
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            634,
+            652
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            779,
+            799
+        ]
+    },
+    {
+        "text": "tê bì hai tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            801,
+            814
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            824,
+            838
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            842,
+            855
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            900,
+            913
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1114,
+            1121
+        ]
+    },
+    {
+        "text": "đau tức ngực trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1126,
+            1143
+        ]
+    },
+    {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1175,
+            1182
+        ]
+    },
+    {
+        "text": "ho có đờm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1187,
+            1196
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1275,
+            1292
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1373,
+            1403
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống cổ kèm chèn ép rễ thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1406,
+            1452
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não và cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1477,
+            1521
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1523,
+            1547
+        ]
+    },
+    {
+        "text": "đo điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1549,
+            1563
+        ]
+    }
+]

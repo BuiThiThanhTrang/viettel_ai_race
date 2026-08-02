@@ -1,0 +1,170 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            82
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            262,
+            278
+        ]
+    },
+    {
+        "text": "triệu chứng đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            377,
+            417
+        ]
+    },
+    {
+        "text": "chèn ép rễ thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            528,
+            548
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm cột sống thắt lưng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            560,
+            595
+        ]
+    },
+    {
+        "text": "Đau lưng lan dọc chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            638,
+            664
+        ]
+    },
+    {
+        "text": "tê bì ngón chân cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            669,
+            688
+        ]
+    },
+    {
+        "text": "ấn đau các mỏm gai L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            809,
+            833
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            845,
+            854
+        ]
+    },
+    {
+        "text": "không sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            856,
+            869
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            975,
+            1017
+        ]
+    },
+    {
+        "text": "mất thăng bằng và ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1050,
+            1081
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người dưới bên phải rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1086,
+            1133
+        ]
+    },
+    {
+        "text": "Hội chứng rễ thần kinh thắt lưng bên phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1154,
+            1195
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1208,
+            1230
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1257,
+            1298
+        ]
+    },
+    {
+        "text": "đo điện cơ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1300,
+            1316
+        ]
+    },
+    {
+        "text": "Celecoxib 200mg",
+        "type": "THUỐC",
+        "position": [
+            1334,
+            1349
+        ]
+    },
+    {
+        "text": "Eperisone 50mg",
+        "type": "THUỐC",
+        "position": [
+            1351,
+            1365
+        ]
+    },
+    {
+        "text": "Methylcobalamin 500mcg",
+        "type": "THUỐC",
+        "position": [
+            1367,
+            1389
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1468,
+            1471
+        ]
+    }
+]

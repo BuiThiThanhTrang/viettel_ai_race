@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng, lan xuống chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            87
+        ]
+    },
+    {
+        "text": "đau tăng lên rất nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            116,
+            138
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            176,
+            192
+        ]
+    },
+    {
+        "text": "đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            379,
+            407
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            554,
+            570
+        ]
+    },
+    {
+        "text": "Đau thắt lưng lan chân phải kèm theo rối loạn vận động chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            684,
+            747
+        ]
+    },
+    {
+        "text": "hạn chế biên độ vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            850,
+            874
+        ]
+    },
+    {
+        "text": "ấn đau gai sau L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            876,
+            896
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            908,
+            917
+        ]
+    },
+    {
+        "text": "không sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            919,
+            932
+        ]
+    },
+    {
+        "text": "rối loạn cơ tròn tiểu tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            957,
+            983
+        ]
+    },
+    {
+        "text": "Lasegue",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            997,
+            1004
+        ]
+    },
+    {
+        "text": "dương tính ở góc 45 độ bên phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1005,
+            1036
+        ]
+    },
+    {
+        "text": "liên tục khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1067,
+            1096
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1098,
+            1140
+        ]
+    },
+    {
+        "text": "mất thăng bằng và ngã sang trái khi cố gắng xoay người nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1156,
+            1216
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người bên phải rõ rệt khi bước lên bậc thang",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1218,
+            1283
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ (MRI) cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1305,
+            1348
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm chèn ép rễ thần kinh L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1359,
+            1399
+        ]
+    },
+    {
+        "text": "Hội chứng rễ thần kinh thắt lưng do thoát vị đĩa đệm L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1421,
+            1479
+        ]
+    },
+    {
+        "text": "thuốc kháng viêm",
+        "type": "THUỐC",
+        "position": [
+            1508,
+            1524
+        ]
+    },
+    {
+        "text": "giảm đau",
+        "type": "THUỐC",
+        "position": [
+            1526,
+            1534
+        ]
+    },
+    {
+        "text": "giãn cơ",
+        "type": "THUỐC",
+        "position": [
+            1536,
+            1543
+        ]
+    },
+    {
+        "text": "tổn thương thần kinh mạn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1768,
+            1797
+        ]
+    }
+]

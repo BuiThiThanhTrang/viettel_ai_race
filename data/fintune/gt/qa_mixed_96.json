@@ -1,0 +1,106 @@
+[
+    {
+        "text": "đau mỏi thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            53
+        ]
+    },
+    {
+        "text": "thoái hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            311,
+            320
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            325,
+            341
+        ]
+    },
+    {
+        "text": "Yếu chi dưới phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            589,
+            606
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng mông",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            608,
+            635
+        ]
+    },
+    {
+        "text": "Sức cơ chi dưới bên phải 2/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            712,
+            740
+        ]
+    },
+    {
+        "text": "Hình ảnh thoái hóa đĩa đệm L4-L5 chèn ép rễ thần kinh nghiêm trọng kèm hình ảnh nang hoạt dịch cột sống",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            803,
+            906
+        ]
+    },
+    {
+        "text": "CRP tăng nhẹ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            920,
+            932
+        ]
+    },
+    {
+        "text": "25mm/h",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            950,
+            956
+        ]
+    },
+    {
+        "text": "tiêm ngoài màng cứng giảm đau",
+        "type": "THUỐC",
+        "position": [
+            983,
+            1012
+        ]
+    },
+    {
+        "text": "đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1151,
+            1179
+        ]
+    },
+    {
+        "text": "viêm cơ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1291,
+            1298
+        ]
+    },
+    {
+        "text": "cộng hưởng từ MRI cột sống",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1431,
+            1457
+        ]
+    }
+]

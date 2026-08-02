@@ -1,0 +1,170 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            101,
+            114
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            158,
+            181
+        ]
+    },
+    {
+        "text": "ợ nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            186,
+            192
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            200
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            223,
+            226
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            251
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            281,
+            306
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            383,
+            397
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm trợt hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            399,
+            425
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            427,
+            438
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            439,
+            449
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            467,
+            472
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            473,
+            477
+        ]
+    },
+    {
+        "text": "glucose máu lúc đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            479,
+            498
+        ]
+    },
+    {
+        "text": "11.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            499,
+            510
+        ]
+    },
+    {
+        "text": "Viêm dạ dày do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            555,
+            579
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            589,
+            610
+        ]
+    },
+    {
+        "text": "esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            650,
+            667
+        ]
+    },
+    {
+        "text": "amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            669,
+            683
+        ]
+    },
+    {
+        "text": "clarithromycin 500mg mỗi 12 giờ",
+        "type": "THUỐC",
+        "position": [
+            685,
+            716
+        ]
+    }
+]

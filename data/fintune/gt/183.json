@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            183
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            189,
+            201
+        ]
+    },
+    {
+        "text": "phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            203,
+            223
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            260,
+            275
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            277,
+            314
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            316,
+            343
+        ]
+    },
+    {
+        "text": "Dấu hiệu mất nước trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            345,
+            373
+        ]
+    },
+    {
+        "text": "niêm mạc khô",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            375,
+            387
+        ]
+    },
+    {
+        "text": "mạch nhanh 105 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            389,
+            412
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            455,
+            466
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            467,
+            475
+        ]
+    },
+    {
+        "text": "Lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            477,
+            483
+        ]
+    },
+    {
+        "text": "1500 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            484,
+            492
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            494,
+            505
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            506,
+            517
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            519,
+            531
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, cấu trúc không đồng nhất, dịch quanh tụy lượng ít",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            533,
+            603
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình trên nền đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            625,
+            686
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            751,
+            779
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            808,
+            815
+        ]
+    }
+]

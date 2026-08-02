@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            112,
+            119
+        ]
+    },
+    {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            243,
+            250
+        ]
+    },
+    {
+        "text": "ợ hơi liên tục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            252,
+            266
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            291,
+            316
+        ]
+    },
+    {
+        "text": "nội soi tiêu hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            522,
+            538
+        ]
+    },
+    {
+        "text": "test hơi thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            544,
+            556
+        ]
+    },
+    {
+        "text": "Nôn ra máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            716,
+            731
+        ]
+    },
+    {
+        "text": "phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            735,
+            743
+        ]
+    },
+    {
+        "text": "đau thượng vị mạn tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            778,
+            800
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            869,
+            885
+        ]
+    },
+    {
+        "text": "huyết áp 90/60 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            887,
+            906
+        ]
+    },
+    {
+        "text": "nhịp tim 110 nhịp/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            908,
+            930
+        ]
+    },
+    {
+        "text": "Hemoglobin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            957,
+            967
+        ]
+    },
+    {
+        "text": "7.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            968,
+            976
+        ]
+    },
+    {
+        "text": "chỉ số đông máu INR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            978,
+            997
+        ]
+    },
+    {
+        "text": "1.4",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            998,
+            1001
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do ổ loét dạ dày tá tràng biến chứng thủng hoặc vỡ mạch máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1023,
+            1102
+        ]
+    },
+    {
+        "text": "thuốc ức chế bơm proton liều cao (Esomeprazole 80mg bolus)",
+        "type": "THUỐC",
+        "position": [
+            1153,
+            1211
+        ]
+    },
+    {
+        "text": "nội soi cấp cứu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1222,
+            1237
+        ]
+    },
+    {
+        "text": "đau bụng đơn thuần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1307,
+            1325
+        ]
+    },
+    {
+        "text": "thủng dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1582,
+            1594
+        ]
+    }
+]

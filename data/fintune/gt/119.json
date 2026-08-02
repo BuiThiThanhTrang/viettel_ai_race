@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            270
+        ]
+    },
+    {
+        "text": "đau nhức dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            290,
+            305
+        ]
+    },
+    {
+        "text": "cảm giác tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            366,
+            394
+        ]
+    },
+    {
+        "text": "Mạch mu chân trái bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            436,
+            461
+        ]
+    },
+    {
+        "text": "chi trái lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            463,
+            476
+        ]
+    },
+    {
+        "text": "da khô",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            478,
+            484
+        ]
+    },
+    {
+        "text": "vết loét",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            503
+        ]
+    },
+    {
+        "text": "Chỉ số ABI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            505,
+            515
+        ]
+    },
+    {
+        "text": "0.62",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            563,
+            567
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            569,
+            602
+        ]
+    },
+    {
+        "text": "Hình ảnh mảng xơ vữa gây hẹp 70% động mạch đùi nông bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            604,
+            664
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn IIa theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            677,
+            739
+        ]
+    },
+    {
+        "text": "chụp mạch máu cản quang (DSA)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            764,
+            793
+        ]
+    }
+]

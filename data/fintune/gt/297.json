@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            97,
+            125
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            200,
+            239
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng, nhầy máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            250,
+            278
+        ]
+    },
+    {
+        "text": "Sụt 3kg trong vòng 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            291,
+            317
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            359,
+            376
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            388,
+            425
+        ]
+    },
+    {
+        "text": "gan không to",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            427,
+            439
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            441,
+            463
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            490,
+            503
+        ]
+    },
+    {
+        "text": "9.8 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            508,
+            516
+        ]
+    },
+    {
+        "text": "11.2 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            527,
+            535
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            547,
+            558
+        ]
+    },
+    {
+        "text": "12.4 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            559,
+            570
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            572,
+            577
+        ]
+    },
+    {
+        "text": "8.5%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            578,
+            582
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày - tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            584,
+            609
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn ở bờ cong nhỏ, kích thước 2cm, bề mặt phủ giả mạc, bờ cứng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            611,
+            689
+        ]
+    },
+    {
+        "text": "Adenocarcinoma dạ dày dạng tuyến",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            715,
+            747
+        ]
+    },
+    {
+        "text": "Ung thư dạ dày giai đoạn tiến triển",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            769,
+            804
+        ]
+    }
+]

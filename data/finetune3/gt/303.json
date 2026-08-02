@@ -1,0 +1,209 @@
+[
+  {
+    "text": "đau bụng âm ỉ vùng thượng vị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      72,
+      100
+    ]
+  },
+  {
+    "text": "viêm loét dạ dày tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      194,
+      219
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      256,
+      263
+    ]
+  },
+  {
+    "text": "kiểm tra vi khuẩn HP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      268,
+      288
+    ]
+  },
+  {
+    "text": "xuất huyết tiêu hóa",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      638,
+      657
+    ]
+  },
+  {
+    "text": "Nôn ra máu đỏ tươi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      726,
+      744
+    ]
+  },
+  {
+    "text": "đại tiện phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      746,
+      763
+    ]
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      790,
+      795
+    ]
+  },
+  {
+    "text": "da xanh xao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      797,
+      808
+    ]
+  },
+  {
+    "text": "niêm mạc nhợt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      810,
+      823
+    ]
+  },
+  {
+    "text": "huyết áp tụt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      825,
+      837
+    ]
+  },
+  {
+    "text": "80/50 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      838,
+      848
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      875,
+      888
+    ]
+  },
+  {
+    "text": "hồng cầu giảm mạnh (2.5 T/L)",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      898,
+      926
+    ]
+  },
+  {
+    "text": "hemoglobin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      928,
+      938
+    ]
+  },
+  {
+    "text": "7.2 g/dL",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      939,
+      947
+    ]
+  },
+  {
+    "text": "Xuất huyết tiêu hóa do loét hành tá tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      960,
+      1001
+    ]
+  },
+  {
+    "text": "thủng ổ loét",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1013,
+      1025
+    ]
+  },
+  {
+    "text": "adrenalin",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1126,
+      1135
+    ]
+  },
+  {
+    "text": "đau nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1232,
+      1239
+    ]
+  },
+  {
+    "text": "sụt cân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1505,
+      1512
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1514,
+      1523
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1567,
+      1574
+    ]
+  }
+]

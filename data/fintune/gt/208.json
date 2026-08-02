@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            140,
+            174
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            180,
+            188
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            192,
+            207
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            253,
+            263
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            302
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            330
+        ]
+    },
+    {
+        "text": "không to",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            336,
+            344
+        ]
+    },
+    {
+        "text": "không sờ thấy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            351,
+            364
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            390,
+            403
+        ]
+    },
+    {
+        "text": "14.2 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            414,
+            422
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            435,
+            438
+        ]
+    },
+    {
+        "text": "amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            450,
+            461
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            462,
+            469
+        ]
+    },
+    {
+        "text": "lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            471,
+            477
+        ]
+    },
+    {
+        "text": "620 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            478,
+            485
+        ]
+    },
+    {
+        "text": "glucose",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            487,
+            494
+        ]
+    },
+    {
+        "text": "15.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            495,
+            506
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            508,
+            520
+        ]
+    },
+    {
+        "text": "túi mật có sỏi kích thước 15mm, thành túi mật dày 6mm, dịch quanh túi mật ít",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            522,
+            598
+        ]
+    },
+    {
+        "text": "không thấy hình ảnh viêm cấp",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            604,
+            632
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            645,
+            668
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            678,
+            699
+        ]
+    },
+    {
+        "text": "Ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            769,
+            780
+        ]
+    },
+    {
+        "text": "Metronidazole",
+        "type": "THUỐC",
+        "position": [
+            784,
+            797
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            826,
+            833
+        ]
+    }
+]

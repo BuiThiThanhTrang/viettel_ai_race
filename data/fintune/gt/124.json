@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            189
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            200,
+            208
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            210,
+            217
+        ]
+    },
+    {
+        "text": "sụt 3kg trong vòng 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            219,
+            245
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            253,
+            256
+        ]
+    },
+    {
+        "text": "đại tiện phân vàng lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            258,
+            281
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            311,
+            336
+        ]
+    },
+    {
+        "text": "Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            388,
+            402
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            429,
+            443
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, bờ không đều, ống tụy giãn nhẹ 4mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            445,
+            500
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            502,
+            516
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            518,
+            529
+        ]
+    },
+    {
+        "text": "180 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            530,
+            537
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            539,
+            549
+        ]
+    },
+    {
+        "text": "210 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            550,
+            557
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            559,
+            570
+        ]
+    },
+    {
+        "text": "14.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            571,
+            582
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            584,
+            589
+        ]
+    },
+    {
+        "text": "8.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            590,
+            594
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính (CT) ổ bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            596,
+            652
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm tụy mạn tính, có vài nốt vôi hóa rải rác nhu mô tụy, không thấy khối khu trú",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            654,
+            744
+        ]
+    },
+    {
+        "text": "Viêm tụy mạn đợt cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            789,
+            809
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            819,
+            840
+        ]
+    },
+    {
+        "text": "octreotide",
+        "type": "THUỐC",
+        "position": [
+            909,
+            919
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            948,
+            955
+        ]
+    }
+]

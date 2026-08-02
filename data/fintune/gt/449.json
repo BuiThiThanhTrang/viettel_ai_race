@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            77
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            79,
+            88
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            363,
+            370
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            374,
+            383
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            451,
+            469
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            471,
+            495
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            700,
+            720
+        ]
+    },
+    {
+        "text": "đau đầu âm ỉ vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            722,
+            744
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            754,
+            777
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            781,
+            794
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            837,
+            850
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            936,
+            939
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            947,
+            949
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            957,
+            964
+        ]
+    },
+    {
+        "text": "tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            980,
+            988
+        ]
+    },
+    {
+        "text": "hồi hộp đánh trống ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            993,
+            1016
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1065,
+            1082
+        ]
+    },
+    {
+        "text": "sải bước ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1115,
+            1128
+        ]
+    },
+    {
+        "text": "lê chân bên phải trên mặt đất",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1132,
+            1161
+        ]
+    },
+    {
+        "text": "Cơ lực chân phải 4/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1163,
+            1183
+        ]
+    },
+    {
+        "text": "yếu liệt nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1276,
+            1303
+        ]
+    },
+    {
+        "text": "rối loạn ngôn ngữ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1308,
+            1325
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1344,
+            1374
+        ]
+    },
+    {
+        "text": "thiếu máu não cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1386,
+            1417
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1442,
+            1471
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch cảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1473,
+            1498
+        ]
+    },
+    {
+        "text": "Betahistine 24mg",
+        "type": "THUỐC",
+        "position": [
+            1526,
+            1542
+        ]
+    },
+    {
+        "text": "Piracetam 1200mg",
+        "type": "THUỐC",
+        "position": [
+            1546,
+            1562
+        ]
+    }
+]

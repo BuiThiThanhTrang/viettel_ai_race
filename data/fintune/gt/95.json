@@ -1,0 +1,98 @@
+[
+    {
+        "text": "đau bụng sau khi uống sữa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            51,
+            76
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng quanh rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            120,
+            143
+        ]
+    },
+    {
+        "text": "đau bụng âm ỉ quanh rốn sau khí uống sữa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            207,
+            247
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            266,
+            269
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng quanh rốn, hạ sườn trái từng cơni",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            376,
+            423
+        ]
+    },
+    {
+        "text": "buồn nôn nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            430,
+            442
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            450,
+            453
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            466,
+            469
+        ]
+    },
+    {
+        "text": "ớn lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            478,
+            485
+        ]
+    },
+    {
+        "text": "nhầy máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            523,
+            531
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            544,
+            552
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            565,
+            572
+        ]
+    }
+]

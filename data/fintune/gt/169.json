@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            176
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            252
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            262,
+            270
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            272,
+            279
+        ]
+    },
+    {
+        "text": "Đại tiện phân lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            296,
+            314
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            387,
+            404
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            441
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            522,
+            535
+        ]
+    },
+    {
+        "text": "Hb",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            537,
+            539
+        ]
+    },
+    {
+        "text": "10.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            540,
+            549
+        ]
+    },
+    {
+        "text": "MCV",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            551,
+            554
+        ]
+    },
+    {
+        "text": "82 fL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            555,
+            560
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            572,
+            583
+        ]
+    },
+    {
+        "text": "12.4 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            584,
+            595
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            597,
+            602
+        ]
+    },
+    {
+        "text": "8.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            603,
+            607
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            609,
+            620
+        ]
+    },
+    {
+        "text": "110 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            621,
+            628
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            650,
+            664
+        ]
+    },
+    {
+        "text": "hình ảnh tụy kém đồng nhất, ống tụy giãn nhẹ 4mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            674,
+            722
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            724,
+            751
+        ]
+    },
+    {
+        "text": "tổn thương dạng khối vùng đầu tụy, kích thước 25x30mm, ngấm thuốc kém",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            785,
+            854
+        ]
+    },
+    {
+        "text": "u đầu tụy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            865,
+            874
+        ]
+    }
+]

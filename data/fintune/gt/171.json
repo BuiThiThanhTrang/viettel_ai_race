@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            88,
+            116
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            118,
+            131
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            174,
+            192
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            218,
+            226
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            230,
+            247
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            264,
+            267
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            275,
+            282
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            324,
+            341
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            353,
+            374
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            385,
+            404
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            457,
+            470
+        ]
+    },
+    {
+        "text": "Hb",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            472,
+            474
+        ]
+    },
+    {
+        "text": "9.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            475,
+            483
+        ]
+    },
+    {
+        "text": "Hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            485,
+            488
+        ]
+    },
+    {
+        "text": "28%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            489,
+            492
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            494,
+            508
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét hành tá tràng kích thước 1.5 cm, bờ cứng, đáy có giả mạc, đang rỉ máu (Forrest Ib)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            510,
+            608
+        ]
+    },
+    {
+        "text": "Test nhanh HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            610,
+            623
+        ]
+    },
+    {
+        "text": "Dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            625,
+            635
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét hành tá tràng biến chứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            651,
+            708
+        ]
+    },
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            709,
+            730
+        ]
+    },
+    {
+        "text": "ức chế bơm proton",
+        "type": "THUỐC",
+        "position": [
+            780,
+            797
+        ]
+    },
+    {
+        "text": "esomeprazole 40mg tiêm tĩnh mạch 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            799,
+            842
+        ]
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "text": "tái phát u ác trực tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            39,
+            63
+        ]
+    },
+    {
+        "text": "ung thư biểu mô tế bào thận",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            66,
+            93
+        ]
+    },
+    {
+        "text": "vancomycin",
+        "type": "THUỐC",
+        "position": [
+            298,
+            308
+        ]
+    },
+    {
+        "text": "ceftazidime",
+        "type": "THUỐC",
+        "position": [
+            311,
+            322
+        ]
+    },
+    {
+        "text": "amiodarone",
+        "type": "THUỐC",
+        "position": [
+            325,
+            335
+        ]
+    },
+    {
+        "text": "bicarbonate",
+        "type": "THUỐC",
+        "position": [
+            338,
+            349
+        ]
+    },
+    {
+        "text": "suy thận cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            470,
+            482
+        ]
+    },
+    {
+        "text": "Tái phát u ác trực tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            486,
+            510
+        ]
+    },
+    {
+        "text": "máu trong phân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            570,
+            584
+        ]
+    },
+    {
+        "text": "máu trong trực tràng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            586,
+            606
+        ]
+    },
+    {
+        "text": "viêm phổi thuỳ, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            650,
+            680
+        ]
+    },
+    {
+        "text": "vancomycin",
+        "type": "THUỐC",
+        "position": [
+            723,
+            733
+        ]
+    },
+    {
+        "text": "vancomycin",
+        "type": "THUỐC",
+        "position": [
+            758,
+            768
+        ]
+    },
+    {
+        "text": "ceftazidime",
+        "type": "THUỐC",
+        "position": [
+            771,
+            782
+        ]
+    },
+    {
+        "text": "rung nhĩ điển hình kèm theo đáp ứng thất nhanh và rối loạn huyết động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            810,
+            879
+        ]
+    },
+    {
+        "text": "amiodarone",
+        "type": "THUỐC",
+        "position": [
+            945,
+            955
+        ]
+    },
+    {
+        "text": "rối loạn cân bằng kiềm toan phối hợp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            972,
+            1008
+        ]
+    },
+    {
+        "text": "bicarbonate",
+        "type": "THUỐC",
+        "position": [
+            1029,
+            1040
+        ]
+    },
+    {
+        "text": "hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1044,
+            1047
+        ]
+    },
+    {
+        "text": "24.5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1070,
+            1074
+        ]
+    },
+    {
+        "text": "26.1",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1088,
+            1092
+        ]
+    },
+    {
+        "text": "hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1226,
+            1229
+        ]
+    },
+    {
+        "text": "24.7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1240,
+            1244
+        ]
+    },
+    {
+        "text": "ns",
+        "type": "THUỐC",
+        "position": [
+            1376,
+            1378
+        ]
+    },
+    {
+        "text": "sưng ở chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1554,
+            1570
+        ]
+    },
+    {
+        "text": "sưng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1572,
+            1580
+        ]
+    },
+    {
+        "text": "đau nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1582,
+            1589
+        ]
+    },
+    {
+        "text": "thiếu máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1628,
+            1637
+        ]
+    },
+    {
+        "text": "phân và máu trong trực tràng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1640,
+            1668
+        ]
+    },
+    {
+        "text": "viêm phổi thuỳ, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1686,
+            1716
+        ]
+    },
+    {
+        "text": "rung cuống nhĩ với đáp ứng thất nhanh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1719,
+            1756
+        ]
+    },
+    {
+        "text": "suy giảm huyết động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1759,
+            1778
+        ]
+    },
+    {
+        "text": "rối loạn cân bằng kiềm toan phối hợp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1781,
+            1817
+        ]
+    },
+    {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1820,
+            1824
+        ]
+    },
+    {
+        "text": "sưng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1826,
+            1834
+        ]
+    },
+    {
+        "text": "đau nhẹ ở mắt cá chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1836,
+            1862
+        ]
+    },
+    {
+        "text": "hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1959,
+            1962
+        ]
+    },
+    {
+        "text": "24.7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1973,
+            1977
+        ]
+    },
+    {
+        "text": "sưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2477,
+            2481
+        ]
+    },
+    {
+        "text": "sưng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2483,
+            2491
+        ]
+    },
+    {
+        "text": "đau nhẹ ở mắt cá chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2493,
+            2519
+        ]
+    },
+    {
+        "text": "hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2551,
+            2554
+        ]
+    },
+    {
+        "text": "24.5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2577,
+            2581
+        ]
+    },
+    {
+        "text": "hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2584,
+            2587
+        ]
+    },
+    {
+        "text": "26.1",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2600,
+            2604
+        ]
+    },
+    {
+        "text": "hct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2607,
+            2610
+        ]
+    },
+    {
+        "text": "24.7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2621,
+            2625
+        ]
+    },
+    {
+        "text": "rối loạn cân bằng kiềm toan phối hợp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2651,
+            2687
+        ]
+    },
+    {
+        "text": "viêm phổi thùy dưới trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2726,
+            2750
+        ]
+    },
+    {
+        "text": "suy thận cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2872,
+            2884
+        ]
+    },
+    {
+        "text": "tái phát u ác trực tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2887,
+            2911
+        ]
+    },
+    {
+        "text": "rung cuống nhĩ với đáp ứng thất nhanh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2914,
+            2951
+        ]
+    }
+]

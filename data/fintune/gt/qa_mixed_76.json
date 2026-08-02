@@ -1,0 +1,170 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "Rối loạn vận động tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            505,
+            533
+        ]
+    },
+    {
+        "text": "cứng cơ vùng cổ và thân mình",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            535,
+            563
+        ]
+    },
+    {
+        "text": "rung khi nghỉ rõ rệt ở tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            591,
+            622
+        ]
+    },
+    {
+        "text": "nhịp độ 4-6 Hz",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            624,
+            638
+        ]
+    },
+    {
+        "text": "run tăng dần khi tay gần tiếp cận mục tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            674,
+            716
+        ]
+    },
+    {
+        "text": "Cử động chậm chạp (bradykinesia)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            720,
+            752
+        ]
+    },
+    {
+        "text": "dáng đi khom người về phía trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            754,
+            786
+        ]
+    },
+    {
+        "text": "bước chân ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            788,
+            802
+        ]
+    },
+    {
+        "text": "mất dáng đi đồng bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            804,
+            823
+        ]
+    },
+    {
+        "text": "Cơ mặt đờ đẫn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            827,
+            840
+        ]
+    },
+    {
+        "text": "giảm cử động tự phát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            842,
+            862
+        ]
+    },
+    {
+        "text": "hội chứng Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            884,
+            903
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            920,
+            955
+        ]
+    },
+    {
+        "text": "run sinh lý do tuổi già",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1058,
+            1081
+        ]
+    },
+    {
+        "text": "run do các rối loạn thoái hóa thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1085,
+            1124
+        ]
+    },
+    {
+        "text": "run sinh lý",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1158,
+            1169
+        ]
+    },
+    {
+        "text": "run tĩnh trạng (run lúc nghỉ)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1212,
+            1241
+        ]
+    },
+    {
+        "text": "đo điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1336,
+            1346
+        ]
+    },
+    {
+        "text": "cộng hưởng từ não bộ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1352,
+            1372
+        ]
+    },
+    {
+        "text": "run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1451,
+            1454
+        ]
+    }
+]

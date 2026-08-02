@@ -1,0 +1,290 @@
+[
+    {
+        "text": "run tay khi cầm nắm đồ vật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            65,
+            91
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            187,
+            204
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            260,
+            268
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            293,
+            300
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            344,
+            358
+        ]
+    },
+    {
+        "text": "ngã sang trái hai lần trong tuần qua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            362,
+            398
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            463,
+            472
+        ]
+    },
+    {
+        "text": "tai biến mạch máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            477,
+            498
+        ]
+    },
+    {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            540,
+            552
+        ]
+    },
+    {
+        "text": "rối loạn vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            721,
+            738
+        ]
+    },
+    {
+        "text": "Yếu nửa người phải kèm run khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            893,
+            933
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            948,
+            961
+        ]
+    },
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            969,
+            990
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1008,
+            1016
+        ]
+    },
+    {
+        "text": "150/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1018,
+            1029
+        ]
+    },
+    {
+        "text": "nhịp tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1031,
+            1039
+        ]
+    },
+    {
+        "text": "78 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1044,
+            1055
+        ]
+    },
+    {
+        "text": "Glasgow",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1080,
+            1087
+        ]
+    },
+    {
+        "text": "15 điểm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1088,
+            1095
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1107,
+            1116
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1124,
+            1138
+        ]
+    },
+    {
+        "text": "liệt dây thần kinh sọ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1146,
+            1167
+        ]
+    },
+    {
+        "text": "Cơ lực tay phải 4/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1181,
+            1200
+        ]
+    },
+    {
+        "text": "chân phải 3/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1202,
+            1215
+        ]
+    },
+    {
+        "text": "rối loạn cảm giác khu trú",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1280,
+            1305
+        ]
+    },
+    {
+        "text": "nhồi máu não bán cầu trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1370,
+            1395
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1398,
+            1417
+        ]
+    },
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1420,
+            1441
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não (CT scan)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1465,
+            1502
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1504,
+            1515
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1517,
+            1545
+        ]
+    },
+    {
+        "text": "xét nghiệm đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1547,
+            1569
+        ]
+    },
+    {
+        "text": "bộ mỡ máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1573,
+            1582
+        ]
+    },
+    {
+        "text": "thuốc kháng kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1640,
+            1668
+        ]
+    },
+    {
+        "text": "yếu chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1763,
+            1776
+        ]
+    },
+    {
+        "text": "ngã khuỵu khi di chuyển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1780,
+            1803
+        ]
+    }
+]

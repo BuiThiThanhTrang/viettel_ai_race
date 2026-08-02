@@ -1,0 +1,162 @@
+[
+    {
+        "text": "tê rần ở các đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            82
+        ]
+    },
+    {
+        "text": "hội chứng ống cổ tay",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            266,
+            286
+        ]
+    },
+    {
+        "text": "tê bì tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            462,
+            476
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            549,
+            570
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            741,
+            754
+        ]
+    },
+    {
+        "text": "Yếu chi dưới tiến triển nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            779,
+            808
+        ]
+    },
+    {
+        "text": "khó vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            822
+        ]
+    },
+    {
+        "text": "2/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            869,
+            872
+        ]
+    },
+    {
+        "text": "4/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            884,
+            887
+        ]
+    },
+    {
+        "text": "giảm rõ rệt ở cả hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            910,
+            934
+        ]
+    },
+    {
+        "text": "kiểu đi găng đi ủng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            956,
+            975
+        ]
+    },
+    {
+        "text": "hội chứng Guillain-Barre cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1003,
+            1036
+        ]
+    },
+    {
+        "text": "Chọc dò dịch não tủy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1052,
+            1072
+        ]
+    },
+    {
+        "text": "phân ly đạm tế bào",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1078,
+            1096
+        ]
+    },
+    {
+        "text": "Điện cơ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1098,
+            1111
+        ]
+    },
+    {
+        "text": "giảm tốc độ dẫn truyền thần kinh vận động",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1121,
+            1162
+        ]
+    },
+    {
+        "text": "Immunoglobulin (IVIG) liều 0.4g/kg/ngày trong 5 ngày",
+        "type": "THUỐC",
+        "position": [
+            1191,
+            1243
+        ]
+    },
+    {
+        "text": "đo dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1463,
+            1486
+        ]
+    },
+    {
+        "text": "xét nghiệm đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1516,
+            1538
+        ]
+    },
+    {
+        "text": "chức năng tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1544,
+            1564
+        ]
+    }
+]

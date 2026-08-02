@@ -1,0 +1,210 @@
+[
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            44,
+            53
+        ]
+    },
+    {
+        "text": "cảm giác đầu óc lâng lâng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            55,
+            80
+        ]
+    },
+    {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            124,
+            129
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            141,
+            148
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            212,
+            225
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            369,
+            378
+        ]
+    },
+    {
+        "text": "ù tai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            382,
+            387
+        ]
+    },
+    {
+        "text": "đau thắt ngực trái âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            656,
+            679
+        ]
+    },
+    {
+        "text": "khó thở gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            684,
+            700
+        ]
+    },
+    {
+        "text": "Đau ngực tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            719,
+            738
+        ]
+    },
+    {
+        "text": "Nhịp tim không đều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            755,
+            773
+        ]
+    },
+    {
+        "text": "150/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            784,
+            795
+        ]
+    },
+    {
+        "text": "tiếng thổi tâm thu 2/6 ở mỏm tim",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            800,
+            832
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ II",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            854,
+            873
+        ]
+    },
+    {
+        "text": "thiếu máu cơ tim cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            884,
+            907
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            933,
+            952
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            954,
+            966
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            988,
+            999
+        ]
+    },
+    {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1001,
+            1012
+        ]
+    },
+    {
+        "text": "xét nghiệm chỉ số mỡ máu toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1014,
+            1048
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1093,
+            1102
+        ]
+    },
+    {
+        "text": "hạ huyết áp tư thế đứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1215,
+            1238
+        ]
+    },
+    {
+        "text": "chóng mặt kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1353,
+            1370
+        ]
+    },
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1380,
+            1394
+        ]
+    },
+    {
+        "text": "nhìn mờ không hồi phục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1400,
+            1422
+        ]
+    },
+    {
+        "text": "điện não đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1462,
+            1473
+        ]
+    }
+]

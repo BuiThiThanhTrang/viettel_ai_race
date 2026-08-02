@@ -1,0 +1,170 @@
+[
+    {
+        "text": "run rẩy ở bàn tay, nhất là lúc nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            87
+        ]
+    },
+    {
+        "text": "Cảm giác tay cứ tự dưng cử động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            89,
+            120
+        ]
+    },
+    {
+        "text": "khó cầm nắm thìa đũa hoặc viết chữ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            159,
+            193
+        ]
+    },
+    {
+        "text": "thiếu canxi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            243,
+            254
+        ]
+    },
+    {
+        "text": "bệnh lý thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            262,
+            279
+        ]
+    },
+    {
+        "text": "Run tay phải khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            451,
+            477
+        ]
+    },
+    {
+        "text": "giảm khả năng vận động tinh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            479,
+            506
+        ]
+    },
+    {
+        "text": "dáng đi khom lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            508,
+            525
+        ]
+    },
+    {
+        "text": "Nhịp chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            542,
+            560
+        ]
+    },
+    {
+        "text": "cứng cơ kiểu bánh răng ở cả hai chi trên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            562,
+            602
+        ]
+    },
+    {
+        "text": "Run tĩnh trạng rõ rệt ở tay phải với tần số khoảng 4-6 Hz",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            604,
+            661
+        ]
+    },
+    {
+        "text": "thất điều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            681,
+            690
+        ]
+    },
+    {
+        "text": "rung giật nhãn cầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            695,
+            713
+        ]
+    },
+    {
+        "text": "hội chứng Parkinson nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            741,
+            772
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ (MRI) sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            812,
+            843
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 25/100mg, liều khởi đầu 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            901,
+            955
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            979,
+            987
+        ]
+    },
+    {
+        "text": "hạ huyết áp tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            991,
+            1009
+        ]
+    },
+    {
+        "text": "tình trạng suy giảm mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1318,
+            1346
+        ]
+    },
+    {
+        "text": "run tĩnh trạng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1394,
+            1408
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1745,
+            1752
+        ]
+    }
+]

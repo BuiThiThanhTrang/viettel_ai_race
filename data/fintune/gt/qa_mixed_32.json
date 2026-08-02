@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "nóng rát sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            61,
+            82
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            242,
+            248
+        ]
+    },
+    {
+        "text": "buồn nôn nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            250,
+            262
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            287,
+            303
+        ]
+    },
+    {
+        "text": "trào ngược thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            308,
+            328
+        ]
+    },
+    {
+        "text": "Đau thượng vị kéo dài 3 tuần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            456,
+            484
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            538,
+            558
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            569,
+            588
+        ]
+    },
+    {
+        "text": "nội soi dạ dày thực quản",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            598,
+            622
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm niêm mạc hang vị, có trợt nông",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            624,
+            668
+        ]
+    },
+    {
+        "text": "Viêm dạ dày cấp tính mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            681,
+            712
+        ]
+    },
+    {
+        "text": "nhiễm Helicobacter pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            723,
+            748
+        ]
+    },
+    {
+        "text": "Omeprazole 20mg",
+        "type": "THUỐC",
+        "position": [
+            817,
+            832
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            834,
+            848
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg",
+        "type": "THUỐC",
+        "position": [
+            850,
+            870
+        ]
+    },
+    {
+        "text": "Metronidazole 500mg",
+        "type": "THUỐC",
+        "position": [
+            875,
+            894
+        ]
+    },
+    {
+        "text": "vi khuẩn HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1280,
+            1291
+        ]
+    },
+    {
+        "text": "loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1343,
+            1347
+        ]
+    },
+    {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1353,
+            1372
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1407,
+            1424
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1430,
+            1440
+        ]
+    },
+    {
+        "text": "xét nghiệm hơi thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1521,
+            1539
+        ]
+    }
+]

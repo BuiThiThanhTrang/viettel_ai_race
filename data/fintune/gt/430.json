@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "hoa mắt chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            87
+        ]
+    },
+    {
+        "text": "mọi thứ quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            136,
+            154
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            241,
+            254
+        ]
+    },
+    {
+        "text": "huyết áp thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            259,
+            272
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            330,
+            337
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            339,
+            348
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            352,
+            359
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            412,
+            430
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            432,
+            456
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            662,
+            682
+        ]
+    },
+    {
+        "text": "đau đầu âm ỉ vùng chẩm kéo dài 3 ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            684,
+            721
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            732,
+            750
+        ]
+    },
+    {
+        "text": "rối loạn cảm giác nông sâu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            914,
+            940
+        ]
+    },
+    {
+        "text": "tê bì các đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            967,
+            989
+        ]
+    },
+    {
+        "text": "mất thăng bằng khi đứng nhắm mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            994,
+            1026
+        ]
+    },
+    {
+        "text": "nói đớ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1051,
+            1057
+        ]
+    },
+    {
+        "text": "méo miệng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1062,
+            1071
+        ]
+    },
+    {
+        "text": "cảm giác tròng trành",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1152,
+            1172
+        ]
+    },
+    {
+        "text": "mất phương hướng trầm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1174,
+            1201
+        ]
+    },
+    {
+        "text": "lảo đảo",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1234,
+            1241
+        ]
+    },
+    {
+        "text": "chao đảo sang bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1243,
+            1265
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1355,
+            1385
+        ]
+    },
+    {
+        "text": "Tăng huyết áp chưa kiểm soát tốt",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1388,
+            1420
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1445,
+            1474
+        ]
+    },
+    {
+        "text": "siêu âm Doppler động mạch cảnh cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1476,
+            1509
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1511,
+            1522
+        ]
+    },
+    {
+        "text": "Betahistin 24mg",
+        "type": "THUỐC",
+        "position": [
+            1538,
+            1553
+        ]
+    },
+    {
+        "text": "Cinnarizin 25mg",
+        "type": "THUỐC",
+        "position": [
+            1557,
+            1572
+        ]
+    }
+]

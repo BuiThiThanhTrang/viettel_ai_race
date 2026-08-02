@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            235,
+            243
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            245,
+            250
+        ]
+    },
+    {
+        "text": "loét ngón cái bàn chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            281
+        ]
+    },
+    {
+        "text": "vết loét chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            298,
+            320
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            328,
+            331
+        ]
+    },
+    {
+        "text": "kích thước 2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            399,
+            415
+        ]
+    },
+    {
+        "text": "viêm tấy đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            447,
+            458
+        ]
+    },
+    {
+        "text": "bắt yếu",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            478,
+            485
+        ]
+    },
+    {
+        "text": "Cảm giác nông vùng cẳng chân giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            487,
+            520
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            539,
+            559
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            575,
+            586
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            588,
+            593
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            595,
+            599
+        ]
+    },
+    {
+        "text": "X-quang bàn chân thẳng nghiêng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            601,
+            631
+        ]
+    },
+    {
+        "text": "viêm xương ngón I",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            642,
+            659
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            661,
+            694
+        ]
+    },
+    {
+        "text": "xơ vữa động mạch chày sau, hẹp lòng mạch 60%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            696,
+            740
+        ]
+    },
+    {
+        "text": "Loét bàn chân đái tháo đường nhiễm trùng (Wagner độ 3)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            756,
+            810
+        ]
+    },
+    {
+        "text": "Đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            813,
+            834
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            837,
+            850
+        ]
+    }
+]

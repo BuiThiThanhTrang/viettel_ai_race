@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau nhức âm ỉ vùng thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            64
+        ]
+    },
+    {
+        "text": "cảm giác như có vật gì đó đè nặng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            66,
+            99
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            228,
+            244
+        ]
+    },
+    {
+        "text": "đau cơ thông thường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            256,
+            275
+        ]
+    },
+    {
+        "text": "Đau thắt lưng lan xuống mông phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            443,
+            476
+        ]
+    },
+    {
+        "text": "tê bì chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            478,
+            493
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            549,
+            552
+        ]
+    },
+    {
+        "text": "đau tăng khi ho hoặc hắt hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            578,
+            606
+        ]
+    },
+    {
+        "text": "mất đường cong sinh lý",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            642,
+            664
+        ]
+    },
+    {
+        "text": "ấn đau tại điểm L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            666,
+            687
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            710,
+            720
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm cột sống thắt lưng L4-L5 chèn ép rễ thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            745,
+            807
+        ]
+    },
+    {
+        "text": "chụp MRI cột sống",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            828,
+            845
+        ]
+    },
+    {
+        "text": "Paracetamol 500mg",
+        "type": "THUỐC",
+        "position": [
+            867,
+            884
+        ]
+    },
+    {
+        "text": "Meloxicam 7.5mg",
+        "type": "THUỐC",
+        "position": [
+            888,
+            903
+        ]
+    },
+    {
+        "text": "đau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            965,
+            973
+        ]
+    },
+    {
+        "text": "đau lan xuống tận chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1103,
+            1125
+        ]
+    },
+    {
+        "text": "cảm giác tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1134,
+            1148
+        ]
+    },
+    {
+        "text": "kim châm ở vùng mông hay bắp chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1150,
+            1183
+        ]
+    }
+]

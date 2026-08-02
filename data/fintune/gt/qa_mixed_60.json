@@ -1,0 +1,154 @@
+[
+    {
+        "text": "tay chân tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            38,
+            52
+        ]
+    },
+    {
+        "text": "cảm giác như bị kim châm vào đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            65,
+            106
+        ]
+    },
+    {
+        "text": "rối loạn thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            227,
+            256
+        ]
+    },
+    {
+        "text": "Yếu chi dưới tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            500,
+            523
+        ]
+    },
+    {
+        "text": "run đầu ngón tay không kiểm soát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            527,
+            559
+        ]
+    },
+    {
+        "text": "triệu chứng tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            604,
+            621
+        ]
+    },
+    {
+        "text": "yếu cơ chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            651,
+            666
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương giảm rõ ở hai chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            721,
+            761
+        ]
+    },
+    {
+        "text": "Trương lực cơ suy giảm nhẹ (độ 3/5)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            763,
+            798
+        ]
+    },
+    {
+        "text": "Bệnh đa dây thần kinh hủy myelin do rối loạn chuyển hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            820,
+            875
+        ]
+    },
+    {
+        "text": "Điện cơ đồ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            900,
+            916
+        ]
+    },
+    {
+        "text": "xét nghiệm chỉ số HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            918,
+            941
+        ]
+    },
+    {
+        "text": "định lượng Vitamin B12 trong máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            943,
+            975
+        ]
+    },
+    {
+        "text": "corticoid liều thấp",
+        "type": "THUỐC",
+        "position": [
+            1001,
+            1020
+        ]
+    },
+    {
+        "text": "Gabapentin 300mg uống 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1090,
+            1122
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1243,
+            1264
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1548,
+            1578
+        ]
+    },
+    {
+        "text": "xét nghiệm máu cơ bản",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1610,
+            1631
+        ]
+    },
+    {
+        "text": "cảm giác kim châm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1782,
+            1799
+        ]
+    }
+]

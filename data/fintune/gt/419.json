@@ -1,0 +1,242 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            74,
+            86
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            96,
+            105
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            289,
+            302
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            363,
+            370
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            379,
+            388
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            456,
+            474
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            476,
+            500
+        ]
+    },
+    {
+        "text": "huyết áp chưa ổn định",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            506,
+            527
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            614,
+            634
+        ]
+    },
+    {
+        "text": "đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            636,
+            653
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            663,
+            686
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            690,
+            703
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            756,
+            769
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            834,
+            842
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            850,
+            852
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            860,
+            863
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            888,
+            895
+        ]
+    },
+    {
+        "text": "tức ngực về đêm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            900,
+            915
+        ]
+    },
+    {
+        "text": "Huyết áp 140/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            932,
+            952
+        ]
+    },
+    {
+        "text": "nhịp tim đều 82 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            954,
+            978
+        ]
+    },
+    {
+        "text": "liệt thần kinh khu trú",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1024,
+            1046
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1097,
+            1114
+        ]
+    },
+    {
+        "text": "khuỵu chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1125,
+            1135
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1223,
+            1252
+        ]
+    },
+    {
+        "text": "thiếu máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1264,
+            1288
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1313,
+            1342
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1344,
+            1372
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1374,
+            1398
+        ]
+    },
+    {
+        "text": "Betahistine 24mg ngày uống 2 viên chia sáng chiều",
+        "type": "THUỐC",
+        "position": [
+            1410,
+            1459
+        ]
+    },
+    {
+        "text": "vitamin nhóm B",
+        "type": "THUỐC",
+        "position": [
+            1469,
+            1483
+        ]
+    }
+]

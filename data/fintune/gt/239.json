@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            101,
+            114
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            158,
+            197
+        ]
+    },
+    {
+        "text": "nôn mửa dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            208,
+            224
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38.2 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            226,
+            243
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            280,
+            295
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            297,
+            334
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            336,
+            362
+        ]
+    },
+    {
+        "text": "Nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            364,
+            382
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            402,
+            409
+        ]
+    },
+    {
+        "text": "vàng mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            411,
+            419
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            438,
+            451
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            462,
+            470
+        ]
+    },
+    {
+        "text": "85%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            506,
+            509
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            521,
+            532
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            533,
+            540
+        ]
+    },
+    {
+        "text": "Lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            542,
+            548
+        ]
+    },
+    {
+        "text": "620 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            556
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            558,
+            569
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            570,
+            581
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            583,
+            595
+        ]
+    },
+    {
+        "text": "Túi mật căng to",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            597,
+            612
+        ]
+    },
+    {
+        "text": "thành túi mật dày 6mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            614,
+            635
+        ]
+    },
+    {
+        "text": "có sỏi bùn kích thước 12mm gây tắc nghẽn cổ túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            637,
+            688
+        ]
+    },
+    {
+        "text": "Tụy không to, ống tụy không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            690,
+            722
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            744,
+            767
+        ]
+    },
+    {
+        "text": "Đái tháo đường type 2 chưa kiểm soát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            770,
+            806
+        ]
+    },
+    {
+        "text": "ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            896,
+            907
+        ]
+    },
+    {
+        "text": "metronidazole",
+        "type": "THUỐC",
+        "position": [
+            911,
+            924
+        ]
+    }
+]

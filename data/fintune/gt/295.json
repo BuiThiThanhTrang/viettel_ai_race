@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức và tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            275
+        ]
+    },
+    {
+        "text": "vết loét nông ở ngón cái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            302,
+            326
+        ]
+    },
+    {
+        "text": "dịch tiết ít",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            328,
+            340
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            348,
+            351
+        ]
+    },
+    {
+        "text": "bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            389,
+            396
+        ]
+    },
+    {
+        "text": "chi lạnh hơn so với bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            398,
+            426
+        ]
+    },
+    {
+        "text": "Vết loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            428,
+            436
+        ]
+    },
+    {
+        "text": "quầng đỏ nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            479,
+            491
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương giảm hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            493,
+            523
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            550,
+            570
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            586,
+            597
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            599,
+            604
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            606,
+            610
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            612,
+            645
+        ]
+    },
+    {
+        "text": "mảng xơ vữa gây hẹp 50% động mạch chày trước trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            656,
+            705
+        ]
+    },
+    {
+        "text": "Loét bàn chân do biến chứng thần kinh và mạch máu ngoại biên trên nền đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            727,
+            811
+        ]
+    },
+    {
+        "text": "kháng sinh tiêm tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            825,
+            850
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            252
+        ]
+    },
+    {
+        "text": "tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            256,
+            275
+        ]
+    },
+    {
+        "text": "vết loét nông ở ngón cái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            287,
+            311
+        ]
+    },
+    {
+        "text": "chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            313,
+            326
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            334,
+            337
+        ]
+    },
+    {
+        "text": "2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            404,
+            409
+        ]
+    },
+    {
+        "text": "sưng nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            436,
+            443
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            445,
+            476
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            503,
+            523
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            525,
+            536
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            538,
+            543
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            545,
+            549
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            551,
+            584
+        ]
+    },
+    {
+        "text": "Xơ vữa động mạch chày sau, hẹp lòng mạch mức độ vừa",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            586,
+            637
+        ]
+    },
+    {
+        "text": "Loét bàn chân do đái tháo đường biến chứng nhiễm trùng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            650,
+            704
+        ]
+    },
+    {
+        "text": "insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            752,
+            772
+        ]
+    },
+    {
+        "text": "kháng sinh phổ rộng đường tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            774,
+            809
+        ]
+    }
+]

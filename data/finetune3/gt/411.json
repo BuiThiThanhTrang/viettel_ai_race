@@ -1,0 +1,326 @@
+[
+  {
+    "text": "Sốt cao liên tục 39 độ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      17,
+      39
+    ]
+  },
+  {
+    "text": "chảy máu chân răng khó cầm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      41,
+      67
+    ]
+  },
+  {
+    "text": "nhiều mảng bầm tím rải rác dưới da vùng ngực, bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      81,
+      131
+    ]
+  },
+  {
+    "text": "lừ đừ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      158,
+      163
+    ]
+  },
+  {
+    "text": "da xanh xao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      165,
+      176
+    ]
+  },
+  {
+    "text": "niêm mạc nhợt nhạt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      177,
+      195
+    ]
+  },
+  {
+    "text": "nhiều nốt xuất huyết điểm rải rác toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      200,
+      243
+    ]
+  },
+  {
+    "text": "Tuyến thượng đòn sưng to đau nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      245,
+      277
+    ]
+  },
+  {
+    "text": "Gan to dưới bờ sườn 3cm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      279,
+      302
+    ]
+  },
+  {
+    "text": "lách to độ 2",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      304,
+      316
+    ]
+  },
+  {
+    "text": "Bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1244,
+      1252
+    ]
+  },
+  {
+    "text": "tăng vọt 85 G/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1253,
+      1268
+    ]
+  },
+  {
+    "text": "blast chiếm 70%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1286,
+      1301
+    ]
+  },
+  {
+    "text": "Hồng cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1303,
+      1311
+    ]
+  },
+  {
+    "text": "2.1 T/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1312,
+      1319
+    ]
+  },
+  {
+    "text": "Hemoglobin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1321,
+      1331
+    ]
+  },
+  {
+    "text": "65 g/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1332,
+      1338
+    ]
+  },
+  {
+    "text": "Tiểu cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1340,
+      1348
+    ]
+  },
+  {
+    "text": "giảm nặng còn 15 G/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1349,
+      1369
+    ]
+  },
+  {
+    "text": "Tủy đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1371,
+      1377
+    ]
+  },
+  {
+    "text": "Tủy tăng sinh mạnh",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1379,
+      1397
+    ]
+  },
+  {
+    "text": "dòng hạt quá sản với 80% nguyên tủy bào",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1399,
+      1438
+    ]
+  },
+  {
+    "text": "dương tính mạnh với men MPO",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1440,
+      1467
+    ]
+  },
+  {
+    "text": "Xét nghiệm sinh học phân tử",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1469,
+      1496
+    ]
+  },
+  {
+    "text": "Đột biến gen FLT3-ITD",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1498,
+      1519
+    ]
+  },
+  {
+    "text": "dương tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1520,
+      1530
+    ]
+  },
+  {
+    "text": "Xét nghiệm chức năng thận BUN",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1532,
+      1561
+    ]
+  },
+  {
+    "text": "25 mg/dL",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1562,
+      1570
+    ]
+  },
+  {
+    "text": "Creatinin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1572,
+      1581
+    ]
+  },
+  {
+    "text": "1.8 mg/dL",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1582,
+      1591
+    ]
+  },
+  {
+    "text": "Bạch cầu cấp dòng tủy (AML) tiên lượng nặng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1613,
+      1656
+    ]
+  },
+  {
+    "text": "Hội chứng xuất huyết giảm tiểu cầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1659,
+      1693
+    ]
+  },
+  {
+    "text": "Suy thận cấp trước thận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1696,
+      1719
+    ]
+  },
+  {
+    "text": "Cytarabine 100mg/m2 truyền liên tục 7 ngày",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1856,
+      1898
+    ]
+  },
+  {
+    "text": "Daunorubicin 60mg/m2 tĩnh mạch chậm trong 3 ngày đầu",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1902,
+      1954
+    ]
+  },
+  {
+    "text": "Allopurinol 300mg/ngày",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1990,
+      2012
+    ]
+  }
+]

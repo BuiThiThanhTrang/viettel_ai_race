@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            94,
+            101
+        ]
+    },
+    {
+        "text": "metformin",
+        "type": "THUỐC",
+        "position": [
+            111,
+            120
+        ]
+    },
+    {
+        "text": "đau bụng vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            195,
+            234
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            240,
+            248
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            252,
+            267
+        ]
+    },
+    {
+        "text": "đau tăng dần sau bữa ăn nhiều dầu mỡ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            280,
+            316
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            356,
+            371
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            373,
+            394
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            396,
+            423
+        ]
+    },
+    {
+        "text": "Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            434,
+            448
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            462,
+            473
+        ]
+    },
+    {
+        "text": "tăng gấp 5 lần giới hạn bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            474,
+            509
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            511,
+            521
+        ]
+    },
+    {
+        "text": "tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            522,
+            530
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            546,
+            558
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, giảm âm, không thấy sỏi túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            560,
+            612
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            634,
+            657
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            751,
+            779
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            816,
+            823
+        ]
+    }
+]

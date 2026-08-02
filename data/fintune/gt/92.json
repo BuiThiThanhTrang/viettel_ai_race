@@ -1,0 +1,98 @@
+[
+    {
+        "text": "Nhiễm trùng đường tiết niệu kháng thuốc",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            45,
+            84
+        ]
+    },
+    {
+        "text": "đại tràng giãn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            138,
+            152
+        ]
+    },
+    {
+        "text": "xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            225,
+            239
+        ]
+    },
+    {
+        "text": "tăng bạch cầu",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            243,
+            256
+        ]
+    },
+    {
+        "text": "ý thúc chậm hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            275,
+            290
+        ]
+    },
+    {
+        "text": "chụp CT",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            295,
+            302
+        ]
+    },
+    {
+        "text": "chưa phát hiện bất thường trên phim chụp",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            317,
+            357
+        ]
+    },
+    {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            415,
+            420
+        ]
+    },
+    {
+        "text": "Bạch cầu tăng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            472,
+            485
+        ]
+    },
+    {
+        "text": "chụp ct",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            518,
+            525
+        ]
+    },
+    {
+        "text": "chưa phát hiện bất thường trên phim chụp",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            525,
+            565
+        ]
+    },
+    {
+        "text": "đại tràng giãn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            598,
+            612
+        ]
+    }
+]

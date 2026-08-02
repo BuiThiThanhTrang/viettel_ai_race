@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            153
+        ]
+    },
+    {
+        "text": "gliclazide 30mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            155,
+            181
+        ]
+    },
+    {
+        "text": "amlodipine 5mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            183,
+            208
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            283
+        ]
+    },
+    {
+        "text": "đau mỏi bắp chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            307,
+            323
+        ]
+    },
+    {
+        "text": "cảm giác tê bì đầu ngón chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            384,
+            412
+        ]
+    },
+    {
+        "text": "Chỉ số huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            462,
+            502
+        ]
+    },
+    {
+        "text": "0.6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            512,
+            515
+        ]
+    },
+    {
+        "text": "0.55",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            526,
+            530
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            603,
+            636
+        ]
+    },
+    {
+        "text": "Hình ảnh mảng xơ vữa gây hẹp 70% động mạch chày trước hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            638,
+            699
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            713,
+            718
+        ]
+    },
+    {
+        "text": "8.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            719,
+            723
+        ]
+    },
+    {
+        "text": "LDL-cholesterol",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            725,
+            740
+        ]
+    },
+    {
+        "text": "4.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            741,
+            751
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn II theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            767,
+            828
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            830,
+            851
+        ]
+    },
+    {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            853,
+            871
+        ]
+    }
+]

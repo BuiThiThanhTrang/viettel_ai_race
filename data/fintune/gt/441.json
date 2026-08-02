@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đau nhức hai khớp gối",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            85,
+            106
+        ]
+    },
+    {
+        "text": "khớp cứ kêu lục cục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            192,
+            211
+        ]
+    },
+    {
+        "text": "cảm giác cứng khớp kéo dài khoảng ba mươi phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            218,
+            264
+        ]
+    },
+    {
+        "text": "thoái hóa khớp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            320,
+            334
+        ]
+    },
+    {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            339,
+            358
+        ]
+    },
+    {
+        "text": "Đau và hạn chế vận động khớp gối hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            816,
+            856
+        ]
+    },
+    {
+        "text": "liên tục khuỵu chân khi đi bộ trên đoạn đường dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            878,
+            927
+        ]
+    },
+    {
+        "text": "Thoái hóa khớp gối độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            946,
+            969
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1081,
+            1090
+        ]
+    },
+    {
+        "text": "không sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1092,
+            1105
+        ]
+    },
+    {
+        "text": "không đau các khớp nhỏ bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1107,
+            1137
+        ]
+    },
+    {
+        "text": "Khớp gối hai bên sưng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1154,
+            1179
+        ]
+    },
+    {
+        "text": "không đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1181,
+            1189
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ khe khớp trong",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1191,
+            1216
+        ]
+    },
+    {
+        "text": "Tầm vận động khớp gối hạn chế khi gấp tối đa do đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1218,
+            1269
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1281,
+            1323
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng và ngã sang trái khi cố gắng bước đi mà không có điểm tựa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1328,
+            1409
+        ]
+    },
+    {
+        "text": "dấu hiệu teo cơ tứ đầu đùi rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1425,
+            1458
+        ]
+    },
+    {
+        "text": "Đợt cấp thoái hóa khớp gối hai bên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1477,
+            1511
+        ]
+    },
+    {
+        "text": "Yếu cơ chi dưới",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1514,
+            1529
+        ]
+    },
+    {
+        "text": "Chụp X-quang khớp gối thẳng nghiêng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1554,
+            1589
+        ]
+    },
+    {
+        "text": "tổng phân tích tế bào máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1606,
+            1631
+        ]
+    },
+    {
+        "text": "tốc độ lắng máu ESR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1633,
+            1652
+        ]
+    },
+    {
+        "text": "Acid Uric",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1667,
+            1676
+        ]
+    },
+    {
+        "text": "Meloxicam 15mg uống 1 viên/ngày sau ăn no",
+        "type": "THUỐC",
+        "position": [
+            1695,
+            1736
+        ]
+    },
+    {
+        "text": "Paracetamol kết hợp Tramadol",
+        "type": "THUỐC",
+        "position": [
+            1738,
+            1766
+        ]
+    },
+    {
+        "text": "Glucosamine sulfate",
+        "type": "THUỐC",
+        "position": [
+            1796,
+            1815
+        ]
+    }
+]

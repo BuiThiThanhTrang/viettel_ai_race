@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            150,
+            173
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            178,
+            183
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            185,
+            192
+        ]
+    },
+    {
+        "text": "sụt 4kg trong 2 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            215
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            223,
+            226
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            237
+        ]
+    },
+    {
+        "text": "da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            278,
+            294
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            296,
+            311
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            313,
+            334
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            401,
+            414
+        ]
+    },
+    {
+        "text": "9.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            419,
+            427
+        ]
+    },
+    {
+        "text": "78 fL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            433,
+            438
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            440,
+            454
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn bờ cứng, kích thước 3cm tại vùng hang vị, bề mặt có giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            456,
+            535
+        ]
+    },
+    {
+        "text": "nghi ngờ ung thư biểu mô tuyến",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            567,
+            597
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            599,
+            626
+        ]
+    },
+    {
+        "text": "Dày thành vùng hang vị dạ dày, xâm lấn lớp dưới niêm mạc, hạch quanh dạ dày kích thước 15mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            628,
+            719
+        ]
+    },
+    {
+        "text": "Ung thư dạ dày giai đoạn tiến triển",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            738,
+            773
+        ]
+    }
+]

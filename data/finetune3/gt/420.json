@@ -1,0 +1,195 @@
+[
+  {
+    "text": "run rẩy ở bàn tay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      47,
+      64
+    ]
+  },
+  {
+    "text": "run khi vận động",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      297,
+      313
+    ]
+  },
+  {
+    "text": "Run tay tiến triển",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      567,
+      585
+    ]
+  },
+  {
+    "text": "cứng cơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      596,
+      603
+    ]
+  },
+  {
+    "text": "vận động chậm chạp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      607,
+      625
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      659,
+      672
+    ]
+  },
+  {
+    "text": "Amlodipine 5mg",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      700,
+      714
+    ]
+  },
+  {
+    "text": "bánh xe răng cưa tại các khớp cổ tay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      742,
+      778
+    ]
+  },
+  {
+    "text": "Run tĩnh chỉ ở tay phải với tần số 4-6 Hz",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      782,
+      823
+    ]
+  },
+  {
+    "text": "Dáng đi chậm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      827,
+      839
+    ]
+  },
+  {
+    "text": "mất động tác liên hoàn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      841,
+      863
+    ]
+  },
+  {
+    "text": "cơ mặt ít biểu cảm (mặt nạ)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      865,
+      892
+    ]
+  },
+  {
+    "text": "Bệnh Parkinson nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      911,
+      937
+    ]
+  },
+  {
+    "text": "Levodopa/Carbidopa 100mg/25mg (3 lần/ngày)",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      963,
+      1005
+    ]
+  },
+  {
+    "text": "rối loạn vận động",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1027,
+      1044
+    ]
+  },
+  {
+    "text": "hạ huyết áp tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1048,
+      1066
+    ]
+  },
+  {
+    "text": "run khi vận động",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1102,
+      1118
+    ]
+  },
+  {
+    "text": "hội chứng run vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1158,
+      1178
+    ]
+  },
+  {
+    "text": "rối loạn chức năng thần kinh thực vật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1192,
+      1229
+    ]
+  },
+  {
+    "text": "giảm tốc độ vận động",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1279,
+      1299
+    ]
+  },
+  {
+    "text": "thay đổi dáng đi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1305,
+      1321
+    ]
+  }
+]

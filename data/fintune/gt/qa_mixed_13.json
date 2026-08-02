@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "thuốc dạ dày dạng sữa",
+        "type": "THUỐC",
+        "position": [
+            151,
+            172
+        ]
+    },
+    {
+        "text": "viêm loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            250,
+            259
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            309,
+            316
+        ]
+    },
+    {
+        "text": "đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            343,
+            361
+        ]
+    },
+    {
+        "text": "viêm dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            394,
+            405
+        ]
+    },
+    {
+        "text": "trào ngược thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            407,
+            427
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            433,
+            447
+        ]
+    },
+    {
+        "text": "đau bụng dữ dội vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            611,
+            657
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            667,
+            674
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            691,
+            706
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            708,
+            738
+        ]
+    },
+    {
+        "text": "nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            740,
+            758
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            785,
+            796
+        ]
+    },
+    {
+        "text": "tăng gấp 5 lần mức bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            797,
+            827
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            829,
+            836
+        ]
+    },
+    {
+        "text": "tụy phù nề",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            842,
+            852
+        ]
+    },
+    {
+        "text": "dịch ổ bụng lượng ít",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            854,
+            874
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp thể phù nề",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            887,
+            910
+        ]
+    },
+    {
+        "text": "kháng sinh phổ rộng",
+        "type": "THUỐC",
+        "position": [
+            981,
+            1000
+        ]
+    },
+    {
+        "text": "Sandostatin",
+        "type": "THUỐC",
+        "position": [
+            1028,
+            1039
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1147,
+            1161
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1328,
+            1338
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1340,
+            1357
+        ]
+    }
+]

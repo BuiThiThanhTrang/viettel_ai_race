@@ -1,0 +1,250 @@
+[
+    {
+        "text": "Bệnh túi thừa ở cả ruột non và đại tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            53,
+            93
+        ]
+    },
+    {
+        "text": "colace",
+        "type": "THUỐC",
+        "position": [
+            175,
+            181
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            230,
+            238
+        ]
+    },
+    {
+        "text": "đau hố chậu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            295,
+            306
+        ]
+    },
+    {
+        "text": "rất táo bón",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            342,
+            353
+        ]
+    },
+    {
+        "text": "đau hố chậu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            526,
+            537
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "position": [
+            609,
+            616
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "position": [
+            646,
+            653
+        ]
+    },
+    {
+        "text": "đau vẫn tiếp tục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            686,
+            702
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            734,
+            742
+        ]
+    },
+    {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            749,
+            756
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            763,
+            771
+        ]
+    },
+    {
+        "text": "đau hố chậu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            811,
+            822
+        ]
+    },
+    {
+        "text": "cơn đau vẫn tiếp diễn mặc dù đã dùng tylenol",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            850,
+            894
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            924,
+            932
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "position": [
+            1009,
+            1016
+        ]
+    },
+    {
+        "text": "tylenol",
+        "type": "THUỐC",
+        "position": [
+            1071,
+            1078
+        ]
+    },
+    {
+        "text": "đau vẫn tiếp diễn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1128,
+            1145
+        ]
+    },
+    {
+        "text": "T97.8",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1244,
+            1249
+        ]
+    },
+    {
+        "text": "84",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1260,
+            1262
+        ]
+    },
+    {
+        "text": "15670",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1273,
+            1278
+        ]
+    },
+    {
+        "text": "20",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1289,
+            1291
+        ]
+    },
+    {
+        "text": "99",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1308,
+            1310
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1332,
+            1342
+        ]
+    },
+    {
+        "text": "thiếu máu hồng cầu nhỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1357,
+            1379
+        ]
+    },
+    {
+        "text": "27.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1383,
+            1387
+        ]
+    },
+    {
+        "text": "bun/creatinine",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1394,
+            1408
+        ]
+    },
+    {
+        "text": "chụp ct bụng, chậu, không thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1441,
+            1482
+        ]
+    },
+    {
+        "text": "một lượng nhỏ dịch và mỡ bao quanh một quai ruột kết sigma",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1492,
+            1550
+        ]
+    },
+    {
+        "text": "viêm túi mật cấp tính không biến chứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1558,
+            1596
+        ]
+    },
+    {
+        "text": "viêm túi mật cấp tính không biến chứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1629,
+            1667
+        ]
+    }
+]

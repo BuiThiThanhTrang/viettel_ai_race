@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đau nhức vùng cổ gáy lan xuống bả vai trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            84
+        ]
+    },
+    {
+        "text": "tê bì ngón tay cái và ngón trỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            95,
+            125
+        ]
+    },
+    {
+        "text": "mỏi nhiều hơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            195
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            342,
+            363
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            368,
+            384
+        ]
+    },
+    {
+        "text": "X-quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            413,
+            420
+        ]
+    },
+    {
+        "text": "cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            425,
+            438
+        ]
+    },
+    {
+        "text": "đau cổ gáy lan tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            477,
+            495
+        ]
+    },
+    {
+        "text": "Đau lưng lan xuống chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            745,
+            773
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng và ngã sang trái khi di chuyển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            783,
+            837
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            853,
+            875
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            930,
+            939
+        ]
+    },
+    {
+        "text": "không ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            941,
+            949
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            974,
+            981
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            986,
+            994
+        ]
+    },
+    {
+        "text": "Không yếu liệt cơ chi trên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            996,
+            1022
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1055,
+            1075
+        ]
+    },
+    {
+        "text": "không thể tự đứng dậy do yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1077,
+            1119
+        ]
+    },
+    {
+        "text": "bước đi lảo đảo",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1121,
+            1136
+        ]
+    },
+    {
+        "text": "mất thăng bằng và ngã sang trái khi nhắm mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1138,
+            1182
+        ]
+    },
+    {
+        "text": "Chèn ép rễ thần kinh cùng thắt lưng nặng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1201,
+            1241
+        ]
+    },
+    {
+        "text": "Hội chứng chùm đuôi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1244,
+            1263
+        ]
+    },
+    {
+        "text": "Chụp MRI cột sống thắt lưng có cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1288,
+            1328
+        ]
+    },
+    {
+        "text": "điện cơ đồ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1330,
+            1346
+        ]
+    },
+    {
+        "text": "Pregabalin 75mg",
+        "type": "THUỐC",
+        "position": [
+            1362,
+            1377
+        ]
+    },
+    {
+        "text": "Methylprednisolone 16mg",
+        "type": "THUỐC",
+        "position": [
+            1379,
+            1402
+        ]
+    },
+    {
+        "text": "Eperisone 50mg",
+        "type": "THUỐC",
+        "position": [
+            1404,
+            1418
+        ]
+    },
+    {
+        "text": "X-quang quy ước",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1618,
+            1633
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1639,
+            1642
+        ]
+    }
+]

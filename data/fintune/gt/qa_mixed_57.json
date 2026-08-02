@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            64,
+            78
+        ]
+    },
+    {
+        "text": "cảm giác tê bì nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            85,
+            118
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            155,
+            168
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            378,
+            385
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            386,
+            395
+        ]
+    },
+    {
+        "text": "Đột ngột yếu liệt tay chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            530,
+            561
+        ]
+    },
+    {
+        "text": "nói ngọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            563,
+            572
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            588,
+            606
+        ]
+    },
+    {
+        "text": "rối loạn mỡ máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            608,
+            623
+        ]
+    },
+    {
+        "text": "170/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            649,
+            660
+        ]
+    },
+    {
+        "text": "82 nhịp/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            675,
+            687
+        ]
+    },
+    {
+        "text": "NIHSS",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            700,
+            705
+        ]
+    },
+    {
+        "text": "6 điểm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            733,
+            739
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu phải giai đoạn cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            761,
+            800
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            827,
+            853
+        ]
+    },
+    {
+        "text": "CT mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            857,
+            872
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu liều cao",
+        "type": "THUỐC",
+        "position": [
+            931,
+            968
+        ]
+    },
+    {
+        "text": "chỉ số đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            979,
+            997
+        ]
+    },
+    {
+        "text": "chức năng thận",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1001,
+            1015
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1104,
+            1117
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1135,
+            1142
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1152,
+            1157
+        ]
+    },
+    {
+        "text": "yếu liệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1159,
+            1167
+        ]
+    },
+    {
+        "text": "chẩn đoán hình ảnh thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1374,
+            1402
+        ]
+    }
+]

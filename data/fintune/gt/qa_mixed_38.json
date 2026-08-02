@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            53
+        ]
+    },
+    {
+        "text": "cảm giác như có sợi dây thắt chặt quanh trán",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            55,
+            99
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            280,
+            302
+        ]
+    },
+    {
+        "text": "đau đầu thông thường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            403,
+            423
+        ]
+    },
+    {
+        "text": "đau đầu bệnh lý",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            427,
+            442
+        ]
+    },
+    {
+        "text": "triệu chứng đau đầu kiểu căng thẳng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            475,
+            510
+        ]
+    },
+    {
+        "text": "tension headache",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            512,
+            528
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            724,
+            738
+        ]
+    },
+    {
+        "text": "co giật cục bộ nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            743,
+            776
+        ]
+    },
+    {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            821,
+            828
+        ]
+    },
+    {
+        "text": "Huyết áp 170/100 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            877,
+            898
+        ]
+    },
+    {
+        "text": "mạch 95 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            900,
+            916
+        ]
+    },
+    {
+        "text": "Đồng tử giãn nhẹ bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            918,
+            943
+        ]
+    },
+    {
+        "text": "phản xạ ánh sáng chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            945,
+            966
+        ]
+    },
+    {
+        "text": "xuất huyết não vùng thái dương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            994,
+            1024
+        ]
+    },
+    {
+        "text": "tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1026,
+            1044
+        ]
+    },
+    {
+        "text": "Chụp CT scanner sọ não không cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1071,
+            1109
+        ]
+    },
+    {
+        "text": "hình ảnh tăng tỉ trọng nhu mô não vùng thái dương đỉnh phải, kích thước 2.5cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1119,
+            1196
+        ]
+    },
+    {
+        "text": "Nicardipine truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1216,
+            1244
+        ]
+    },
+    {
+        "text": "mannitol 20%",
+        "type": "THUỐC",
+        "position": [
+            1268,
+            1280
+        ]
+    },
+    {
+        "text": "cơn đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1423,
+            1430
+        ]
+    },
+    {
+        "text": "yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1481,
+            1493
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1495,
+            1502
+        ]
+    },
+    {
+        "text": "co giật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1504,
+            1511
+        ]
+    },
+    {
+        "text": "nôn vọt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1517,
+            1524
+        ]
+    },
+    {
+        "text": "cơn đau tiến triển nặng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1658,
+            1685
+        ]
+    },
+    {
+        "text": "thăm khám thần kinh chuyên sâu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1723,
+            1753
+        ]
+    }
+]

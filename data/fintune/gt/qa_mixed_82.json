@@ -1,0 +1,170 @@
+[
+    {
+        "text": "tê bì ở các đầu ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            75,
+            99
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            187,
+            208
+        ]
+    },
+    {
+        "text": "mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            347,
+            350
+        ]
+    },
+    {
+        "text": "yếu chi dưới tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            538,
+            561
+        ]
+    },
+    {
+        "text": "đại tiểu tiện không tự chủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            584,
+            610
+        ]
+    },
+    {
+        "text": "88 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            654,
+            665
+        ]
+    },
+    {
+        "text": "140/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            676,
+            687
+        ]
+    },
+    {
+        "text": "Liệt chi dưới mức độ 2/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            705,
+            729
+        ]
+    },
+    {
+        "text": "tăng phản xạ gân xương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            731,
+            753
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            773,
+            783
+        ]
+    },
+    {
+        "text": "Giảm cảm giác nông",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            845,
+            863
+        ]
+    },
+    {
+        "text": "Chèn ép tủy sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            906,
+            922
+        ]
+    },
+    {
+        "text": "khối u ngoài màng cứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            931,
+            953
+        ]
+    },
+    {
+        "text": "Methylprednisolone liều cao",
+        "type": "THUỐC",
+        "position": [
+            970,
+            997
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ MRI cột sống",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1017,
+            1048
+        ]
+    },
+    {
+        "text": "hội chứng ống cổ tay",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1207,
+            1227
+        ]
+    },
+    {
+        "text": "bệnh lý rễ thần kinh cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1233,
+            1256
+        ]
+    },
+    {
+        "text": "đo điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1356,
+            1369
+        ]
+    },
+    {
+        "text": "chụp X-quang cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1373,
+            1397
+        ]
+    },
+    {
+        "text": "teo cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1452,
+            1458
+        ]
+    },
+    {
+        "text": "mất cảm giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1464,
+            1476
+        ]
+    }
+]

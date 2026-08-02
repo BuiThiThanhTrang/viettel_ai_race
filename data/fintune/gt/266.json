@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            96,
+            124
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            190,
+            208
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            239
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            241,
+            247
+        ]
+    },
+    {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            255,
+            262
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            270,
+            287
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            354,
+            379
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            390,
+            409
+        ]
+    },
+    {
+        "text": "không sờ thấy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            420,
+            433
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            452,
+            475
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm loét hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            477,
+            503
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            505,
+            516
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            517,
+            527
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            529,
+            542
+        ]
+    },
+    {
+        "text": "7.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            553,
+            560
+        ]
+    },
+    {
+        "text": "12.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            565,
+            574
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            576,
+            596
+        ]
+    },
+    {
+        "text": "9.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            612,
+            622
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            667,
+            705
+        ]
+    },
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            715,
+            736
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            756,
+            786
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            788,
+            815
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            817,
+            850
+        ]
+    },
+    {
+        "text": "metformin",
+        "type": "THUỐC",
+        "position": [
+            883,
+            892
+        ]
+    }
+]

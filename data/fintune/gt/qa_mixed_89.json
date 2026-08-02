@@ -1,0 +1,186 @@
+[
+    {
+        "text": "tê bì bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            60
+        ]
+    },
+    {
+        "text": "Cảm giác như có kim châm ở đầu các ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            99,
+            142
+        ]
+    },
+    {
+        "text": "run tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            547,
+            559
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            563,
+            576
+        ]
+    },
+    {
+        "text": "run khi nghỉ ở tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            633,
+            656
+        ]
+    },
+    {
+        "text": "đi lại chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            734,
+            745
+        ]
+    },
+    {
+        "text": "bước chân ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            747,
+            761
+        ]
+    },
+    {
+        "text": "dáng đi khom người ra trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            763,
+            790
+        ]
+    },
+    {
+        "text": "Nhịp chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            808,
+            817
+        ]
+    },
+    {
+        "text": "nét mặt vô cảm (mặt nạ)",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            819,
+            842
+        ]
+    },
+    {
+        "text": "Trương lực cơ tay phải tăng kiểu bánh xe răng cưa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            844,
+            893
+        ]
+    },
+    {
+        "text": "run tăng khi làm động tác tinh tế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            923,
+            956
+        ]
+    },
+    {
+        "text": "Bệnh Parkinson giai đoạn II (Hoehn & Yahr)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            978,
+            1020
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg, liều dùng 1 viên chia 3 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1033,
+            1091
+        ]
+    },
+    {
+        "text": "rối loạn vận động muộn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1121,
+            1143
+        ]
+    },
+    {
+        "text": "huyết áp tư thế đứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1147,
+            1167
+        ]
+    },
+    {
+        "text": "tê ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1232,
+            1243
+        ]
+    },
+    {
+        "text": "hội chứng ống cổ tay",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1339,
+            1359
+        ]
+    },
+    {
+        "text": "tê",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1427,
+            1429
+        ]
+    },
+    {
+        "text": "cảm giác châm chích",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1431,
+            1450
+        ]
+    },
+    {
+        "text": "đo dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1571,
+            1594
+        ]
+    },
+    {
+        "text": "điện cơ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1598,
+            1611
+        ]
+    },
+    {
+        "text": "corticosteroid",
+        "type": "THUỐC",
+        "position": [
+            1771,
+            1785
+        ]
+    }
+]

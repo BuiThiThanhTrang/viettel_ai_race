@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            58
+        ]
+    },
+    {
+        "text": "hoa mắt chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            90,
+            107
+        ]
+    },
+    {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            269,
+            281
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            286,
+            310
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            334,
+            354
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            603,
+            623
+        ]
+    },
+    {
+        "text": "nhức đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            625,
+            643
+        ]
+    },
+    {
+        "text": "yếu sức nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            653,
+            679
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            718,
+            731
+        ]
+    },
+    {
+        "text": "rối loạn lipid máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            739,
+            757
+        ]
+    },
+    {
+        "text": "yếu sức nửa người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            919,
+            936
+        ]
+    },
+    {
+        "text": "khuỵu chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            957,
+            967
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1014,
+            1028
+        ]
+    },
+    {
+        "text": "ngáng chân sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1032,
+            1052
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1084,
+            1091
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1118,
+            1126
+        ]
+    },
+    {
+        "text": "tức ngực trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1131,
+            1144
+        ]
+    },
+    {
+        "text": "tai biến mạch máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1178,
+            1210
+        ]
+    },
+    {
+        "text": "Thiếu máu não cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1213,
+            1233
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1264,
+            1293
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch cảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1295,
+            1320
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1322,
+            1346
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1471,
+            1489
+        ]
+    }
+]

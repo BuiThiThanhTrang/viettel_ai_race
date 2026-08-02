@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau nhức âm ỉ ở vùng thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            62,
+            92
+        ]
+    },
+    {
+        "text": "lan xuống cả hai chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            102,
+            123
+        ]
+    },
+    {
+        "text": "đi lại khó khăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            134,
+            149
+        ]
+    },
+    {
+        "text": "rất nhanh mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            153,
+            166
+        ]
+    },
+    {
+        "text": "thuốc giảm đau thông thường",
+        "type": "THUỐC",
+        "position": [
+            180,
+            207
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            297,
+            313
+        ]
+    },
+    {
+        "text": "Yếu liệt hai chân tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            442,
+            470
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng từ ngang rốn trở xuống",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            472,
+            517
+        ]
+    },
+    {
+        "text": "bí tiểu 24 giờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            522,
+            536
+        ]
+    },
+    {
+        "text": "ấn đau tại điểm L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            602,
+            623
+        ]
+    },
+    {
+        "text": "giảm còn 2/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            648,
+            660
+        ]
+    },
+    {
+        "text": "mất hoàn toàn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            689,
+            702
+        ]
+    },
+    {
+        "text": "Cảm giác đau và nhiệt giảm dần từ vùng chậu xuống bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            704,
+            762
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            792,
+            833
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm thể trung tâm tầng L3-L4 gây chèn ép tủy sống và chùm đuôi ngựa mức độ nặng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            843,
+            935
+        ]
+    },
+    {
+        "text": "Hội chứng chùm đuôi ngựa do thoát vị đĩa đệm cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            958,
+            1011
+        ]
+    },
+    {
+        "text": "đau lưng kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1258,
+            1274
+        ]
+    },
+    {
+        "text": "đau lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1328,
+            1346
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1460,
+            1484
+        ]
+    }
+]

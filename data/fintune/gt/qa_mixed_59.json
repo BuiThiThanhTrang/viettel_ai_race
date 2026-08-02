@@ -1,0 +1,234 @@
+[
+    {
+        "text": "đau các khớp ngón tay và cổ tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            101
+        ]
+    },
+    {
+        "text": "cứng khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            228,
+            237
+        ]
+    },
+    {
+        "text": "thoái hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            290,
+            299
+        ]
+    },
+    {
+        "text": "cứng khớp buổi sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            386,
+            405
+        ]
+    },
+    {
+        "text": "Đau đa khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            503,
+            514
+        ]
+    },
+    {
+        "text": "sưng nề khớp bàn ngón tay hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            518,
+            551
+        ]
+    },
+    {
+        "text": "sưng nóng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            619,
+            628
+        ]
+    },
+    {
+        "text": "đau khi ấn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            630,
+            640
+        ]
+    },
+    {
+        "text": "mất đối xứng trục ngón tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            642,
+            668
+        ]
+    },
+    {
+        "text": "Viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            687,
+            706
+        ]
+    },
+    {
+        "text": "viêm khớp do thoái hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            727,
+            749
+        ]
+    },
+    {
+        "text": "RF (Rheumatoid Factor)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            779,
+            801
+        ]
+    },
+    {
+        "text": "Dương tính 120 IU/ml",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            803,
+            823
+        ]
+    },
+    {
+        "text": "Anti-CCP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            827,
+            835
+        ]
+    },
+    {
+        "text": "Dương tính cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            837,
+            851
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            868,
+            871
+        ]
+    },
+    {
+        "text": "tăng 25 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            872,
+            884
+        ]
+    },
+    {
+        "text": "ESR",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            902,
+            905
+        ]
+    },
+    {
+        "text": "45mm/giờ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            906,
+            914
+        ]
+    },
+    {
+        "text": "Methotrexate 10mg/tuần",
+        "type": "THUỐC",
+        "position": [
+            933,
+            955
+        ]
+    },
+    {
+        "text": "Axit Folic 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            965,
+            984
+        ]
+    },
+    {
+        "text": "Prednisolon liều thấp 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            988,
+            1018
+        ]
+    },
+    {
+        "text": "cứng khớp buổi sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1090,
+            1109
+        ]
+    },
+    {
+        "text": "viêm khớp tự miễn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1251,
+            1268
+        ]
+    },
+    {
+        "text": "thoái hóa khớp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1290,
+            1304
+        ]
+    },
+    {
+        "text": "viêm khớp dạng thấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1342,
+            1361
+        ]
+    },
+    {
+        "text": "tổn thương màng hoạt dịch",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1389,
+            1414
+        ]
+    },
+    {
+        "text": "viêm nhiễm kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1479,
+            1497
+        ]
+    },
+    {
+        "text": "biến dạng bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1677,
+            1694
+        ]
+    }
+]

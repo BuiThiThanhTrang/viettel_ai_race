@@ -1,0 +1,346 @@
+[
+    {
+        "text": "viêm tủy xương mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            18,
+            41
+        ]
+    },
+    {
+        "text": "bàng quang thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            45,
+            65
+        ]
+    },
+    {
+        "text": "liệt hai chi dưới",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            81,
+            98
+        ]
+    },
+    {
+        "text": "loét tì đè giai đoạn IV mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            102,
+            134
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu tái phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            163,
+            199
+        ]
+    },
+    {
+        "text": "vancozosyn",
+        "type": "THUỐC",
+        "position": [
+            236,
+            246
+        ]
+    },
+    {
+        "text": "bactrim",
+        "type": "THUỐC",
+        "position": [
+            321,
+            328
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            341,
+            368
+        ]
+    },
+    {
+        "text": "sốt cao",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            407,
+            414
+        ]
+    },
+    {
+        "text": "hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            466,
+            477
+        ]
+    },
+    {
+        "text": "nhiễm trùng huyết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            497,
+            514
+        ]
+    },
+    {
+        "text": "vancozosynbactrim",
+        "type": "THUỐC",
+        "position": [
+            541,
+            558
+        ]
+    },
+    {
+        "text": "viêm tuỷ xương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            575,
+            589
+        ]
+    },
+    {
+        "text": "zosyn",
+        "type": "THUỐC",
+        "position": [
+            604,
+            609
+        ]
+    },
+    {
+        "text": "viêm tủy xương mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            655,
+            678
+        ]
+    },
+    {
+        "text": "sốt cao 39.7 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            822,
+            839
+        ]
+    },
+    {
+        "text": "nếp véo da mất chậm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            923,
+            942
+        ]
+    },
+    {
+        "text": "Đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            970,
+            978
+        ]
+    },
+    {
+        "text": "đau hông từng cơn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            980,
+            997
+        ]
+    },
+    {
+        "text": "Hạ huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            999,
+            1010
+        ]
+    },
+    {
+        "text": "Mạch nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1011,
+            1021
+        ]
+    },
+    {
+        "text": "Tim nhịp nhanh đều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1023,
+            1041
+        ]
+    },
+    {
+        "text": "nước tiểu có cặn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1077,
+            1093
+        ]
+    },
+    {
+        "text": "lactate",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1111,
+            1118
+        ]
+    },
+    {
+        "text": "1.1-->0.8",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1119,
+            1128
+        ]
+    },
+    {
+        "text": "Cấy nước tiểu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1131,
+            1144
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn đường tiết niệu có các vi khuẩn hỗn hợp",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1147,
+            1198
+        ]
+    },
+    {
+        "text": "cấy máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1201,
+            1208
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1210,
+            1217
+        ]
+    },
+    {
+        "text": "marker viêm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1226,
+            1237
+        ]
+    },
+    {
+        "text": "tăng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1264,
+            1268
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1294,
+            1297
+        ]
+    },
+    {
+        "text": "không thấy tình trạng viêm xương tủy nặng hơn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1300,
+            1345
+        ]
+    },
+    {
+        "text": "Xquang ngực thẳng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1348,
+            1365
+        ]
+    },
+    {
+        "text": "không thấy thâm nhiễm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1367,
+            1388
+        ]
+    },
+    {
+        "text": "svo2",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1402,
+            1406
+        ]
+    },
+    {
+        "text": "82",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1410,
+            1412
+        ]
+    },
+    {
+        "text": "cvp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1452,
+            1455
+        ]
+    },
+    {
+        "text": "6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1459,
+            1460
+        ]
+    },
+    {
+        "text": "nhiễm trùng huyết đường vào tiết niệu- viêm tủy xương mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1472,
+            1534
+        ]
+    },
+    {
+        "text": "4000 ml NS 0.9 %",
+        "type": "THUỐC",
+        "position": [
+            1564,
+            1580
+        ]
+    },
+    {
+        "text": "Cefepim",
+        "type": "THUỐC",
+        "position": [
+            1594,
+            1601
+        ]
+    },
+    {
+        "text": "Vancomycin",
+        "type": "THUỐC",
+        "position": [
+            1605,
+            1615
+        ]
+    }
+]

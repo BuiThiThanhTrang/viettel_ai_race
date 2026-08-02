@@ -1,0 +1,226 @@
+[
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            69,
+            76
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            333,
+            342
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            413,
+            420
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            491,
+            501
+        ]
+    },
+    {
+        "text": "bệnh Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            507,
+            521
+        ]
+    },
+    {
+        "text": "Yếu nửa người trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            736,
+            754
+        ]
+    },
+    {
+        "text": "nói khó",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            798,
+            805
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            818,
+            831
+        ]
+    },
+    {
+        "text": "Đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            861,
+            882
+        ]
+    },
+    {
+        "text": "Metformin",
+        "type": "THUỐC",
+        "position": [
+            902,
+            911
+        ]
+    },
+    {
+        "text": "Huyết áp 170/95 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            930,
+            950
+        ]
+    },
+    {
+        "text": "nhịp tim đều 88 chu kỳ/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            952,
+            979
+        ]
+    },
+    {
+        "text": "phản xạ ánh sáng dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1028,
+            1055
+        ]
+    },
+    {
+        "text": "Cơ lực tay trái 1/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1057,
+            1076
+        ]
+    },
+    {
+        "text": "chân trái 2/5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1078,
+            1091
+        ]
+    },
+    {
+        "text": "CT scan sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1123,
+            1137
+        ]
+    },
+    {
+        "text": "hình ảnh giảm tỷ trọng vùng nhân đuôi và bao trong bên phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1147,
+            1206
+        ]
+    },
+    {
+        "text": "nhồi máu não bán cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1214,
+            1234
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            1273,
+            1285
+        ]
+    },
+    {
+        "text": "Mannitol 20%",
+        "type": "THUỐC",
+        "position": [
+            1316,
+            1328
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1384,
+            1391
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1458,
+            1468
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1502,
+            1509
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1511,
+            1524
+        ]
+    },
+    {
+        "text": "giảm các cử động tự nhiên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1529,
+            1554
+        ]
+    },
+    {
+        "text": "đung đưa tay khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1559,
+            1581
+        ]
+    },
+    {
+        "text": "MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1628,
+            1635
+        ]
+    },
+    {
+        "text": "xét nghiệm thần kinh chuyên sâu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1647,
+            1678
+        ]
+    }
+]

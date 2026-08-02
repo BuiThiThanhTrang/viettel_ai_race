@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            140,
+            179
+        ]
+    },
+    {
+        "text": "nôn mửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            184,
+            191
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38.2 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            193,
+            210
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            244
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            246,
+            283
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            285,
+            312
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            363,
+            376
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            378,
+            386
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            387,
+            395
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            397,
+            407
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            414,
+            417
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            419,
+            430
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            432,
+            439
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            441,
+            451
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            453,
+            461
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            463,
+            475
+        ]
+    },
+    {
+        "text": "Tụy tăng kích thước, giảm âm, nhiều dịch quanh tụy, không thấy sỏi túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            477,
+            551
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            564,
+            594
+        ]
+    },
+    {
+        "text": "NaCl 0.9% 2000ml/24h",
+        "type": "THUỐC",
+        "position": [
+            678,
+            698
+        ]
+    },
+    {
+        "text": "Paracetamol 1g truyền tĩnh mạch mỗi 6 giờ",
+        "type": "THUỐC",
+        "position": [
+            710,
+            751
+        ]
+    },
+    {
+        "text": "Ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            765,
+            784
+        ]
+    }
+]

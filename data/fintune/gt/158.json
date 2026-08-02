@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            207
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            209,
+            216
+        ]
+    },
+    {
+        "text": "sụt 3kg trong 2 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            218,
+            239
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            247,
+            250
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            258,
+            265
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            294,
+            319
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            427,
+            438
+        ]
+    },
+    {
+        "text": "120 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            439,
+            446
+        ]
+    },
+    {
+        "text": "Lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            448,
+            454
+        ]
+    },
+    {
+        "text": "150 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            455,
+            462
+        ]
+    },
+    {
+        "text": "Đường huyết đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            464,
+            479
+        ]
+    },
+    {
+        "text": "11.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            480,
+            491
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            493,
+            498
+        ]
+    },
+    {
+        "text": "8.5%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            499,
+            503
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            525,
+            552
+        ]
+    },
+    {
+        "text": "khối tổn thương dạng thâm nhiễm tại vùng đầu tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            595,
+            643
+        ]
+    },
+    {
+        "text": "kích thước 25x30mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            645,
+            663
+        ]
+    },
+    {
+        "text": "gây giãn ống tụy chính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            665,
+            687
+        ]
+    },
+    {
+        "text": "không xâm lấn mạch máu lớn lân cận",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            689,
+            723
+        ]
+    },
+    {
+        "text": "sinh thiết kim dưới hướng dẫn của siêu âm nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            787,
+            836
+        ]
+    }
+]

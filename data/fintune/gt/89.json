@@ -1,0 +1,122 @@
+[
+    {
+        "text": "nội soi mật tuỵ ngược dòng (ERCP)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            53,
+            86
+        ]
+    },
+    {
+        "text": "octreotide",
+        "type": "THUỐC",
+        "position": [
+            206,
+            216
+        ]
+    },
+    {
+        "text": "flagyl",
+        "type": "THUỐC",
+        "position": [
+            223,
+            229
+        ]
+    },
+    {
+        "text": "u nội tiết từ thân tuỵ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            432,
+            454
+        ]
+    },
+    {
+        "text": "rò ống tuỵ mật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            470,
+            484
+        ]
+    },
+    {
+        "text": "ERCP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            523,
+            527
+        ]
+    },
+    {
+        "text": "nhiễm Clostridioides difficile",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            665,
+            695
+        ]
+    },
+    {
+        "text": "nhiễm trùng vết mổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            700,
+            718
+        ]
+    },
+    {
+        "text": "flagyl",
+        "type": "THUỐC",
+        "position": [
+            741,
+            747
+        ]
+    },
+    {
+        "text": "chân sonde dẫn lưu sưng nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            910,
+            936
+        ]
+    },
+    {
+        "text": "đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            938,
+            940
+        ]
+    },
+    {
+        "text": "sưng nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1170,
+            1177
+        ]
+    },
+    {
+        "text": "đỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1179,
+            1181
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1326,
+            1333
+        ]
+    },
+    {
+        "text": "huyết khối tĩnh mạch sâu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1352,
+            1376
+        ]
+    }
+]

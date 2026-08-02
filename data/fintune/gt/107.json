@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            140,
+            174
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            180,
+            188
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            192,
+            207
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            253,
+            263
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            302
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            330
+        ]
+    },
+    {
+        "text": "Sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            332,
+            335
+        ]
+    },
+    {
+        "text": "38.5 độ C",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            336,
+            345
+        ]
+    },
+    {
+        "text": "mạch 105 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            347,
+            364
+        ]
+    },
+    {
+        "text": "huyết áp 130/80 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            366,
+            386
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            412,
+            425
+        ]
+    },
+    {
+        "text": "bạch cầu 16.5 G/L",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            427,
+            444
+        ]
+    },
+    {
+        "text": "tỉ lệ neutrophil tăng cao",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            446,
+            471
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            473,
+            485
+        ]
+    },
+    {
+        "text": "túi mật căng to",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            487,
+            502
+        ]
+    },
+    {
+        "text": "thành dày 6mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            504,
+            517
+        ]
+    },
+    {
+        "text": "sỏi kích thước 15mm kẹt ở cổ túi mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            522,
+            558
+        ]
+    },
+    {
+        "text": "đường mật trong gan không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            560,
+            590
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            612,
+            635
+        ]
+    },
+    {
+        "text": "Ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            723,
+            734
+        ]
+    },
+    {
+        "text": "Metronidazole",
+        "type": "THUỐC",
+        "position": [
+            738,
+            751
+        ]
+    },
+    {
+        "text": "Paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            767,
+            795
+        ]
+    }
+]

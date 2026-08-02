@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau đầu âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            53
+        ]
+    },
+    {
+        "text": "nặng đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            55,
+            63
+        ]
+    },
+    {
+        "text": "huyết áp cao",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            143,
+            155
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            161,
+            174
+        ]
+    },
+    {
+        "text": "tiền đình mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            374,
+            392
+        ]
+    },
+    {
+        "text": "đau đầu vào buổi sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            461,
+            482
+        ]
+    },
+    {
+        "text": "Đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            558,
+            565
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            805,
+            819
+        ]
+    },
+    {
+        "text": "yếu liệt nửa người bên trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            829,
+            856
+        ]
+    },
+    {
+        "text": "Huyết áp 180/105 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            907,
+            928
+        ]
+    },
+    {
+        "text": "nhịp tim 95 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            930,
+            950
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1019,
+            1044
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1045,
+            1063
+        ]
+    },
+    {
+        "text": "Alteplase 0.9mg/kg",
+        "type": "THUỐC",
+        "position": [
+            1101,
+            1119
+        ]
+    },
+    {
+        "text": "Chụp CT scanner sọ não không tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1214,
+            1263
+        ]
+    },
+    {
+        "text": "vùng giảm tỷ trọng ở thùy đỉnh phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1273,
+            1308
+        ]
+    },
+    {
+        "text": "140/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1522,
+            1533
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1573,
+            1584
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch máu não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1588,
+            1616
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1730,
+            1737
+        ]
+    },
+    {
+        "text": "tê bì tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1771,
+            1785
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1791,
+            1798
+        ]
+    }
+]

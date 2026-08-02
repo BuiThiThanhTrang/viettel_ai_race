@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            199,
+            207
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            209,
+            216
+        ]
+    },
+    {
+        "text": "sụt 4kg trong vòng 2 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            220,
+            246
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            303,
+            316
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            318,
+            339
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            419,
+            432
+        ]
+    },
+    {
+        "text": "Hb",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            434,
+            436
+        ]
+    },
+    {
+        "text": "9.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            437,
+            445
+        ]
+    },
+    {
+        "text": "MCV",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            447,
+            450
+        ]
+    },
+    {
+        "text": "78 fL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            451,
+            456
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            468,
+            479
+        ]
+    },
+    {
+        "text": "14.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            480,
+            491
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            493,
+            498
+        ]
+    },
+    {
+        "text": "8.9%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            499,
+            503
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            505,
+            519
+        ]
+    },
+    {
+        "text": "Tụy đầu có khối giảm âm kích thước 35x40mm, bờ không đều, giãn ống tụy chính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            521,
+            597
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính (CT) có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            599,
+            648
+        ]
+    },
+    {
+        "text": "Khối u vùng đầu tụy xâm lấn tĩnh mạch mạc treo tràng trên, chưa thấy di căn xa",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            650,
+            728
+        ]
+    },
+    {
+        "text": "sinh thiết xuyên thành dưới hướng dẫn siêu âm nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            791,
+            844
+        ]
+    }
+]

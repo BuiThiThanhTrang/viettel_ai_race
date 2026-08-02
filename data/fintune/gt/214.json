@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau cách hồi chi dưới hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            171
+        ]
+    },
+    {
+        "text": "đau nhức bắp chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            198,
+            215
+        ]
+    },
+    {
+        "text": "da bàn chân khô, lạnh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            285,
+            306
+        ]
+    },
+    {
+        "text": "vết loét nông ở ngón cái bàn chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            311,
+            349
+        ]
+    },
+    {
+        "text": "Chỉ số huyết áp cổ chân - cánh tay (ABI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            379,
+            419
+        ]
+    },
+    {
+        "text": "0.6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            429,
+            432
+        ]
+    },
+    {
+        "text": "0.7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            443,
+            446
+        ]
+    },
+    {
+        "text": "Siêu âm Doppler mạch máu chi dưới",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            473,
+            506
+        ]
+    },
+    {
+        "text": "Hình ảnh xơ vữa, vôi hóa gây hẹp khít động mạch chày trước và động mạch khoeo hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            508,
+            593
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            611,
+            616
+        ]
+    },
+    {
+        "text": "9.2%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            617,
+            621
+        ]
+    },
+    {
+        "text": "Cholesterol toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            623,
+            644
+        ]
+    },
+    {
+        "text": "6.8 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            645,
+            655
+        ]
+    },
+    {
+        "text": "Bệnh động mạch ngoại biên chi dưới giai đoạn III theo Fontaine",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            698,
+            760
+        ]
+    },
+    {
+        "text": "loét bàn chân do đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            773,
+            804
+        ]
+    },
+    {
+        "text": "Clopidogrel 75mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            848,
+            869
+        ]
+    },
+    {
+        "text": "Statin liều cao",
+        "type": "THUỐC",
+        "position": [
+            871,
+            886
+        ]
+    },
+    {
+        "text": "Insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            915,
+            935
+        ]
+    }
+]

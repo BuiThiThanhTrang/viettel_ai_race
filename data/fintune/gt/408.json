@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau nhức buốt dọc theo sống lưng xuống thắt lưng, lan ra cả hai bên hông",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            113
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            170,
+            173
+        ]
+    },
+    {
+        "text": "cao salonpas",
+        "type": "THUỐC",
+        "position": [
+            288,
+            300
+        ]
+    },
+    {
+        "text": "triệu chứng đau lưng lan xuống thắt lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            462,
+            502
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            581,
+            597
+        ]
+    },
+    {
+        "text": "thoái hóa cột sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            599,
+            617
+        ]
+    },
+    {
+        "text": "căng cơ vùng lưng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            623,
+            640
+        ]
+    },
+    {
+        "text": "đau lưng cấp tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            679,
+            696
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            723,
+            745
+        ]
+    },
+    {
+        "text": "hạn chế biên độ vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            813,
+            837
+        ]
+    },
+    {
+        "text": "ấn đau dọc các gai sau từ L3 đến S1",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            839,
+            874
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            887,
+            896
+        ]
+    },
+    {
+        "text": "không sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            898,
+            911
+        ]
+    },
+    {
+        "text": "không yếu liệt chi dưới",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            913,
+            936
+        ]
+    },
+    {
+        "text": "dấu hiệu rối loạn cơ tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            952,
+            977
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức đột ngột vùng cẳng chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1062,
+            1107
+        ]
+    },
+    {
+        "text": "Chẩn đoán hình ảnh MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1183,
+            1224
+        ]
+    },
+    {
+        "text": "Thoái hóa cột sống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1226,
+            1244
+        ]
+    },
+    {
+        "text": "lồi đĩa đệm chèn ép rễ thần kinh L5 bên phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1246,
+            1290
+        ]
+    },
+    {
+        "text": "vật lý trị liệu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1333,
+            1348
+        ]
+    },
+    {
+        "text": "thuốc kháng viêm không steroid",
+        "type": "THUỐC",
+        "position": [
+            1362,
+            1392
+        ]
+    },
+    {
+        "text": "giãn cơ",
+        "type": "THUỐC",
+        "position": [
+            1394,
+            1401
+        ]
+    },
+    {
+        "text": "vitamin nhóm B",
+        "type": "THUỐC",
+        "position": [
+            1405,
+            1419
+        ]
+    },
+    {
+        "text": "chụp X-quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1579,
+            1591
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1597,
+            1600
+        ]
+    }
+]

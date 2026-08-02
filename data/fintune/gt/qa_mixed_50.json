@@ -1,0 +1,218 @@
+[
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            42
+        ]
+    },
+    {
+        "text": "nóng rát ở vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            71
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            210,
+            237
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            263,
+            270
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            284,
+            294
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản (GERD)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            391,
+            425
+        ]
+    },
+    {
+        "text": "Đau bụng vùng thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            742,
+            772
+        ]
+    },
+    {
+        "text": "nôn ra dịch máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            777,
+            797
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            813,
+            826
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            848,
+            867
+        ]
+    },
+    {
+        "text": "viêm khớp vai",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            900,
+            913
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            930,
+            945
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            947,
+            967
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            969,
+            996
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt nhạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            998,
+            1019
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1033,
+            1046
+        ]
+    },
+    {
+        "text": "hồng cầu 3.2 T/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1056,
+            1072
+        ]
+    },
+    {
+        "text": "Hb 95 g/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1074,
+            1083
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1085,
+            1099
+        ]
+    },
+    {
+        "text": "ổ loét bờ cong nhỏ kích thước 1.5cm, đáy phủ giả mạc, có dấu hiệu chảy máu chân ổ loét (Forrest IIb)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1101,
+            1201
+        ]
+    },
+    {
+        "text": "Loét dạ dày tá tràng biến chứng xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1214,
+            1265
+        ]
+    },
+    {
+        "text": "Esomeprazole 80mg tiêm tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            1322,
+            1354
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1369,
+            1376
+        ]
+    },
+    {
+        "text": "nuốt nghẹn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1470,
+            1480
+        ]
+    },
+    {
+        "text": "sụt cân không rõ nguyên nhân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1482,
+            1510
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1516,
+            1533
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1610,
+            1624
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "Metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            176
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            252
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            262,
+            270
+        ]
+    },
+    {
+        "text": "sụt 4kg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            272,
+            279
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            309,
+            312
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            320,
+            327
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            357,
+            382
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            467,
+            481
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            483,
+            494
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            495,
+            506
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            508,
+            513
+        ]
+    },
+    {
+        "text": "8.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            514,
+            518
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            520,
+            571
+        ]
+    },
+    {
+        "text": "tổn thương dạng khối kích thước 35x40mm ở vùng đầu tụy, bờ không đều, bắt thuốc kém, gây giãn ống tụy chính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            582,
+            689
+        ]
+    },
+    {
+        "text": "u đầu tụy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            708,
+            717
+        ]
+    },
+    {
+        "text": "CA 19-9",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            747,
+            754
+        ]
+    }
+]

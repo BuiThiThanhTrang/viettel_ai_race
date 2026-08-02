@@ -1,0 +1,346 @@
+[
+    {
+        "text": "ho từng cơn kéo dài về đêm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            50,
+            76
+        ]
+    },
+    {
+        "text": "khò khè",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            78,
+            85
+        ]
+    },
+    {
+        "text": "nặng ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            89,
+            98
+        ]
+    },
+    {
+        "text": "siro ho thảo dược",
+        "type": "THUỐC",
+        "position": [
+            120,
+            137
+        ]
+    },
+    {
+        "text": "ống hít hen suyễn",
+        "type": "THUỐC",
+        "position": [
+            192,
+            209
+        ]
+    },
+    {
+        "text": "ho về đêm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            348,
+            357
+        ]
+    },
+    {
+        "text": "khò khè",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            359,
+            366
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            370,
+            377
+        ]
+    },
+    {
+        "text": "hen phế quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            420,
+            432
+        ]
+    },
+    {
+        "text": "viêm đường hô hấp mạn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            438,
+            464
+        ]
+    },
+    {
+        "text": "ống hít giãn phế quản",
+        "type": "THUỐC",
+        "position": [
+            480,
+            501
+        ]
+    },
+    {
+        "text": "thuốc xịt corticoid",
+        "type": "THUỐC",
+        "position": [
+            506,
+            525
+        ]
+    },
+    {
+        "text": "nấm miệng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            599,
+            608
+        ]
+    },
+    {
+        "text": "Sờ thấy khối cứng ở vú phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            643,
+            670
+        ]
+    },
+    {
+        "text": "chảy dịch núm vú lẫn máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            674,
+            698
+        ]
+    },
+    {
+        "text": "khối u",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            799,
+            805
+        ]
+    },
+    {
+        "text": "kích thước 4x5cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            806,
+            822
+        ]
+    },
+    {
+        "text": "co kéo núm vú",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            873,
+            886
+        ]
+    },
+    {
+        "text": "2 hạch",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            911,
+            917
+        ]
+    },
+    {
+        "text": "kích thước 1.5cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            918,
+            934
+        ]
+    },
+    {
+        "text": "Siêu âm tuyến vú",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            963,
+            979
+        ]
+    },
+    {
+        "text": "BIRADS 5 vú phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            989,
+            1005
+        ]
+    },
+    {
+        "text": "Chụp nhũ ảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1007,
+            1019
+        ]
+    },
+    {
+        "text": "vi vôi hóa tập trung thành đám",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1030,
+            1060
+        ]
+    },
+    {
+        "text": "Sinh thiết lõi kim khối u vú phải",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1062,
+            1095
+        ]
+    },
+    {
+        "text": "Carcinoma ống tuyến vú xâm nhập",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1113,
+            1144
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1197,
+            1204
+        ]
+    },
+    {
+        "text": "âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1209,
+            1216
+        ]
+    },
+    {
+        "text": "dương tính 3+",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1223,
+            1236
+        ]
+    },
+    {
+        "text": "65%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1244,
+            1247
+        ]
+    },
+    {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1300,
+            1309
+        ]
+    },
+    {
+        "text": "xết nghiệm đo chức năng hô hấp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1365,
+            1395
+        ]
+    },
+    {
+        "text": "đo hô hấp ký",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1400,
+            1412
+        ]
+    },
+    {
+        "text": "tắc nghẽn đường thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1431,
+            1450
+        ]
+    },
+    {
+        "text": "viêm phế quản dị ứng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1473,
+            1493
+        ]
+    },
+    {
+        "text": "Ung thư vú phải giai đoạn cT2N1M0, thể HER2 dương tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1564,
+            1618
+        ]
+    },
+    {
+        "text": "Docetaxel 75mg/m2",
+        "type": "THUỐC",
+        "position": [
+            1686,
+            1703
+        ]
+    },
+    {
+        "text": "Carboplatin AUC 6",
+        "type": "THUỐC",
+        "position": [
+            1705,
+            1722
+        ]
+    },
+    {
+        "text": "Trastuzumab 8mg/kg",
+        "type": "THUỐC",
+        "position": [
+            1724,
+            1742
+        ]
+    },
+    {
+        "text": "Pertuzumab 840mg",
+        "type": "THUỐC",
+        "position": [
+            1755,
+            1771
+        ]
+    },
+    {
+        "text": "hạ bạch cầu hạt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1886,
+            1901
+        ]
+    },
+    {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1907,
+            1920
+        ]
+    },
+    {
+        "text": "siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1933,
+            1944
+        ]
+    }
+]

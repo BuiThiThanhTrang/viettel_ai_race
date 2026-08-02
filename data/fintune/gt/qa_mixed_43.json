@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "cồn cào tăng lên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            112,
+            128
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            166,
+            182
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            212,
+            219
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            294,
+            300
+        ]
+    },
+    {
+        "text": "nóng rát sau xương ức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            325
+        ]
+    },
+    {
+        "text": "Đau vùng thượng vị âm ỉ kéo dài 3 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            444,
+            483
+        ]
+    },
+    {
+        "text": "thuốc giảm đau không kê đơn",
+        "type": "THUỐC",
+        "position": [
+            493,
+            520
+        ]
+    },
+    {
+        "text": "ấn điểm thượng vị đau nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            571,
+            596
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            598,
+            625
+        ]
+    },
+    {
+        "text": "nội soi dạ dày thực quản",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            635,
+            659
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm niêm mạc hang vị mức độ trung bình",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            661,
+            709
+        ]
+    },
+    {
+        "text": "test Clo-test",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            711,
+            724
+        ]
+    },
+    {
+        "text": "dương tính với Helicobacter pylori",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            725,
+            759
+        ]
+    },
+    {
+        "text": "Viêm dạ dày mạn tính do H. pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            781,
+            814
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            865,
+            882
+        ]
+    },
+    {
+        "text": "Bismuth subcitrate",
+        "type": "THUỐC",
+        "position": [
+            884,
+            902
+        ]
+    },
+    {
+        "text": "Metronidazole 500mg",
+        "type": "THUỐC",
+        "position": [
+            904,
+            923
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            928,
+            942
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            976,
+            982
+        ]
+    },
+    {
+        "text": "nóng rát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            986,
+            994
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1038,
+            1065
+        ]
+    },
+    {
+        "text": "viêm dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1079,
+            1090
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1145,
+            1152
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1385,
+            1395
+        ]
+    }
+]

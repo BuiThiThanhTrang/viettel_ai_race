@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau đầu âm ỉ vùng chẩm, lan lên đỉnh đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            87
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            262,
+            283
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            288,
+            301
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            325,
+            345
+        ]
+    },
+    {
+        "text": "đau đầu vùng chẩm và lan lên đỉnh đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            443,
+            480
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            651,
+            670
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            680,
+            703
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            707,
+            720
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            774,
+            787
+        ]
+    },
+    {
+        "text": "yếu liệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            827,
+            835
+        ]
+    },
+    {
+        "text": "tê bì nửa người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            843,
+            858
+        ]
+    },
+    {
+        "text": "nói lắp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            866,
+            873
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            891,
+            894
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            902,
+            909
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            934,
+            941
+        ]
+    },
+    {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            946,
+            958
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1014,
+            1040
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1091,
+            1113
+        ]
+    },
+    {
+        "text": "thiếu máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1125,
+            1149
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1174,
+            1199
+        ]
+    },
+    {
+        "text": "siêu âm Doppler mạch cảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1201,
+            1226
+        ]
+    },
+    {
+        "text": "Betahistin 24mg",
+        "type": "THUỐC",
+        "position": [
+            1242,
+            1257
+        ]
+    },
+    {
+        "text": "Acetylsalicylic acid 81mg",
+        "type": "THUỐC",
+        "position": [
+            1261,
+            1286
+        ]
+    }
+]

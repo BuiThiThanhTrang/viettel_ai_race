@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "hoa mắt chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            87
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            274,
+            287
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            327,
+            351
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            411,
+            418
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            422,
+            431
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            506,
+            524
+        ]
+    },
+    {
+        "text": "Chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            625,
+            645
+        ]
+    },
+    {
+        "text": "đau đầu âm ỉ vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            647,
+            669
+        ]
+    },
+    {
+        "text": "cảm giác mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            679,
+            702
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            706,
+            719
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            752,
+            765
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            874,
+            882
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            890,
+            897
+        ]
+    },
+    {
+        "text": "yếu liệt nửa người",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            905,
+            923
+        ]
+    },
+    {
+        "text": "yếu sức chân phải tạm thời",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1016,
+            1042
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1099,
+            1128
+        ]
+    },
+    {
+        "text": "thiếu máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1140,
+            1164
+        ]
+    },
+    {
+        "text": "Chụp MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1191,
+            1206
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1208,
+            1219
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1221,
+            1245
+        ]
+    },
+    {
+        "text": "chóng mặt đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1504,
+            1522
+        ]
+    }
+]

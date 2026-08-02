@@ -1,0 +1,162 @@
+[
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            38,
+            45
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            328,
+            341
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            369,
+            383
+        ]
+    },
+    {
+        "text": "Run tay tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            403,
+            421
+        ]
+    },
+    {
+        "text": "cứng cơ vùng cổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            439,
+            454
+        ]
+    },
+    {
+        "text": "rung nhẹ ở biên độ cao khi vận động đích",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            549,
+            589
+        ]
+    },
+    {
+        "text": "Âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            613,
+            620
+        ]
+    },
+    {
+        "text": "Rối loạn vận động ngoại tháp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            640,
+            668
+        ]
+    },
+    {
+        "text": "hội chứng Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            678,
+            697
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            703,
+            713
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não (MRI)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            738,
+            769
+        ]
+    },
+    {
+        "text": "xét nghiệm hormone tuyến giáp TSH, FT4",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            771,
+            809
+        ]
+    },
+    {
+        "text": "định lượng ceruloplasmin",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            811,
+            835
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 25/100mg ngày 2 lần",
+        "type": "THUỐC",
+        "position": [
+            857,
+            895
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            942,
+            949
+        ]
+    },
+    {
+        "text": "Run tay khi thực hiện thao tác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1216,
+            1246
+        ]
+    },
+    {
+        "text": "run có chủ đích",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1263,
+            1278
+        ]
+    },
+    {
+        "text": "run do tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1284,
+            1297
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1458,
+            1465
+        ]
+    },
+    {
+        "text": "khó ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1471,
+            1478
+        ]
+    }
+]

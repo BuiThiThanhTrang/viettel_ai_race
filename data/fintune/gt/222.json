@@ -1,0 +1,170 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            141,
+            175
+        ]
+    },
+    {
+        "text": "nôn ói nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            180,
+            192
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38.2 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            211
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            236,
+            246
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            248,
+            285
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            287,
+            314
+        ]
+    },
+    {
+        "text": "Dấu hiệu Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            316,
+            339
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            366,
+            379
+        ]
+    },
+    {
+        "text": "Bạch cầu 14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            381,
+            398
+        ]
+    },
+    {
+        "text": "Neutrophil tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            400,
+            419
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            431,
+            442
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            443,
+            451
+        ]
+    },
+    {
+        "text": "Lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            453,
+            459
+        ]
+    },
+    {
+        "text": "850 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            460,
+            467
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            469,
+            481
+        ]
+    },
+    {
+        "text": "Tuyến tụy kích thước to, giảm âm, không thấy sỏi túi mật hay giãn đường mật",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            483,
+            558
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            597,
+            627
+        ]
+    },
+    {
+        "text": "paracetamol 1g mỗi 6 giờ",
+        "type": "THUỐC",
+        "position": [
+            689,
+            713
+        ]
+    },
+    {
+        "text": "ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            735,
+            754
+        ]
+    }
+]

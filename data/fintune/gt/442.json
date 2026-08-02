@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau đầu âm ỉ kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            66
+        ]
+    },
+    {
+        "text": "cảm giác chóng mặt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            76,
+            98
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            337,
+            344
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            348,
+            357
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            407,
+            420
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            422,
+            440
+        ]
+    },
+    {
+        "text": "căng thẳng thần kinh kéo dài",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            446,
+            474
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            577,
+            596
+        ]
+    },
+    {
+        "text": "ù tai phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            601,
+            611
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            622,
+            635
+        ]
+    },
+    {
+        "text": "Amlodipin",
+        "type": "THUỐC",
+        "position": [
+            670,
+            679
+        ]
+    },
+    {
+        "text": "yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            736,
+            748
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            817
+        ]
+    },
+    {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            822,
+            834
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            852,
+            855
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            863,
+            870
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            906,
+            920
+        ]
+    },
+    {
+        "text": "ngã sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            924,
+            937
+        ]
+    },
+    {
+        "text": "cảm giác quay cuồng dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1031,
+            1057
+        ]
+    },
+    {
+        "text": "Hội chứng tiền đình ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1076,
+            1106
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1109,
+            1127
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1152,
+            1177
+        ]
+    },
+    {
+        "text": "đo thính lực đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1179,
+            1194
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1196,
+            1220
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1244,
+            1253
+        ]
+    }
+]

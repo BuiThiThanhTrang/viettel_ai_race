@@ -1,0 +1,194 @@
+[
+    {
+        "text": "đau đầu âm ỉ kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            66
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            76,
+            85
+        ]
+    },
+    {
+        "text": "thoái hóa đốt sống cổ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            266,
+            287
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            292,
+            316
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            455,
+            462
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            466,
+            475
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            549,
+            567
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            782,
+            801
+        ]
+    },
+    {
+        "text": "tê bì hai tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            805,
+            818
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            828,
+            841
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            946,
+            954
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            962,
+            969
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            977,
+            980
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1067,
+            1084
+        ]
+    },
+    {
+        "text": "lảo đảo",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1125,
+            1132
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1136,
+            1150
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1165,
+            1200
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ sọ não và cột sống cổ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1309,
+            1349
+        ]
+    },
+    {
+        "text": "hình ảnh thoái hóa cột sống cổ chèn ép rễ thần kinh và tổn thương thiếu máu não ổ nhỏ vùng vỏ não",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1359,
+            1456
+        ]
+    },
+    {
+        "text": "Hội chứng cổ vai gù",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1478,
+            1497
+        ]
+    },
+    {
+        "text": "rối loạn vận động bán phần bên phải",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1507,
+            1542
+        ]
+    },
+    {
+        "text": "thiếu máu não cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1546,
+            1577
+        ]
+    },
+    {
+        "text": "thuốc tăng tuần hoàn não",
+        "type": "THUỐC",
+        "position": [
+            1606,
+            1630
+        ]
+    },
+    {
+        "text": "thuốc giãn cơ",
+        "type": "THUỐC",
+        "position": [
+            1632,
+            1645
+        ]
+    }
+]

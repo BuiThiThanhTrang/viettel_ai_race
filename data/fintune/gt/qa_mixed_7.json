@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "Cảm giác nóng rát lan dần lên vùng ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            122,
+            161
+        ]
+    },
+    {
+        "text": "ăn uống không ngon miệng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            186,
+            210
+        ]
+    },
+    {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            221,
+            228
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            275,
+            291
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            400,
+            407
+        ]
+    },
+    {
+        "text": "thuốc giảm đau",
+        "type": "THUỐC",
+        "position": [
+            578,
+            592
+        ]
+    },
+    {
+        "text": "đau thượng vị dữ dội đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            654,
+            683
+        ]
+    },
+    {
+        "text": "Bụng gồng cứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            719,
+            733
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            735,
+            765
+        ]
+    },
+    {
+        "text": "nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            767,
+            785
+        ]
+    },
+    {
+        "text": "thủng ổ loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            813,
+            832
+        ]
+    },
+    {
+        "text": "Chụp X-quang bụng đứng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            848,
+            870
+        ]
+    },
+    {
+        "text": "liềm hơi dưới hoành phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            874,
+            898
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            921,
+            928
+        ]
+    },
+    {
+        "text": "Kháng sinh tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            959,
+            979
+        ]
+    },
+    {
+        "text": "giảm tiết acid nhóm PPI liều cao",
+        "type": "THUỐC",
+        "position": [
+            981,
+            1013
+        ]
+    },
+    {
+        "text": "viêm phúc mạc toàn thể",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1117,
+            1139
+        ]
+    },
+    {
+        "text": "sốc nhiễm khuẩn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1143,
+            1158
+        ]
+    },
+    {
+        "text": "viêm dạ dày nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1186,
+            1201
+        ]
+    },
+    {
+        "text": "nôn ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1335,
+            1345
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1347,
+            1364
+        ]
+    }
+]

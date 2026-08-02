@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            42,
+            82
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            152,
+            168
+        ]
+    },
+    {
+        "text": "đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            200,
+            228
+        ]
+    },
+    {
+        "text": "cảm giác đau đớn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            584,
+            600
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            602,
+            607
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            625,
+            628
+        ]
+    },
+    {
+        "text": "sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            636,
+            643
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            665,
+            672
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            677,
+            686
+        ]
+    },
+    {
+        "text": "Đau lưng cấp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            760,
+            772
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            807,
+            824
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ trên đoạn đường ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            835,
+            876
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm cột sống thắt lưng L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            887,
+            928
+        ]
+    },
+    {
+        "text": "hạn chế vận động rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            995,
+            1018
+        ]
+    },
+    {
+        "text": "ấn đau các gai xương từ L3 đến S1",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1020,
+            1053
+        ]
+    },
+    {
+        "text": "Dấu hiệu Lasègue dương tính ở góc 30 độ bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1055,
+            1103
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1125,
+            1128
+        ]
+    },
+    {
+        "text": "Hình ảnh thoát vị đĩa đệm chèn ép nặng rễ thần kinh L5 phải",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1131,
+            1190
+        ]
+    },
+    {
+        "text": "Thoát vị đĩa đệm tái phát gây chèn ép rễ thần kinh cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1212,
+            1271
+        ]
+    },
+    {
+        "text": "thuốc giảm đau NSAIDs",
+        "type": "THUỐC",
+        "position": [
+            1300,
+            1321
+        ]
+    },
+    {
+        "text": "vitamin nhóm B",
+        "type": "THUỐC",
+        "position": [
+            1330,
+            1344
+        ]
+    },
+    {
+        "text": "mất kiểm soát tiểu tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1658,
+            1681
+        ]
+    }
+]

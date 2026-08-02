@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            46,
+            67
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            89,
+            102
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            144,
+            167
+        ]
+    },
+    {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            188,
+            199
+        ]
+    },
+    {
+        "text": "đại tiện phân lỏng 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            201,
+            230
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            280
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            282,
+            303
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            333
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            409,
+            420
+        ]
+    },
+    {
+        "text": "450 U/L (tăng cao)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            422,
+            440
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            444,
+            458
+        ]
+    },
+    {
+        "text": "Tuyến tụy kích thước lớn, bờ không đều, nhiều dịch tự do quanh tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            460,
+            526
+        ]
+    },
+    {
+        "text": "CT scan bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            530,
+            566
+        ]
+    },
+    {
+        "text": "Hình ảnh viêm tụy cấp mức độ trung bình, không thấy hoại tử khu trú",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            568,
+            635
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp do tăng triglyceride máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            649,
+            686
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            749,
+            777
+        ]
+    },
+    {
+        "text": "insulin phác đồ tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            806,
+            834
+        ]
+    },
+    {
+        "text": "xét nghiệm lipid máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            845,
+            875
+        ]
+    }
+]

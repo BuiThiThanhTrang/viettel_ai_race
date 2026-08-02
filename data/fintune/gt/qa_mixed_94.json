@@ -1,0 +1,170 @@
+[
+    {
+        "text": "mất ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            69,
+            79
+        ]
+    },
+    {
+        "text": "liệt nửa người bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            81,
+            104
+        ]
+    },
+    {
+        "text": "nói ngọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            114,
+            123
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            138,
+            151
+        ]
+    },
+    {
+        "text": "170/95 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            208,
+            219
+        ]
+    },
+    {
+        "text": "88 chu kỳ/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            230,
+            244
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu trái cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            283,
+            317
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            343,
+            372
+        ]
+    },
+    {
+        "text": "ổ nhồi máu tại vùng nhân đậu bên trái, diện tích khoảng 2cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            382,
+            441
+        ]
+    },
+    {
+        "text": "Alteplase",
+        "type": "THUỐC",
+        "position": [
+            478,
+            487
+        ]
+    },
+    {
+        "text": "Nicardipine liều 5mg/giờ",
+        "type": "THUỐC",
+        "position": [
+            542,
+            566
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            624,
+            631
+        ]
+    },
+    {
+        "text": "lo âu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            804,
+            809
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            855,
+            864
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            876,
+            890
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1006,
+            1013
+        ]
+    },
+    {
+        "text": "Run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1053,
+            1063
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1101,
+            1110
+        ]
+    },
+    {
+        "text": "đo điện cơ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1253,
+            1263
+        ]
+    },
+    {
+        "text": "chụp cắt lớp vi tính",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1269,
+            1289
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1426,
+            1433
+        ]
+    }
+]

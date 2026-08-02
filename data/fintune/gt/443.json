@@ -1,0 +1,242 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "chóng mặt quay cuồng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            90
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            284,
+            302
+        ]
+    },
+    {
+        "text": "triệu chứng chóng mặt khi thay đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            352,
+            393
+        ]
+    },
+    {
+        "text": "chóng mặt tư thế kịch phát lành tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            457,
+            493
+        ]
+    },
+    {
+        "text": "Yếu liệt chi dưới đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            585,
+            611
+        ]
+    },
+    {
+        "text": "mất thăng bằng khi di chuyển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            615,
+            643
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            700,
+            703
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            711,
+            718
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            726,
+            733
+        ]
+    },
+    {
+        "text": "120/80 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            758,
+            769
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            796,
+            804
+        ]
+    },
+    {
+        "text": "hồi hộp đánh trống ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            809,
+            832
+        ]
+    },
+    {
+        "text": "dấu hiệu méo miệng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            849,
+            867
+        ]
+    },
+    {
+        "text": "nói đớ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            872,
+            878
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            921,
+            941
+        ]
+    },
+    {
+        "text": "yếu sức chân phải nặng nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            968,
+            993
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            995,
+            1009
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người bên phải rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1048,
+            1090
+        ]
+    },
+    {
+        "text": "Nhồi máu não cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1109,
+            1125
+        ]
+    },
+    {
+        "text": "tai biến mạch máu cérébro",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1137,
+            1162
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1187,
+            1214
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1216,
+            1227
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1229,
+            1253
+        ]
+    },
+    {
+        "text": "Thuốc kháng kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1265,
+            1293
+        ]
+    },
+    {
+        "text": "hạ áp",
+        "type": "THUỐC",
+        "position": [
+            1295,
+            1300
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1362,
+            1371
+        ]
+    },
+    {
+        "text": "tê bì chân tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1386,
+            1400
+        ]
+    },
+    {
+        "text": "mờ mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1405,
+            1411
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1475,
+            1481
+        ]
+    }
+]

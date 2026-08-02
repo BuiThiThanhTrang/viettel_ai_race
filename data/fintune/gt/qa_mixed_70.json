@@ -1,0 +1,170 @@
+[
+    {
+        "text": "quên tên người quen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            79,
+            98
+        ]
+    },
+    {
+        "text": "để chìa khóa sai chỗ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            100,
+            120
+        ]
+    },
+    {
+        "text": "hỏi đi hỏi lại cùng một câu hỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            128,
+            159
+        ]
+    },
+    {
+        "text": "đi lạc trong khu chung cư",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            237,
+            262
+        ]
+    },
+    {
+        "text": "rối loạn định hướng không gian và thời gian",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            502,
+            545
+        ]
+    },
+    {
+        "text": "82 nhịp/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            590,
+            602
+        ]
+    },
+    {
+        "text": "145/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            613,
+            624
+        ]
+    },
+    {
+        "text": "MMSE",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            670,
+            674
+        ]
+    },
+    {
+        "text": "21/30",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            675,
+            680
+        ]
+    },
+    {
+        "text": "MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            707,
+            717
+        ]
+    },
+    {
+        "text": "teo hồi hải mã hai bên và giãn rộng các rãnh cuộn não",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            727,
+            780
+        ]
+    },
+    {
+        "text": "không có tổn thương chiếm chỗ khu trú",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            782,
+            819
+        ]
+    },
+    {
+        "text": "vitamin B12",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            845,
+            856
+        ]
+    },
+    {
+        "text": "180 pmol/L (giới hạn thấp)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            863,
+            889
+        ]
+    },
+    {
+        "text": "Sa sút trí tuệ thể Alzheimer mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            911,
+            950
+        ]
+    },
+    {
+        "text": "Donepezil 5mg mỗi ngày vào buổi tối",
+        "type": "THUỐC",
+        "position": [
+            967,
+            1002
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            1037,
+            1051
+        ]
+    },
+    {
+        "text": "axit folic",
+        "type": "THUỐC",
+        "position": [
+            1068,
+            1078
+        ]
+    },
+    {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1105,
+            1119
+        ]
+    },
+    {
+        "text": "Alzheimer",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1198,
+            1207
+        ]
+    },
+    {
+        "text": "sa sút trí tuệ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1244,
+            1258
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            149,
+            188
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            202
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            204,
+            211
+        ]
+    },
+    {
+        "text": "sụt 3kg trong vòng 1 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            239
+        ]
+    },
+    {
+        "text": "Da niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            258,
+            274
+        ]
+    },
+    {
+        "text": "vàng da nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            276,
+            287
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            289,
+            310
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            382,
+            396
+        ]
+    },
+    {
+        "text": "Bilirubin toàn phần",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            398,
+            417
+        ]
+    },
+    {
+        "text": "45 mcmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            418,
+            428
+        ]
+    },
+    {
+        "text": "CA 19-9",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            430,
+            437
+        ]
+    },
+    {
+        "text": "tăng cao 350 U/mL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            438,
+            455
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính ổ bụng có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            457,
+            508
+        ]
+    },
+    {
+        "text": "Hình ảnh khối u kích thước 3x4cm vùng đầu tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            510,
+            555
+        ]
+    },
+    {
+        "text": "gây giãn ống mật chủ và ống tụy",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            557,
+            588
+        ]
+    },
+    {
+        "text": "xâm lấn nhẹ tĩnh mạch mạc treo tràng trên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            590,
+            631
+        ]
+    },
+    {
+        "text": "U đầu tụy giai đoạn tiến triển tại chỗ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            633,
+            671
+        ]
+    },
+    {
+        "text": "nội soi mật tụy ngược dòng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            720,
+            746
+        ]
+    }
+]

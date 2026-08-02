@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "cảm giác cồn cào không dứt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            112,
+            138
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            264,
+            280
+        ]
+    },
+    {
+        "text": "hay ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            425
+        ]
+    },
+    {
+        "text": "nóng rát ở cổ họng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            429,
+            447
+        ]
+    },
+    {
+        "text": "Đau bụng thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            553,
+            578
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            580,
+            597
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            624,
+            644
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            646,
+            673
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            692,
+            711
+        ]
+    },
+    {
+        "text": "loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            720,
+            740
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            752,
+            775
+        ]
+    },
+    {
+        "text": "công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            788,
+            801
+        ]
+    },
+    {
+        "text": "Urea",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            814,
+            818
+        ]
+    },
+    {
+        "text": "Creatinine",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            820,
+            830
+        ]
+    },
+    {
+        "text": "Omeprazole 40mg (tiêm tĩnh mạch)",
+        "type": "THUỐC",
+        "position": [
+            846,
+            878
+        ]
+    },
+    {
+        "text": "Sucralfate 1g (uống trước ăn 30 phút)",
+        "type": "THUỐC",
+        "position": [
+            880,
+            917
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1006,
+            1011
+        ]
+    },
+    {
+        "text": "nóng rát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1015,
+            1023
+        ]
+    },
+    {
+        "text": "trào ngược dạ dày thực quản",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1059,
+            1086
+        ]
+    },
+    {
+        "text": "viêm loét",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1092,
+            1101
+        ]
+    },
+    {
+        "text": "đau thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1223,
+            1236
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1299,
+            1306
+        ]
+    }
+]

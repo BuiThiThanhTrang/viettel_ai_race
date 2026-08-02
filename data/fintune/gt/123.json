@@ -1,0 +1,218 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            95,
+            102
+        ]
+    },
+    {
+        "text": "metformin",
+        "type": "THUỐC",
+        "position": [
+            112,
+            121
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            123,
+            136
+        ]
+    },
+    {
+        "text": "đau nhói vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            212,
+            251
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            262,
+            270
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            272,
+            279
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            307
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            315,
+            332
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            352,
+            367
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            369,
+            390
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            392,
+            419
+        ]
+    },
+    {
+        "text": "Nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            421,
+            435
+        ]
+    },
+    {
+        "text": "105 chu kỳ/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            436,
+            451
+        ]
+    },
+    {
+        "text": "huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            453,
+            461
+        ]
+    },
+    {
+        "text": "145/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            462,
+            473
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            492,
+            503
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            504,
+            512
+        ]
+    },
+    {
+        "text": "lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            514,
+            524
+        ]
+    },
+    {
+        "text": "1500 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            525,
+            533
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            535,
+            549
+        ]
+    },
+    {
+        "text": "tụy phù nề, kích thước lớn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            559,
+            585
+        ]
+    },
+    {
+        "text": "không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            587,
+            613
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            635,
+            665
+        ]
+    },
+    {
+        "text": "truyền dịch tĩnh mạch bù điện giải",
+        "type": "THUỐC",
+        "position": [
+            695,
+            729
+        ]
+    },
+    {
+        "text": "giảm đau bằng paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            731,
+            773
+        ]
+    },
+    {
+        "text": "insulin phác đồ tiêm dưới da 4 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            802,
+            841
+        ]
+    }
+]

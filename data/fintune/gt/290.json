@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            142,
+            176
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            182,
+            190
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            194,
+            209
+        ]
+    },
+    {
+        "text": "đau âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            230
+        ]
+    },
+    {
+        "text": "Ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            343,
+            364
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            366,
+            393
+        ]
+    },
+    {
+        "text": "nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            395,
+            413
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            431,
+            442
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            443,
+            451
+        ]
+    },
+    {
+        "text": "Lipase",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            453,
+            459
+        ]
+    },
+    {
+        "text": "950 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            460,
+            467
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            469,
+            480
+        ]
+    },
+    {
+        "text": "14.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            481,
+            492
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            494,
+            497
+        ]
+    },
+    {
+        "text": "tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            498,
+            506
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            528,
+            540
+        ]
+    },
+    {
+        "text": "CT scan có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            544,
+            575
+        ]
+    },
+    {
+        "text": "hình ảnh tụy phù nề, thâm nhiễm mỡ quanh tụy, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            585,
+            657
+        ]
+    },
+    {
+        "text": "octreotide 100mcg tiêm dưới da mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            772,
+            812
+        ]
+    },
+    {
+        "text": "ceftriaxone 2g mỗi ngày",
+        "type": "THUỐC",
+        "position": [
+            834,
+            857
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            886,
+            893
+        ]
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            45,
+            52
+        ]
+    },
+    {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            54,
+            65
+        ]
+    },
+    {
+        "text": "rất khó chịu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            69,
+            81
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            211,
+            229
+        ]
+    },
+    {
+        "text": "rối loạn tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            334,
+            351
+        ]
+    },
+    {
+        "text": "đầy hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            423
+        ]
+    },
+    {
+        "text": "rối loạn đại tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            436,
+            453
+        ]
+    },
+    {
+        "text": "hội chứng ruột kích thích",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            496,
+            521
+        ]
+    },
+    {
+        "text": "không dung nạp lactose",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            523,
+            545
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            755,
+            773
+        ]
+    },
+    {
+        "text": "chướng bụng sau ăn 2 giờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            775,
+            799
+        ]
+    },
+    {
+        "text": "đi ngoài phân nhầy máu 3 lần/ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            801,
+            834
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            851,
+            866
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            868,
+            889
+        ]
+    },
+    {
+        "text": "nhu động ruột tăng 12 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            891,
+            921
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            948,
+            961
+        ]
+    },
+    {
+        "text": "bạch cầu tăng nhẹ 11.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            971,
+            997
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            999,
+            1002
+        ]
+    },
+    {
+        "text": "tăng",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1003,
+            1007
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1009,
+            1023
+        ]
+    },
+    {
+        "text": "ổ loét 0.5cm ở hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1034,
+            1056
+        ]
+    },
+    {
+        "text": "test urease",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1058,
+            1069
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1070,
+            1080
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng do H.pylori",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1093,
+            1130
+        ]
+    },
+    {
+        "text": "viêm đại tràng chức năng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1141,
+            1165
+        ]
+    },
+    {
+        "text": "Pylera",
+        "type": "THUỐC",
+        "position": [
+            1205,
+            1211
+        ]
+    },
+    {
+        "text": "PPI liều cao",
+        "type": "THUỐC",
+        "position": [
+            1220,
+            1232
+        ]
+    },
+    {
+        "text": "thuốc giảm tiết acid dạ dày",
+        "type": "THUỐC",
+        "position": [
+            1257,
+            1284
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1369,
+            1376
+        ]
+    },
+    {
+        "text": "sụt cân bất thường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1428,
+            1446
+        ]
+    },
+    {
+        "text": "đi ngoài ra máu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1448,
+            1463
+        ]
+    },
+    {
+        "text": "đau bụng dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1469,
+            1484
+        ]
+    },
+    {
+        "text": "thuốc cầm tiêu chảy",
+        "type": "THUỐC",
+        "position": [
+            1573,
+            1592
+        ]
+    }
+]

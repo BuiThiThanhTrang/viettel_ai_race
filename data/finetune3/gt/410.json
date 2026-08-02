@@ -1,0 +1,227 @@
+[
+  {
+    "text": "khối cứng ở vú phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      660,
+      679
+    ]
+  },
+  {
+    "text": "chảy dịch núm vú lẫn máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      683,
+      707
+    ]
+  },
+  {
+    "text": "Tuyến vú phải góc phần tư trên ngoài có khối u",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      768,
+      814
+    ]
+  },
+  {
+    "text": "Hạch nách phải sờ thấy 2 hạch",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      897,
+      926
+    ]
+  },
+  {
+    "text": "Siêu âm tuyến vú",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      972,
+      988
+    ]
+  },
+  {
+    "text": "BIRADS 5 vú phải",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      998,
+      1014
+    ]
+  },
+  {
+    "text": "Chụp nhũ ảnh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1016,
+      1028
+    ]
+  },
+  {
+    "text": "vi vôi hóa tập trung thành đám",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1039,
+      1069
+    ]
+  },
+  {
+    "text": "Sinh thiết lõi kim khối u vú phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1071,
+      1104
+    ]
+  },
+  {
+    "text": "Carcinoma ống tuyến vú xâm nhập, độ mô học 3",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1122,
+      1166
+    ]
+  },
+  {
+    "text": "thụ thể nội tiết ER",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1186,
+      1205
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1206,
+      1213
+    ]
+  },
+  {
+    "text": "PR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1215,
+      1217
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1218,
+      1225
+    ]
+  },
+  {
+    "text": "HER2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1227,
+      1231
+    ]
+  },
+  {
+    "text": "dương tính 3+",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1232,
+      1245
+    ]
+  },
+  {
+    "text": "Ki-67",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1247,
+      1252
+    ]
+  },
+  {
+    "text": "65%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1253,
+      1256
+    ]
+  },
+  {
+    "text": "Ung thư vú phải giai đoạn cT2N1M0, thể HER2 dương tính.",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [
+      1573,
+      1628
+    ]
+  },
+  {
+    "text": "Docetaxel 75mg/m2",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1695,
+      1712
+    ]
+  },
+  {
+    "text": "Carboplatin AUC 6",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1714,
+      1731
+    ]
+  },
+  {
+    "text": "Trastuzumab 8mg/kg liều tải",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1733,
+      1760
+    ]
+  },
+  {
+    "text": "Pertuzumab 840mg",
+    "type": "THUỐC",
+    "assertions": [],
+    "position": [
+      1764,
+      1780
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1916,
+      1929
+    ]
+  },
+  {
+    "text": "siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1942,
+      1953
+    ]
+  }
+]

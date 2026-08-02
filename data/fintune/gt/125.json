@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "metformin 850mg 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            126,
+            152
+        ]
+    },
+    {
+        "text": "gliclazide 30mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            154,
+            180
+        ]
+    },
+    {
+        "text": "lisinopril 10mg 1 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            182,
+            208
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            293
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            312
+        ]
+    },
+    {
+        "text": "đi ngoài phân lỏng 3 lần trong ngày",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            316,
+            351
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            359,
+            362
+        ]
+    },
+    {
+        "text": "vàng da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            370,
+            377
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            450,
+            465
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            467,
+            488
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            490,
+            517
+        ]
+    },
+    {
+        "text": "Nhu động ruột tăng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            519,
+            541
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            568,
+            581
+        ]
+    },
+    {
+        "text": "bạch cầu 12.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            583,
+            600
+        ]
+    },
+    {
+        "text": "neutrophil 78%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            602,
+            616
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            618,
+            629
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            631,
+            638
+        ]
+    },
+    {
+        "text": "lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            640,
+            650
+        ]
+    },
+    {
+        "text": "620 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            652,
+            659
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            661,
+            673
+        ]
+    },
+    {
+        "text": "tụy kích thước lớn, bờ không đều, thâm nhiễm mỡ quanh tụy, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            675,
+            760
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ nhẹ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            773,
+            796
+        ]
+    },
+    {
+        "text": "tăng triglyceride máu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            810,
+            831
+        ]
+    }
+]

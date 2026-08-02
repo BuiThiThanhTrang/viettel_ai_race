@@ -1,0 +1,178 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "nóng rát sau khi ăn khoảng 1 tiếng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            61,
+            95
+        ]
+    },
+    {
+        "text": "thuốc giảm đau dạ dày dạng sủi",
+        "type": "THUỐC",
+        "position": [
+            109,
+            139
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            174,
+            177
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            202,
+            227
+        ]
+    },
+    {
+        "text": "nội soi thực quản dạ dày tá tràng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            405,
+            438
+        ]
+    },
+    {
+        "text": "Đau thượng vị từng đợt 3 tháng nay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            667,
+            701
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            707,
+            712
+        ]
+    },
+    {
+        "text": "ợ chua nhiều về đêm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            714,
+            733
+        ]
+    },
+    {
+        "text": "ấn điểm thượng vị đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            760,
+            781
+        ]
+    },
+    {
+        "text": "Test hơi thở tìm HP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            873,
+            892
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            893,
+            903
+        ]
+    },
+    {
+        "text": "Nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            905,
+            912
+        ]
+    },
+    {
+        "text": "Viêm trợt hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            914,
+            931
+        ]
+    },
+    {
+        "text": "hình ảnh ổ loét 0.5cm bờ đều",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            933,
+            961
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng do HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            974,
+            1005
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1037,
+            1064
+        ]
+    },
+    {
+        "text": "Clarithromycin 500mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1066,
+            1099
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            1103,
+            1133
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1388,
+            1391
+        ]
+    },
+    {
+        "text": "đi ngoài phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1434,
+            1451
+        ]
+    },
+    {
+        "text": "xuất huyết tiêu hóa",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1503,
+            1522
+        ]
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            271
+        ]
+    },
+    {
+        "text": "buồn nôn nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            275,
+            287
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            334,
+            341
+        ]
+    },
+    {
+        "text": "Đau bụng vùng thượng vị dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            500,
+            530
+        ]
+    },
+    {
+        "text": "nôn ra dịch lẫn máu tươi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            532,
+            556
+        ]
+    },
+    {
+        "text": "Bụng chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            573,
+            588
+        ]
+    },
+    {
+        "text": "ấn đau vùng trên rốn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            590,
+            610
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            612,
+            639
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa do loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            662,
+            705
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            731,
+            744
+        ]
+    },
+    {
+        "text": "đông máu cơ bản",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            746,
+            761
+        ]
+    },
+    {
+        "text": "nội soi dạ dày thực quản cấp cứu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            763,
+            795
+        ]
+    },
+    {
+        "text": "thuốc ức chế bơm proton liều cao",
+        "type": "THUỐC",
+        "position": [
+            839,
+            871
+        ]
+    },
+    {
+        "text": "ợ chua",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            956,
+            962
+        ]
+    },
+    {
+        "text": "đau thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            966,
+            979
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            997,
+            1013
+        ]
+    },
+    {
+        "text": "nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1078,
+            1092
+        ]
+    },
+    {
+        "text": "thuốc kháng viêm",
+        "type": "THUỐC",
+        "position": [
+            1361,
+            1377
+        ]
+    }
+]

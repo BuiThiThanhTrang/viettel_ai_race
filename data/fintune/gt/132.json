@@ -1,0 +1,242 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            140,
+            174
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            180,
+            188
+        ]
+    },
+    {
+        "text": "nôn ra dịch mật",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            192,
+            207
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            253,
+            263
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị và hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            265,
+            302
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy dương tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            330
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            390,
+            403
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            405,
+            413
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            414,
+            422
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            424,
+            434
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            435,
+            438
+        ]
+    },
+    {
+        "text": "Sinh hóa",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            440,
+            448
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            450,
+            461
+        ]
+    },
+    {
+        "text": "450 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            462,
+            469
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            471,
+            481
+        ]
+    },
+    {
+        "text": "620 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            482,
+            489
+        ]
+    },
+    {
+        "text": "Đường huyết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            491,
+            502
+        ]
+    },
+    {
+        "text": "15.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            517,
+            528
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            530,
+            542
+        ]
+    },
+    {
+        "text": "Túi mật căng to",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            544,
+            559
+        ]
+    },
+    {
+        "text": "thành dày 5mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            561,
+            574
+        ]
+    },
+    {
+        "text": "có nhiều sỏi kích thước 10-15mm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            576,
+            607
+        ]
+    },
+    {
+        "text": "đường mật trong và ngoài gan không giãn",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            609,
+            648
+        ]
+    },
+    {
+        "text": "Viêm túi mật cấp do sỏi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            663,
+            686
+        ]
+    },
+    {
+        "text": "Đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            689,
+            710
+        ]
+    },
+    {
+        "text": "Ceftriaxone",
+        "type": "THUỐC",
+        "position": [
+            798,
+            809
+        ]
+    },
+    {
+        "text": "Metronidazole",
+        "type": "THUỐC",
+        "position": [
+            813,
+            826
+        ]
+    },
+    {
+        "text": "Insulin tiêm dưới da",
+        "type": "THUỐC",
+        "position": [
+            855,
+            875
+        ]
+    }
+]

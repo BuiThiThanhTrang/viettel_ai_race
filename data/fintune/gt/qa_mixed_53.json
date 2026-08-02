@@ -1,0 +1,170 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "triệu chứng của bệnh lý thần kinh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            347,
+            380
+        ]
+    },
+    {
+        "text": "run tay kéo dài 6 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            553,
+            576
+        ]
+    },
+    {
+        "text": "Dấu hiệu bánh xe răng cưa rõ ở khớp cổ tay hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            613,
+            663
+        ]
+    },
+    {
+        "text": "Tốc độ vận động chậm chạp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            667,
+            692
+        ]
+    },
+    {
+        "text": "dáng đi khom nhẹ về phía trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            694,
+            724
+        ]
+    },
+    {
+        "text": "bước chân nhỏ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            726,
+            739
+        ]
+    },
+    {
+        "text": "Test vận động ngón tay - mũi có sự sai lệch nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            743,
+            790
+        ]
+    },
+    {
+        "text": "bệnh Parkinson giai đoạn sớm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            812,
+            840
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg: 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            859,
+            896
+        ]
+    },
+    {
+        "text": "Bổ sung vitamin nhóm B, Magie B6",
+        "type": "THUỐC",
+        "position": [
+            900,
+            932
+        ]
+    },
+    {
+        "text": "triệu chứng hạ huyết áp tư thế đứng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            974,
+            1009
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1036,
+            1043
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1107,
+            1117
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1123,
+            1137
+        ]
+    },
+    {
+        "text": "bệnh lý thoái hóa thần kinh trung ương",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1148,
+            1186
+        ]
+    },
+    {
+        "text": "Triệu chứng run khi nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1229,
+            1253
+        ]
+    },
+    {
+        "text": "chậm vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1268,
+            1281
+        ]
+    },
+    {
+        "text": "cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1410,
+            1434
+        ]
+    },
+    {
+        "text": "thang điểm Hoehn và Yahr",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1449,
+            1473
+        ]
+    },
+    {
+        "text": "các bệnh về thần kinh tương tự",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1880,
+            1910
+        ]
+    }
+]

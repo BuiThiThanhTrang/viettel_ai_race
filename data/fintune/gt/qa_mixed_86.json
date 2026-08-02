@@ -1,0 +1,138 @@
+[
+    {
+        "text": "run tay khi cầm nắm đồ vật hoặc khi cố gắng giữ cho tay ở trạng thái nghỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            130
+        ]
+    },
+    {
+        "text": "rối loạn thần kinh ngoại biên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            350,
+            379
+        ]
+    },
+    {
+        "text": "Run tay không kiểm soát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            482,
+            505
+        ]
+    },
+    {
+        "text": "co cứng cơ cục bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            507,
+            524
+        ]
+    },
+    {
+        "text": "88 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            550,
+            561
+        ]
+    },
+    {
+        "text": "140/90 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            572,
+            583
+        ]
+    },
+    {
+        "text": "rung giật bó cơ ở bắp chân trái và cơ delta tay phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            594,
+            646
+        ]
+    },
+    {
+        "text": "Định lượng nồng độ TSH",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            668,
+            690
+        ]
+    },
+    {
+        "text": "0.2 mU/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            694,
+            702
+        ]
+    },
+    {
+        "text": "FT4",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            731,
+            734
+        ]
+    },
+    {
+        "text": "tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            735,
+            743
+        ]
+    },
+    {
+        "text": "Cường giáp Basedow giai đoạn tiến triển",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            756,
+            795
+        ]
+    },
+    {
+        "text": "Methimazole 10mg, liều dùng 2 viên/ngày chia 2 lần",
+        "type": "THUỐC",
+        "position": [
+            824,
+            874
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1017,
+            1024
+        ]
+    },
+    {
+        "text": "rối loạn chuyển hóa nội tiết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1159,
+            1187
+        ]
+    },
+    {
+        "text": "thiếu hụt vi chất",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1189,
+            1206
+        ]
+    },
+    {
+        "text": "xét nghiệm chức năng tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1467,
+            1498
+        ]
+    }
+]

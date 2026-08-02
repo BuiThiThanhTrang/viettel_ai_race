@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg",
+        "type": "THUỐC",
+        "position": [
+            157,
+            172
+        ]
+    },
+    {
+        "text": "amlodipine 5mg",
+        "type": "THUỐC",
+        "position": [
+            174,
+            188
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            234,
+            257
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            268,
+            276
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            278,
+            286
+        ]
+    },
+    {
+        "text": "sụt 3kg trong một tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            306,
+            329
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            337,
+            340
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            417,
+            434
+        ]
+    },
+    {
+        "text": "ấn đau nhẹ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            446,
+            471
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            547,
+            561
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn bờ cứng tại hang vị, kích thước 2x3cm, nghi ngờ ác tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            563,
+            638
+        ]
+    },
+    {
+        "text": "ung thư biểu mô tuyến dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            684,
+            712
+        ]
+    },
+    {
+        "text": "Hb",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            730,
+            732
+        ]
+    },
+    {
+        "text": "10.5 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            733,
+            742
+        ]
+    },
+    {
+        "text": "CEA",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            744,
+            747
+        ]
+    },
+    {
+        "text": "tăng cao 15.2 ng/mL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            748,
+            767
+        ]
+    },
+    {
+        "text": "Ung thư dạ dày giai đoạn tiến triển",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            789,
+            824
+        ]
+    }
+]

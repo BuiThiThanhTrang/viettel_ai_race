@@ -1,0 +1,42 @@
+[
+    {
+        "text": "tách thành động mạch chủ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            72
+        ]
+    },
+    {
+        "text": "liệt hai chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            89,
+            102
+        ]
+    },
+    {
+        "text": "rung động tại vị trí lỗ rò",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            274,
+            300
+        ]
+    },
+    {
+        "text": "Rò động - tĩnh mạch đùi phải do thủ thuật can thiệp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            335,
+            386
+        ]
+    },
+    {
+        "text": "tăng kích thước so với các lần đánh giá trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            394,
+            439
+        ]
+    }
+]

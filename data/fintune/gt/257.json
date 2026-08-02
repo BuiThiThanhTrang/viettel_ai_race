@@ -1,0 +1,186 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "insulin nền",
+        "type": "THUỐC",
+        "position": [
+            88,
+            99
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            101,
+            114
+        ]
+    },
+    {
+        "text": "đau bụng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            158,
+            192
+        ]
+    },
+    {
+        "text": "nôn mửa nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            198,
+            211
+        ]
+    },
+    {
+        "text": "sốt nhẹ 38.2 độ C",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            230
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            305,
+            315
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng dương tính vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            317,
+            362
+        ]
+    },
+    {
+        "text": "Nhu động ruột giảm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            364,
+            382
+        ]
+    },
+    {
+        "text": "huyết áp 145/90 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            403,
+            423
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            442,
+            453
+        ]
+    },
+    {
+        "text": "1200 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            455,
+            463
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            465,
+            475
+        ]
+    },
+    {
+        "text": "1500 U/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            477,
+            485
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            487,
+            507
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            509,
+            520
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            522,
+            536
+        ]
+    },
+    {
+        "text": "Tụy phù nề, không thấy sỏi ống mật chủ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            538,
+            576
+        ]
+    },
+    {
+        "text": "Viêm tụy cấp mức độ trung bình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            619,
+            649
+        ]
+    },
+    {
+        "text": "nhiễm toan ceton do đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            671,
+            705
+        ]
+    },
+    {
+        "text": "paracetamol truyền tĩnh mạch",
+        "type": "THUỐC",
+        "position": [
+            772,
+            800
+        ]
+    },
+    {
+        "text": "insulin truyền tĩnh mạch liên tục",
+        "type": "THUỐC",
+        "position": [
+            829,
+            862
+        ]
+    },
+    {
+        "text": "ceftriaxone 2g/ngày",
+        "type": "THUỐC",
+        "position": [
+            884,
+            903
+        ]
+    }
+]

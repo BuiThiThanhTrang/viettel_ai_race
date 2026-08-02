@@ -1,0 +1,170 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            151,
+            174
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            179,
+            184
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            186,
+            193
+        ]
+    },
+    {
+        "text": "sụt 4kg trong vòng 2 tháng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            195,
+            221
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            229,
+            232
+        ]
+    },
+    {
+        "text": "đại tiện phân đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            240,
+            257
+        ]
+    },
+    {
+        "text": "niêm mạc nhợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            299,
+            312
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            314,
+            335
+        ]
+    },
+    {
+        "text": "khối u",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            351,
+            357
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            403,
+            416
+        ]
+    },
+    {
+        "text": "9.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            421,
+            429
+        ]
+    },
+    {
+        "text": "78 fL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            435,
+            440
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            442,
+            456
+        ]
+    },
+    {
+        "text": "Tổn thương loét sùi lớn tại bờ cong nhỏ, kích thước 3x4cm, bề mặt dễ chảy máu",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            458,
+            535
+        ]
+    },
+    {
+        "text": "Sinh thiết",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            537,
+            547
+        ]
+    },
+    {
+        "text": "Adenocarcinoma dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            549,
+            570
+        ]
+    },
+    {
+        "text": "Siêu âm ổ bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            572,
+            586
+        ]
+    },
+    {
+        "text": "Chưa phát hiện tổn thương thứ phát tại gan",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            588,
+            630
+        ]
+    },
+    {
+        "text": "2 đơn vị khối hồng cầu",
+        "type": "THUỐC",
+        "position": [
+            733,
+            755
+        ]
+    }
+]

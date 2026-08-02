@@ -1,0 +1,242 @@
+[
+    {
+        "text": "run tay chân khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            65,
+            91
+        ]
+    },
+    {
+        "text": "cầm đũa ăn cơm hay bị rơi vãi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            128,
+            157
+        ]
+    },
+    {
+        "text": "chữ viết thì ngày càng nhỏ và nguệch ngoạc",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            159,
+            201
+        ]
+    },
+    {
+        "text": "bệnh Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            263,
+            277
+        ]
+    },
+    {
+        "text": "run tay khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            399,
+            420
+        ]
+    },
+    {
+        "text": "Bệnh Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            474,
+            488
+        ]
+    },
+    {
+        "text": "Run chi tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            594,
+            610
+        ]
+    },
+    {
+        "text": "cứng khớp vận động khó khăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            612,
+            639
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            651,
+            664
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            752,
+            755
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            763,
+            765
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            785,
+            792
+        ]
+    },
+    {
+        "text": "rối loạn ý thức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            819,
+            834
+        ]
+    },
+    {
+        "text": "lú lẫn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            839,
+            845
+        ]
+    },
+    {
+        "text": "đơ cứng cơ gốc chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            904,
+            922
+        ]
+    },
+    {
+        "text": "khuỵu chân khi đi bộ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            933,
+            953
+        ]
+    },
+    {
+        "text": "mất thăng bằng đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            957,
+            980
+        ]
+    },
+    {
+        "text": "bước chân nhỏ lê sát đất",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            982,
+            1006
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1033,
+            1050
+        ]
+    },
+    {
+        "text": "run tĩnh mạch nhịp độ 4-6 Hz ở cả hai tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1059,
+            1100
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1127,
+            1135
+        ]
+    },
+    {
+        "text": "chóng mặt khi thay đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1140,
+            1169
+        ]
+    },
+    {
+        "text": "Hội chứng Parkinson vô căn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1190,
+            1216
+        ]
+    },
+    {
+        "text": "thoái hóa đa hệ thống",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1228,
+            1249
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1275,
+            1300
+        ]
+    },
+    {
+        "text": "Điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1302,
+            1312
+        ]
+    },
+    {
+        "text": "Xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1314,
+            1338
+        ]
+    },
+    {
+        "text": "run không kiểm soát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1505,
+            1524
+        ]
+    },
+    {
+        "text": "rối loạn giấc ngủ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1641,
+            1658
+        ]
+    },
+    {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1660,
+            1667
+        ]
+    }
+]

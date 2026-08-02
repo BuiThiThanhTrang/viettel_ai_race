@@ -1,0 +1,226 @@
+[
+    {
+        "text": "run rẩy ở bàn tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            64
+        ]
+    },
+    {
+        "text": "các ngón tay rung lên không kiểm soát",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            137,
+            174
+        ]
+    },
+    {
+        "text": "xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            303,
+            313
+        ]
+    },
+    {
+        "text": "vitamin",
+        "type": "THUỐC",
+        "position": [
+            354,
+            361
+        ]
+    },
+    {
+        "text": "triệu chứng run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            385,
+            400
+        ]
+    },
+    {
+        "text": "run sinh lý",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            445,
+            456
+        ]
+    },
+    {
+        "text": "run do tâm lý",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            458,
+            471
+        ]
+    },
+    {
+        "text": "rối loạn vận động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            481,
+            498
+        ]
+    },
+    {
+        "text": "run khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            513,
+            530
+        ]
+    },
+    {
+        "text": "bệnh lý thần kinh vận động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            591,
+            617
+        ]
+    },
+    {
+        "text": "run tay tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            689,
+            705
+        ]
+    },
+    {
+        "text": "khó khăn trong cầm nắm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            707,
+            729
+        ]
+    },
+    {
+        "text": "bước đi ngắn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            785,
+            797
+        ]
+    },
+    {
+        "text": "dáng người hơi khom về phía trước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            799,
+            832
+        ]
+    },
+    {
+        "text": "run tăng dần khi đến đích",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            884,
+            909
+        ]
+    },
+    {
+        "text": "tăng cứng dạng bánh răng ở khớp cổ tay hai bên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            927,
+            973
+        ]
+    },
+    {
+        "text": "hội chứng Parkinson nguyên phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1043,
+            1074
+        ]
+    },
+    {
+        "text": "Levodopa/Carbidopa 250mg 1/2 viên mỗi ngày",
+        "type": "THUỐC",
+        "position": [
+            1085,
+            1127
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1151,
+            1180
+        ]
+    },
+    {
+        "text": "đo mật độ xương",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1182,
+            1197
+        ]
+    },
+    {
+        "text": "xét nghiệm công thức máu toàn bộ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1201,
+            1233
+        ]
+    },
+    {
+        "text": "vitamin",
+        "type": "THUỐC",
+        "position": [
+            1262,
+            1269
+        ]
+    },
+    {
+        "text": "kết quả xét nghiệm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1320,
+            1338
+        ]
+    },
+    {
+        "text": "triệu chứng rung tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1348,
+            1368
+        ]
+    },
+    {
+        "text": "cứng đơ cơ thể",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1388,
+            1402
+        ]
+    },
+    {
+        "text": "thay đổi dáng đi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1408,
+            1424
+        ]
+    },
+    {
+        "text": "Bệnh lý về thần kinh vận động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1537,
+            1566
+        ]
+    },
+    {
+        "text": "run",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1695,
+            1698
+        ]
+    }
+]

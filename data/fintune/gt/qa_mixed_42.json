@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            43,
+            57
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            98,
+            106
+        ]
+    },
+    {
+        "text": "nhìn mờ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            110,
+            117
+        ]
+    },
+    {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            206,
+            218
+        ]
+    },
+    {
+        "text": "u não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            226,
+            231
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            307,
+            325
+        ]
+    },
+    {
+        "text": "đau đầu buổi sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            378,
+            395
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            400,
+            408
+        ]
+    },
+    {
+        "text": "Đau đầu dai dẳng vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            650,
+            676
+        ]
+    },
+    {
+        "text": "nôn vọt vào buổi sáng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            678,
+            699
+        ]
+    },
+    {
+        "text": "Huyết áp 160/95 mmHg",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            716,
+            736
+        ]
+    },
+    {
+        "text": "mạch 88 lần/phút",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            738,
+            754
+        ]
+    },
+    {
+        "text": "Phản xạ gân xương chi dưới tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            756,
+            787
+        ]
+    },
+    {
+        "text": "Soi đáy mắt",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            789,
+            800
+        ]
+    },
+    {
+        "text": "gai thị phù nề hai bên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            806,
+            828
+        ]
+    },
+    {
+        "text": "Theo dõi tăng áp lực nội sọ chưa rõ nguyên nhân",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            847,
+            894
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            921,
+            934
+        ]
+    },
+    {
+        "text": "bình thường",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            935,
+            946
+        ]
+    },
+    {
+        "text": "đường huyết lúc đói",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            948,
+            967
+        ]
+    },
+    {
+        "text": "5.8 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            968,
+            978
+        ]
+    },
+    {
+        "text": "chụp MRI não có tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            989,
+            1025
+        ]
+    },
+    {
+        "text": "Mannitol 20% 250ml truyền tĩnh mạch nhanh",
+        "type": "THUỐC",
+        "position": [
+            1042,
+            1083
+        ]
+    },
+    {
+        "text": "Amlodipine 5mg 1 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            1151,
+            1177
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1424,
+            1431
+        ]
+    },
+    {
+        "text": "nhìn mờ kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1441,
+            1456
+        ]
+    },
+    {
+        "text": "chụp cộng hưởng từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1585,
+            1603
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+1.  Tiền sử bệnh nội khoa
+    Các bệnh mãn tính
+    - hen suyễn
+    - rối loạn lo âu
+    - tăng huyết áp (tăng huyết áp)
+    - Táo bón mãn tính 
+    - ngưng thở khi ngủ
+
+2. Bệnh sử hiện tại
+    Lý do nhập viện: nhịp thở nhanh và thiếu oxy
+    Theo lời kể , khoảng 2 tuần trước khi nhập viện bệnh nhân xuất hiện mệt mỏi, ho và chảy nước mũi.Nhiều thành viên trong gia đình có các triệu chứng tương tự. Bệnh nhân đã được bác sĩ gia đình khám vì các triệu chứng nhiễm trùng đường hô hấp trên.
+    - Tại phòng khám, bệnh nhân được ghi nhận có <tên_xet_nghiem>độ bão hòa oxy (SPO2)</tên_xet_nghiem> từ 88-92 % khi thở khí trời và nhịp thở nhanh.
+    - Bệnh nhân được chuyển đến phòng cấp cứu để đánh giá và điều trị thêm.
+    Lúc vào phòng cấp cứu trong tình trạng:
+    - mệt mỏi
+    - ho
+    - chảy nước mũi
+    - nhịp thở nhanh
+    - Thiếu oxy
+    - đau
+    Kết quả xét nghiệm
+    - <tên_xet_nghiem>bạch cầu</tên_xet_nghiem> 26.7
+    - <tên_xet_nghiem>bnp</tên_xet_nghiem> 4227
+    - <tên_xet_nghiem>kali</tên_xet_nghiem> 3.2
+    - <tên_xet_nghiem>troponin</tên_xet_nghiem> 0.01
+    - <tên_xet_nghiem>lactate</tên_xet_nghiem> 1.8
+    - <tên_xet_nghiem>tổng phân tích nước tiểu</tên_xet_nghiem> có kết quả dương tính  với 182bạch cầuvài vi khuẩn (vi khuẩn), nitrite
+    Kết quả chẩn đoán hình ảnh
+    - chẩn đoán hình ảnh không cho thấy quá trình bệnh lý tim mạch hoặc hô hấp cấp tính 
+    - <tên_xet_nghiem>chụp x-quang ngực</tên_xet_nghiem> phù hợp với viêm phổi kẽ.
+Đã xử trí thuốc và thủ thuật
+    - Khí dung phối hợp Albuterol và Ipratropium 1 lần
+    - Ceftriaxone 1 gram dùng 1 liều
+    - Uống Tylenol 1 gram, 1 liều duy nhất.
+    - <tên_xet_nghiem>cấy máu</tên_xet_nghiem> 2 mẫu và <tên_xet_nghiem>cấy nước tiểu</tên_xet_nghiem> đã được gửi.

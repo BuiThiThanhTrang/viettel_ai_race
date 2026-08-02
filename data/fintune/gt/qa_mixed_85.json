@@ -1,0 +1,210 @@
+[
+    {
+        "text": "run rẩy ở tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            47,
+            60
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            312,
+            321
+        ]
+    },
+    {
+        "text": "rối loạn vận động",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            330,
+            347
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            480,
+            487
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            631,
+            640
+        ]
+    },
+    {
+        "text": "rối loạn thoái hóa thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            648,
+            676
+        ]
+    },
+    {
+        "text": "cứng cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            728,
+            735
+        ]
+    },
+    {
+        "text": "chậm chạp trong cử động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            737,
+            760
+        ]
+    },
+    {
+        "text": "Đánh trống ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            896,
+            911
+        ]
+    },
+    {
+        "text": "tăng huyết áp kịch phát",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            920,
+            943
+        ]
+    },
+    {
+        "text": "180/110 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            945,
+            957
+        ]
+    },
+    {
+        "text": "Nhịp tim nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            975,
+            989
+        ]
+    },
+    {
+        "text": "vã mồ hôi nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1002,
+            1017
+        ]
+    },
+    {
+        "text": "u tủy thượng thận",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1039,
+            1056
+        ]
+    },
+    {
+        "text": "Định lượng Metanephrin niệu 24 giờ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1083,
+            1117
+        ]
+    },
+    {
+        "text": "tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1118,
+            1126
+        ]
+    },
+    {
+        "text": "Phenoxybenzamine 10mg",
+        "type": "THUỐC",
+        "position": [
+            1207,
+            1228
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1381,
+            1388
+        ]
+    },
+    {
+        "text": "run vô căn (Essential Tremor)",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1462,
+            1491
+        ]
+    },
+    {
+        "text": "run khi cử động hoặc duy trì tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1511,
+            1546
+        ]
+    },
+    {
+        "text": "run khi nghỉ ngơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1577,
+            1594
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1604,
+            1613
+        ]
+    },
+    {
+        "text": "điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1690,
+            1700
+        ]
+    },
+    {
+        "text": "chức năng tuyến giáp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1715,
+            1735
+        ]
+    },
+    {
+        "text": "yếu cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1779,
+            1785
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1791,
+            1796
+        ]
+    }
+]

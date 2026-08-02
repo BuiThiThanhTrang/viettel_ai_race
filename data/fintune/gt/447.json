@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "hoa mắt chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            87
+        ]
+    },
+    {
+        "text": "cắt lớp vi tính não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            352,
+            371
+        ]
+    },
+    {
+        "text": "đau đầu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            494,
+            501
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            506,
+            515
+        ]
+    },
+    {
+        "text": "thiếu máu não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            565,
+            578
+        ]
+    },
+    {
+        "text": "huyết áp không ổn định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            580,
+            602
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            608,
+            626
+        ]
+    },
+    {
+        "text": "Đau đầu vùng chẩm",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            718,
+            735
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn khi thay đổi tư thế",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            737,
+            776
+        ]
+    },
+    {
+        "text": "yếu liệt chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            839,
+            851
+        ]
+    },
+    {
+        "text": "rối loạn cảm giác nông sâu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            862,
+            888
+        ]
+    },
+    {
+        "text": "Tăng huyết áp độ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            952,
+            970
+        ]
+    },
+    {
+        "text": "Amlodipin",
+        "type": "THUỐC",
+        "position": [
+            998,
+            1007
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1033,
+            1041
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1049,
+            1056
+        ]
+    },
+    {
+        "text": "ho khan",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1064,
+            1071
+        ]
+    },
+    {
+        "text": "sốt về chiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1076,
+            1088
+        ]
+    },
+    {
+        "text": "yếu sức nửa người bên trái xuất hiện đột ngột",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1200,
+            1245
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1247,
+            1261
+        ]
+    },
+    {
+        "text": "Rối loạn tuần hoàn não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1325,
+            1358
+        ]
+    },
+    {
+        "text": "thiếu máu não cục bộ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1370,
+            1390
+        ]
+    },
+    {
+        "text": "Chụp MRI sọ não có tiêm thuốc đối quang từ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1421,
+            1463
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1465,
+            1489
+        ]
+    },
+    {
+        "text": "đo điện tim đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1491,
+            1505
+        ]
+    }
+]

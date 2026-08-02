@@ -1,0 +1,202 @@
+[
+    {
+        "text": "đau nhói ở vùng thắt lưng lan xuống chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            41,
+            86
+        ]
+    },
+    {
+        "text": "đau tăng lên rõ rệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            124,
+            143
+        ]
+    },
+    {
+        "text": "thoát vị đĩa đệm",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            228,
+            244
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            271,
+            274
+        ]
+    },
+    {
+        "text": "đau thắt lưng lan xuống chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            324,
+            352
+        ]
+    },
+    {
+        "text": "Đau thắt lưng lan chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            528,
+            555
+        ]
+    },
+    {
+        "text": "hạn chế biên độ vận động cúi ngửa",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            645,
+            678
+        ]
+    },
+    {
+        "text": "ấn đau gai sau L4-L5",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            680,
+            700
+        ]
+    },
+    {
+        "text": "không yếu liệt cơ hai chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            712,
+            738
+        ]
+    },
+    {
+        "text": "không teo cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            740,
+            752
+        ]
+    },
+    {
+        "text": "phản xạ gân xương bình thường và cân đối",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            758,
+            798
+        ]
+    },
+    {
+        "text": "không sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            819
+        ]
+    },
+    {
+        "text": "không sụt cân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            821,
+            834
+        ]
+    },
+    {
+        "text": "rối loạn đại tiểu tiện",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            853,
+            875
+        ]
+    },
+    {
+        "text": "khuỵu chân bên phải khi đi bộ được khoảng một trăm mét",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            939,
+            993
+        ]
+    },
+    {
+        "text": "yếu sức chân phải đột ngột xuất hiện lúc chiều tối",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1020,
+            1070
+        ]
+    },
+    {
+        "text": "bước đi lết kéo lê chân trên sàn nhà",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1072,
+            1108
+        ]
+    },
+    {
+        "text": "mất thăng bằng ngã sang phải khi xoay người nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1112,
+            1161
+        ]
+    },
+    {
+        "text": "Hội chứng rễ thần kinh thắt lưng do thoát vị đĩa đệm L4-L5",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1182,
+            1240
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ MRI cột sống thắt lưng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1266,
+            1307
+        ]
+    },
+    {
+        "text": "đo điện cơ đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1309,
+            1322
+        ]
+    },
+    {
+        "text": "Celecoxib 200mg",
+        "type": "THUỐC",
+        "position": [
+            1340,
+            1355
+        ]
+    },
+    {
+        "text": "Tolperison 50mg",
+        "type": "THUỐC",
+        "position": [
+            1357,
+            1372
+        ]
+    },
+    {
+        "text": "Methylcobalamin",
+        "type": "THUỐC",
+        "position": [
+            1374,
+            1389
+        ]
+    },
+    {
+        "text": "MRI",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1432,
+            1435
+        ]
+    }
+]

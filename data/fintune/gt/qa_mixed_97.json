@@ -1,0 +1,218 @@
+[
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            93,
+            100
+        ]
+    },
+    {
+        "text": "uống rất nhiều nước",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            147,
+            166
+        ]
+    },
+    {
+        "text": "đi tiểu đêm nhiều lần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            170,
+            191
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            430,
+            443
+        ]
+    },
+    {
+        "text": "Yếu nửa người phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            491,
+            509
+        ]
+    },
+    {
+        "text": "khó nói",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            513,
+            520
+        ]
+    },
+    {
+        "text": "liệt nửa người phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            568,
+            587
+        ]
+    },
+    {
+        "text": "mức độ 3/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            588,
+            598
+        ]
+    },
+    {
+        "text": "méo miệng sang trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            600,
+            619
+        ]
+    },
+    {
+        "text": "phản xạ gân xương chi phải tăng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            621,
+            652
+        ]
+    },
+    {
+        "text": "Nhồi máu não bán cầu trái cấp tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            675,
+            709
+        ]
+    },
+    {
+        "text": "Chụp CT scanner sọ não không tiêm thuốc cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            747,
+            796
+        ]
+    },
+    {
+        "text": "hình ảnh giảm đậm độ vùng phân bố động mạch não giữa bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            806,
+            867
+        ]
+    },
+    {
+        "text": "đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            876,
+            896
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            914,
+            925
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            946,
+            987
+        ]
+    },
+    {
+        "text": "Perindopril 5mg",
+        "type": "THUỐC",
+        "position": [
+            1013,
+            1028
+        ]
+    },
+    {
+        "text": "Insulin nhanh",
+        "type": "THUỐC",
+        "position": [
+            1066,
+            1079
+        ]
+    },
+    {
+        "text": "phù não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1135,
+            1142
+        ]
+    },
+    {
+        "text": "xuất huyết chuyển dạng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1146,
+            1168
+        ]
+    },
+    {
+        "text": "khát nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1232,
+            1242
+        ]
+    },
+    {
+        "text": "tiểu nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1244,
+            1254
+        ]
+    },
+    {
+        "text": "mệt mỏi kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1258,
+            1273
+        ]
+    },
+    {
+        "text": "rối loạn chuyển hóa nội tiết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1310,
+            1338
+        ]
+    },
+    {
+        "text": "đường huyết trong máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1414,
+            1435
+        ]
+    },
+    {
+        "text": "xét nghiệm chỉ số HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1439,
+            1462
+        ]
+    },
+    {
+        "text": "tăng đường huyết",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1512,
+            1528
+        ]
+    }
+]

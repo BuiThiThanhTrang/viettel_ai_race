@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đái tháo đường tuýp 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            84,
+            97
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            125,
+            153
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "đau thắt ngực trái âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            223,
+            246
+        ]
+    },
+    {
+        "text": "vã mồ hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            269,
+            278
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            280,
+            288
+        ]
+    },
+    {
+        "text": "nhịp nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            410,
+            420
+        ]
+    },
+    {
+        "text": "Điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            492,
+            503
+        ]
+    },
+    {
+        "text": "ST chênh lên ở các chuyển đạo V2-V6",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            505,
+            540
+        ]
+    },
+    {
+        "text": "Troponin I",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            562,
+            572
+        ]
+    },
+    {
+        "text": "tăng cao (1500 ng/L)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            573,
+            593
+        ]
+    },
+    {
+        "text": "Siêu âm tim",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            595,
+            606
+        ]
+    },
+    {
+        "text": "Giảm vận động thành trước và vách liên thất",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            608,
+            651
+        ]
+    },
+    {
+        "text": "42%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            677,
+            680
+        ]
+    },
+    {
+        "text": "Nhồi máu cơ tim cấp có ST chênh lên vùng trước rộng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            696,
+            747
+        ]
+    },
+    {
+        "text": "aspirin 325mg",
+        "type": "THUỐC",
+        "position": [
+            771,
+            784
+        ]
+    },
+    {
+        "text": "clopidogrel 300mg",
+        "type": "THUỐC",
+        "position": [
+            791,
+            808
+        ]
+    },
+    {
+        "text": "heparin",
+        "type": "THUỐC",
+        "position": [
+            830,
+            837
+        ]
+    }
+]

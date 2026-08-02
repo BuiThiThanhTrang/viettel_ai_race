@@ -1,0 +1,154 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            94,
+            101
+        ]
+    },
+    {
+        "text": "metformin",
+        "type": "THUỐC",
+        "position": [
+            111,
+            120
+        ]
+    },
+    {
+        "text": "đau âm ỉ vùng thượng vị lan ra sau lưng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            209,
+            248
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            254,
+            262
+        ]
+    },
+    {
+        "text": "chướng bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            266,
+            277
+        ]
+    },
+    {
+        "text": "sỏi túi mật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            287,
+            298
+        ]
+    },
+    {
+        "text": "chướng nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            409,
+            419
+        ]
+    },
+    {
+        "text": "ấn đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            421,
+            442
+        ]
+    },
+    {
+        "text": "dấu hiệu Murphy âm tính",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            444,
+            467
+        ]
+    },
+    {
+        "text": "Amylase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            481,
+            492
+        ]
+    },
+    {
+        "text": "tăng gấp 4 lần giới hạn trên",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            493,
+            521
+        ]
+    },
+    {
+        "text": "Lipase máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            523,
+            533
+        ]
+    },
+    {
+        "text": "tăng cao",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            534,
+            542
+        ]
+    },
+    {
+        "text": "Siêu âm bụng",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            564,
+            576
+        ]
+    },
+    {
+        "text": "hình ảnh tụy phù nề, kích thước tăng nhẹ, không thấy ổ áp xe",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            586,
+            646
+        ]
+    },
+    {
+        "text": "paracetamol 1g truyền tĩnh mạch mỗi 8 giờ",
+        "type": "THUỐC",
+        "position": [
+            735,
+            776
+        ]
+    },
+    {
+        "text": "ceftriaxone 2g tiêm tĩnh mạch chậm mỗi ngày",
+        "type": "THUỐC",
+        "position": [
+            798,
+            841
+        ]
+    },
+    {
+        "text": "chỉ số đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            877,
+            904
+        ]
+    }
+]

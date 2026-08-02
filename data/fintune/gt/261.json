@@ -1,0 +1,146 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            47,
+            68
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            96,
+            124
+        ]
+    },
+    {
+        "text": "đau thượng vị âm ỉ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            190,
+            208
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            213,
+            221
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            247,
+            250
+        ]
+    },
+    {
+        "text": "phân đen sệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            261,
+            273
+        ]
+    },
+    {
+        "text": "đau vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            343,
+            361
+        ]
+    },
+    {
+        "text": "phản ứng thành bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            372,
+            391
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            429,
+            442
+        ]
+    },
+    {
+        "text": "Hb 8.2 g/dL",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            452,
+            463
+        ]
+    },
+    {
+        "text": "Hct 25%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            465,
+            472
+        ]
+    },
+    {
+        "text": "đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            481,
+            501
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            516,
+            527
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            529,
+            543
+        ]
+    },
+    {
+        "text": "Hình ảnh ổ loét lớn ở bờ cong nhỏ dạ dày, kích thước 2cm, đáy phủ giả mạc, có dấu hiệu chảy máu rỉ rả (Forrest IIb)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            545,
+            660
+        ]
+    },
+    {
+        "text": "Xuất huyết tiêu hóa trên do loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            703,
+            742
+        ]
+    },
+    {
+        "text": "Đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            743,
+            764
+        ]
+    },
+    {
+        "text": "ức chế bơm proton (PPI) liều cao",
+        "type": "THUỐC",
+        "position": [
+            808,
+            840
+        ]
+    }
+]

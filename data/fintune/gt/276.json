@@ -1,0 +1,210 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 lần/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            155
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            157,
+            177
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            179,
+            198
+        ]
+    },
+    {
+        "text": "đau nhức và tê bì bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            244,
+            275
+        ]
+    },
+    {
+        "text": "vết loét ở ngón cái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            302,
+            321
+        ]
+    },
+    {
+        "text": "dịch tiết đục",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            323,
+            336
+        ]
+    },
+    {
+        "text": "mùi hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            338,
+            345
+        ]
+    },
+    {
+        "text": "2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            405,
+            410
+        ]
+    },
+    {
+        "text": "hoại tử đen",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            416,
+            427
+        ]
+    },
+    {
+        "text": "sưng nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            440,
+            447
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            449,
+            480
+        ]
+    },
+    {
+        "text": "bắt yếu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            500,
+            507
+        ]
+    },
+    {
+        "text": "Glucose máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            521,
+            532
+        ]
+    },
+    {
+        "text": "14.2 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            533,
+            544
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            546,
+            551
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            552,
+            556
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            558,
+            566
+        ]
+    },
+    {
+        "text": "15.4 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            567,
+            575
+        ]
+    },
+    {
+        "text": "CRP",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            577,
+            580
+        ]
+    },
+    {
+        "text": "85 mg/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            581,
+            588
+        ]
+    },
+    {
+        "text": "X-quang bàn chân trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            610,
+            631
+        ]
+    },
+    {
+        "text": "chưa thấy hình ảnh viêm xương",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            632,
+            661
+        ]
+    },
+    {
+        "text": "insulin",
+        "type": "THUỐC",
+        "position": [
+            685,
+            692
+        ]
+    },
+    {
+        "text": "kháng sinh phổ rộng",
+        "type": "THUỐC",
+        "position": [
+            711,
+            730
+        ]
+    }
+]

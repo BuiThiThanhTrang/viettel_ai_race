@@ -1,0 +1,354 @@
+[
+    {
+        "text": "Bệnh bạch cầu dòng tủy mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            46,
+            77
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            80,
+            93
+        ]
+    },
+    {
+        "text": "Đái tháo đường típ 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            96,
+            116
+        ]
+    },
+    {
+        "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            122,
+            153
+        ]
+    },
+    {
+        "text": "bệnh thận mạn, không đặc hiệu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            156,
+            185
+        ]
+    },
+    {
+        "text": "Khó thở tăng dần",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            222,
+            238
+        ]
+    },
+    {
+        "text": "nghẹt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            334,
+            344
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            349,
+            352
+        ]
+    },
+    {
+        "text": "38,3°C",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            379,
+            385
+        ]
+    },
+    {
+        "text": "nghẹt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            426,
+            436
+        ]
+    },
+    {
+        "text": "khó thở tăng dần, chủ yếu khi gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            495,
+            533
+        ]
+    },
+    {
+        "text": "phù ngoại vi tăng dần trong vài tuần trở lại đây",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            539,
+            587
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            631,
+            634
+        ]
+    },
+    {
+        "text": "đau vai",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            638,
+            645
+        ]
+    },
+    {
+        "text": "suy hô hấp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            691,
+            701
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            706,
+            719
+        ]
+    },
+    {
+        "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            982,
+            1035
+        ]
+    },
+    {
+        "text": "Siêu âm mạch máu chi trên",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1107,
+            1132
+        ]
+    },
+    {
+        "text": "không ghi nhận huyết khối",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1133,
+            1158
+        ]
+    },
+    {
+        "text": "xạ hình thông khí - tưới máu phổi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1160,
+            1193
+        ]
+    },
+    {
+        "text": "xác suất thấp thuyên tắc phổi",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1203,
+            1232
+        ]
+    },
+    {
+        "text": "khò khè",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1373,
+            1380
+        ]
+    },
+    {
+        "text": "ho tăng lên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1384,
+            1395
+        ]
+    },
+    {
+        "text": "albuterol 2 lần",
+        "type": "THUỐC",
+        "position": [
+            1456,
+            1471
+        ]
+    },
+    {
+        "text": "guaifenesin",
+        "type": "THUỐC",
+        "position": [
+            1478,
+            1489
+        ]
+    },
+    {
+        "text": "furosemide 40 mg đường uống",
+        "type": "THUỐC",
+        "position": [
+            1493,
+            1520
+        ]
+    },
+    {
+        "text": "Khó thở tăng dần, chủ yếu khi gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1642,
+            1680
+        ]
+    },
+    {
+        "text": "Nghẹt ngực kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1682,
+            1700
+        ]
+    },
+    {
+        "text": "Ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1702,
+            1704
+        ]
+    },
+    {
+        "text": "Khò khè",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1705,
+            1712
+        ]
+    },
+    {
+        "text": "Phù ngoại vi tăng dần trong vài tuần gần đây",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1713,
+            1757
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1766,
+            1769
+        ]
+    },
+    {
+        "text": "38,3°C",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1770,
+            1776
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1860,
+            1862
+        ]
+    },
+    {
+        "text": "khò khè",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1866,
+            1873
+        ]
+    },
+    {
+        "text": "cảm giác nghẹt ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1967,
+            1986
+        ]
+    },
+    {
+        "text": "khó thở rõ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2039,
+            2049
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2051,
+            2059
+        ]
+    },
+    {
+        "text": "ho nhiều",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            2065,
+            2073
+        ]
+    },
+    {
+        "text": "Nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2105,
+            2158
+        ]
+    },
+    {
+        "text": "Siêu âm mạch máu chi trên",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2190,
+            2215
+        ]
+    },
+    {
+        "text": "không ghi nhận huyết khối",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2216,
+            2241
+        ]
+    },
+    {
+        "text": "Xạ hình thông khí – tưới máu phổi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2243,
+            2276
+        ]
+    },
+    {
+        "text": "xác suất thấp thuyên tắc phổi",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2286,
+            2315
+        ]
+    }
+]

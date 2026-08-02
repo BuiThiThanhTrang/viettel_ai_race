@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đau đầu nhói ở vùng thái dương bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            85
+        ]
+    },
+    {
+        "text": "hoa mắt chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            96,
+            113
+        ]
+    },
+    {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            302,
+            314
+        ]
+    },
+    {
+        "text": "tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            319,
+            328
+        ]
+    },
+    {
+        "text": "rối loạn tiền đình",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            498,
+            516
+        ]
+    },
+    {
+        "text": "thiểu năng tuần hoàn não",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            518,
+            542
+        ]
+    },
+    {
+        "text": "Đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            721,
+            735
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            737,
+            744
+        ]
+    },
+    {
+        "text": "tê bì nửa người trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            746,
+            766
+        ]
+    },
+    {
+        "text": "khó thở",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            879,
+            886
+        ]
+    },
+    {
+        "text": "đau tức ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            891,
+            903
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            954,
+            968
+        ]
+    },
+    {
+        "text": "yếu liệt cơ mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1041,
+            1056
+        ]
+    },
+    {
+        "text": "Thiếu máu não cục bộ thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1082,
+            1113
+        ]
+    },
+    {
+        "text": "Chụp cộng hưởng từ sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1138,
+            1163
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1165,
+            1176
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1178,
+            1202
+        ]
+    },
+    {
+        "text": "thuốc chống kết tập tiểu cầu",
+        "type": "THUỐC",
+        "position": [
+            1226,
+            1254
+        ]
+    },
+    {
+        "text": "tăng tuần hoàn não",
+        "type": "THUỐC",
+        "position": [
+            1258,
+            1276
+        ]
+    },
+    {
+        "text": "tê yếu tay chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1352,
+            1367
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "text": "đau âm ỉ vùng thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            36,
+            59
+        ]
+    },
+    {
+        "text": "đầy bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            125,
+            133
+        ]
+    },
+    {
+        "text": "khó tiêu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            135,
+            143
+        ]
+    },
+    {
+        "text": "ợ hơi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            151,
+            156
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày tá tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            196,
+            221
+        ]
+    },
+    {
+        "text": "viêm loét dạ dày",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            414,
+            430
+        ]
+    },
+    {
+        "text": "nội soi",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            544,
+            551
+        ]
+    },
+    {
+        "text": "xét nghiệm hơi thở",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            557,
+            575
+        ]
+    },
+    {
+        "text": "Đau thượng vị từng đợt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            645,
+            667
+        ]
+    },
+    {
+        "text": "nôn mửa dịch vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            678,
+            693
+        ]
+    },
+    {
+        "text": "ấn đau điểm thượng vị",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            720,
+            741
+        ]
+    },
+    {
+        "text": "Nội soi dạ dày",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            807,
+            821
+        ]
+    },
+    {
+        "text": "thấy ổ loét bờ đều kích thước 1.2cm tại hang vị",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            822,
+            869
+        ]
+    },
+    {
+        "text": "xét nghiệm CLO-test",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            871,
+            890
+        ]
+    },
+    {
+        "text": "dương tính với vi khuẩn Helicobacter Pylori",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            891,
+            934
+        ]
+    },
+    {
+        "text": "Viêm loét dạ dày tá tràng do HP",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            947,
+            978
+        ]
+    },
+    {
+        "text": "Esomeprazole 40mg",
+        "type": "THUỐC",
+        "position": [
+            1014,
+            1031
+        ]
+    },
+    {
+        "text": "Bismuth 120mg",
+        "type": "THUỐC",
+        "position": [
+            1033,
+            1046
+        ]
+    },
+    {
+        "text": "Metronidazole 250mg",
+        "type": "THUỐC",
+        "position": [
+            1048,
+            1067
+        ]
+    },
+    {
+        "text": "Amoxicillin 1g",
+        "type": "THUỐC",
+        "position": [
+            1071,
+            1085
+        ]
+    }
+]

@@ -1,0 +1,234 @@
+[
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            60,
+            67
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            281,
+            290
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            452,
+            459
+        ]
+    },
+    {
+        "text": "lơ mơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            682,
+            687
+        ]
+    },
+    {
+        "text": "cao huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            697,
+            709
+        ]
+    },
+    {
+        "text": "liệt nửa người phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            764,
+            783
+        ]
+    },
+    {
+        "text": "khó nói",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            787,
+            794
+        ]
+    },
+    {
+        "text": "Huyết áp",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            811,
+            819
+        ]
+    },
+    {
+        "text": "180/100 mmHg",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            820,
+            832
+        ]
+    },
+    {
+        "text": "mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            834,
+            838
+        ]
+    },
+    {
+        "text": "95 lần/phút",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            839,
+            850
+        ]
+    },
+    {
+        "text": "dương tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            903,
+            913
+        ]
+    },
+    {
+        "text": "Tai biến mạch máu não do nhồi máu não diện rộng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            932,
+            979
+        ]
+    },
+    {
+        "text": "Alteplase",
+        "type": "THUỐC",
+        "position": [
+            1013,
+            1022
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            1047,
+            1059
+        ]
+    },
+    {
+        "text": "Statin liều cao",
+        "type": "THUỐC",
+        "position": [
+            1063,
+            1078
+        ]
+    },
+    {
+        "text": "Chụp CT scanner sọ não không cản quang",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1105,
+            1143
+        ]
+    },
+    {
+        "text": "thấy vùng giảm tỷ trọng lớn ở thùy trán - thái dương bên trái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1144,
+            1205
+        ]
+    },
+    {
+        "text": "run tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1228,
+            1235
+        ]
+    },
+    {
+        "text": "run khi thực hiện các cử động có mục đích",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1271,
+            1312
+        ]
+    },
+    {
+        "text": "run vô căn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1314,
+            1324
+        ]
+    },
+    {
+        "text": "cứng đờ cơ khớp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1395,
+            1410
+        ]
+    },
+    {
+        "text": "chậm chạp trong vận động",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1412,
+            1436
+        ]
+    },
+    {
+        "text": "dáng đi thay đổi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1438,
+            1454
+        ]
+    },
+    {
+        "text": "nét mặt đờ đẫn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1460,
+            1474
+        ]
+    },
+    {
+        "text": "Parkinson",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1519,
+            1528
+        ]
+    },
+    {
+        "text": "trắc nghiệm chẩn đoán hình ảnh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1617,
+            1647
+        ]
+    },
+    {
+        "text": "MRI não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1652,
+            1659
+        ]
+    },
+    {
+        "text": "thang điểm UPDRS",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1674,
+            1690
+        ]
+    }
+]

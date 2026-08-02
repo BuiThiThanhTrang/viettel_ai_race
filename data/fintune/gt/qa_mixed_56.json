@@ -1,0 +1,210 @@
+[
+    {
+        "text": "tê bì chân tay",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            57,
+            71
+        ]
+    },
+    {
+        "text": "cảm giác như kiến bò dưới da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            91,
+            119
+        ]
+    },
+    {
+        "text": "thiếu canxi",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            164,
+            175
+        ]
+    },
+    {
+        "text": "suy nhược thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            181,
+            200
+        ]
+    },
+    {
+        "text": "Yếu chi dưới tiến triển",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            501,
+            524
+        ]
+    },
+    {
+        "text": "mất phản xạ gân xương",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            534,
+            555
+        ]
+    },
+    {
+        "text": "tê bì tăng dần từ ngọn chi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            557,
+            583
+        ]
+    },
+    {
+        "text": "Cơ lực tay 4/5, chân 3/5",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            656,
+            680
+        ]
+    },
+    {
+        "text": "dấu hiệu liệt mềm ngoại biên",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            685,
+            713
+        ]
+    },
+    {
+        "text": "Gân gối và gân gót hai bên âm tính",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            726,
+            760
+        ]
+    },
+    {
+        "text": "Giảm cảm giác nông dạng hình găng tay và hình tất ở hai bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            774,
+            838
+        ]
+    },
+    {
+        "text": "hội chứng Guillain-Barre thể tối cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            869,
+            905
+        ]
+    },
+    {
+        "text": "Dịch não tủy",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            934,
+            946
+        ]
+    },
+    {
+        "text": "Phân ly đạm - tế bào (tăng đạm, tế bào bình thường)",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            948,
+            999
+        ]
+    },
+    {
+        "text": "Điện cơ (EMG)",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1003,
+            1016
+        ]
+    },
+    {
+        "text": "Giảm dẫn truyền thần kinh vận động",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1018,
+            1052
+        ]
+    },
+    {
+        "text": "Immunoglobulin (IVIG) 0.4g/kg/ngày trong 5 ngày",
+        "type": "THUỐC",
+        "position": [
+            1081,
+            1128
+        ]
+    },
+    {
+        "text": "suy hô hấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1180,
+            1190
+        ]
+    },
+    {
+        "text": "liệt cơ hoành",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1194,
+            1207
+        ]
+    },
+    {
+        "text": "mỏi cơ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1330,
+            1336
+        ]
+    },
+    {
+        "text": "tê bì nhẹ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1340,
+            1349
+        ]
+    },
+    {
+        "text": "mất cảm giác",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1394,
+            1406
+        ]
+    },
+    {
+        "text": "yếu liệt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1412,
+            1420
+        ]
+    },
+    {
+        "text": "đo dẫn truyền thần kinh",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1495,
+            1518
+        ]
+    },
+    {
+        "text": "bệnh lý rễ thần kinh",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1533,
+            1553
+        ]
+    },
+    {
+        "text": "hội chứng ống cổ tay",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            1559,
+            1579
+        ]
+    }
+]

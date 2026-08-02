@@ -1,0 +1,58 @@
+[
+    {
+        "text": "nốt sần tuyến giáp phải có cấu trúc vi nang",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            86,
+            129
+        ]
+    },
+    {
+        "text": "đau vùng hạ sườn phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            156,
+            177
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            220,
+            227
+        ]
+    },
+    {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            237,
+            244
+        ]
+    },
+    {
+        "text": "siêu âm",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            389,
+            396
+        ]
+    },
+    {
+        "text": "sỏi mật",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            406,
+            413
+        ]
+    },
+    {
+        "text": "nốt sần tuyến giáp phải có cấu trúc vi nang",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            460,
+            503
+        ]
+    }
+]

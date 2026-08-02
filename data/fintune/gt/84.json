@@ -1,0 +1,266 @@
+[
+    {
+        "text": "hen suyễn",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            54,
+            63
+        ]
+    },
+    {
+        "text": "rối loạn lo âu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            70,
+            84
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            91,
+            104
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            106,
+            119
+        ]
+    },
+    {
+        "text": "Táo bón mãn tính",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            127,
+            143
+        ]
+    },
+    {
+        "text": "ngưng thở khi ngủ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            151,
+            168
+        ]
+    },
+    {
+        "text": "nhịp thở nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            211,
+            225
+        ]
+    },
+    {
+        "text": "thiếu oxy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            229,
+            238
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            311,
+            318
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            320,
+            322
+        ]
+    },
+    {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            326,
+            339
+        ]
+    },
+    {
+        "text": "nhiễm trùng đường hô hấp trên",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            459,
+            488
+        ]
+    },
+    {
+        "text": "từ 88-92 %",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            594,
+            604
+        ]
+    },
+    {
+        "text": "nhịp thở nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            625,
+            639
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            767,
+            774
+        ]
+    },
+    {
+        "text": "ho",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            781,
+            783
+        ]
+    },
+    {
+        "text": "chảy nước mũi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            790,
+            803
+        ]
+    },
+    {
+        "text": "nhịp thở nhanh",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            810,
+            824
+        ]
+    },
+    {
+        "text": "Thiếu oxy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            831,
+            840
+        ]
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            847,
+            850
+        ]
+    },
+    {
+        "text": "26.7",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            922,
+            926
+        ]
+    },
+    {
+        "text": "4227",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            970,
+            974
+        ]
+    },
+    {
+        "text": "3.2",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1019,
+            1022
+        ]
+    },
+    {
+        "text": "0.01",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1071,
+            1075
+        ]
+    },
+    {
+        "text": "1.8",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1123,
+            1126
+        ]
+    },
+    {
+        "text": "dương tính  với 182bạch cầuvài vi khuẩn (vi khuẩn), nitrite",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1202,
+            1261
+        ]
+    },
+    {
+        "text": "phù hợp với viêm phổi kẽ",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1439,
+            1463
+        ]
+    },
+    {
+        "text": "Albuterol",
+        "type": "THUỐC",
+        "position": [
+            1518,
+            1527
+        ]
+    },
+    {
+        "text": "Ipratropium",
+        "type": "THUỐC",
+        "position": [
+            1531,
+            1542
+        ]
+    },
+    {
+        "text": "1 lần",
+        "type": "THUỐC",
+        "position": [
+            1543,
+            1548
+        ]
+    },
+    {
+        "text": "Ceftriaxone 1 gram dùng 1 liều",
+        "type": "THUỐC",
+        "position": [
+            1555,
+            1585
+        ]
+    },
+    {
+        "text": "Tylenol 1 gram",
+        "type": "THUỐC",
+        "position": [
+            1597,
+            1611
+        ]
+    },
+    {
+        "text": "1 liều duy nhất",
+        "type": "THUỐC",
+        "position": [
+            1613,
+            1628
+        ]
+    }
+]

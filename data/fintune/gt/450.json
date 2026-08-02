@@ -1,0 +1,130 @@
+[
+    {
+        "text": "đau đầu dữ dội",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            46,
+            60
+        ]
+    },
+    {
+        "text": "hoa mắt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            70,
+            77
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            79,
+            88
+        ]
+    },
+    {
+        "text": "chóng mặt xoay tròn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            323,
+            342
+        ]
+    },
+    {
+        "text": "mất thăng bằng nghiêm trọng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            346,
+            373
+        ]
+    },
+    {
+        "text": "Tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            389,
+            402
+        ]
+    },
+    {
+        "text": "yếu sức chân phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            640,
+            657
+        ]
+    },
+    {
+        "text": "cảm giác yếu sức nửa người bên phải",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            662,
+            697
+        ]
+    },
+    {
+        "text": "mất thăng bằng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            699,
+            713
+        ]
+    },
+    {
+        "text": "tai biến mạch máu não thoáng qua",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            816,
+            848
+        ]
+    },
+    {
+        "text": "Rối loạn tiền đình cấp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            851,
+            873
+        ]
+    },
+    {
+        "text": "Chụp cắt lớp vi tính sọ não",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            898,
+            925
+        ]
+    },
+    {
+        "text": "điện tâm đồ",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            927,
+            938
+        ]
+    },
+    {
+        "text": "xét nghiệm máu tổng quát",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            940,
+            964
+        ]
+    },
+    {
+        "text": "Betahistin 24mg",
+        "type": "THUỐC",
+        "position": [
+            980,
+            995
+        ]
+    },
+    {
+        "text": "Aspirin 81mg",
+        "type": "THUỐC",
+        "position": [
+            997,
+            1009
+        ]
+    }
+]

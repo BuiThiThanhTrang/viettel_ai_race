@@ -1,0 +1,226 @@
+[
+    {
+        "text": "đái tháo đường type 2",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            48,
+            69
+        ]
+    },
+    {
+        "text": "tăng huyết áp",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            85,
+            98
+        ]
+    },
+    {
+        "text": "metformin 850mg x 2 viên/ngày",
+        "type": "THUỐC",
+        "position": [
+            127,
+            156
+        ]
+    },
+    {
+        "text": "gliclazide 30mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            158,
+            178
+        ]
+    },
+    {
+        "text": "amlodipine 5mg/ngày",
+        "type": "THUỐC",
+        "position": [
+            180,
+            199
+        ]
+    },
+    {
+        "text": "đau nhức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            236,
+            244
+        ]
+    },
+    {
+        "text": "tê bì",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            246,
+            251
+        ]
+    },
+    {
+        "text": "loét ngón cái bàn chân trái",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            255,
+            282
+        ]
+    },
+    {
+        "text": "chảy dịch hôi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            304,
+            317
+        ]
+    },
+    {
+        "text": "kích thước 2x3cm",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            401,
+            417
+        ]
+    },
+    {
+        "text": "phủ giả mạc",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            423,
+            434
+        ]
+    },
+    {
+        "text": "chảy dịch mủ vàng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            436,
+            453
+        ]
+    },
+    {
+        "text": "da đỏ nề",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            466,
+            474
+        ]
+    },
+    {
+        "text": "mất cảm giác nông vùng bàn chân",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            476,
+            507
+        ]
+    },
+    {
+        "text": "Đường huyết mao mạch",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            561,
+            581
+        ]
+    },
+    {
+        "text": "18.5 mmol/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            583,
+            594
+        ]
+    },
+    {
+        "text": "HbA1c",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            596,
+            601
+        ]
+    },
+    {
+        "text": "9.8%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            603,
+            607
+        ]
+    },
+    {
+        "text": "Công thức máu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            609,
+            622
+        ]
+    },
+    {
+        "text": "Bạch cầu",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            624,
+            632
+        ]
+    },
+    {
+        "text": "14.5 G/L",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            633,
+            641
+        ]
+    },
+    {
+        "text": "Neutrophil",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            643,
+            653
+        ]
+    },
+    {
+        "text": "82%",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            654,
+            657
+        ]
+    },
+    {
+        "text": "X-quang bàn chân trái",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            659,
+            680
+        ]
+    },
+    {
+        "text": "Hình ảnh tiêu xương đốt xa ngón cái",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            682,
+            717
+        ]
+    },
+    {
+        "text": "viêm xương tủy",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            728,
+            742
+        ]
+    },
+    {
+        "text": "Nhiễm trùng bàn chân đái tháo đường độ 3 theo phân loại Wagner",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            758,
+            820
+        ]
+    },
+    {
+        "text": "viêm xương tủy ngón cái trái",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            831,
+            859
+        ]
+    }
+]

@@ -1,0 +1,466 @@
+[
+    {
+        "text": "Ung thư biểu mô tuyến đại tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            39,
+            70
+        ]
+    },
+    {
+        "text": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            73,
+            117
+        ]
+    },
+    {
+        "text": "Đái tháo đường",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            120,
+            134
+        ]
+    },
+    {
+        "text": "xơ gan do rượu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            137,
+            151
+        ]
+    },
+    {
+        "text": "ung thư tuyến đại tràng",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            283,
+            306
+        ]
+    },
+    {
+        "text": "xơ gan do rượu",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            337,
+            351
+        ]
+    },
+    {
+        "text": "tụt huyết áp",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            390,
+            402
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            427,
+            434
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            477,
+            484
+        ]
+    },
+    {
+        "text": "Viêm phổi bệnh viện",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            557,
+            576
+        ]
+    },
+    {
+        "text": "rung nhĩ",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            580,
+            588
+        ]
+    },
+    {
+        "text": "nhịp nhanh trên thất",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            592,
+            612
+        ]
+    },
+    {
+        "text": "mệt mỏi kéo dài",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            826,
+            841
+        ]
+    },
+    {
+        "text": "khó khăn khi ra khỏi giường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            867,
+            894
+        ]
+    },
+    {
+        "text": "đau bụng gián đoạn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            927,
+            945
+        ]
+    },
+    {
+        "text": "hạ huyết áp, không đặc hiệu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            991,
+            1018
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1021,
+            1028
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1031,
+            1038
+        ]
+    },
+    {
+        "text": "khó khăn khi ra khỏi giường",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1041,
+            1068
+        ]
+    },
+    {
+        "text": "đau bụng gián đoạn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1071,
+            1089
+        ]
+    },
+    {
+        "text": "khó thở khi gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1092,
+            1112
+        ]
+    },
+    {
+        "text": "ho mạn tính có đờm vàng loãng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1115,
+            1144
+        ]
+    },
+    {
+        "text": "chán ăn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1147,
+            1154
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1222,
+            1230
+        ]
+    },
+    {
+        "text": "buồn nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1232,
+            1240
+        ]
+    },
+    {
+        "text": "nôn",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1242,
+            1245
+        ]
+    },
+    {
+        "text": "tiêu chảy",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1247,
+            1256
+        ]
+    },
+    {
+        "text": "táo bón",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1263,
+            1270
+        ]
+    },
+    {
+        "text": "sốt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1321,
+            1324
+        ]
+    },
+    {
+        "text": "đau ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1326,
+            1334
+        ]
+    },
+    {
+        "text": "chóng mặt",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1336,
+            1345
+        ]
+    },
+    {
+        "text": "đánh trống ngực",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1347,
+            1362
+        ]
+    },
+    {
+        "text": "đau bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1375,
+            1383
+        ]
+    },
+    {
+        "text": "dịch từ vết mổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1389,
+            1403
+        ]
+    },
+    {
+        "text": "đỏ da",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1416,
+            1421
+        ]
+    },
+    {
+        "text": "bục chỉ khâu bụng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1428,
+            1445
+        ]
+    },
+    {
+        "text": "ran nổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1507,
+            1513
+        ]
+    },
+    {
+        "text": "phù",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1515,
+            1518
+        ]
+    },
+    {
+        "text": "dịch rỉ huyết thanh từ vết mổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1520,
+            1549
+        ]
+    },
+    {
+        "text": "phân nâu dương tính guaiac",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1554,
+            1580
+        ]
+    },
+    {
+        "text": "hạ huyết áp, không đặc hiệu",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1728,
+            1755
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1758,
+            1765
+        ]
+    },
+    {
+        "text": "mệt mỏi",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1768,
+            1775
+        ]
+    },
+    {
+        "text": "khó thở khi gắng sức",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1778,
+            1798
+        ]
+    },
+    {
+        "text": "ho mạn tính có đờm vàng loãng",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1801,
+            1830
+        ]
+    },
+    {
+        "text": "ran",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1833,
+            1836
+        ]
+    },
+    {
+        "text": "phù",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1839,
+            1842
+        ]
+    },
+    {
+        "text": "dịch thanh dịch lẫn máu từ vết mổ",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1845,
+            1878
+        ]
+    },
+    {
+        "text": "phân nâu dương tính guaiac",
+        "type": "TRIỆU_CHỨNG",
+        "position": [
+            1881,
+            1907
+        ]
+    },
+    {
+        "text": "huyết khối",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            1928,
+            1938
+        ]
+    },
+    {
+        "text": "26.3",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1939,
+            1943
+        ]
+    },
+    {
+        "text": "28",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            1986,
+            1988
+        ]
+    },
+    {
+        "text": "chụp x-quang ngực",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2038,
+            2055
+        ]
+    },
+    {
+        "text": "xẹp phổi thùy dưới phải do chèn ép kèm tràn dịch màng phổi",
+        "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+        "position": [
+            2059,
+            2117
+        ]
+    },
+    {
+        "text": "Truyền dịch tĩnh mạch 750cc",
+        "type": "THUỐC",
+        "position": [
+            2148,
+            2175
+        ]
+    },
+    {
+        "text": "Xông khí dung",
+        "type": "TÊN_XÉT_NGHIỆM",
+        "position": [
+            2178,
+            2191
+        ]
+    },
+    {
+        "text": "Viêm phổi bệnh viện",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2223,
+            2242
+        ]
+    },
+    {
+        "text": "Rung nhĩ kèm nhịp nhanh trên thất",
+        "type": "CHẨN_ĐOÁN",
+        "position": [
+            2245,
+            2278
+        ]
+    }
+]
